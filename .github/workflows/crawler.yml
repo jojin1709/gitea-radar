@@ -1,0 +1,74 @@
+name: Gitea Radar Automated Data Crawler
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: 'Force crawler execution regardless of schedule'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: gitea-radar-crawler
+  cancel-in-progress: true
+
+jobs:
+  crawl-and-update:
+    name: Crawl Ecosystem & Update Datasets
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Test Suite
+        run: npm test
+
+      - name: Run Gitea Radar Crawler
+        env:
+          GITEA_API_URL: ${{ secrets.GITEA_API_URL || 'https://gitea.com' }}
+          GITEA_TOKEN: ${{ secrets.GITEA_TOKEN }}
+          CRAWLER_CONCURRENCY: 3
+          CRAWLER_PAGE_DELAY_MS: 300
+        run: npm run crawler
+
+      - name: Validate Dataset Schema & Constraints
+        run: npm run validate-data
+
+      - name: Check for Dataset Changes
+        id: git-diff
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No data changes detected. Skipping commit to avoid unnecessary deployment."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Dataset updates detected in data/."
+          fi
+
+      - name: Commit and Push Updated Data
+        if: steps.git-diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Gitea Radar Bot"
+          git add data/
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "chore(data): auto-update Gitea radar datasets [$TIMESTAMP] [skip ci]"
+          git push

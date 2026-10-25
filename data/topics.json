@@ -1,0 +1,3876 @@
+[
+  {
+    "name": "golang",
+    "count": 18,
+    "totalStars": 529,
+    "topRepositories": [
+      "xorm/xorm",
+      "goftp/server",
+      "lunny/tango",
+      "jonasfranz/staletea",
+      "goftp/ftpd"
+    ]
+  },
+  {
+    "name": "gitea",
+    "count": 16,
+    "totalStars": 662,
+    "topRepositories": [
+      "gitea/tea",
+      "gitea/gitea-mcp",
+      "gitea/helm-gitea",
+      "gitea/go-sdk",
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "fivem",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-aimbot",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-bypass-ban",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-cheat",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-cheat-cracked",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-cheat-free",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-hack",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-hack-source-code",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-hacking",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-hwid-spoofer",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-lua",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-lua-executor",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-mod-menu",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-script",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-scripts",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "fivem-spoofer",
+    "count": 8,
+    "totalStars": 9,
+    "topRepositories": [
+      "VernonG/FiveM-External-Cheat",
+      "jayray/EulenCheats-FiveM",
+      "fainted09/FiveM-Mod-Menu",
+      "HellFire/EulenCheats-FiveM",
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "go",
+    "count": 7,
+    "totalStars": 20,
+    "topRepositories": [
+      "gitea/gitea-vet",
+      "jolheiser/sip",
+      "xuri/excelize",
+      "dadidang/zinc",
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "security",
+    "count": 7,
+    "totalStars": 5,
+    "topRepositories": [
+      "thisago/safeWriting",
+      "palmcoasty/bunkerweb",
+      "portellam2/lockdown.sh",
+      "ab-smith/ciso-assistant-community",
+      "DUR/firewarden"
+    ]
+  },
+  {
+    "name": "hypixel",
+    "count": 6,
+    "totalStars": 116,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "minecraft-mod",
+    "count": 6,
+    "totalStars": 116,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "qol-client",
+    "count": 6,
+    "totalStars": 116,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "skyblock",
+    "count": 6,
+    "totalStars": 116,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "api",
+    "count": 5,
+    "totalStars": 67,
+    "topRepositories": [
+      "gitea/go-sdk",
+      "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
+      "mmattklaus/go-jwt-demo",
+      "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "privacy",
+    "count": 5,
+    "totalStars": 39,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "thisago/safeWriting",
+      "ab-smith/ciso-assistant-community",
+      "rammiah/caddy",
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "cybersecurity",
+    "count": 5,
+    "totalStars": 3,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools",
+      "palmcoasty/bunkerweb",
+      "ab-smith/ciso-assistant-community",
+      "byt3n33dl3/gxc-BloodHuntr",
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "server",
+    "count": 4,
+    "totalStars": 51,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "docker",
+    "count": 4,
+    "totalStars": 39,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/phaemos",
+      "Griefed/ServerPackCreator",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "javascript",
+    "count": 4,
+    "totalStars": 6,
+    "topRepositories": [
+      "cereci5049/Shoppers",
+      "thisago/safeWriting",
+      "caiqing/juice-shop",
+      "thisago/gm_api"
+    ]
+  },
+  {
+    "name": "cli",
+    "count": 3,
+    "totalStars": 274,
+    "topRepositories": [
+      "gitea/tea",
+      "jolheiser/sip",
+      "DUR/firewarden"
+    ]
+  },
+  {
+    "name": "git",
+    "count": 3,
+    "totalStars": 145,
+    "topRepositories": [
+      "gitea/gitea-mcp",
+      "gitnex/GitNex",
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "kubernetes",
+    "count": 3,
+    "totalStars": 100,
+    "topRepositories": [
+      "gitea/helm-gitea",
+      "gitea/helm-actions",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "full-version",
+    "count": 3,
+    "totalStars": 49,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter",
+      "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "supporter-unlocked",
+    "count": 3,
+    "totalStars": 49,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client-Supporter",
+      "Pizza-Client/Pizza-Client-Supporter",
+      "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "python",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "eulen",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "jayray/EulenCheats-FiveM",
+      "HellFire/EulenCheats-FiveM",
+      "EvaMind/EulenCheats-FiveM"
+    ]
+  },
+  {
+    "name": "eulen-menu",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "jayray/EulenCheats-FiveM",
+      "HellFire/EulenCheats-FiveM",
+      "EvaMind/EulenCheats-FiveM"
+    ]
+  },
+  {
+    "name": "eulen-mod-menu",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "jayray/EulenCheats-FiveM",
+      "HellFire/EulenCheats-FiveM",
+      "EvaMind/EulenCheats-FiveM"
+    ]
+  },
+  {
+    "name": "eulen-spoofer",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "jayray/EulenCheats-FiveM",
+      "HellFire/EulenCheats-FiveM",
+      "EvaMind/EulenCheats-FiveM"
+    ]
+  },
+  {
+    "name": "eulencheats",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "jayray/EulenCheats-FiveM",
+      "HellFire/EulenCheats-FiveM",
+      "EvaMind/EulenCheats-FiveM"
+    ]
+  },
+  {
+    "name": "hacktoberfest",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "rammiah/caddy",
+      "caiqing/juice-shop",
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "mysql",
+    "count": 2,
+    "totalStars": 409,
+    "topRepositories": [
+      "xorm/xorm",
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "postgresql",
+    "count": 2,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "gitea-actions",
+    "count": 2,
+    "totalStars": 259,
+    "topRepositories": [
+      "gitea/runner",
+      "actions/release-action"
+    ]
+  },
+  {
+    "name": "mcp",
+    "count": 2,
+    "totalStars": 90,
+    "topRepositories": [
+      "gitea/gitea-mcp",
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "sdk",
+    "count": 2,
+    "totalStars": 62,
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js"
+    ]
+  },
+  {
+    "name": "rest",
+    "count": 2,
+    "totalStars": 62,
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js"
+    ]
+  },
+  {
+    "name": "oringo-client",
+    "count": 2,
+    "totalStars": 45,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client",
+      "Oringo-Client/Oringo-Client-Supporter"
+    ]
+  },
+  {
+    "name": "library",
+    "count": 2,
+    "totalStars": 42,
+    "topRepositories": [
+      "goftp/server",
+      "lunny/levelqueue"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 38,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "nodejs",
+    "count": 2,
+    "totalStars": 38,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "react",
+    "count": 2,
+    "totalStars": 37,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "pizza-client",
+    "count": 2,
+    "totalStars": 37,
+    "topRepositories": [
+      "Pizza-Client/Pizza-Client",
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "hugo",
+    "count": 2,
+    "totalStars": 30,
+    "topRepositories": [
+      "gitea/website",
+      "gitea/theme"
+    ]
+  },
+  {
+    "name": "selfhosting",
+    "count": 2,
+    "totalStars": 12,
+    "topRepositories": [
+      "6543/pages-server",
+      "WebPlay/client"
+    ]
+  },
+  {
+    "name": "games",
+    "count": 2,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "unblocked-games",
+    "count": 2,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "nim",
+    "count": 2,
+    "totalStars": 5,
+    "topRepositories": [
+      "cereci5049/Shoppers",
+      "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "webplay",
+    "count": 2,
+    "totalStars": 5,
+    "topRepositories": [
+      "WebPlay/client",
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "multimedia",
+    "count": 2,
+    "totalStars": 5,
+    "topRepositories": [
+      "WebPlay/client",
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "vuejs",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "WebPlay/client",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "elasticsearch",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "search",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "chatgpt",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt-4",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "openai",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "github",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "zaccesss/git-unlocked",
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "minecraft",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "trust-wallet",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool",
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "automation",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "solidjs",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "galaxy-future/alist",
+      "sbwml/alist"
+    ]
+  },
+  {
+    "name": "webdav",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "galaxy-future/alist",
+      "sbwml/alist"
+    ]
+  },
+  {
+    "name": "gin",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "galaxy-future/alist",
+      "sbwml/alist"
+    ]
+  },
+  {
+    "name": "onedrive",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "galaxy-future/alist",
+      "sbwml/alist"
+    ]
+  },
+  {
+    "name": "file-server",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "galaxy-future/alist",
+      "sbwml/alist"
+    ]
+  },
+  {
+    "name": "nginx",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "wower/hestiamb",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "discord",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "web-server",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb",
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "reverse-engineering",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free",
+      "Therealgman/pokeemerald"
+    ]
+  },
+  {
+    "name": "reverse-proxy",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "owasp",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community",
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "nextjs",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos",
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "unblocker",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "bensams/671"
+    ]
+  },
+  {
+    "name": "mssql",
+    "count": 1,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "tidb",
+    "count": 1,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "orm",
+    "count": 1,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "sqlite",
+    "count": 1,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "postgres",
+    "count": 1,
+    "totalStars": 408,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "github-actions",
+    "count": 1,
+    "totalStars": 250,
+    "topRepositories": [
+      "gitea/runner"
+    ]
+  },
+  {
+    "name": "runner",
+    "count": 1,
+    "totalStars": 250,
+    "topRepositories": [
+      "gitea/runner"
+    ]
+  },
+  {
+    "name": "helm-charts",
+    "count": 1,
+    "totalStars": 84,
+    "topRepositories": [
+      "gitea/helm-gitea"
+    ]
+  },
+  {
+    "name": "android",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "gitnex",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "fdroid",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "application",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "google-playstore",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
+    ]
+  },
+  {
+    "name": "ftp",
+    "count": 1,
+    "totalStars": 38,
+    "topRepositories": [
+      "goftp/server"
+    ]
+  },
+  {
+    "name": "winapi",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "keyboard-layout",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "c-sharp",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "snippets",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "auto-update",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "keyboard-leds",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "tooltip",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "auto-switching",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "hooks",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "shift-pause",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "dot-net",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "pause",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "chocolatey",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "mahou-wiki",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "caps-lock",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "layout-switcher",
+    "count": 1,
+    "totalStars": 37,
+    "topRepositories": [
+      "BladeMight/Mahou"
+    ]
+  },
+  {
+    "name": "agpl",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "fitness",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "gym",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "passkey",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "pwa",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "self-hosted",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "webauthn",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "workout-tracker",
+    "count": 1,
+    "totalStars": 36,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "pizza-client-src",
+    "count": 1,
+    "totalStars": 20,
+    "topRepositories": [
+      "Pizza-Client/Pizza-Client"
+    ]
+  },
+  {
+    "name": "cheeto-client",
+    "count": 1,
+    "totalStars": 20,
+    "topRepositories": [
+      "Cheeto-Client/Cheeto-Client"
+    ]
+  },
+  {
+    "name": "cheeto-client-src",
+    "count": 1,
+    "totalStars": 20,
+    "topRepositories": [
+      "Cheeto-Client/Cheeto-Client"
+    ]
+  },
+  {
+    "name": "oringo-client-supporter",
+    "count": 1,
+    "totalStars": 18,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client-Supporter"
+    ]
+  },
+  {
+    "name": "oringo-client-supporter-src",
+    "count": 1,
+    "totalStars": 18,
+    "topRepositories": [
+      "Oringo-Client/Oringo-Client-Supporter"
+    ]
+  },
+  {
+    "name": "pizza-client-supporter",
+    "count": 1,
+    "totalStars": 17,
+    "topRepositories": [
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "pizza-client-supporter-src",
+    "count": 1,
+    "totalStars": 17,
+    "topRepositories": [
+      "Pizza-Client/Pizza-Client-Supporter"
+    ]
+  },
+  {
+    "name": "webframework",
+    "count": 1,
+    "totalStars": 16,
+    "topRepositories": [
+      "lunny/tango"
+    ]
+  },
+  {
+    "name": "modular",
+    "count": 1,
+    "totalStars": 16,
+    "topRepositories": [
+      "lunny/tango"
+    ]
+  },
+  {
+    "name": "helm",
+    "count": 1,
+    "totalStars": 15,
+    "topRepositories": [
+      "gitea/helm-actions"
+    ]
+  },
+  {
+    "name": "helm-chart",
+    "count": 1,
+    "totalStars": 15,
+    "topRepositories": [
+      "gitea/helm-actions"
+    ]
+  },
+  {
+    "name": "theme",
+    "count": 1,
+    "totalStars": 15,
+    "topRepositories": [
+      "gitea/theme"
+    ]
+  },
+  {
+    "name": "funnymap",
+    "count": 1,
+    "totalStars": 14,
+    "topRepositories": [
+      "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "funnymap-extras",
+    "count": 1,
+    "totalStars": 14,
+    "topRepositories": [
+      "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "funnymap-extras-src",
+    "count": 1,
+    "totalStars": 14,
+    "topRepositories": [
+      "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "bot",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "jonasfranz/staletea"
+    ]
+  },
+  {
+    "name": "docker-compose",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel"
+    ]
+  },
+  {
+    "name": "shell",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel"
+    ]
+  },
+  {
+    "name": "ftpd",
+    "count": 1,
+    "totalStars": 10,
+    "topRepositories": [
+      "goftp/ftpd"
+    ]
+  },
+  {
+    "name": "selfhost",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
+    ]
+  },
+  {
+    "name": "github-pages",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
+    ]
+  },
+  {
+    "name": "federation",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "xy/gitea"
+    ]
+  },
+  {
+    "name": "forgefed",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "xy/gitea"
+    ]
+  },
+  {
+    "name": "activitypub",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "xy/gitea"
+    ]
+  },
+  {
+    "name": "actions",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "actions/release-action"
+    ]
+  },
+  {
+    "name": "release",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "actions/release-action"
+    ]
+  },
+  {
+    "name": "gitea-release",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "actions/release-action"
+    ]
+  },
+  {
+    "name": "vet",
+    "count": 1,
+    "totalStars": 7,
+    "topRepositories": [
+      "gitea/gitea-vet"
+    ]
+  },
+  {
+    "name": "html",
+    "count": 1,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb"
+    ]
+  },
+  {
+    "name": "html5-games",
+    "count": 1,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb"
+    ]
+  },
+  {
+    "name": "slides",
+    "count": 1,
+    "totalStars": 5,
+    "topRepositories": [
+      "lunny/slides"
+    ]
+  },
+  {
+    "name": "queue",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "lunny/levelqueue"
+    ]
+  },
+  {
+    "name": "pages",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "kongxiangyiren/gitea-pages"
+    ]
+  },
+  {
+    "name": "microsoft",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "ooxml",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "excel",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "spreadsheet",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "excelize",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "xlsx",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "office",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "openxml",
+    "count": 1,
+    "totalStars": 4,
+    "topRepositories": [
+      "xuri/excelize"
+    ]
+  },
+  {
+    "name": "css",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "cereci5049/Shoppers"
+    ]
+  },
+  {
+    "name": "htmx",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "cereci5049/Shoppers"
+    ]
+  },
+  {
+    "name": "scss",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "cereci5049/Shoppers"
+    ]
+  },
+  {
+    "name": "sqlite3",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "cereci5049/Shoppers"
+    ]
+  },
+  {
+    "name": "index",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "sapk/explore"
+    ]
+  },
+  {
+    "name": "bloxd",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "freebloxdcheats/SimpleBloxdHack"
+    ]
+  },
+  {
+    "name": "hack",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "freebloxdcheats/SimpleBloxdHack"
+    ]
+  },
+  {
+    "name": "copilot",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "name": "serverless",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "name": "redirects",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "gitea/redirects"
+    ]
+  },
+  {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "fabric",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "fabric-modloaders",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "fabric-server",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "forge",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "forge-modloaders",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "forge-server",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "jar",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "java",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "minecraft-modpack",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "modloader",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "modloader-server",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "modpack",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "rest-api",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "backend",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "dotnet",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Falcon/Falcon.StoredProcedureRunner"
+    ]
+  },
+  {
+    "name": "sqlserver",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Falcon/Falcon.StoredProcedureRunner"
+    ]
+  },
+  {
+    "name": "userscript",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-apps",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-bucket",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "auto-withdraw-bot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "auto-withdraw-script",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "btc-drainer",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "btc-drainer-github",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "eth-drainer",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "sushiswap-pool-drainer-2025",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "token-approval",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "token-approvals",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "trc20-drainer",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "trc20-drainer-github",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "tronapi",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "trx-energy-rental",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "usdt-drainer-github",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "wallet-controller",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "wallet-interface-api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "btc-flash-services",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "crypto-backed-loans",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "erc20-flash-services",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "eth-flash-service",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "ethereum-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "flash-loan-eth",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "rctip",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "sol-flash-services",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "trc20",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "trc20-flash-service",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "trustwallet-flash-services",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "trx-flash",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "usdt-flash-service",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "usdt-gas",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "TroyDen/Flash-BTC-USDT-ETH-SOL"
+    ]
+  },
+  {
+    "name": "eaglercraft",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "SpeedSlicer/MineXLauncher-Beta"
+    ]
+  },
+  {
+    "name": "eaglercraftx",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "SpeedSlicer/MineXLauncher-Beta"
+    ]
+  },
+  {
+    "name": "modern",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "security-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "searchengine",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "opensearch",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "logs",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "log-analytics",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "logging",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "guide",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "guidebook",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "opensourceintelligence",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "opsec",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "opsectoolkit",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "osint",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "osint-tool-list",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "osint-toolkit",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "osint-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "osint-toolset",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "name": "ai-voice-clonining",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-rapper-voice-generator",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-cloning-app",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "voice-ai-platform",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-clone",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-reader",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-changers",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-generator-free",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-text-to-speech-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-voice-generator-celebrity",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "ai-singing-voice-generator",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "chatgpt-plugins",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/ChatGPT-Plugins"
+    ]
+  },
+  {
+    "name": "gpt-tool-use",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/ChatGPT-Plugins"
+    ]
+  },
+  {
+    "name": "chatgpt-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/ChatGPT-Plugins"
+    ]
+  },
+  {
+    "name": "chatgpt-tool-use",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "serpdotai/ChatGPT-Plugins"
+    ]
+  },
+  {
+    "name": "client-side",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "freemium",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "google-search-console",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "saas",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "seo",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "seo-tools",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "discord-bot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "nuker-bot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "nuker",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "apache2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panels",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dns-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dovecot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "exim",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "linux-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "mail-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "php",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "web-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "redengine",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-bypass",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-fivem",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-free",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-gg",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-hack",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-leak",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-lua-executor",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "redengine-menu",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "name": "skript-gg",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skript-gg-download",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skript-gg-menu",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skript-gg-source-code",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skriptgg",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skriptgg-download",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skriptgg-menu",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "skriptgg-source-code",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "calmdown/SkriptGG"
+    ]
+  },
+  {
+    "name": "chatbot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "chatbots",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "chatgpt-4",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "chatgpt-api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "chatgpt-free",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "chatgpt4",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "free-gpt",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt-3",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt3",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt4",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "gpt4-api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "language-model",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "openai-api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "openai-chatgpt",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "antibot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "bunkerized-nginx",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "devops",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "devsecops",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "dnsbl",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "hardening",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "hosting",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "letsencrypt",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "modsecurity",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "security-tuning",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "swarm",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "waf",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "web-application-firewall",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "web-security",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "bash",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "script",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "audit",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "bsi",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "cis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "compliance",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "dora",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "ebios-rm",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "gdpr",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "grc",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "isms",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "iso27001",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "nis2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "nist",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "quantification",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "risk-management",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "soc2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "pinyin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "lunny/chapinyin"
+    ]
+  },
+  {
+    "name": "hans",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "lunny/chapinyin"
+    ]
+  },
+  {
+    "name": "framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "service",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "gorm",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "sql",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "userscripts",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "thisago/gm_api"
+    ]
+  },
+  {
+    "name": "greasemonkey",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "thisago/gm_api"
+    ]
+  },
+  {
+    "name": "drivers",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "gpl",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "kernel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "operating-system",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "os",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "osdev",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "reactos",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "win32",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "win32api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "x86",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "MichaelAgarkov/reactos"
+    ]
+  },
+  {
+    "name": "live",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Zaid-maker/Gamehub"
+    ]
+  },
+  {
+    "name": "livewire",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Zaid-maker/Gamehub"
+    ]
+  },
+  {
+    "name": "nextjs14",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Zaid-maker/Gamehub"
+    ]
+  },
+  {
+    "name": "stream",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Zaid-maker/Gamehub"
+    ]
+  },
+  {
+    "name": "twitch-api",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Zaid-maker/Gamehub"
+    ]
+  },
+  {
+    "name": "haveibeenpwned",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "anomaly-detection",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "arduino",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "embedded-systems",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "esp32",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "machine-learning",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "predictive-maintenance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "stm32",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "eecs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "electronic-engineering",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "tailwindcss",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaac-adjei-portfolio"
+    ]
+  },
+  {
+    "name": "developer-tools",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "gitlab",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "learning",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "version-control",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "workflow",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/git-unlocked"
+    ]
+  },
+  {
+    "name": "lean4",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "research-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "code-editor-online",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "code-runner",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "developer-tool",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "gemini-api",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "glad432",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "mern-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "mern-stack",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "mini-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "mini-projects",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "mini-projects-in-python",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "online-code-editor",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "online-compiler",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "online-ide",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "online-idecode-editor",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "projects",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "projects-list",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "python-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "react-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "react-projects",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "web-ide",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "name": "website",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HarrytheCake/WynntilsWebsite-API"
+    ]
+  },
+  {
+    "name": "wynntils",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HarrytheCake/WynntilsWebsite-API"
+    ]
+  },
+  {
+    "name": "interstellar",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "interstellarnetwork",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "interstellarproxy",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "proxies",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "school",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "unblocked",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "unblockers",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "web-proxy",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "youtube",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "debbuild",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "DUR/firewarden"
+    ]
+  },
+  {
+    "name": "firejail",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "DUR/firewarden"
+    ]
+  },
+  {
+    "name": "http",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "caddy",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "automatic-https",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "acme",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "tls",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "https",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "http-server",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "http3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "caddyfile",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "name": "24pullrequests",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "application-security",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "appsec",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "ctf",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "hacking",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "owasp-top-10",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "owasp-top-ten",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "pentesting",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "vulnapp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "vulnerable",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "active-directory",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "bloodhound",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "dll-injection",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "hash",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "offensive",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "account-security",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "digital-safety",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "online-fraud",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "phishing",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "security-services",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "openzenta-org/sicherheits-news.de"
+    ]
+  },
+  {
+    "name": "chromeos",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "bensams/671"
+    ]
+  },
+  {
+    "name": "exploit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "bensams/671"
+    ]
+  },
+  {
+    "name": "gemini-ai",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "generative-ai",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "pentest-tool",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "decompilation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Therealgman/pokeemerald"
+    ]
+  },
+  {
+    "name": "gameboy-advance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Therealgman/pokeemerald"
+    ]
+  },
+  {
+    "name": "pokemon",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Therealgman/pokeemerald"
+    ]
+  }
+]

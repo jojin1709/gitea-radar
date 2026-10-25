@@ -1,0 +1,231 @@
+[
+  {
+    "id": "other",
+    "name": "Other",
+    "description": "Uncategorized and emerging open-source software",
+    "count": 257,
+    "totalStars": 777,
+    "iconName": "Folder",
+    "topRepositories": [
+      "gitea/gitea-mcp",
+      "akouzoukos/apotris",
+      "BladeMight/Mahou",
+      "gitea/act",
+      "gitea/blog"
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity",
+    "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
+    "count": 37,
+    "totalStars": 51,
+    "iconName": "Shield",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "cp-api-mirror/wl",
+      "CyberShell/hostfiles",
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 23,
+    "totalStars": 77,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "lunny/tango",
+      "nettleweb/nettleweb",
+      "cereci5049/Shoppers",
+      "WebPlay/client"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 22,
+    "totalStars": 25,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "nazdridoy/ngpt",
+      "zaccesss/phaemos",
+      "zaccesss/isaac-adjei-portfolio",
+      "glad432/online-ide"
+    ]
+  },
+  {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 21,
+    "totalStars": 446,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter"
+    ]
+  },
+  {
+    "id": "automation",
+    "name": "Automation",
+    "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
+    "count": 16,
+    "totalStars": 27,
+    "iconName": "Bot",
+    "topRepositories": [
+      "jonasfranz/staletea",
+      "zaccesss/git-unlocked",
+      "TroyDen/Multichain-Drainer-Tool",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "id": "infrastructure",
+    "name": "Infrastructure",
+    "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
+    "count": 13,
+    "totalStars": 159,
+    "iconName": "Server",
+    "topRepositories": [
+      "gitea/helm-gitea",
+      "goftp/server",
+      "gitea/helm-actions",
+      "goftp/ftpd",
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "id": "devops",
+    "name": "DevOps",
+    "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
+    "count": 11,
+    "totalStars": 410,
+    "iconName": "Workflow",
+    "topRepositories": [
+      "gitea/runner",
+      "gitea/helm-gitea",
+      "DuarteSantos/openGym",
+      "gitea/helm-actions",
+      "QYG2297248353/appstore-1panel"
+    ]
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
+    "count": 8,
+    "totalStars": 11,
+    "iconName": "Gamepad2",
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "zaccesss/.profile",
+      "zaccesss/isaac-adjei-portfolio",
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 6,
+    "totalStars": 415,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "zaccesss/phaemos",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner"
+    ]
+  },
+  {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 63,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "zaccesss/git-unlocked",
+      "glad432/online-ide",
+      "hexmos/FreeDevTools",
+      "gitea/sdk.js"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 4,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 4,
+    "totalStars": 230,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "zaccesss/phaemos",
+      "zaccesss/git-unlocked",
+      "bensams/671"
+    ]
+  },
+  {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 3,
+    "totalStars": 36,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "paoloronco/OrbitPage",
+      "estebanfak/openGym"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile",
+    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
+    "count": 2,
+    "totalStars": 57,
+    "iconName": "Smartphone",
+    "topRepositories": [
+      "gitnex/GitNex",
+      "ab-smith/ciso-assistant-community"
+    ]
+  },
+  {
+    "id": "machine-learning",
+    "name": "Machine Learning",
+    "description": "Statistical learning, data science, training pipelines, and inference engines",
+    "count": 1,
+    "totalStars": 0,
+    "iconName": "Cpu",
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  }
+]

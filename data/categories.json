@@ -4,7 +4,7 @@
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
     "count": 257,
-    "totalStars": 777,
+    "totalStars": 815,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,53 +18,38 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 37,
-    "totalStars": 51,
+    "count": 38,
+    "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "cp-api-mirror/wl",
       "CyberShell/hostfiles",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
-    ]
-  },
-  {
-    "id": "web",
-    "name": "Web",
-    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 23,
-    "totalStars": 77,
-    "iconName": "Globe",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "lunny/tango",
-      "nettleweb/nettleweb",
-      "cereci5049/Shoppers",
-      "WebPlay/client"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "yslxotwod/IMSIsting"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 22,
-    "totalStars": 25,
+    "count": 23,
+    "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/isaac-adjei-portfolio",
-      "glad432/online-ide"
+      "LakshitSinghBishtTM/CoreAI-Protocol-Suite",
+      "Jesse-perpC/EdgeLLM-Studio",
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
-    "totalStars": 446,
+    "count": 22,
+    "totalStars": 443,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -75,78 +60,108 @@
     ]
   },
   {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 18,
+    "totalStars": 82,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "lunny/tango",
+      "nettleweb/nettleweb",
+      "cereci5049/Shoppers",
+      "WebPlay/client"
+    ]
+  },
+  {
     "id": "automation",
     "name": "Automation",
     "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
-    "count": 16,
-    "totalStars": 27,
+    "count": 17,
+    "totalStars": 28,
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "zaccesss/git-unlocked",
-      "TroyDen/Multichain-Drainer-Tool",
       "Griefed/ServerPackCreator",
-      "its-theo/NukeCord"
+      "its-theo/NukeCord",
+      "VernonG/FiveM-External-Cheat",
+      "willylands/FiveM-External-Cheat"
     ]
   },
   {
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 13,
-    "totalStars": 159,
+    "count": 15,
+    "totalStars": 163,
     "iconName": "Server",
     "topRepositories": [
       "gitea/helm-gitea",
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "PublicAffairs/openai-github-copilot"
+      "SolarisPKN/SolarisPKN-Labs"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
-    "totalStars": 410,
+    "count": 8,
+    "totalStars": 426,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
       "gitea/helm-gitea",
       "DuarteSantos/openGym",
       "gitea/helm-actions",
-      "QYG2297248353/appstore-1panel"
+      "actions/release-action"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 7,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "LakshitSinghBishtTM/snowflake",
+      "realqingtian/netbird",
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky",
+      "palmcoasty/bunkerweb"
     ]
   },
   {
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
-    "totalStars": 11,
+    "count": 7,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
-      "zaccesss/isaac-adjei-portfolio",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
+      "dadidang/zinc",
+      "FlowMagic/redENGINE-FiveM",
+      "grokmeme/gpt4free"
     ]
   },
   {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
     "count": 6,
-    "totalStars": 415,
-    "iconName": "Database",
+    "totalStars": 239,
+    "iconName": "GraduationCap",
     "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "zaccesss/phaemos",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner"
+      "gitea/awesome-gitea",
+      "aykhan/awesome-gitea",
+      "sadfun/awesome-gitea",
+      "Crosshawx/awesome-piracy-backup",
+      "jurisgrid/awesome-indian-legaltech"
     ]
   },
   {
@@ -154,78 +169,66 @@
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
     "count": 5,
-    "totalStars": 63,
+    "totalStars": 66,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "zaccesss/git-unlocked",
-      "glad432/online-ide",
+      "gitea/sdk.js",
+      "shastriii/compiler-lab",
       "hexmos/FreeDevTools",
-      "gitea/sdk.js"
+      "rubayet123/rea"
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 4,
-    "totalStars": 4,
-    "iconName": "Network",
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 5,
+    "totalStars": 416,
+    "iconName": "Database",
     "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 4,
-    "totalStars": 230,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/phaemos",
-      "zaccesss/git-unlocked",
-      "bensams/671"
-    ]
-  },
-  {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 3,
-    "totalStars": 36,
-    "iconName": "Home",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "paoloronco/OrbitPage",
-      "estebanfak/openGym"
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 2,
+    "count": 4,
     "totalStars": 57,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
-      "ab-smith/ciso-assistant-community"
+      "Sultani001/ramin-app",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community"
+    ]
+  },
+  {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 4,
+    "totalStars": 43,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "paoloronco/OrbitPage",
+      "niamadoutraore89/mio-music-plugins",
+      "Woxels/woxie-homelab-kuberneties"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

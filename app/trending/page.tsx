@@ -67,13 +67,13 @@ export default function TrendingPage() {
         </div>
 
         {/* Timeframe Tabs */}
-        <div className="flex items-center rounded-lg border border-dark-border bg-dark-card p-1 self-start md:self-auto">
+        <div className="flex items-center rounded-xl border border-dark-border bg-dark-card p-1 self-start md:self-auto">
           <button
             type="button"
             onClick={() => setTimeframe('today')}
-            className={`rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               timeframe === 'today'
-                ? 'bg-radar-500 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-radar-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >
@@ -82,9 +82,9 @@ export default function TrendingPage() {
           <button
             type="button"
             onClick={() => setTimeframe('week')}
-            className={`rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               timeframe === 'week'
-                ? 'bg-radar-500 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-radar-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >
@@ -93,9 +93,9 @@ export default function TrendingPage() {
           <button
             type="button"
             onClick={() => setTimeframe('month')}
-            className={`rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               timeframe === 'month'
-                ? 'bg-radar-500 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-radar-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >

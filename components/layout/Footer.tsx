@@ -94,12 +94,17 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="border-t border-dark-border pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <p className="text-slate-400 text-[11px]">
-            &copy; {new Date().getFullYear()} Gitea Radar. Data sourced from the official Gitea REST API.
-          </p>
-          <div className="flex items-center gap-4 text-slate-400 text-[11px]">
-            <span className="flex items-center gap-1"><ShieldCheck className="h-3.5 w-3.5 text-emerald-400" /> Sanitized Metadata</span>
-            <span className="flex items-center gap-1"><Zap className="h-3.5 w-3.5 text-radar-400" /> Static Edge Delivery</span>
+          <div className="flex flex-col sm:flex-row items-center gap-2 text-slate-400 text-xs">
+            <span>&copy; {new Date().getFullYear()} Gitea Radar.</span>
+            <span className="hidden sm:inline text-slate-600">&bull;</span>
+            <span className="text-slate-300">
+              Developed with pride by <strong className="text-white font-semibold">JOJIN JOHN</strong>
+            </span>
+          </div>
+          <div className="flex items-center gap-4 text-slate-400 text-[11px] font-mono">
+            <span className="flex items-center gap-1.5"><ShieldCheck className="h-3.5 w-3.5 text-emerald-400" /> Sanitized API</span>
+            <span className="text-slate-700">|</span>
+            <span className="flex items-center gap-1.5"><Zap className="h-3.5 w-3.5 text-radar-400" /> Edge Cached</span>
           </div>
         </div>
       </div>

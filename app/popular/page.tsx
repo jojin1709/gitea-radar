@@ -36,13 +36,13 @@ export default function PopularPage() {
         </div>
 
         {/* Sort Switcher */}
-        <div className="flex items-center rounded-lg border border-dark-border bg-dark-card p-1 self-start md:self-auto">
+        <div className="flex items-center rounded-xl border border-dark-border bg-dark-card p-1 self-start md:self-auto">
           <button
             type="button"
             onClick={() => setSortBy('stars')}
-            className={`flex items-center gap-1.5 rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`flex items-center gap-1.5 rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               sortBy === 'stars'
-                ? 'bg-amber-400 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-amber-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >
@@ -52,9 +52,9 @@ export default function PopularPage() {
           <button
             type="button"
             onClick={() => setSortBy('forks')}
-            className={`flex items-center gap-1.5 rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`flex items-center gap-1.5 rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               sortBy === 'forks'
-                ? 'bg-amber-400 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-radar-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >
@@ -64,9 +64,9 @@ export default function PopularPage() {
           <button
             type="button"
             onClick={() => setSortBy('watchers')}
-            className={`flex items-center gap-1.5 rounded-md px-3.5 py-1.5 text-xs font-medium transition-all ${
+            className={`flex items-center gap-1.5 rounded-lg px-3.5 py-1.5 text-xs font-medium transition-all ${
               sortBy === 'watchers'
-                ? 'bg-amber-400 text-slate-950 font-semibold shadow-sm'
+                ? 'bg-dark-bg text-emerald-300 font-semibold border border-dark-borderHover shadow-sm'
                 : 'text-slate-400 hover:text-white'
             }`}
           >

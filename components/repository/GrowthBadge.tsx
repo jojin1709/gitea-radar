@@ -1,4 +1,4 @@
-import { TrendingUp } from 'lucide-react';
+import { ArrowUpRight } from 'lucide-react';
 
 interface GrowthBadgeProps {
   starGrowth?: number | null;
@@ -8,7 +8,6 @@ interface GrowthBadgeProps {
 }
 
 export function GrowthBadge({ starGrowth, percentage, timeframe = '24h', size = 'sm' }: GrowthBadgeProps) {
-  // Return null if no real historical data exists
   if (starGrowth === null || starGrowth === undefined || starGrowth <= 0) {
     return null;
   }
@@ -17,17 +16,16 @@ export function GrowthBadge({ starGrowth, percentage, timeframe = '24h', size = 
 
   return (
     <span
-      className={`inline-flex items-center gap-1 font-mono font-medium rounded-full bg-emerald-950/40 text-emerald-400 border border-emerald-500/30 ${
-        isSmall ? 'px-2 py-0.5 text-[11px]' : 'px-2.5 py-1 text-xs'
+      className={`inline-flex items-center gap-0.5 font-mono font-semibold rounded px-1.5 py-0.5 bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 ${
+        isSmall ? 'text-[10px]' : 'text-xs'
       }`}
-      title={`Gained ${starGrowth} stars in the last ${timeframe} based on historical snapshots`}
+      title={`+${starGrowth} stars in the last ${timeframe}`}
     >
-      <TrendingUp className={isSmall ? 'h-3 w-3' : 'h-3.5 w-3.5'} />
-      <span>+{starGrowth} stars</span>
+      <ArrowUpRight className="h-3 w-3" />
+      <span>+{starGrowth}</span>
       {percentage !== null && percentage !== undefined && percentage > 0 && (
-        <span className="text-emerald-500/80 font-normal">({percentage}%)</span>
+        <span className="opacity-80 font-normal">({percentage}%)</span>
       )}
-      <span className="text-emerald-500/60 text-[10px]">/{timeframe}</span>
     </span>
   );
 }

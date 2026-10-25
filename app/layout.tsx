@@ -1,7 +1,20 @@
 import type { Metadata } from 'next';
+import { Inter, JetBrains_Mono } from 'next/font/google';
 import './globals.css';
 import { Header } from '../components/layout/Header';
 import { Footer } from '../components/layout/Footer';
+
+const inter = Inter({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-sans',
+});
+
+const jetbrainsMono = JetBrains_Mono({
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-mono',
+});
 
 export const metadata: Metadata = {
   title: {
@@ -37,12 +50,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark scroll-smooth">
-      <body className="min-h-screen bg-dark-bg text-slate-100 antialiased selection:bg-radar-500/30 selection:text-radar-200">
+    <html lang="en" className={`dark scroll-smooth ${inter.variable} ${jetbrainsMono.variable}`}>
+      <body className="min-h-screen bg-dark-bg text-slate-100 antialiased font-sans selection:bg-radar-500/25 selection:text-radar-200">
         <div className="relative min-h-screen flex flex-col">
-          {/* Subtle radar ambient glow */}
-          <div className="pointer-events-none fixed inset-0 z-0 radar-grid opacity-30" />
-          <div className="pointer-events-none fixed top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-96 radar-glow z-0" />
+          {/* Engineering grid and subtle ambient horizon */}
+          <div className="pointer-events-none fixed inset-0 z-0 radar-grid opacity-25" />
+          <div className="pointer-events-none fixed top-0 left-1/2 -translate-x-1/2 w-full max-w-6xl h-80 radar-glow z-0" />
           
           <Header />
           <main className="relative z-10 flex-1">

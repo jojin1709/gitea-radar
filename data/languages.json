@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 56,
+    "count": 55,
     "totalStars": 1469,
     "color": "#00ADD8",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 20,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -40,19 +40,18 @@
   },
   {
     "name": "Go Template",
-    "count": 3,
+    "count": 2,
     "totalStars": 104,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
-      "gitea/helm-actions",
-      "Woxels/woxie-homelab-kuberneties"
+      "gitea/helm-actions"
     ]
   },
   {
     "name": "JavaScript",
     "count": 26,
-    "totalStars": 90,
+    "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -96,15 +95,15 @@
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "Demtakeniri/Rune-Walkers",
       "othertime/gratisforgratis",
+      "Demtakeniri/Rune-Walkers",
       "Maksim_Karpov/winPizzaHub"
     ]
   },
   {
     "name": "HTML",
-    "count": 10,
-    "totalStars": 35,
+    "count": 7,
+    "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
@@ -116,17 +115,16 @@
   },
   {
     "name": "Astro",
-    "count": 2,
+    "count": 1,
     "totalStars": 30,
     "color": "#64748B",
     "topRepositories": [
-      "gitea/blog",
-      "SolarisPKN/SolarisPKN-Labs"
+      "gitea/blog"
     ]
   },
   {
     "name": "Python",
-    "count": 42,
+    "count": 41,
     "totalStars": 27,
     "color": "#3572A5",
     "topRepositories": [
@@ -134,7 +132,7 @@
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "vladd/dependency-visualizer"
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -169,15 +167,26 @@
   },
   {
     "name": "Makefile",
-    "count": 5,
+    "count": 4,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
       "Evolution-X/vendor_xiaomi_miuicamera",
-      "Evolution-X/vendor_xiaomi_sm8450-common",
       "gitea/redirects"
+    ]
+  },
+  {
+    "name": "CSS",
+    "count": 4,
+    "totalStars": 14,
+    "color": "#563D7C",
+    "topRepositories": [
+      "goftp/ftpd",
+      "cereci5049/Shoppers",
+      "scorpp13/hypr-void",
+      "pooneyy/1Panel-Appstore"
     ]
   },
   {
@@ -194,17 +203,6 @@
     ]
   },
   {
-    "name": "CSS",
-    "count": 3,
-    "totalStars": 13,
-    "color": "#563D7C",
-    "topRepositories": [
-      "goftp/ftpd",
-      "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore"
-    ]
-  },
-  {
     "name": "Vue",
     "count": 4,
     "totalStars": 12,
@@ -218,15 +216,15 @@
   },
   {
     "name": "C",
-    "count": 7,
-    "totalStars": 9,
+    "count": 9,
+    "totalStars": 10,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
+      "Kyle-Spicer/SNAILNET",
       "shastriii/compiler-lab",
-      "gabordemooij/xoscript",
-      "postgis/postgis",
-      "yoelrm/CVE-2021-4034"
+      "driswillis156/CYNIZ-404",
+      "gabordemooij/xoscript"
     ]
   },
   {
@@ -245,8 +243,8 @@
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "Rusted-app/rusted-editor",
-      "woolster2020/vc"
+      "woolster2020/vc",
+      "Rusted-app/rusted-editor"
     ]
   },
   {
@@ -312,6 +310,16 @@
     ]
   },
   {
+    "name": "Smarty",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "meln5674/helm-gitea",
+      "vquie/act_runner-helm"
+    ]
+  },
+  {
     "name": "Batchfile",
     "count": 1,
     "totalStars": 1,
@@ -327,24 +335,6 @@
     "color": "#64748B",
     "topRepositories": [
       "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "techknowlogick/tklk-flake"
-    ]
-  },
-  {
-    "name": "Smarty",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "vquie/act_runner-helm"
     ]
   },
   {
@@ -390,13 +380,13 @@
     ]
   },
   {
-    "name": "M3U",
+    "name": "Dart",
     "count": 2,
     "totalStars": 0,
-    "color": "#64748B",
+    "color": "#00B4AB",
     "topRepositories": [
-      "russellb9/bongda",
-      "Liulin/ysc"
+      "Athallahra1234/pokemon_app",
+      "application/coco_clipboard_scanner"
     ]
   },
   {
@@ -427,21 +417,21 @@
     ]
   },
   {
+    "name": "M3U",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "russellb9/bongda"
+    ]
+  },
+  {
     "name": "AsciiDoc",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "GravitonForge/Bookmarks"
-    ]
-  },
-  {
-    "name": "Dart",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "application/coco_clipboard_scanner"
     ]
   }
 ]

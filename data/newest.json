@@ -1,5 +1,169 @@
 [
   {
+    "id": 149048,
+    "owner": {
+      "username": "Vhusun913",
+      "avatarUrl": "https://gitea.com/avatars/35eec483adcf0d2ee3a43800825f86d3c7a8a9e54f5070fc89011a35c3f31ab7",
+      "htmlUrl": "https://gitea.com/Vhusun913",
+      "fullName": ""
+    },
+    "name": "tt",
+    "fullName": "Vhusun913/tt",
+    "description": "",
+    "url": "https://gitea.com/Vhusun913/tt",
+    "cloneUrl": "https://gitea.com/Vhusun913/tt.git",
+    "sshUrl": "git@gitea.com:Vhusun913/tt.git",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 30,
+    "createdAt": "2026-10-25T20:23:27Z",
+    "updatedAt": "2026-10-25T20:29:53Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
+    "starGrowth24h": null,
+    "forkGrowth24h": null,
+    "growthPercentage24h": null,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 18.2,
+    "activityScore": 41,
+    "freshnessScore": 100,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 149045,
+    "owner": {
+      "username": "classcontrol-app",
+      "avatarUrl": "https://gitea.com/avatars/8a3fe4146ca64a742fdb84e524756e0a2440d620ecff1a160383e2e4637cb9db",
+      "htmlUrl": "https://gitea.com/classcontrol-app",
+      "fullName": ""
+    },
+    "name": "classcontrol",
+    "fullName": "classcontrol-app/classcontrol",
+    "description": "ClassControl — управление классом ПК (чат учитель-разработчик, пожелания, автообновление)",
+    "url": "https://gitea.com/classcontrol-app/classcontrol",
+    "cloneUrl": "https://gitea.com/classcontrol-app/classcontrol.git",
+    "sshUrl": "git@gitea.com:classcontrol-app/classcontrol.git",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 1,
+    "size": 28,
+    "createdAt": "2026-10-25T19:49:28Z",
+    "updatedAt": "2026-10-25T19:51:29Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
+    "starGrowth24h": null,
+    "forkGrowth24h": null,
+    "growthPercentage24h": null,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 18.8,
+    "activityScore": 44,
+    "freshnessScore": 100,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 149042,
+    "owner": {
+      "username": "Athallahra1234",
+      "avatarUrl": "https://gitea.com/avatars/578e9331b96000b85448a89b85516ef425eaf1ef59418745ad8cc1bbf454fd37",
+      "htmlUrl": "https://gitea.com/Athallahra1234",
+      "fullName": ""
+    },
+    "name": "pokemon_app",
+    "fullName": "Athallahra1234/pokemon_app",
+    "description": "",
+    "url": "https://gitea.com/Athallahra1234/pokemon_app",
+    "cloneUrl": "https://gitea.com/Athallahra1234/pokemon_app.git",
+    "sshUrl": "git@gitea.com:Athallahra1234/pokemon_app.git",
+    "language": "Dart",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 1327,
+    "createdAt": "2026-10-25T18:58:30Z",
+    "updatedAt": "2026-10-25T19:18:56Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
+    "starGrowth24h": null,
+    "forkGrowth24h": null,
+    "growthPercentage24h": null,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 18.2,
+    "activityScore": 41,
+    "freshnessScore": 100,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 149038,
+    "owner": {
+      "username": "C0reyKalier",
+      "avatarUrl": "https://gitea.com/avatars/31e1bfb8a6cd2e9b373e5f0e21f9a6bc2bb633c1ff4034b235282580d51b7ee5",
+      "htmlUrl": "https://gitea.com/C0reyKalier",
+      "fullName": "Corey"
+    },
+    "name": "phighting-discord-widgets",
+    "fullName": "C0reyKalier/phighting-discord-widgets",
+    "description": "A project implementing your (unofficial) PHIGHTING! stats to your Discord profile! Currently in heavy W.I.P",
+    "url": "https://gitea.com/C0reyKalier/phighting-discord-widgets",
+    "cloneUrl": "https://gitea.com/C0reyKalier/phighting-discord-widgets.git",
+    "sshUrl": "git@gitea.com:C0reyKalier/phighting-discord-widgets.git",
+    "language": "JavaScript",
+    "topics": [
+      "discord",
+      "discord-widget",
+      "discord-widgetv2",
+      "phighting"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 1,
+    "size": 12266,
+    "createdAt": "2026-10-25T17:25:01Z",
+    "updatedAt": "2026-10-25T17:25:20Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "license": "MIT",
+    "categories": [
+      "other"
+    ],
+    "starGrowth24h": null,
+    "forkGrowth24h": null,
+    "growthPercentage24h": null,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 18.8,
+    "activityScore": 44,
+    "freshnessScore": 100,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
     "id": 149025,
     "owner": {
       "username": "quotamalam",
@@ -30,9 +194,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -69,9 +233,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -110,9 +274,9 @@
     "categories": [
       "education"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -151,9 +315,9 @@
     "categories": [
       "education"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -192,9 +356,9 @@
     "categories": [
       "self-hosted"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -231,9 +395,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -272,9 +436,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -313,9 +477,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -353,9 +517,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -392,9 +556,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -431,9 +595,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -470,9 +634,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -509,9 +673,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -548,9 +712,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -587,9 +751,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -628,9 +792,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -667,9 +831,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -706,9 +870,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -745,9 +909,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -786,9 +950,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -825,9 +989,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -866,9 +1030,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -907,9 +1071,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -947,9 +1111,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -986,9 +1150,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1025,9 +1189,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1055,9 +1219,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 7700810,
+    "size": 7700897,
     "createdAt": "2026-10-25T03:27:25Z",
-    "updatedAt": "2026-10-25T14:26:40Z",
+    "updatedAt": "2026-10-25T18:53:45Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -1065,9 +1229,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1104,9 +1268,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1144,9 +1308,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1185,9 +1349,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1224,9 +1388,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.2,
@@ -1264,14 +1428,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
+    "trendScore": 18.1,
     "activityScore": 41,
-    "freshnessScore": 100,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1304,14 +1468,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1343,14 +1507,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1383,14 +1547,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1423,14 +1587,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1462,14 +1626,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1502,14 +1666,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.2,
-    "activityScore": 41,
-    "freshnessScore": 100,
+    "trendScore": 16.1,
+    "activityScore": 31,
+    "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -1542,9 +1706,9 @@
     "categories": [
       "mobile"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1582,9 +1746,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -1621,9 +1785,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1662,9 +1826,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1703,9 +1867,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1744,9 +1908,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1786,9 +1950,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1825,9 +1989,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1864,9 +2028,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1903,9 +2067,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1942,9 +2106,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -1981,9 +2145,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2020,9 +2184,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2061,9 +2225,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2101,9 +2265,9 @@
     "categories": [
       "education"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2142,9 +2306,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2181,9 +2345,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2220,9 +2384,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2259,9 +2423,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2300,9 +2464,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2341,9 +2505,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2382,9 +2546,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2423,9 +2587,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2464,9 +2628,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2505,9 +2669,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2558,9 +2722,9 @@
     "categories": [
       "networking"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2598,9 +2762,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2638,9 +2802,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2679,9 +2843,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2720,9 +2884,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2761,9 +2925,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2802,9 +2966,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2841,9 +3005,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2880,9 +3044,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2919,9 +3083,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2958,9 +3122,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -2997,9 +3161,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3036,9 +3200,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3076,9 +3240,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -3115,9 +3279,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3154,9 +3318,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3195,9 +3359,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3235,9 +3399,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3275,9 +3439,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3316,9 +3480,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3355,9 +3519,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3394,9 +3558,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3433,9 +3597,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3473,48 +3637,9 @@
     "categories": [
       "ai"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 16.1,
-    "activityScore": 31,
-    "freshnessScore": 99,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 148789,
-    "owner": {
-      "username": "kulisaiji",
-      "avatarUrl": "https://gitea.com/avatars/bc4fd48f63a1ee3ce3b391968bd983205b76c4e4f6923549066f2b543efd3010",
-      "htmlUrl": "https://gitea.com/kulisaiji",
-      "fullName": ""
-    },
-    "name": "Mielons-The-Sift-Chinese-translation",
-    "fullName": "kulisaiji/Mielons-The-Sift-Chinese-translation",
-    "description": "",
-    "url": "https://gitea.com/kulisaiji/Mielons-The-Sift-Chinese-translation",
-    "cloneUrl": "https://gitea.com/kulisaiji/Mielons-The-Sift-Chinese-translation.git",
-    "sshUrl": "git@gitea.com:kulisaiji/Mielons-The-Sift-Chinese-translation.git",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 36,
-    "createdAt": "2026-10-24T06:15:48Z",
-    "updatedAt": "2026-10-24T06:24:54Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.1,
@@ -3553,53 +3678,13 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
     "activityScore": 41,
-    "freshnessScore": 99,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 148786,
-    "owner": {
-      "username": "Evolution-X",
-      "avatarUrl": "https://gitea.com/avatars/ce5f516917efee4cf636f8c0573572ae5bd134d204b10398960ede9da3bdded3",
-      "htmlUrl": "https://gitea.com/Evolution-X",
-      "fullName": "Evolution X"
-    },
-    "name": "vendor_xiaomi_sm8450-common",
-    "fullName": "Evolution-X/vendor_xiaomi_sm8450-common",
-    "description": "",
-    "url": "https://gitea.com/Evolution-X/vendor_xiaomi_sm8450-common",
-    "cloneUrl": "https://gitea.com/Evolution-X/vendor_xiaomi_sm8450-common.git",
-    "sshUrl": "git@gitea.com:Evolution-X/vendor_xiaomi_sm8450-common.git",
-    "language": "Makefile",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 301171,
-    "createdAt": "2026-10-24T05:45:13Z",
-    "updatedAt": "2026-10-24T05:45:34Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "cnb",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 16.1,
-    "activityScore": 31,
     "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -3632,9 +3717,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -3674,9 +3759,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -3704,9 +3789,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 2138,
+    "size": 2141,
     "createdAt": "2026-10-23T20:54:08Z",
-    "updatedAt": "2026-10-25T15:35:10Z",
+    "updatedAt": "2026-10-25T16:43:36Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -3715,12 +3800,52 @@
     "categories": [
       "other"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 18.1,
+    "activityScore": 41,
+    "freshnessScore": 99,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 148699,
+    "owner": {
+      "username": "driswillis156",
+      "avatarUrl": "https://gitea.com/avatars/9b2e06e849cc6253033637be8bff6ec26ac34b98fdbb3569b49d40198d8e6321",
+      "htmlUrl": "https://gitea.com/driswillis156",
+      "fullName": ""
+    },
+    "name": "CYNIZ-404",
+    "fullName": "driswillis156/CYNIZ-404",
+    "description": "an AI made from scratch with C, and can be ported into anything lol",
+    "url": "https://gitea.com/driswillis156/CYNIZ-404",
+    "cloneUrl": "https://gitea.com/driswillis156/CYNIZ-404.git",
+    "sshUrl": "git@gitea.com:driswillis156/CYNIZ-404.git",
+    "language": "C",
+    "topics": [],
+    "stars": 1,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 1221,
+    "createdAt": "2026-10-23T18:45:49Z",
+    "updatedAt": "2026-10-25T18:00:29Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 18.1,
+    "trendScore": 22.6,
     "activityScore": 41,
     "freshnessScore": 99,
     "trendReason": "Solid community interest and healthy activity"
@@ -3756,9 +3881,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -3796,49 +3921,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 18.1,
-    "activityScore": 41,
-    "freshnessScore": 99,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 148555,
-    "owner": {
-      "username": "Woxels",
-      "avatarUrl": "https://gitea.com/avatars/0401fb0c9bdbc415ab151a7bf823147d7213007401a3a859989e5a5fe3e89f87",
-      "htmlUrl": "https://gitea.com/Woxels",
-      "fullName": "Woxels"
-    },
-    "name": "woxie-homelab-kuberneties",
-    "fullName": "Woxels/woxie-homelab-kuberneties",
-    "description": "my homelab kuberneties",
-    "url": "https://gitea.com/Woxels/woxie-homelab-kuberneties",
-    "cloneUrl": "https://gitea.com/Woxels/woxie-homelab-kuberneties.git",
-    "sshUrl": "git@gitea.com:Woxels/woxie-homelab-kuberneties.git",
-    "language": "Go Template",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 453,
-    "createdAt": "2026-10-23T00:06:37Z",
-    "updatedAt": "2026-10-25T00:35:17Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "categories": [
-      "self-hosted"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -3866,9 +3951,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 11245,
+    "size": 11301,
     "createdAt": "2026-10-22T08:45:49Z",
-    "updatedAt": "2026-10-25T14:00:07Z",
+    "updatedAt": "2026-10-25T17:39:19Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -3876,9 +3961,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18,
@@ -3915,13 +4000,53 @@
     "categories": [
       "ai"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 14.6,
+    "activityScore": 24,
+    "freshnessScore": 98,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 148364,
+    "owner": {
+      "username": "LunarSocks",
+      "avatarUrl": "https://gitea.com/avatars/b72836b3d5cfc0084b9312305fa553434f9dafd34e8a5eb7b7ec6ad8e0aff7cb",
+      "htmlUrl": "https://gitea.com/LunarSocks",
+      "fullName": ""
+    },
+    "name": "watchlist_tracker",
+    "fullName": "LunarSocks/watchlist_tracker",
+    "description": "",
+    "url": "https://gitea.com/LunarSocks/watchlist_tracker",
+    "cloneUrl": "https://gitea.com/LunarSocks/watchlist_tracker.git",
+    "sshUrl": "git@gitea.com:LunarSocks/watchlist_tracker.git",
+    "language": "Python",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 49,
+    "createdAt": "2026-10-21T15:36:12Z",
+    "updatedAt": "2026-10-25T17:05:10Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 14.6,
-    "activityScore": 24,
+    "trendScore": 18,
+    "activityScore": 41,
     "freshnessScore": 98,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -3955,9 +4080,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.9,
@@ -3996,14 +4121,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 31,
+    "trendScore": 30.9,
     "activityScore": 48,
-    "freshnessScore": 97,
+    "freshnessScore": 96,
     "trendReason": "Breakout new repository with fast adoption"
   },
   {
@@ -4055,9 +4180,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.8,
@@ -4115,13 +4240,52 @@
       "cybersecurity",
       "networking"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 11.8,
+    "activityScore": 11,
+    "freshnessScore": 96,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 147815,
+    "owner": {
+      "username": "Kyle-Spicer",
+      "avatarUrl": "https://gitea.com/avatars/e0ea5dbd12552c2d29f72d0481728bf1cee3396f83e2f94c828c75a3a1f2fcf4",
+      "htmlUrl": "https://gitea.com/Kyle-Spicer",
+      "fullName": ""
+    },
+    "name": "GitOps",
+    "fullName": "Kyle-Spicer/GitOps",
+    "description": "Source of truth for my homelab: Docker Compose stacks, runner configs, and VM setup for the wonderland Proxmox host.",
+    "url": "https://gitea.com/Kyle-Spicer/GitOps",
+    "cloneUrl": "https://gitea.com/Kyle-Spicer/GitOps.git",
+    "sshUrl": "git@gitea.com:Kyle-Spicer/GitOps.git",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 49,
+    "createdAt": "2026-10-16T21:17:48Z",
+    "updatedAt": "2026-10-25T20:18:52Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "self-hosted"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 11.8,
-    "activityScore": 11,
+    "trendScore": 17.8,
+    "activityScore": 41,
     "freshnessScore": 96,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -4156,9 +4320,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.6,
@@ -4223,9 +4387,9 @@
       "cli",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.6,
@@ -4263,9 +4427,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.6,
@@ -4302,9 +4466,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 811,
+    "size": 1034,
     "createdAt": "2026-10-12T19:41:40Z",
-    "updatedAt": "2026-10-24T21:43:43Z",
+    "updatedAt": "2026-10-25T17:31:58Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -4313,14 +4477,14 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 22.3,
+    "trendScore": 22.2,
     "activityScore": 42,
-    "freshnessScore": 94,
+    "freshnessScore": 93,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -4353,9 +4517,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.5,
@@ -4393,9 +4557,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.3,
@@ -4434,55 +4598,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 21.7,
     "activityScore": 41,
     "freshnessScore": 90,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 146175,
-    "owner": {
-      "username": "LagrangeWithLight",
-      "avatarUrl": "https://gitea.com/avatars/c6baf9c49756056f6e52e9495ac96c2985b3fadd3b055cee3f3a38131b3a9fd4",
-      "htmlUrl": "https://gitea.com/LagrangeWithLight",
-      "fullName": ""
-    },
-    "name": "SHOU-Online-Manual-Mirror",
-    "fullName": "LagrangeWithLight/SHOU-Online-Manual-Mirror",
-    "description": "",
-    "url": "https://gitea.com/LagrangeWithLight/SHOU-Online-Manual-Mirror",
-    "cloneUrl": "https://gitea.com/LagrangeWithLight/SHOU-Online-Manual-Mirror.git",
-    "sshUrl": "git@gitea.com:LagrangeWithLight/SHOU-Online-Manual-Mirror.git",
-    "language": "JavaScript",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 2,
-    "size": 165831,
-    "createdAt": "2026-10-03T08:32:41Z",
-    "updatedAt": "2026-10-25T00:00:30Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "dev",
-    "license": "CC-BY-SA-4.0",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 18.1,
-    "activityScore": 46,
-    "freshnessScore": 89,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -4516,9 +4639,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.5,
@@ -4546,9 +4669,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 256412,
+    "size": 259694,
     "createdAt": "2026-09-30T11:37:58Z",
-    "updatedAt": "2026-10-25T14:11:45Z",
+    "updatedAt": "2026-10-25T18:16:42Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -4556,9 +4679,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.9,
@@ -4596,9 +4719,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.9,
@@ -4661,54 +4784,13 @@
       "mobile",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.9,
     "activityScore": 11,
-    "freshnessScore": 87,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 145191,
-    "owner": {
-      "username": "agent-skills",
-      "avatarUrl": "https://gitea.com/avatars/307e1fa257e9f07713d5e0b3c57fd8e77122eba01f57f0174ba48cc1f56c5bd0",
-      "htmlUrl": "https://gitea.com/agent-skills",
-      "fullName": ""
-    },
-    "name": "agent-skills",
-    "fullName": "agent-skills/agent-skills",
-    "description": "Portable agent skills for Codex, Kiro, and Claude Code",
-    "url": "https://gitea.com/agent-skills/agent-skills",
-    "cloneUrl": "https://gitea.com/agent-skills/agent-skills.git",
-    "sshUrl": "git@gitea.com:agent-skills/agent-skills.git",
-    "language": "HTML",
-    "topics": [],
-    "stars": 1,
-    "forks": 0,
-    "watchers": 0,
-    "openIssues": 0,
-    "size": 20137,
-    "createdAt": "2026-09-29T08:01:28Z",
-    "updatedAt": "2026-10-25T02:33:34Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "license": "MIT",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 21.2,
-    "activityScore": 40,
     "freshnessScore": 87,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -4742,9 +4824,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.8,
@@ -4782,9 +4864,9 @@
     "categories": [
       "infrastructure"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.4,
@@ -4822,9 +4904,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -4863,14 +4945,53 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.2,
     "activityScore": 41,
     "freshnessScore": 80,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 143637,
+    "owner": {
+      "username": "xizhen55555",
+      "avatarUrl": "https://gitea.com/avatars/e80de37e0770ece11f7f5583e110272f245d582dd2ea55a277523a1a6a73ee1c",
+      "htmlUrl": "https://gitea.com/xizhen55555",
+      "fullName": ""
+    },
+    "name": "ruleset",
+    "fullName": "xizhen55555/ruleset",
+    "description": "",
+    "url": "https://gitea.com/xizhen55555/ruleset",
+    "cloneUrl": "https://gitea.com/xizhen55555/ruleset.git",
+    "sshUrl": "git@gitea.com:xizhen55555/ruleset.git",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 0,
+    "size": 10292,
+    "createdAt": "2026-09-14T03:06:16Z",
+    "updatedAt": "2026-10-25T16:00:38Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "categories": [
+      "other"
+    ],
+    "starGrowth24h": null,
+    "forkGrowth24h": null,
+    "growthPercentage24h": null,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 16.1,
+    "activityScore": 41,
+    "freshnessScore": 79,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -4904,9 +5025,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.9,
@@ -4943,13 +5064,54 @@
     "categories": [
       "other"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 16,
+    "activityScore": 41,
+    "freshnessScore": 78,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 143304,
+    "owner": {
+      "username": "Kyle-Spicer",
+      "avatarUrl": "https://gitea.com/avatars/e0ea5dbd12552c2d29f72d0481728bf1cee3396f83e2f94c828c75a3a1f2fcf4",
+      "htmlUrl": "https://gitea.com/Kyle-Spicer",
+      "fullName": ""
+    },
+    "name": "SNAILNET",
+    "fullName": "Kyle-Spicer/SNAILNET",
+    "description": "SnailNet is a lightweight Win32 TCP proxy that injects configurable latency into a connection. It listens on a local address and port, forwards traffic to a target address and port, and delays the relayed stream by a user-specified number of milliseconds. Useful for testing how applications behave over slow or high-latency links without touching the network stack.",
+    "url": "https://gitea.com/Kyle-Spicer/SNAILNET",
+    "cloneUrl": "https://gitea.com/Kyle-Spicer/SNAILNET.git",
+    "sshUrl": "git@gitea.com:Kyle-Spicer/SNAILNET.git",
+    "language": "C",
+    "topics": [],
+    "stars": 0,
+    "forks": 0,
+    "watchers": 1,
+    "openIssues": 1,
+    "size": 1120,
+    "createdAt": "2026-09-11T01:13:39Z",
+    "updatedAt": "2026-10-25T20:25:58Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "main",
+    "license": "MIT",
+    "categories": [
+      "other"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 16,
-    "activityScore": 41,
+    "trendScore": 16.6,
+    "activityScore": 44,
     "freshnessScore": 78,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -4995,9 +5157,9 @@
       "cybersecurity",
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 7.9,
@@ -5036,14 +5198,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 15.8,
+    "trendScore": 15.7,
     "activityScore": 41,
-    "freshnessScore": 76,
+    "freshnessScore": 75,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -5094,9 +5256,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12,
@@ -5150,9 +5312,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12,
@@ -5189,93 +5351,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.3,
     "activityScore": 41,
     "freshnessScore": 71,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 141727,
-    "owner": {
-      "username": "mike202020",
-      "avatarUrl": "https://gitea.com/avatars/1ecfe99f6cbec80cd517c042c73ebdf5be4a8836716a54ac0cf5f865bbea6d42",
-      "htmlUrl": "https://gitea.com/mike202020",
-      "fullName": ""
-    },
-    "name": "Test__1",
-    "fullName": "mike202020/Test__1",
-    "description": "",
-    "url": "https://gitea.com/mike202020/Test__1",
-    "cloneUrl": "https://gitea.com/mike202020/Test__1.git",
-    "sshUrl": "git@gitea.com:mike202020/Test__1.git",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 171,
-    "createdAt": "2026-08-29T14:35:59Z",
-    "updatedAt": "2026-10-25T01:06:47Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 15.3,
-    "activityScore": 41,
-    "freshnessScore": 71,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 141451,
-    "owner": {
-      "username": "SolarisPKN",
-      "avatarUrl": "https://gitea.com/avatars/5bc2c5b00fd21b3094628aaf5284128a",
-      "htmlUrl": "https://gitea.com/SolarisPKN",
-      "fullName": "SolarisPKN"
-    },
-    "name": "SolarisPKN-Labs",
-    "fullName": "SolarisPKN/SolarisPKN-Labs",
-    "description": "Open-source technology lab and development hub for SolarisPKN projects, documentation, automation, embedded systems, and infrastructure experiments.",
-    "url": "https://gitea.com/SolarisPKN/SolarisPKN-Labs",
-    "cloneUrl": "https://gitea.com/SolarisPKN/SolarisPKN-Labs.git",
-    "sshUrl": "git@gitea.com:SolarisPKN/SolarisPKN-Labs.git",
-    "language": "Astro",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 184325,
-    "createdAt": "2026-08-26T21:24:08Z",
-    "updatedAt": "2026-10-25T02:28:02Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "categories": [
-      "infrastructure"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 15.2,
-    "activityScore": 41,
-    "freshnessScore": 70,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -5315,9 +5398,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 29.8,
@@ -5345,9 +5428,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 1432445,
+    "size": 1457329,
     "createdAt": "2026-08-21T20:11:17Z",
-    "updatedAt": "2026-10-25T13:47:30Z",
+    "updatedAt": "2026-10-25T19:22:18Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -5355,51 +5438,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 15,
-    "activityScore": 41,
-    "freshnessScore": 68,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 140786,
-    "owner": {
-      "username": "t00mietum",
-      "avatarUrl": "https://gitea.com/avatars/aaaaf1bae63fb3a482fadc2ebc0622daebaee7ac4324be37642db5e45ba1f816",
-      "htmlUrl": "https://gitea.com/t00mietum",
-      "fullName": ""
-    },
-    "name": "camhauler",
-    "fullName": "t00mietum/camhauler",
-    "description": "THE go-to photo downloader and media organizer not just for Linux users, but for all desktops.",
-    "url": "https://gitea.com/t00mietum/camhauler",
-    "cloneUrl": "https://gitea.com/t00mietum/camhauler.git",
-    "sshUrl": "git@gitea.com:t00mietum/camhauler.git",
-    "website": "https://www.camhauler.com/",
-    "language": "Python",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 194989,
-    "createdAt": "2026-08-19T23:45:30Z",
-    "updatedAt": "2026-10-25T00:08:50Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "license": "GPL-3.0",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 14.9,
@@ -5455,9 +5496,9 @@
       "web",
       "self-hosted"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 36.1,
@@ -5495,9 +5536,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 6.3,
@@ -5546,9 +5587,9 @@
       "cli",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.8,
@@ -5587,55 +5628,14 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.7,
     "activityScore": 11,
     "freshnessScore": 60,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 139149,
-    "owner": {
-      "username": "lanticy",
-      "avatarUrl": "https://gitea.com/avatars/0cf9d75e285efa19b4126c7be2316e2ce94e683977f7f8de8d0c9e4b5ac23ef8",
-      "htmlUrl": "https://gitea.com/lanticy",
-      "fullName": "Ariel"
-    },
-    "name": "cAssets",
-    "fullName": "lanticy/cAssets",
-    "description": "本倉庫是基于 [cBlock Origin]( https://codeberg.org/lanticy/cBlock ) 的中国大陆适配CDN",
-    "url": "https://gitea.com/lanticy/cAssets",
-    "cloneUrl": "https://gitea.com/lanticy/cAssets.git",
-    "sshUrl": "git@gitea.com:lanticy/cAssets.git",
-    "website": "https://git.pub.solar/ariel/cAssets/",
-    "language": "HTML",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 647046,
-    "createdAt": "2026-08-05T09:45:37Z",
-    "updatedAt": "2026-10-25T00:31:51Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "pages",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 14.1,
-    "activityScore": 41,
-    "freshnessScore": 59,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -5668,9 +5668,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.8,
@@ -5708,9 +5708,9 @@
     "categories": [
       "devops"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.8,
@@ -5748,9 +5748,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.8,
@@ -5807,9 +5807,9 @@
       "cybersecurity",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.2,
@@ -5837,9 +5837,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 2238650,
+    "size": 2238845,
     "createdAt": "2026-07-19T13:41:56Z",
-    "updatedAt": "2026-10-25T02:10:39Z",
+    "updatedAt": "2026-10-25T16:30:56Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -5847,9 +5847,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.5,
@@ -5877,9 +5877,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 15368992,
+    "size": 15369933,
     "createdAt": "2026-07-19T13:41:44Z",
-    "updatedAt": "2026-10-25T02:37:56Z",
+    "updatedAt": "2026-10-25T20:10:00Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -5887,9 +5887,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.5,
@@ -5917,9 +5917,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 182594,
+    "size": 182780,
     "createdAt": "2026-07-19T13:41:24Z",
-    "updatedAt": "2026-10-25T02:26:01Z",
+    "updatedAt": "2026-10-25T17:57:55Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -5927,9 +5927,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.5,
@@ -5957,9 +5957,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 755,
+    "size": 761,
     "createdAt": "2026-07-19T10:30:00Z",
-    "updatedAt": "2026-10-25T14:47:10Z",
+    "updatedAt": "2026-10-25T18:52:40Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -5967,9 +5967,9 @@
     "categories": [
       "developer-tools"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.3,
@@ -6008,9 +6008,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.7,
@@ -6050,9 +6050,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.1,
@@ -6089,9 +6089,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.6,
@@ -6135,9 +6135,9 @@
       "cybersecurity",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5,
@@ -6202,9 +6202,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.1,
@@ -6243,9 +6243,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 20.1,
@@ -6254,33 +6254,32 @@
     "trendReason": "Solid community interest and healthy activity"
   },
   {
-    "id": 136360,
+    "id": 136071,
     "owner": {
-      "username": "dtapps",
-      "avatarUrl": "https://gitea.com/avatars/d04eb7be8aab36d8de198af745ac10e5",
-      "htmlUrl": "https://gitea.com/dtapps",
-      "fullName": ""
+      "username": "scorpp13",
+      "avatarUrl": "https://gitea.com/avatars/11b36551ba668019ed14e22033ea696c757eb97475edaa5b7bd55f83903b5dda",
+      "htmlUrl": "https://gitea.com/scorpp13",
+      "fullName": "Alexey Scorpionov"
     },
-    "name": "certflow",
-    "fullName": "dtapps/certflow",
-    "description": "SSL 证书管理工具，支持证书申请、续期、过期监控等功能。",
-    "url": "https://gitea.com/dtapps/certflow",
-    "cloneUrl": "https://gitea.com/dtapps/certflow.git",
-    "sshUrl": "git@gitea.com:dtapps/certflow.git",
-    "language": "Go",
+    "name": "hypr-void",
+    "fullName": "scorpp13/hypr-void",
+    "description": "Hypr-Void environment",
+    "url": "https://gitea.com/scorpp13/hypr-void",
+    "cloneUrl": "https://gitea.com/scorpp13/hypr-void.git",
+    "sshUrl": "git@gitea.com:scorpp13/hypr-void.git",
+    "language": "CSS",
     "topics": [],
-    "stars": 0,
-    "forks": 0,
+    "stars": 1,
+    "forks": 1,
     "watchers": 1,
     "openIssues": 0,
-    "size": 55511,
-    "createdAt": "2026-07-03T02:30:54Z",
-    "updatedAt": "2026-10-25T00:46:57Z",
+    "size": 358681,
+    "createdAt": "2026-06-29T20:18:54Z",
+    "updatedAt": "2026-10-25T19:52:27Z",
     "archived": false,
     "fork": false,
     "private": false,
-    "defaultBranch": "master",
-    "license": "MIT",
+    "defaultBranch": "main",
     "categories": [
       "other"
     ],
@@ -6289,9 +6288,9 @@
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 12.5,
+    "trendScore": 16.8,
     "activityScore": 41,
-    "freshnessScore": 43,
+    "freshnessScore": 41,
     "trendReason": "Solid community interest and healthy activity"
   },
   {
@@ -6325,9 +6324,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 23.6,
@@ -6356,9 +6355,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 120073,
+    "size": 121102,
     "createdAt": "2026-06-16T13:52:24Z",
-    "updatedAt": "2026-10-25T15:40:47Z",
+    "updatedAt": "2026-10-25T20:13:51Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -6367,9 +6366,9 @@
     "categories": [
       "self-hosted"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.3,
@@ -6407,9 +6406,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.6,
@@ -6470,9 +6469,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.1,
@@ -6511,9 +6510,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.6,
@@ -6555,9 +6554,9 @@
     "categories": [
       "ai"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.4,
@@ -6595,9 +6594,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.4,
@@ -6635,9 +6634,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3,
@@ -6679,9 +6678,9 @@
     "categories": [
       "networking"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.7,
@@ -6720,9 +6719,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.1,
@@ -6787,9 +6786,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 7,
@@ -6826,9 +6825,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 2.2,
@@ -6889,9 +6888,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 6.5,
@@ -6918,9 +6917,9 @@
     "forks": 7,
     "watchers": 2,
     "openIssues": 1,
-    "size": 6293291,
+    "size": 8056022,
     "createdAt": "2026-05-13T14:29:29Z",
-    "updatedAt": "2026-10-25T15:34:00Z",
+    "updatedAt": "2026-10-25T19:40:59Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -6929,9 +6928,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 27.9,
@@ -6969,9 +6968,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19,
@@ -7037,9 +7036,9 @@
       "automation",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 6,
@@ -7096,9 +7095,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.9,
@@ -7159,9 +7158,9 @@
       "ai",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.9,
@@ -7218,9 +7217,9 @@
       "cybersecurity",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.9,
@@ -7258,9 +7257,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.1,
@@ -7298,9 +7297,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.4,
@@ -7338,9 +7337,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -7405,9 +7404,9 @@
       "automation",
       "networking"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -7444,9 +7443,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -7475,9 +7474,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 3302770,
+    "size": 3302979,
     "createdAt": "2026-03-07T01:03:26Z",
-    "updatedAt": "2026-10-25T13:07:28Z",
+    "updatedAt": "2026-10-25T17:50:15Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -7485,9 +7484,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -7534,9 +7533,9 @@
       "cli",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -7574,9 +7573,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -7615,9 +7614,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -7655,9 +7654,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 2.2,
@@ -7695,9 +7694,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -7706,41 +7705,33 @@
     "trendReason": "Solid community interest and healthy activity"
   },
   {
-    "id": 120183,
+    "id": 122247,
     "owner": {
-      "username": "HafiziRuslan",
-      "avatarUrl": "https://gitea.com/avatars/fa962bbf283a336eb34e8cc0aa0b1e3f42398242608758e384d6689d88c7908d",
-      "htmlUrl": "https://gitea.com/HafiziRuslan",
-      "fullName": "Hafizi Ruslan"
+      "username": "meln5674",
+      "avatarUrl": "https://gitea.com/avatars/a58aaade8c25042d55eea48464cf95236117bc162acb01758f09f1545adfbb56",
+      "htmlUrl": "https://gitea.com/meln5674",
+      "fullName": ""
     },
-    "name": "RasPiAPRS",
-    "fullName": "HafiziRuslan/RasPiAPRS",
-    "description": "APRS telemetry for Pi-Star / WPSD / AllStarLink",
-    "url": "https://gitea.com/HafiziRuslan/RasPiAPRS",
-    "cloneUrl": "https://gitea.com/HafiziRuslan/RasPiAPRS.git",
-    "sshUrl": "git@gitea.com:HafiziRuslan/RasPiAPRS.git",
-    "language": "Python",
-    "topics": [
-      "allstarlink",
-      "amateur-radio",
-      "aprs",
-      "aprs-beacon",
-      "aprs-telemetry",
-      "mmdvm",
-      "pi-star",
-      "wpsd"
-    ],
+    "name": "helm-gitea",
+    "fullName": "meln5674/helm-gitea",
+    "description": "Helm chart for gitea",
+    "url": "https://gitea.com/meln5674/helm-gitea",
+    "cloneUrl": "https://gitea.com/meln5674/helm-gitea.git",
+    "sshUrl": "git@gitea.com:meln5674/helm-gitea.git",
+    "language": "Smarty",
+    "topics": [],
     "stars": 0,
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 37233,
-    "createdAt": "2026-01-19T23:54:37Z",
-    "updatedAt": "2026-10-25T02:32:45Z",
+    "size": 7869,
+    "createdAt": "2026-02-07T18:24:36Z",
+    "updatedAt": "2026-10-25T20:10:34Z",
     "archived": false,
-    "fork": false,
+    "fork": true,
     "private": false,
-    "defaultBranch": "master",
+    "defaultBranch": "main",
+    "license": "MIT",
     "categories": [
       "other"
     ],
@@ -7789,9 +7780,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -7829,9 +7820,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -7885,9 +7876,9 @@
       "infrastructure",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -7925,9 +7916,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.8,
@@ -7971,9 +7962,9 @@
       "cybersecurity",
       "education"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -8024,9 +8015,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -8063,9 +8054,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -8093,9 +8084,9 @@
     "forks": 0,
     "watchers": 18,
     "openIssues": 0,
-    "size": 304,
+    "size": 367,
     "createdAt": "2025-12-01T18:40:56Z",
-    "updatedAt": "2026-10-25T07:04:10Z",
+    "updatedAt": "2026-10-25T19:09:11Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -8104,9 +8095,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 20.5,
@@ -8166,53 +8157,13 @@
       "cybersecurity",
       "mobile"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
     "activityScore": 1,
-    "freshnessScore": 0,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 113900,
-    "owner": {
-      "username": "Liulin",
-      "avatarUrl": "https://gitea.com/avatars/60e806047765a9b377f31a75595ad740b491cddf4005e0de5cb0ba0d1ca0d499",
-      "htmlUrl": "https://gitea.com/Liulin",
-      "fullName": ""
-    },
-    "name": "ysc",
-    "fullName": "Liulin/ysc",
-    "description": "影视数据",
-    "url": "https://gitea.com/Liulin/ysc",
-    "cloneUrl": "https://gitea.com/Liulin/ysc.git",
-    "sshUrl": "git@gitea.com:Liulin/ysc.git",
-    "language": "M3U",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 25890,
-    "createdAt": "2025-11-15T03:00:25Z",
-    "updatedAt": "2026-10-25T00:30:04Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "main",
-    "categories": [
-      "other"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 8.2,
-    "activityScore": 41,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -8246,9 +8197,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -8285,9 +8236,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -8331,9 +8282,9 @@
       "cybersecurity",
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -8371,9 +8322,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.5,
@@ -8411,9 +8362,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.9,
@@ -8450,9 +8401,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -8491,9 +8442,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.3,
@@ -8547,9 +8498,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.8,
@@ -8600,9 +8551,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 20,
@@ -8656,9 +8607,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19.4,
@@ -8708,9 +8659,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 21.9,
@@ -8764,9 +8715,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19,
@@ -8817,9 +8768,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 20,
@@ -8864,9 +8815,9 @@
     "categories": [
       "developer-tools"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18,
@@ -8904,9 +8855,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -8945,9 +8896,9 @@
     "categories": [
       "developer-tools"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -8986,9 +8937,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10,
@@ -9028,9 +8979,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -9068,9 +9019,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9109,9 +9060,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9148,9 +9099,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9188,9 +9139,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0,
@@ -9228,9 +9179,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9269,9 +9220,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 21,
@@ -9299,9 +9250,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 424,
-    "size": 1211915,
+    "size": 1212039,
     "createdAt": "2025-07-05T09:44:20Z",
-    "updatedAt": "2026-10-25T06:11:07Z",
+    "updatedAt": "2026-10-25T16:00:59Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -9309,9 +9260,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.2,
@@ -9350,9 +9301,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -9389,9 +9340,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9429,9 +9380,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -9471,9 +9422,9 @@
     "categories": [
       "ai"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.7,
@@ -9528,9 +9479,9 @@
       "cybersecurity",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9568,9 +9519,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9609,9 +9560,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.7,
@@ -9658,9 +9609,9 @@
       "infrastructure",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -9706,9 +9657,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9753,9 +9704,9 @@
       "cybersecurity",
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -9793,9 +9744,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -9833,9 +9784,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -9884,13 +9835,13 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 48.7,
-    "activityScore": 93,
+    "trendScore": 46.7,
+    "activityScore": 83,
     "freshnessScore": 0,
     "trendReason": "Recent major release (v1.11.0) & active commits"
   },
@@ -9937,9 +9888,9 @@
       "devops",
       "infrastructure"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 28.1,
@@ -9977,9 +9928,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -10007,9 +9958,9 @@
     "forks": 0,
     "watchers": 1,
     "openIssues": 0,
-    "size": 431832,
+    "size": 432772,
     "createdAt": "2025-02-24T15:47:43Z",
-    "updatedAt": "2026-10-25T13:08:09Z",
+    "updatedAt": "2026-10-25T19:36:12Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -10017,9 +9968,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -10057,9 +10008,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -10098,9 +10049,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -10140,9 +10091,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.2,
@@ -10180,9 +10131,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.2,
@@ -10222,9 +10173,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -10263,9 +10214,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -10303,9 +10254,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -10344,9 +10295,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 21.1,
@@ -10384,9 +10335,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -10424,9 +10375,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.4,
@@ -10464,9 +10415,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.8,
@@ -10504,9 +10455,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -10551,9 +10502,9 @@
       "web",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.9,
@@ -10592,9 +10543,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.4,
@@ -10631,9 +10582,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -10642,32 +10593,32 @@
     "trendReason": "Solid community interest and healthy activity"
   },
   {
-    "id": 66240,
+    "id": 65136,
     "owner": {
-      "username": "techknowlogick",
-      "avatarUrl": "https://gitea.com/avatars/9b588dd0b384d6f6ae841c5d62302033",
-      "htmlUrl": "https://gitea.com/techknowlogick",
+      "username": "projectInfinity-x",
+      "avatarUrl": "https://gitea.com/avatars/4c9187cf2107d7704a55475d7207b5e4",
+      "htmlUrl": "https://gitea.com/projectInfinity-x",
       "fullName": ""
     },
-    "name": "tklk-flake",
-    "fullName": "techknowlogick/tklk-flake",
-    "description": "techknow's bargin basement collection of packages",
-    "url": "https://gitea.com/techknowlogick/tklk-flake",
-    "cloneUrl": "https://gitea.com/techknowlogick/tklk-flake.git",
-    "sshUrl": "git@gitea.com:techknowlogick/tklk-flake.git",
-    "language": "Nix",
+    "name": "packages_apps_InfinitySuite",
+    "fullName": "projectInfinity-x/packages_apps_InfinitySuite",
+    "description": "",
+    "url": "https://gitea.com/projectInfinity-x/packages_apps_InfinitySuite",
+    "cloneUrl": "https://gitea.com/projectInfinity-x/packages_apps_InfinitySuite.git",
+    "sshUrl": "git@gitea.com:projectInfinity-x/packages_apps_InfinitySuite.git",
+    "language": "Java",
     "topics": [],
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
-    "watchers": 1,
-    "openIssues": 1,
-    "size": 2781,
-    "createdAt": "2024-08-28T19:11:40Z",
-    "updatedAt": "2026-10-25T00:05:06Z",
+    "watchers": 2,
+    "openIssues": 0,
+    "size": 671775,
+    "createdAt": "2024-08-16T19:38:19Z",
+    "updatedAt": "2026-10-25T16:53:18Z",
     "archived": false,
     "fork": false,
     "private": false,
-    "defaultBranch": "main",
+    "defaultBranch": "QPR3",
     "categories": [
       "other"
     ],
@@ -10676,8 +10627,8 @@
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 13.3,
-    "activityScore": 44,
+    "trendScore": 8.4,
+    "activityScore": 42,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -10713,9 +10664,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.7,
@@ -10757,9 +10708,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -10821,9 +10772,9 @@
       "automation",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -10863,9 +10814,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 28.7,
@@ -10903,9 +10854,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0,
@@ -10944,9 +10895,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 24.4,
@@ -10984,9 +10935,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11037,9 +10988,9 @@
       "infrastructure",
       "networking"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.2,
@@ -11078,9 +11029,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 16.7,
@@ -11119,9 +11070,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19.1,
@@ -11158,9 +11109,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11198,9 +11149,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -11255,9 +11206,9 @@
       "networking",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11303,9 +11254,9 @@
       "databases",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.2,
@@ -11349,9 +11300,9 @@
     "categories": [
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -11388,9 +11339,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11431,9 +11382,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.1,
@@ -11479,9 +11430,9 @@
       "infrastructure",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.3,
@@ -11520,9 +11471,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.4,
@@ -11560,9 +11511,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0,
@@ -11606,9 +11557,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.4,
@@ -11648,9 +11599,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 33.1,
@@ -11687,9 +11638,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -11727,9 +11678,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11768,9 +11719,9 @@
     "categories": [
       "cybersecurity"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 1.2,
@@ -11808,9 +11759,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.5,
@@ -11847,9 +11798,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -11888,9 +11839,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 22.5,
@@ -11953,9 +11904,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 34,
@@ -12001,9 +11952,9 @@
       "infrastructure",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -12061,9 +12012,9 @@
       "web",
       "networking"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -12102,64 +12053,13 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 29.7,
     "activityScore": 48,
-    "freshnessScore": 0,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 38873,
-    "owner": {
-      "username": "Crosshawx",
-      "avatarUrl": "https://gitea.com/avatars/3b01c21b9d875825f8e2c0b54b09c889",
-      "htmlUrl": "https://gitea.com/Crosshawx",
-      "fullName": ""
-    },
-    "name": "awesome-piracy-backup",
-    "fullName": "Crosshawx/awesome-piracy-backup",
-    "description": "Backup of awesome piracy list",
-    "url": "https://gitea.com/Crosshawx/awesome-piracy-backup",
-    "cloneUrl": "https://gitea.com/Crosshawx/awesome-piracy-backup.git",
-    "sshUrl": "git@gitea.com:Crosshawx/awesome-piracy-backup.git",
-    "language": "HTML",
-    "topics": [
-      "awesome-list",
-      "tv",
-      "music",
-      "piracy",
-      "movies",
-      "ebooks",
-      "comics",
-      "warez",
-      "audiobooks"
-    ],
-    "stars": 0,
-    "forks": 2,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 3721,
-    "createdAt": "2023-07-19T07:09:03Z",
-    "updatedAt": "2026-10-25T02:10:38Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "master",
-    "license": "CC0-1.0",
-    "categories": [
-      "education"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 8.2,
-    "activityScore": 41,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -12198,9 +12098,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.9,
@@ -12243,9 +12143,9 @@
     "categories": [
       "ai"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -12296,9 +12196,9 @@
       "ai",
       "databases"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -12336,9 +12236,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.3,
@@ -12382,9 +12282,9 @@
     "categories": [
       "devops"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.3,
@@ -12422,9 +12322,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.2,
@@ -12462,9 +12362,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 14.1,
@@ -12508,9 +12408,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.6,
@@ -12548,9 +12448,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.2,
@@ -12588,9 +12488,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.7,
@@ -12629,9 +12529,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.9,
@@ -12680,13 +12580,13 @@
     "categories": [
       "devops"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 55.2,
-    "activityScore": 94,
+    "trendScore": 53.2,
+    "activityScore": 84,
     "freshnessScore": 0,
     "trendReason": "Recent major release (v5.2.2) & active commits"
   },
@@ -12727,9 +12627,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.3,
@@ -12768,9 +12668,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.3,
@@ -12809,9 +12709,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19.3,
@@ -12849,13 +12749,54 @@
     "categories": [
       "other"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 8.8,
+    "activityScore": 44,
+    "freshnessScore": 0,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 26270,
+    "owner": {
+      "username": "gentle",
+      "avatarUrl": "https://gitea.com/avatars/6c4e2b22797d4b35ab93c2586993bb1a",
+      "htmlUrl": "https://gitea.com/gentle",
+      "fullName": ""
+    },
+    "name": "ExView",
+    "fullName": "gentle/ExView",
+    "description": "",
+    "url": "https://gitea.com/gentle/ExView",
+    "cloneUrl": "https://gitea.com/gentle/ExView.git",
+    "sshUrl": "git@gitea.com:gentle/ExView.git",
+    "language": "JavaScript",
+    "topics": [],
+    "stars": 2,
+    "forks": 1,
+    "watchers": 2,
+    "openIssues": 1,
+    "size": 240015,
+    "createdAt": "2022-07-18T12:39:17Z",
+    "updatedAt": "2026-10-25T18:35:21Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "master",
+    "license": "GPL-3.0",
+    "categories": [
+      "other"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 8.8,
-    "activityScore": 44,
+    "trendScore": 16.2,
+    "activityScore": 45,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -12889,13 +12830,52 @@
     "categories": [
       "other"
     ],
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
+    "starGrowth7d": null,
+    "forkGrowth7d": null,
+    "trendScore": 1.4,
+    "activityScore": 1,
+    "freshnessScore": 0,
+    "trendReason": "Solid community interest and healthy activity"
+  },
+  {
+    "id": 24778,
+    "owner": {
+      "username": "gentle",
+      "avatarUrl": "https://gitea.com/avatars/6c4e2b22797d4b35ab93c2586993bb1a",
+      "htmlUrl": "https://gitea.com/gentle",
+      "fullName": ""
+    },
+    "name": "ppcat",
+    "fullName": "gentle/ppcat",
+    "description": "",
+    "url": "https://gitea.com/gentle/ppcat",
+    "cloneUrl": "https://gitea.com/gentle/ppcat.git",
+    "sshUrl": "git@gitea.com:gentle/ppcat.git",
+    "topics": [],
+    "stars": 0,
+    "forks": 4,
+    "watchers": 2,
+    "openIssues": 2,
+    "size": 279147,
+    "createdAt": "2022-06-26T13:17:57Z",
+    "updatedAt": "2026-10-25T18:31:35Z",
+    "archived": false,
+    "fork": false,
+    "private": false,
+    "defaultBranch": "master",
+    "categories": [
+      "other"
+    ],
     "starGrowth24h": null,
     "forkGrowth24h": null,
     "growthPercentage24h": null,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 1.4,
-    "activityScore": 1,
+    "trendScore": 9.4,
+    "activityScore": 47,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -12919,9 +12899,9 @@
     "forks": 0,
     "watchers": 2,
     "openIssues": 0,
-    "size": 2063312,
+    "size": 2063613,
     "createdAt": "2022-05-31T05:24:49Z",
-    "updatedAt": "2026-10-24T05:18:31Z",
+    "updatedAt": "2026-10-25T18:25:31Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -12929,13 +12909,13 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 19.9,
-    "activityScore": 32,
+    "trendScore": 21.9,
+    "activityScore": 42,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -12959,9 +12939,9 @@
     "forks": 1,
     "watchers": 2,
     "openIssues": 0,
-    "size": 1864635,
+    "size": 1868526,
     "createdAt": "2022-05-31T05:21:30Z",
-    "updatedAt": "2026-10-24T05:18:46Z",
+    "updatedAt": "2026-10-25T18:25:26Z",
     "archived": false,
     "fork": false,
     "private": false,
@@ -12969,13 +12949,13 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 19.1,
-    "activityScore": 32,
+    "trendScore": 21.1,
+    "activityScore": 42,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -13010,9 +12990,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 18.1,
@@ -13065,53 +13045,13 @@
       "web",
       "games"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
     "activityScore": 1,
-    "freshnessScore": 0,
-    "trendReason": "Solid community interest and healthy activity"
-  },
-  {
-    "id": 22253,
-    "owner": {
-      "username": "CyberShell",
-      "avatarUrl": "https://gitea.com/avatars/99329ff6f0f0c4d1efdd6e8ca210e2c3",
-      "htmlUrl": "https://gitea.com/CyberShell",
-      "fullName": ""
-    },
-    "name": "hostfiles",
-    "fullName": "CyberShell/hostfiles",
-    "description": "",
-    "url": "https://gitea.com/CyberShell/hostfiles",
-    "cloneUrl": "https://gitea.com/CyberShell/hostfiles.git",
-    "sshUrl": "git@gitea.com:CyberShell/hostfiles.git",
-    "language": "JavaScript",
-    "topics": [],
-    "stars": 0,
-    "forks": 0,
-    "watchers": 1,
-    "openIssues": 0,
-    "size": 2542570,
-    "createdAt": "2022-05-18T17:39:53Z",
-    "updatedAt": "2026-10-25T02:03:01Z",
-    "archived": false,
-    "fork": false,
-    "private": false,
-    "defaultBranch": "master",
-    "categories": [
-      "cybersecurity"
-    ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
-    "starGrowth7d": null,
-    "forkGrowth7d": null,
-    "trendScore": 8.2,
-    "activityScore": 41,
     "freshnessScore": 0,
     "trendReason": "Solid community interest and healthy activity"
   },
@@ -13152,9 +13092,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.2,
@@ -13192,9 +13132,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.1,
@@ -13234,9 +13174,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.9,
@@ -13274,9 +13214,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.3,
@@ -13313,9 +13253,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -13353,9 +13293,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 0.2,
@@ -13413,9 +13353,9 @@
       "infrastructure",
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.4,
@@ -13460,9 +13400,9 @@
       "cybersecurity",
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 8.4,
@@ -13504,9 +13444,9 @@
     "categories": [
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -13548,9 +13488,9 @@
       "infrastructure",
       "databases"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 7.4,
@@ -13601,9 +13541,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.7,
@@ -13641,9 +13581,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -13681,9 +13621,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4,
@@ -13720,9 +13660,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.4,
@@ -13762,9 +13702,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 30.4,
@@ -13803,9 +13743,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 2.6,
@@ -13844,9 +13784,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.2,
@@ -13883,9 +13823,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.8,
@@ -13928,9 +13868,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 1.7,
@@ -13968,9 +13908,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.6,
@@ -14020,9 +13960,9 @@
       "devops",
       "infrastructure"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 42.6,
@@ -14060,9 +14000,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -14101,9 +14041,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.7,
@@ -14141,9 +14081,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.7,
@@ -14186,9 +14126,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.1,
@@ -14226,9 +14166,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.6,
@@ -14271,9 +14211,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 14.9,
@@ -14317,9 +14257,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 23.4,
@@ -14357,9 +14297,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.3,
@@ -14397,9 +14337,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.1,
@@ -14443,9 +14383,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.4,
@@ -14485,9 +14425,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 13.8,
@@ -14525,9 +14465,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.9,
@@ -14582,9 +14522,9 @@
     "categories": [
       "databases"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 57.2,
@@ -14631,9 +14571,9 @@
     "categories": [
       "databases"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -14676,9 +14616,9 @@
     "categories": [
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.6,
@@ -14722,9 +14662,9 @@
     "categories": [
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.8,
@@ -14763,13 +14703,13 @@
     "categories": [
       "education"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
-    "trendScore": 45.7,
-    "activityScore": 50,
+    "trendScore": 43.7,
+    "activityScore": 40,
     "freshnessScore": 0,
     "trendReason": "Established ecosystem staple in Gitea"
   },
@@ -14803,9 +14743,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.3,
@@ -14843,9 +14783,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 15.5,
@@ -14884,9 +14824,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 30.8,
@@ -14927,9 +14867,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 3.3,
@@ -14970,9 +14910,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 6.2,
@@ -15014,9 +14954,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 6.3,
@@ -15058,9 +14998,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 31,
@@ -15110,9 +15050,9 @@
     "categories": [
       "infrastructure"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 28.1,
@@ -15160,9 +15100,9 @@
     "categories": [
       "infrastructure"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.2,
@@ -15199,9 +15139,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 20.2,
@@ -15239,9 +15179,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.9,
@@ -15286,9 +15226,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 7.6,
@@ -15333,9 +15273,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 24.1,
@@ -15385,9 +15325,9 @@
     "categories": [
       "developer-tools"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 45.4,
@@ -15425,9 +15365,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.6,
@@ -15469,9 +15409,9 @@
     "categories": [
       "automation"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 19.7,
@@ -15509,9 +15449,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -15564,9 +15504,9 @@
     "categories": [
       "mobile"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 9.6,
@@ -15614,9 +15554,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 50.5,
@@ -15664,9 +15604,9 @@
     "categories": [
       "web"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 21.5,
@@ -15704,9 +15644,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 17.6,
@@ -15746,9 +15686,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 12.1,
@@ -15786,9 +15726,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.2,
@@ -15826,9 +15766,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 11.9,
@@ -15866,9 +15806,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 5.3,
@@ -15910,9 +15850,9 @@
     "categories": [
       "cli"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 4.7,
@@ -15954,9 +15894,9 @@
     "categories": [
       "other"
     ],
-    "starGrowth24h": null,
-    "forkGrowth24h": null,
-    "growthPercentage24h": null,
+    "starGrowth24h": 0,
+    "forkGrowth24h": 0,
+    "growthPercentage24h": 0,
     "starGrowth7d": null,
     "forkGrowth7d": null,
     "trendScore": 10.7,

@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 257,
-    "totalStars": 815,
+    "count": 259,
+    "totalStars": 817,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,12 +18,12 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 38,
+    "count": 37,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
+      "K3ysTr0K3R/METIS",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools",
       "yslxotwod/IMSIsting"
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 163,
     "iconName": "Server",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "SolarisPKN/SolarisPKN-Labs"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -150,21 +150,6 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 6,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "aykhan/awesome-gitea",
-      "sadfun/awesome-gitea",
-      "Crosshawx/awesome-piracy-backup",
-      "jurisgrid/awesome-indian-legaltech"
-    ]
-  },
-  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
@@ -195,6 +180,21 @@
     ]
   },
   {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 5,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "aykhan/awesome-gitea",
+      "sadfun/awesome-gitea",
+      "jurisgrid/awesome-indian-legaltech",
+      "bensams/671"
+    ]
+  },
+  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -217,9 +217,9 @@
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Kyle-Spicer/GitOps",
       "paoloronco/OrbitPage",
-      "niamadoutraore89/mio-music-plugins",
-      "Woxels/woxie-homelab-kuberneties"
+      "niamadoutraore89/mio-music-plugins"
     ]
   },
   {

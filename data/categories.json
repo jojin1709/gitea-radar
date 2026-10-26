@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 259,
-    "totalStars": 817,
+    "count": 258,
+    "totalStars": 814,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,52 +18,37 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 37,
+    "count": 38,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "CyberShell/hostfiles",
       "K3ysTr0K3R/METIS",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "yslxotwod/IMSIsting"
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 23,
+    "count": 25,
     "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "LakshitSinghBishtTM/CoreAI-Protocol-Suite",
-      "Jesse-perpC/EdgeLLM-Studio",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 22,
-    "totalStars": 443,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "Oringo-Client/Oringo-Client-Supporter"
+      "gresil-rs/gresil",
+      "zaccesss/phaemos",
+      "zaccesss/isaacadjei.me",
+      "LakshitSinghBishtTM/CoreAI-Protocol-Suite"
     ]
   },
   {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 18,
+    "count": 22,
     "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
@@ -72,6 +57,21 @@
       "nettleweb/nettleweb",
       "cereci5049/Shoppers",
       "WebPlay/client"
+    ]
+  },
+  {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 21,
+    "totalStars": 443,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 15,
     "totalStars": 163,
     "iconName": "Server",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "zaccesss/melophos"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 8,
+    "count": 10,
     "totalStars": 426,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,30 +123,60 @@
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 7,
+    "count": 8,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
+      "gresil-rs/gresil",
       "LakshitSinghBishtTM/snowflake",
       "realqingtian/netbird",
       "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb"
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 7,
-    "totalStars": 9,
+    "count": 8,
+    "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM",
-      "grokmeme/gpt4free"
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 8,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "zaccesss/zacess",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "aykhan/awesome-gitea"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 7,
+    "totalStars": 416,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -165,33 +195,18 @@
     ]
   },
   {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
     "count": 5,
-    "totalStars": 416,
-    "iconName": "Database",
+    "totalStars": 43,
+    "iconName": "Home",
     "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 5,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "aykhan/awesome-gitea",
-      "sadfun/awesome-gitea",
-      "jurisgrid/awesome-indian-legaltech",
-      "bensams/671"
+      "DuarteSantos/openGym",
+      "zaccesss/melophos",
+      "Kyle-Spicer/GitOps",
+      "paoloronco/OrbitPage",
+      "niamadoutraore89/mio-music-plugins"
     ]
   },
   {
@@ -209,26 +224,14 @@
     ]
   },
   {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 4,
-    "totalStars": 43,
-    "iconName": "Home",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "Kyle-Spicer/GitOps",
-      "paoloronco/OrbitPage",
-      "niamadoutraore89/mio-music-plugins"
-    ]
-  },
-  {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 0,
+    "count": 1,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": []
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
   }
 ]

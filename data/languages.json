@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 55,
-    "totalStars": 1469,
+    "count": 56,
+    "totalStars": 1468,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 20,
+    "count": 19,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -50,8 +50,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 26,
-    "totalStars": 92,
+    "count": 27,
+    "totalStars": 93,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -62,21 +62,8 @@
     ]
   },
   {
-    "name": "C++",
-    "count": 6,
-    "totalStars": 57,
-    "color": "#F34B7D",
-    "topRepositories": [
-      "akouzoukos/apotris",
-      "JerryALT/iw3sp_mod",
-      "burhbayr/Prayer_App_UnaWatch",
-      "kaos/engine",
-      "fainted09/FiveM-Mod-Menu"
-    ]
-  },
-  {
     "name": "TypeScript",
-    "count": 19,
+    "count": 20,
     "totalStars": 55,
     "color": "#3178C6",
     "topRepositories": [
@@ -88,6 +75,19 @@
     ]
   },
   {
+    "name": "C++",
+    "count": 6,
+    "totalStars": 55,
+    "color": "#F34B7D",
+    "topRepositories": [
+      "akouzoukos/apotris",
+      "JerryALT/iw3sp_mod",
+      "Damieyo/damieyo",
+      "burhbayr/Prayer_App_UnaWatch",
+      "fainted09/FiveM-Mod-Menu"
+    ]
+  },
+  {
     "name": "C#",
     "count": 9,
     "totalStars": 48,
@@ -95,8 +95,8 @@
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "othertime/gratisforgratis",
       "Demtakeniri/Rune-Walkers",
+      "othertime/gratisforgratis",
       "Maksim_Karpov/winPizzaHub"
     ]
   },
@@ -109,8 +109,8 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "firavoyage/blogging",
-      "torappinfo/uweb"
+      "idkidocode/Gams",
+      "firavoyage/blogging"
     ]
   },
   {
@@ -124,15 +124,15 @@
   },
   {
     "name": "Python",
-    "count": 41,
-    "totalStars": 27,
+    "count": 44,
+    "totalStars": 29,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "K3ysTr0K3R/METIS"
+      "zaccesss/.profile"
     ]
   },
   {
@@ -179,14 +179,15 @@
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 5,
     "totalStars": 14,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "scorpp13/hypr-void",
-      "pooneyy/1Panel-Appstore"
+      "wushuai/ycm",
+      "pooneyy/1Panel-Appstore",
+      "scorpp13/hypr-void"
     ]
   },
   {
@@ -204,14 +205,13 @@
   },
   {
     "name": "Vue",
-    "count": 4,
-    "totalStars": 12,
+    "count": 3,
+    "totalStars": 11,
     "color": "#41B883",
     "topRepositories": [
       "sapk/explore-webapp",
       "gerazo/eltelive",
-      "WebPlay/client",
-      "qiqius/2077"
+      "WebPlay/client"
     ]
   },
   {
@@ -222,9 +222,9 @@
     "topRepositories": [
       "rozhuk.im/freebsd",
       "Kyle-Spicer/SNAILNET",
+      "aciidz/sst",
       "shastriii/compiler-lab",
-      "driswillis156/CYNIZ-404",
-      "gabordemooij/xoscript"
+      "driswillis156/CYNIZ-404"
     ]
   },
   {
@@ -238,13 +238,15 @@
   },
   {
     "name": "Rust",
-    "count": 3,
+    "count": 6,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "woolster2020/vc",
-      "Rusted-app/rusted-editor"
+      "gresil-rs/gresil",
+      "Rusted-app/rusted-editor",
+      "zaccesss/zacess",
+      "woolster2020/vc"
     ]
   },
   {
@@ -279,12 +281,23 @@
   },
   {
     "name": "Kotlin",
-    "count": 2,
+    "count": 1,
     "totalStars": 2,
     "color": "#A97BFF",
     "topRepositories": [
-      "Jesse-perpC/EdgeLLM-Studio",
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "F*",
+    "count": 4,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "Alch3myOS/vendor_gms",
+      "clarencelol/android_vendor_gms",
+      "clarencelol/vendor_gms",
+      "Project-Awaken/android_vendor_gms"
     ]
   },
   {
@@ -299,17 +312,6 @@
     ]
   },
   {
-    "name": "F*",
-    "count": 3,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "clarencelol/android_vendor_gms",
-      "clarencelol/vendor_gms",
-      "Project-Awaken/android_vendor_gms"
-    ]
-  },
-  {
     "name": "Smarty",
     "count": 2,
     "totalStars": 1,
@@ -320,21 +322,21 @@
     ]
   },
   {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "techknowlogick/tklk-flake"
+    ]
+  },
+  {
     "name": "Batchfile",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
-    ]
-  },
-  {
-    "name": "templ",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -369,17 +371,6 @@
     ]
   },
   {
-    "name": "PowerShell",
-    "count": 3,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/Scoop",
-      "anhtn512/burp-burp",
-      "mureeb/burp-pro"
-    ]
-  },
-  {
     "name": "Dart",
     "count": 2,
     "totalStars": 0,
@@ -387,6 +378,25 @@
     "topRepositories": [
       "Athallahra1234/pokemon_app",
       "application/coco_clipboard_scanner"
+    ]
+  },
+  {
+    "name": "PowerShell",
+    "count": 2,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "anhtn512/burp-burp",
+      "mureeb/burp-pro"
+    ]
+  },
+  {
+    "name": "M3U",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "russellb9/bongda"
     ]
   },
   {
@@ -405,33 +415,6 @@
     "color": "#5E5086",
     "topRepositories": [
       "whiteydev/Funcscheme"
-    ]
-  },
-  {
-    "name": "TSQL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "vianandaMegaria/source"
-    ]
-  },
-  {
-    "name": "M3U",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "russellb9/bongda"
-    ]
-  },
-  {
-    "name": "AsciiDoc",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "GravitonForge/Bookmarks"
     ]
   }
 ]

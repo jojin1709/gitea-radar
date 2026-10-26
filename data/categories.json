@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 258,
-    "totalStars": 814,
+    "count": 256,
+    "totalStars": 813,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,8 +23,8 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
-      "K3ysTr0K3R/METIS",
+      "cyberwarn/CyberWarn",
+      "cyberwarn/VoidSec",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools"
     ]
@@ -33,37 +33,22 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 25,
+    "count": 23,
     "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
+      "flowspeech/mcp-flowspeech-server",
       "gresil-rs/gresil",
-      "zaccesss/phaemos",
-      "zaccesss/isaacadjei.me",
-      "LakshitSinghBishtTM/CoreAI-Protocol-Suite"
-    ]
-  },
-  {
-    "id": "web",
-    "name": "Web",
-    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 22,
-    "totalStars": 82,
-    "iconName": "Globe",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "lunny/tango",
-      "nettleweb/nettleweb",
-      "cereci5049/Shoppers",
-      "WebPlay/client"
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
+    "count": 22,
     "totalStars": 443,
     "iconName": "Terminal",
     "topRepositories": [
@@ -72,6 +57,21 @@
       "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client",
       "Oringo-Client/Oringo-Client-Supporter"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 18,
+    "totalStars": 82,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "lunny/tango",
+      "nettleweb/nettleweb",
+      "cereci5049/Shoppers",
+      "WebPlay/client"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 163,
     "iconName": "Server",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "zaccesss/melophos"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
+    "count": 8,
     "totalStars": 426,
     "iconName": "Workflow",
     "topRepositories": [
@@ -120,93 +120,62 @@
     ]
   },
   {
+    "id": "games",
+    "name": "Games",
+    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
+    "count": 7,
+    "totalStars": 9,
+    "iconName": "Gamepad2",
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc",
+      "FlowMagic/redENGINE-FiveM",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 8,
+    "count": 6,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
       "gresil-rs/gresil",
-      "LakshitSinghBishtTM/snowflake",
-      "realqingtian/netbird",
       "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky"
-    ]
-  },
-  {
-    "id": "games",
-    "name": "Games",
-    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
-    "totalStars": 11,
-    "iconName": "Gamepad2",
-    "topRepositories": [
-      "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 8,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "aykhan/awesome-gitea"
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 7,
+    "count": 5,
     "totalStars": 416,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "serpdotai/bark-with-voice-clone"
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 5,
+    "count": 4,
     "totalStars": 66,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js",
-      "shastriii/compiler-lab",
       "hexmos/FreeDevTools",
       "rubayet123/rea"
-    ]
-  },
-  {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 5,
-    "totalStars": 43,
-    "iconName": "Home",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "Kyle-Spicer/GitOps",
-      "paoloronco/OrbitPage",
-      "niamadoutraore89/mio-music-plugins"
     ]
   },
   {
@@ -224,14 +193,38 @@
     ]
   },
   {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 4,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "aykhan/awesome-gitea",
+      "sadfun/awesome-gitea",
+      "bensams/671"
+    ]
+  },
+  {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 2,
+    "totalStars": 42,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "niamadoutraore89/mio-music-plugins"
+    ]
+  },
+  {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

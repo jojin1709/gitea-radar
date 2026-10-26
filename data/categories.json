@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 256,
-    "totalStars": 813,
+    "count": 269,
+    "totalStars": 809,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 38,
+    "count": 36,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "cyberwarn/CyberWarn",
-      "cyberwarn/VoidSec",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
@@ -38,8 +38,8 @@
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "flowspeech/mcp-flowspeech-server",
-      "gresil-rs/gresil",
+      "imagegpt/imagegpt",
+      "nestackagentcare/llm-drift-monitoring",
       "PublicAffairs/openai-github-copilot",
       "serpdotai/bark-with-voice-clone"
     ]
@@ -48,8 +48,8 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 22,
-    "totalStars": 443,
+    "count": 21,
+    "totalStars": 445,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 18,
+    "count": 19,
     "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 15,
     "totalStars": 163,
     "iconName": "Server",
     "topRepositories": [
@@ -101,15 +101,15 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "MrTREX/lineage2ts"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 8,
-    "totalStars": 426,
+    "count": 9,
+    "totalStars": 429,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -123,15 +123,30 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 7,
+    "count": 8,
     "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "MrTREX/lineage2ts",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM",
-      "grokmeme/gpt4free"
+      "FlowMagic/redENGINE-FiveM"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 6,
+    "totalStars": 416,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "MrTREX/lineage2ts",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner"
     ]
   },
   {
@@ -142,26 +157,11 @@
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
-      "gresil-rs/gresil",
+      "MrTREX/lineage2ts",
       "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
       "palmcoasty/bunkerweb",
       "rammiah/caddy"
-    ]
-  },
-  {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
-    "totalStars": 416,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -179,20 +179,6 @@
     ]
   },
   {
-    "id": "mobile",
-    "name": "Mobile",
-    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
-    "totalStars": 57,
-    "iconName": "Smartphone",
-    "topRepositories": [
-      "gitnex/GitNex",
-      "Sultani001/ramin-app",
-      "ab-smith/ciso-assistant-community",
-      "Missou/ciso-assistant-community"
-    ]
-  },
-  {
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
@@ -204,6 +190,19 @@
       "aykhan/awesome-gitea",
       "sadfun/awesome-gitea",
       "bensams/671"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile",
+    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
+    "count": 3,
+    "totalStars": 57,
+    "iconName": "Smartphone",
+    "topRepositories": [
+      "gitnex/GitNex",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community"
     ]
   },
   {

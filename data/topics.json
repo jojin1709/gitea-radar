@@ -13,8 +13,8 @@
   },
   {
     "name": "gitea",
-    "count": 16,
-    "totalStars": 690,
+    "count": 15,
+    "totalStars": 689,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -312,9 +312,21 @@
     ]
   },
   {
+    "name": "server",
+    "count": 5,
+    "totalStars": 50,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "MrTREX/lineage2ts",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
     "name": "cli",
     "count": 4,
-    "totalStars": 283,
+    "totalStars": 285,
     "topRepositories": [
       "gitea/tea",
       "jolheiser/sip",
@@ -331,17 +343,6 @@
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community",
       "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "server",
-    "count": 4,
-    "totalStars": 50,
-    "topRepositories": [
-      "goftp/server",
-      "goftp/ftpd",
-      "Griefed/ServerPackCreator",
-      "its-theo/NukeCord"
     ]
   },
   {
@@ -404,6 +405,16 @@
       "DuarteSantos/openGym",
       "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "MrTREX/lineage2ts",
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -496,9 +507,18 @@
     ]
   },
   {
+    "name": "sqlite",
+    "count": 2,
+    "totalStars": 409,
+    "topRepositories": [
+      "xorm/xorm",
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 276,
+    "totalStars": 279,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -565,15 +585,6 @@
     "topRepositories": [
       "goftp/server",
       "lunny/levelqueue"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 40,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -658,24 +669,6 @@
     ]
   },
   {
-    "name": "elasticsearch",
-    "count": 2,
-    "totalStars": 4,
-    "topRepositories": [
-      "sapk/explore",
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "name": "search",
-    "count": 2,
-    "totalStars": 4,
-    "topRepositories": [
-      "sapk/explore",
-      "dadidang/zinc"
-    ]
-  },
-  {
     "name": "chatgpt",
     "count": 2,
     "totalStars": 4,
@@ -709,15 +702,6 @@
     "topRepositories": [
       "Griefed/ServerPackCreator",
       "SpeedSlicer/MineXLauncher-Beta"
-    ]
-  },
-  {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -790,24 +774,6 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "security-tools",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "dadidang/zinc",
-      "yslxotwod/IMSIsting"
     ]
   },
   {
@@ -982,15 +948,6 @@
     ]
   },
   {
-    "name": "radio-frequency",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting",
-      "yslxotwod/wifisting"
-    ]
-  },
-  {
     "name": "hacktoberfest",
     "count": 2,
     "totalStars": 0,
@@ -1050,14 +1007,6 @@
     ]
   },
   {
-    "name": "sqlite",
-    "count": 1,
-    "totalStars": 409,
-    "topRepositories": [
-      "xorm/xorm"
-    ]
-  },
-  {
     "name": "postgres",
     "count": 1,
     "totalStars": 409,
@@ -1068,7 +1017,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 267,
+    "totalStars": 270,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1076,7 +1025,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 267,
+    "totalStars": 270,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1191,6 +1140,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 40,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1674,14 +1631,6 @@
     ]
   },
   {
-    "name": "index",
-    "count": 1,
-    "totalStars": 3,
-    "topRepositories": [
-      "sapk/explore"
-    ]
-  },
-  {
     "name": "bloxd",
     "count": 1,
     "totalStars": 3,
@@ -1866,22 +1815,6 @@
     ]
   },
   {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
     "name": "eaglercraft",
     "count": 1,
     "totalStars": 1,
@@ -1899,6 +1832,30 @@
   },
   {
     "name": "modern",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "search",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "elasticsearch",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "security-tools",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
@@ -3162,99 +3119,163 @@
     ]
   },
   {
-    "name": "lean4",
+    "name": "forgejo",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
+      "cath/forgejo"
     ]
   },
   {
-    "name": "research-project",
+    "name": "lgbt",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
+      "cath/forgejo"
     ]
   },
   {
-    "name": "installer",
+    "name": "bdd",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "powershell",
+    "name": "cucumberjs",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "embedded-rust",
+    "name": "dockerimage",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "esp32-c3",
+    "name": "emulator",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "neuromorphic",
+    "name": "game",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "nir",
+    "name": "gamedevelopment",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "no-std",
+    "name": "gameserver",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "risc-v",
+    "name": "game-server",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "rust",
+    "name": "integrationtesting",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
     ]
   },
   {
-    "name": "spiking-neural-network",
+    "name": "lineage2severemulator",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "lineage2",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "mitmproxy",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "mmo",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "mmorpg",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "multiplayergame",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "rpg",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "server-emulator",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "MrTREX/lineage2ts"
     ]
   },
   {
@@ -3351,134 +3372,6 @@
     "totalStars": 0,
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky"
-    ]
-  },
-  {
-    "name": "5g",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "5g-security",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "baseband",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "cellular",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "cellular-hacking",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "cellular-security",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "gsm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "gsm-security",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "gtk4",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "imsi-catcher",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "lte",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "lte-security",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "sdr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "sim-card",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "software-defined-radio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
-    ]
-  },
-  {
-    "name": "telecommunications",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "yslxotwod/IMSIsting"
     ]
   },
   {
@@ -3835,6 +3728,14 @@
   },
   {
     "name": "mitm-attacks",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "yslxotwod/wifisting"
+    ]
+  },
+  {
+    "name": "radio-frequency",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

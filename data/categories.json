@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 269,
-    "totalStars": 809,
+    "count": 265,
+    "totalStars": 817,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,37 +18,37 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 36,
+    "count": 37,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "CyberShell/hostfiles",
       "cyberwarn/CyberWarn",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 23,
+    "count": 26,
     "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "imagegpt/imagegpt",
-      "nestackagentcare/llm-drift-monitoring",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone"
+      "zaccesss/isaacadjei.me",
+      "zaccesss/phaemos",
+      "gresil-rs/gresil",
+      "imagegpt/imagegpt"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
+    "count": 22,
     "totalStars": 445,
     "iconName": "Terminal",
     "topRepositories": [
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 19,
+    "count": 22,
     "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "MrTREX/lineage2ts"
+      "zaccesss/melophos"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 9,
+    "count": 10,
     "totalStars": 429,
     "iconName": "Workflow",
     "topRepositories": [
@@ -124,11 +124,11 @@
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
     "count": 8,
-    "totalStars": 9,
+    "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "MrTREX/lineage2ts",
+      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
       "FlowMagic/redENGINE-FiveM"
@@ -138,15 +138,30 @@
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 6,
+    "count": 7,
     "totalStars": 416,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "MrTREX/lineage2ts",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner"
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 7,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos",
+      "aykhan/awesome-gitea"
     ]
   },
   {
@@ -157,7 +172,7 @@
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
-      "MrTREX/lineage2ts",
+      "gresil-rs/gresil",
       "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
       "palmcoasty/bunkerweb",
@@ -179,20 +194,6 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 4,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "aykhan/awesome-gitea",
-      "sadfun/awesome-gitea",
-      "bensams/671"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -209,11 +210,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 3,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "zaccesss/melophos",
       "niamadoutraore89/mio-music-plugins"
     ]
   },
@@ -221,9 +223,11 @@
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 0,
+    "count": 1,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": []
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 59,
-    "totalStars": 1469,
+    "count": 60,
+    "totalStars": 1471,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 6,
+    "count": 7,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "aykhan/awesome-gitea",
-      "sadfun/awesome-gitea"
+      "Sourcenode/SoftwareandNetSecurityReport",
+      "aykhan/awesome-gitea"
     ]
   },
   {
     "name": "Java",
-    "count": 20,
+    "count": 19,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -51,7 +51,7 @@
   {
     "name": "JavaScript",
     "count": 33,
-    "totalStars": 90,
+    "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -75,7 +75,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 24,
+    "count": 23,
     "totalStars": 54,
     "color": "#3178C6",
     "topRepositories": [
@@ -88,7 +88,7 @@
   },
   {
     "name": "C#",
-    "count": 12,
+    "count": 10,
     "totalStars": 48,
     "color": "#64748B",
     "topRepositories": [
@@ -96,20 +96,33 @@
       "Eldesan/wotlk-windows-launcher",
       "sourcerip/meownet-api",
       "Demtakeniri/Rune-Walkers",
-      "othertime/gratisforgratis"
+      "tokarev_dr/Gridify"
     ]
   },
   {
     "name": "HTML",
-    "count": 8,
+    "count": 10,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "vicmau_tapiacabrera/SEPCOOP_INAES",
-      "uyi/Game"
+      "torappinfo/uweb",
+      "lanticy/cAssets"
+    ]
+  },
+  {
+    "name": "Python",
+    "count": 41,
+    "totalStars": 31,
+    "color": "#3572A5",
+    "topRepositories": [
+      "yige/github2gitea",
+      "MyEMS/MyEMS",
+      "vsnits/Phibrajry",
+      "nazdridoy/ngpt",
+      "snowtime1/xuehaitong"
     ]
   },
   {
@@ -119,19 +132,6 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
-    ]
-  },
-  {
-    "name": "Python",
-    "count": 37,
-    "totalStars": 28,
-    "color": "#3572A5",
-    "topRepositories": [
-      "yige/github2gitea",
-      "MyEMS/MyEMS",
-      "vsnits/Phibrajry",
-      "nazdridoy/ngpt",
-      "Darkmoon/HackerAgent"
     ]
   },
   {
@@ -146,23 +146,21 @@
   },
   {
     "name": "Ruby",
-    "count": 3,
+    "count": 2,
     "totalStars": 21,
     "color": "#701516",
     "topRepositories": [
       "gitea/homebrew-gitea",
-      "HomebrewUpdateBot/brew",
       "xy/aptools"
     ]
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
@@ -178,7 +176,7 @@
   },
   {
     "name": "Shell",
-    "count": 14,
+    "count": 13,
     "totalStars": 13,
     "color": "#89E051",
     "topRepositories": [
@@ -186,18 +184,19 @@
       "CarstenDutch/i915-sriov-unraid",
       "csimons/dotfiles",
       "Han/Han.GJK",
-      "FatjonMileti/gitea-data-docker"
+      "dalagistore/dlgst"
     ]
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
       "pooneyy/1Panel-Appstore",
+      "qikp/website",
       "wushuai/ycm"
     ]
   },
@@ -236,15 +235,15 @@
   },
   {
     "name": "Rust",
-    "count": 5,
+    "count": 6,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "woolster2020/vc",
-      "chizunoyama/ttbox",
-      "slycat555/lumen",
-      "gundu/heat-check"
+      "zaccesss/zacess",
+      "gresil-rs/gresil",
+      "slycat555/lumen"
     ]
   },
   {
@@ -300,17 +299,6 @@
     ]
   },
   {
-    "name": "Lua",
-    "count": 3,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "KokonuHub/Scripts",
-      "YCaTGameRT/CaT_VoxeLibre_Tools",
-      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp"
-    ]
-  },
-  {
     "name": "F*",
     "count": 3,
     "totalStars": 1,
@@ -319,6 +307,36 @@
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
+    ]
+  },
+  {
+    "name": "Jupyter Notebook",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "RMPlaysMCYT/Corn-Detection-System",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "name": "Nix",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "Weeble/nix-config",
+      "techknowlogick/tklk-flake"
+    ]
+  },
+  {
+    "name": "Lua",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "KokonuHub/Scripts",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -337,15 +355,6 @@
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
-    ]
-  },
-  {
-    "name": "Jupyter Notebook",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -378,24 +387,6 @@
     ]
   },
   {
-    "name": "TSQL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "vianandaMegaria/source"
-    ]
-  },
-  {
-    "name": "Jinja",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "AL1S233/cloud-als-portfolio"
-    ]
-  },
-  {
     "name": "M3U",
     "count": 1,
     "totalStars": 0,
@@ -405,12 +396,12 @@
     ]
   },
   {
-    "name": "Haskell",
+    "name": "TSQL",
     "count": 1,
     "totalStars": 0,
-    "color": "#5E5086",
+    "color": "#64748B",
     "topRepositories": [
-      "whiteydev/Funcscheme"
+      "vianandaMegaria/source"
     ]
   }
 ]

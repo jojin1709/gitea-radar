@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 55,
-    "totalStars": 1472,
+    "count": 63,
+    "totalStars": 1473,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -21,13 +21,13 @@
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "rithred472/ssd",
-      "Receiverofmemory/Camp"
+      "Receiverofmemory/Camp",
+      "rithred472/ssd"
     ]
   },
   {
     "name": "Java",
-    "count": 16,
+    "count": 18,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -40,17 +40,18 @@
   },
   {
     "name": "Go Template",
-    "count": 2,
+    "count": 3,
     "totalStars": 104,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
-      "gitea/helm-actions"
+      "gitea/helm-actions",
+      "Woxels/woxie-homelab-kuberneties"
     ]
   },
   {
     "name": "JavaScript",
-    "count": 32,
+    "count": 31,
     "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
@@ -76,7 +77,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 22,
+    "count": 23,
     "totalStars": 54,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,20 +90,20 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 11,
     "totalStars": 48,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "qornwh/ProjectP_Client",
+      "othertime/gratisforgratis",
       "Demtakeniri/Rune-Walkers",
-      "sourcerip/meownet-api"
+      "qornwh/ProjectP_Client"
     ]
   },
   {
     "name": "HTML",
-    "count": 16,
+    "count": 15,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
@@ -115,7 +116,7 @@
   },
   {
     "name": "Python",
-    "count": 36,
+    "count": 35,
     "totalStars": 30,
     "color": "#3572A5",
     "topRepositories": [
@@ -123,7 +124,7 @@
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "hleb/ubtg-repo"
+      "guilampreia/agenda_consulta"
     ]
   },
   {
@@ -184,10 +185,10 @@
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
+      "GravitonForge/configuration",
       "chytrex/bash-dotfiles",
       "CarstenDutch/i915-sriov-unraid",
-      "unerr/piscinego",
-      "Han/Han.GJK"
+      "unerr/piscinego"
     ]
   },
   {
@@ -236,13 +237,14 @@
   },
   {
     "name": "Rust",
-    "count": 4,
+    "count": 5,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "zaccesss/zacess",
       "woolster2020/vc",
+      "2529143181/remote-dl",
+      "zaccesss/zacess",
       "slycat555/lumen"
     ]
   },
@@ -309,6 +311,16 @@
     ]
   },
   {
+    "name": "Lua",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
+    ]
+  },
+  {
     "name": "Smarty",
     "count": 1,
     "totalStars": 1,
@@ -324,15 +336,6 @@
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
-    ]
-  },
-  {
-    "name": "Lua",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -354,23 +357,21 @@
     ]
   },
   {
-    "name": "Dart",
-    "count": 3,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "meoweebs/matryoshka",
-      "kwokyzen/matryoshka",
-      "application/coco_clipboard_scanner"
-    ]
-  },
-  {
     "name": "Zig",
     "count": 1,
     "totalStars": 0,
     "color": "#EC915C",
     "topRepositories": [
       "tjira/zinq"
+    ]
+  },
+  {
+    "name": "MATLAB",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "callahancowan/PCM-Example-Video2"
     ]
   },
   {
@@ -389,6 +390,15 @@
     "color": "#4F5D95",
     "topRepositories": [
       "teamlead/3davto"
+    ]
+  },
+  {
+    "name": "Dart",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#00B4AB",
+    "topRepositories": [
+      "application/coco_clipboard_scanner"
     ]
   }
 ]

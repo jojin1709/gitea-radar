@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 251,
-    "totalStars": 814,
+    "count": 262,
+    "totalStars": 815,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -211,11 +211,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 3,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Woxels/woxie-homelab-kuberneties",
       "zaccesss/melophos"
     ]
   },

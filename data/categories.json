@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 265,
-    "totalStars": 817,
+    "count": 254,
+    "totalStars": 813,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -24,24 +24,24 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "CyberShell/hostfiles",
-      "cyberwarn/CyberWarn",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 27,
     "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "zaccesss/isaacadjei.me",
-      "zaccesss/phaemos",
+      "nicksudo/enterprise-rag-knowledge-engine",
       "gresil-rs/gresil",
-      "imagegpt/imagegpt"
+      "zaccesss/isaacadjei.me",
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -150,21 +150,6 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 7,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/melophos",
-      "zaccesss/zacess",
-      "zaccesss/phaemos",
-      "aykhan/awesome-gitea"
-    ]
-  },
-  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
@@ -177,6 +162,21 @@
       "ShutUpYouSlut/Inter-Forky",
       "palmcoasty/bunkerweb",
       "rammiah/caddy"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 5,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos",
+      "bensams/671"
     ]
   },
   {
@@ -210,13 +210,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 3,
+    "count": 2,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "niamadoutraore89/mio-music-plugins"
+      "zaccesss/melophos"
     ]
   },
   {

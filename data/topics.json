@@ -383,10 +383,10 @@
     "count": 4,
     "totalStars": 0,
     "topRepositories": [
+      "gresil-rs/gresil",
       "zaccesss/melophos",
       "zaccesss/zacess",
-      "zaccesss/phaemos",
-      "gresil-rs/gresil"
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -500,16 +500,6 @@
     ]
   },
   {
-    "name": "discord",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "C0reyKalier/phighting-discord-widgets",
-      "ShutUpYouSlut/Inter-Forky",
-      "its-theo/NukeCord"
-    ]
-  },
-  {
     "name": "reverse-engineering",
     "count": 3,
     "totalStars": 1,
@@ -607,6 +597,15 @@
     "topRepositories": [
       "goftp/server",
       "lunny/levelqueue"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 40,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -805,6 +804,24 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
+    ]
+  },
+  {
+    "name": "discord",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "its-theo/NukeCord"
     ]
   },
   {
@@ -1235,14 +1252,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 40,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -1947,6 +1956,22 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "scoop-apps",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-bucket",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3254,6 +3279,78 @@
     ]
   },
   {
+    "name": "embedded-rust",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "esp32-c3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "neuromorphic",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "nir",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "no-std",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "risc-v",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "spiking-neural-network",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "installer",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
     "name": "amateur-radio",
     "count": 1,
     "totalStars": 0,
@@ -3606,62 +3703,6 @@
     ]
   },
   {
-    "name": "embedded-rust",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "esp32-c3",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "neuromorphic",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "nir",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "no-std",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "risc-v",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "spiking-neural-network",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
     "name": "forgejo",
     "count": 1,
     "totalStars": 0,
@@ -3675,30 +3716,6 @@
     "totalStars": 0,
     "topRepositories": [
       "cath/forgejo"
-    ]
-  },
-  {
-    "name": "discord-widget",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "C0reyKalier/phighting-discord-widgets"
-    ]
-  },
-  {
-    "name": "discord-widgetv2",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "C0reyKalier/phighting-discord-widgets"
-    ]
-  },
-  {
-    "name": "phighting",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "C0reyKalier/phighting-discord-widgets"
     ]
   },
   {

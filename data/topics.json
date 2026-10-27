@@ -379,17 +379,6 @@
     ]
   },
   {
-    "name": "rust",
-    "count": 4,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil",
-      "zaccesss/melophos",
-      "zaccesss/zacess",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
     "name": "kubernetes",
     "count": 3,
     "totalStars": 105,
@@ -510,6 +499,16 @@
     ]
   },
   {
+    "name": "rust",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
@@ -597,15 +596,6 @@
     "topRepositories": [
       "goftp/server",
       "lunny/levelqueue"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 40,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -807,15 +797,6 @@
     ]
   },
   {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
-    ]
-  },
-  {
     "name": "discord",
     "count": 2,
     "totalStars": 1,
@@ -987,6 +968,24 @@
     ]
   },
   {
+    "name": "nextjs",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me",
+      "zaccesss/melophos"
+    ]
+  },
+  {
     "name": "accessibility",
     "count": 2,
     "totalStars": 0,
@@ -1032,30 +1031,12 @@
     ]
   },
   {
-    "name": "typescript",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
     "name": "webassembly",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/melophos",
       "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "nextjs",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me",
-      "zaccesss/phaemos"
     ]
   },
   {
@@ -1252,6 +1233,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 40,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1956,22 +1945,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3279,107 +3252,75 @@
     ]
   },
   {
-    "name": "embedded-rust",
+    "name": "echarts",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "esp32-c3",
+    "name": "electronics",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "neuromorphic",
+    "name": "maplibre",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "nir",
+    "name": "personal-website",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "no-std",
+    "name": "portfolio-website",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "risc-v",
+    "name": "recharts",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "spiking-neural-network",
+    "name": "tailwindcss",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "gresil-rs/gresil"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "installer",
+    "name": "threejs",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
-    "name": "powershell",
+    "name": "vercel",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "amateur-radio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
@@ -3463,75 +3404,59 @@
     ]
   },
   {
-    "name": "echarts",
+    "name": "flash-usdt-blockchain-architecture",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "electronics",
+    "name": "flash-usdt-enterprise-solution",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "maplibre",
+    "name": "flash-usdt-hash-log-engine",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "personal-website",
+    "name": "flash-usdt-merchant-integration",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "portfolio-website",
+    "name": "flash-usdt-smart-contracts-bep20",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "recharts",
+    "name": "flash-usdt-smart-contracts-trc20",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
-    "name": "tailwindcss",
+    "name": "flash-usdt-wallet-stimulator",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "threejs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "vercel",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
@@ -3700,6 +3625,22 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "lean4",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "research-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {

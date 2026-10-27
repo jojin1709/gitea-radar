@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 254,
-    "totalStars": 813,
+    "count": 251,
+    "totalStars": 814,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,12 +18,12 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 37,
+    "count": 36,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
+      "cyberwarn/CyberWarn",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools",
       "VernonG/FiveM-External-Cheat"
@@ -33,30 +33,15 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 27,
+    "count": 28,
     "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "nicksudo/enterprise-rag-knowledge-engine",
-      "gresil-rs/gresil",
       "zaccesss/isaacadjei.me",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 22,
-    "totalStars": 445,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "Oringo-Client/Oringo-Client-Supporter"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
+      "zaccesss/phaemos",
+      "flowspeech/mcp-flowspeech-server"
     ]
   },
   {
@@ -72,6 +57,21 @@
       "nettleweb/nettleweb",
       "cereci5049/Shoppers",
       "WebPlay/client"
+    ]
+  },
+  {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 21,
+    "totalStars": 445,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter"
     ]
   },
   {
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
+    "count": 9,
     "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
       "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
+      "dadidang/zinc"
     ]
   },
   {
@@ -150,18 +150,33 @@
     ]
   },
   {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 66,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js",
+      "AuberyLis/FillyFill",
+      "hexmos/FreeDevTools",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
+    "count": 5,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
-      "gresil-rs/gresil",
       "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
       "palmcoasty/bunkerweb",
-      "rammiah/caddy"
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -177,20 +192,6 @@
       "zaccesss/zacess",
       "zaccesss/phaemos",
       "bensams/671"
-    ]
-  },
-  {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 4,
-    "totalStars": 66,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "gitea/sdk.js",
-      "hexmos/FreeDevTools",
-      "rubayet123/rea"
     ]
   },
   {

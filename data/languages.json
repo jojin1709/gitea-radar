@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 63,
-    "totalStars": 1473,
+    "count": 68,
+    "totalStars": 1477,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 17,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -77,8 +77,8 @@
   },
   {
     "name": "TypeScript",
-    "count": 23,
-    "totalStars": 54,
+    "count": 22,
+    "totalStars": 53,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -103,7 +103,7 @@
   },
   {
     "name": "HTML",
-    "count": 15,
+    "count": 14,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
@@ -115,25 +115,25 @@
     ]
   },
   {
-    "name": "Python",
-    "count": 35,
-    "totalStars": 30,
-    "color": "#3572A5",
-    "topRepositories": [
-      "yige/github2gitea",
-      "MyEMS/MyEMS",
-      "vsnits/Phibrajry",
-      "nazdridoy/ngpt",
-      "guilampreia/agenda_consulta"
-    ]
-  },
-  {
     "name": "Astro",
     "count": 1,
     "totalStars": 30,
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
+    ]
+  },
+  {
+    "name": "Python",
+    "count": 35,
+    "totalStars": 29,
+    "color": "#3572A5",
+    "topRepositories": [
+      "yige/github2gitea",
+      "MyEMS/MyEMS",
+      "vsnits/Phibrajry",
+      "nazdridoy/ngpt",
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
@@ -158,12 +158,24 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 17,
+    "totalStars": 18,
+    "color": "#89E051",
+    "topRepositories": [
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "chytrex/bash-dotfiles",
+      "CarstenDutch/i915-sriov-unraid",
+      "EvergreenCrypto/docker-finance"
     ]
   },
   {
@@ -179,27 +191,16 @@
     ]
   },
   {
-    "name": "Shell",
-    "count": 14,
-    "totalStars": 13,
-    "color": "#89E051",
-    "topRepositories": [
-      "gitea/test-openldap",
-      "GravitonForge/configuration",
-      "chytrex/bash-dotfiles",
-      "CarstenDutch/i915-sriov-unraid",
-      "unerr/piscinego"
-    ]
-  },
-  {
     "name": "CSS",
-    "count": 3,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore"
+      "pooneyy/1Panel-Appstore",
+      "curben/blog",
+      "samemanie/terimi"
     ]
   },
   {
@@ -242,10 +243,10 @@
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
+      "gresil-rs/gresil",
       "woolster2020/vc",
       "2529143181/remote-dl",
-      "zaccesss/zacess",
-      "slycat555/lumen"
+      "zaccesss/zacess"
     ]
   },
   {
@@ -357,6 +358,15 @@
     ]
   },
   {
+    "name": "Standard ML",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "zcxt-public/controls"
+    ]
+  },
+  {
     "name": "Zig",
     "count": 1,
     "totalStars": 0,
@@ -372,24 +382,6 @@
     "color": "#64748B",
     "topRepositories": [
       "callahancowan/PCM-Example-Video2"
-    ]
-  },
-  {
-    "name": "Jinja",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "AL1S233/cloud-als-portfolio"
-    ]
-  },
-  {
-    "name": "PHP",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#4F5D95",
-    "topRepositories": [
-      "teamlead/3davto"
     ]
   },
   {

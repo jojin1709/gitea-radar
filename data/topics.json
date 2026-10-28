@@ -13,8 +13,8 @@
   },
   {
     "name": "gitea",
-    "count": 15,
-    "totalStars": 690,
+    "count": 16,
+    "totalStars": 692,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -288,6 +288,18 @@
     ]
   },
   {
+    "name": "docker",
+    "count": 6,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "EvergreenCrypto/docker-finance",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
     "name": "cybersecurity",
     "count": 6,
     "totalStars": 4,
@@ -302,25 +314,13 @@
   {
     "name": "api",
     "count": 5,
-    "totalStars": 70,
+    "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
-    ]
-  },
-  {
-    "name": "docker",
-    "count": 5,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -376,6 +376,17 @@
       "thisago/safeWriting",
       "thisago/gm_api",
       "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "rust",
+    "count": 4,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil",
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -499,16 +510,6 @@
     ]
   },
   {
-    "name": "rust",
-    "count": 3,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/zacess",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
@@ -529,7 +530,7 @@
   {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 279,
+    "totalStars": 280,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -547,7 +548,7 @@
   {
     "name": "sdk",
     "count": 2,
-    "totalStars": 65,
+    "totalStars": 64,
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js"
@@ -556,7 +557,7 @@
   {
     "name": "rest",
     "count": 2,
-    "totalStars": 65,
+    "totalStars": 64,
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js"
@@ -680,6 +681,24 @@
     ]
   },
   {
+    "name": "elasticsearch",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "search",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
+    ]
+  },
+  {
     "name": "chatgpt",
     "count": 2,
     "totalStars": 4,
@@ -794,6 +813,33 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "bash",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "php",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance",
+      "wower/hestiamb"
     ]
   },
   {
@@ -1118,7 +1164,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 270,
+    "totalStars": 271,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1126,7 +1172,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 270,
+    "totalStars": 271,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1724,6 +1770,14 @@
     ]
   },
   {
+    "name": "index",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "sapk/explore"
+    ]
+  },
+  {
     "name": "bloxd",
     "count": 1,
     "totalStars": 3,
@@ -1965,22 +2019,6 @@
   },
   {
     "name": "modern",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "name": "search",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "name": "elasticsearch",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
@@ -2484,14 +2522,6 @@
     ]
   },
   {
-    "name": "php",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "wower/hestiamb"
-    ]
-  },
-  {
     "name": "web-panel",
     "count": 1,
     "totalStars": 1,
@@ -2940,22 +2970,6 @@
     ]
   },
   {
-    "name": "bash",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "linux",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
     "name": "script",
     "count": 1,
     "totalStars": 1,
@@ -3249,6 +3263,166 @@
     "totalStars": 1,
     "topRepositories": [
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "embedded-rust",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "esp32-c3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "neuromorphic",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "nir",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "no-std",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "risc-v",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "spiking-neural-network",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "gresil-rs/gresil"
+    ]
+  },
+  {
+    "name": "allstarlink",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "amateur-radio",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-beacon",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-telemetry",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "mmdvm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "pi-star",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "wpsd",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "accounting",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "cpp20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "dockerfiles",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "finance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "shell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
     ]
   },
   {
@@ -3625,22 +3799,6 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "lean4",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "research-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {

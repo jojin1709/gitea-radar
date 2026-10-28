@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 262,
-    "totalStars": 815,
+    "count": 257,
+    "totalStars": 817,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,30 +18,45 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 36,
+    "count": 38,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "cp-api-mirror/wl",
+      "CyberShell/hostfiles",
       "cyberwarn/CyberWarn",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "dadidang/zinc"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 28,
-    "totalStars": 22,
+    "count": 30,
+    "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "zaccesss/isaacadjei.me",
-      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
-      "zaccesss/phaemos",
-      "flowspeech/mcp-flowspeech-server"
+      "gresil-rs/gresil",
+      "flowspeech/mcp-flowspeech-server",
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 23,
+    "totalStars": 445,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "Oringo-Client/Oringo-Client-Supporter"
     ]
   },
   {
@@ -57,21 +72,6 @@
       "nettleweb/nettleweb",
       "cereci5049/Shoppers",
       "WebPlay/client"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
-    "totalStars": 445,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "Oringo-Client/Oringo-Client-Supporter"
     ]
   },
   {
@@ -108,8 +108,8 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
-    "totalStars": 429,
+    "count": 11,
+    "totalStars": 430,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -150,11 +150,26 @@
     ]
   },
   {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 6,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "gresil-rs/gresil",
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
+    ]
+  },
+  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
     "count": 5,
-    "totalStars": 66,
+    "totalStars": 65,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
@@ -162,21 +177,6 @@
       "AuberyLis/FillyFill",
       "hexmos/FreeDevTools",
       "rubayet123/rea"
-    ]
-  },
-  {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 5,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy",
-      "yslxotwod/wifisting"
     ]
   },
   {

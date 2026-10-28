@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 16,
-    "totalStars": 692,
+    "totalStars": 693,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -228,6 +228,18 @@
     ]
   },
   {
+    "name": "cybersecurity",
+    "count": 8,
+    "totalStars": 4,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "jc-denton/OPSEC-OSINT-Tools",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
     "name": "go",
     "count": 7,
     "totalStars": 20,
@@ -288,33 +300,45 @@
     ]
   },
   {
-    "name": "cybersecurity",
-    "count": 6,
-    "totalStars": 4,
-    "topRepositories": [
-      "jc-denton/OPSEC-OSINT-Tools",
-      "palmcoasty/bunkerweb",
-      "ab-smith/ciso-assistant-community",
-      "K3ysTr0K3R/METIS",
-      "byt3n33dl3/gxc-BloodHuntr"
-    ]
-  },
-  {
     "name": "api",
     "count": 5,
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
   },
   {
+    "name": "javascript",
+    "count": 5,
+    "totalStars": 6,
+    "topRepositories": [
+      "cereci5049/Shoppers",
+      "reuben-bradley/kitty-sweeper",
+      "thisago/safeWriting",
+      "thisago/gm_api",
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "exploit",
+    "count": 5,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "bensams/671"
+    ]
+  },
+  {
     "name": "cli",
     "count": 4,
-    "totalStars": 285,
+    "totalStars": 286,
     "topRepositories": [
       "gitea/tea",
       "jolheiser/sip",
@@ -367,14 +391,14 @@
     ]
   },
   {
-    "name": "javascript",
+    "name": "poc",
     "count": 4,
-    "totalStars": 6,
+    "totalStars": 0,
     "topRepositories": [
-      "cereci5049/Shoppers",
-      "thisago/safeWriting",
-      "thisago/gm_api",
-      "caiqing/juice-shop"
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
   {
@@ -465,6 +489,26 @@
       "Griefed/ServerPackCreator",
       "Missou/ciso-assistant-community",
       "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "ethical-hacking",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "exploitation",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
   {
@@ -559,15 +603,6 @@
     ]
   },
   {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 40,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
-    ]
-  },
-  {
     "name": "pizza-client",
     "count": 2,
     "totalStars": 37,
@@ -601,6 +636,15 @@
     "topRepositories": [
       "nettleweb/nettleweb",
       "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "html",
+    "count": 2,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "reuben-bradley/kitty-sweeper"
     ]
   },
   {
@@ -784,15 +828,6 @@
     ]
   },
   {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
-    ]
-  },
-  {
     "name": "bash",
     "count": 2,
     "totalStars": 1,
@@ -817,6 +852,15 @@
     "topRepositories": [
       "EvergreenCrypto/docker-finance",
       "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -988,6 +1032,15 @@
     "topRepositories": [
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "proof-of-concept",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
   {
@@ -1200,6 +1253,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 40,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1547,14 +1608,6 @@
     ]
   },
   {
-    "name": "html",
-    "count": 1,
-    "totalStars": 6,
-    "topRepositories": [
-      "nettleweb/nettleweb"
-    ]
-  },
-  {
     "name": "html5-games",
     "count": 1,
     "totalStars": 6,
@@ -1875,19 +1928,35 @@
     ]
   },
   {
-    "name": "scoop-apps",
+    "name": "c2",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
-    "name": "scoop-bucket",
+    "name": "cves",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -2867,62 +2936,6 @@
     ]
   },
   {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "ethical-hacking",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploitation",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploits",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
     "name": "pinyin",
     "count": 1,
     "totalStars": 1,
@@ -3155,166 +3168,6 @@
     ]
   },
   {
-    "name": "lean4",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "research-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "installer",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "powershell",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "embedded-rust",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "esp32-c3",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "neuromorphic",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "nir",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "no-std",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "risc-v",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "rust",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "spiking-neural-network",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "name": "allstarlink",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "amateur-radio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-beacon",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-telemetry",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
     "name": "accounting",
     "count": 1,
     "totalStars": 0,
@@ -3352,6 +3205,118 @@
     "totalStars": 0,
     "topRepositories": [
       "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "reuben-bradley/kitty-sweeper"
+    ]
+  },
+  {
+    "name": "cve-2017-9841",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "phpunit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "rce",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "remote-code-execution",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "cve-2017-8225",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "wifi-camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "dvr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "cve-2017-7921",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "hikvision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "hikvision-exploit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "lean4",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "research-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {
@@ -3612,14 +3577,6 @@
   },
   {
     "name": "chromeos",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "bensams/671"
-    ]
-  },
-  {
-    "name": "exploit",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

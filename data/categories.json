@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 249,
-    "totalStars": 817,
+    "count": 243,
+    "totalStars": 819,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,38 +18,38 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 38,
+    "count": 40,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "cp-api-mirror/wl",
-      "CyberShell/hostfiles",
-      "cyberwarn/CyberWarn",
-      "dadidang/zinc"
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 27,
+    "count": 24,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "gresil-rs/gresil",
-      "flowspeech/mcp-flowspeech-server",
-      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
+      "nicksudo/enterprise-rag-knowledge-engine",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 24,
-    "totalStars": 446,
+    "count": 23,
+    "totalStars": 447,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 19,
+    "count": 21,
     "totalStars": 83,
     "iconName": "Globe",
     "topRepositories": [
@@ -123,30 +123,30 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
+    "count": 9,
     "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "reuben-bradley/kitty-sweeper",
       "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
+      "dadidang/zinc"
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 65,
+    "iconName": "Wrench",
     "topRepositories": [
-      "gresil-rs/gresil",
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
+      "gitea/go-sdk",
+      "AuberyLis/FillyFill",
+      "hexmos/FreeDevTools",
+      "gitea/sdk.js",
+      "rubayet123/rea"
     ]
   },
   {
@@ -165,17 +165,18 @@
     ]
   },
   {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 4,
-    "totalStars": 65,
-    "iconName": "Wrench",
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 5,
+    "totalStars": 4,
+    "iconName": "Network",
     "topRepositories": [
-      "gitea/go-sdk",
-      "gitea/sdk.js",
-      "hexmos/FreeDevTools",
-      "rubayet123/rea"
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -196,11 +197,11 @@
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
     "count": 2,
-    "totalStars": 42,
+    "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "Woxels/woxie-homelab-kuberneties"
+      "paoloronco/OrbitPage"
     ]
   },
   {

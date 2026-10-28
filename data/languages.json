@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 68,
-    "totalStars": 1477,
+    "count": 64,
+    "totalStars": 1478,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,21 +14,21 @@
   },
   {
     "name": "Markdown",
-    "count": 9,
+    "count": 11,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "Receiverofmemory/Camp",
-      "rithred472/ssd"
+      "rithred472/Docum",
+      "loki-s3c/Fox-notes---"
     ]
   },
   {
     "name": "Java",
     "count": 17,
-    "totalStars": 180,
+    "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
       "gitnex/GitNex",
@@ -41,7 +41,7 @@
   {
     "name": "Go Template",
     "count": 3,
-    "totalStars": 104,
+    "totalStars": 105,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
@@ -51,7 +51,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 31,
+    "count": 32,
     "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
@@ -64,20 +64,19 @@
   },
   {
     "name": "C++",
-    "count": 5,
+    "count": 4,
     "totalStars": 56,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
-      "tanwk/apotris",
       "fainted09/FiveM-Mod-Menu",
       "calmdown/SkriptGG"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 22,
+    "count": 18,
     "totalStars": 53,
     "color": "#3178C6",
     "topRepositories": [
@@ -90,7 +89,7 @@
   },
   {
     "name": "C#",
-    "count": 11,
+    "count": 10,
     "totalStars": 48,
     "color": "#64748B",
     "topRepositories": [
@@ -98,7 +97,7 @@
       "Eldesan/wotlk-windows-launcher",
       "othertime/gratisforgratis",
       "Demtakeniri/Rune-Walkers",
-      "qornwh/ProjectP_Client"
+      "sourcerip/meownet-api"
     ]
   },
   {
@@ -110,8 +109,8 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "firavoyage/blogging",
-      "zyh11133/web----"
+      "Spectrollay/mclang_cn",
+      "Tong-leo/pet-shop-project"
     ]
   },
   {
@@ -125,15 +124,15 @@
   },
   {
     "name": "Python",
-    "count": 35,
-    "totalStars": 29,
+    "count": 31,
+    "totalStars": 27,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "HafiziRuslan/RasPiAPRS"
+      "loki-s3c/ctf-casefiles"
     ]
   },
   {
@@ -167,7 +166,7 @@
   },
   {
     "name": "Shell",
-    "count": 17,
+    "count": 15,
     "totalStars": 18,
     "color": "#89E051",
     "topRepositories": [
@@ -186,7 +185,7 @@
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "EternalMikaelson/proprietary_vendor_oplus_camera",
+      "Venkatasaiee12/db",
       "gitea/redirects"
     ]
   },
@@ -221,7 +220,7 @@
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
-      "burhbayr/Prayer_App_UnaWatch",
+      "gabordemooij/xoscript",
       "postgis/postgis",
       "yoelrm/CVE-2021-4034",
       "yslxotwod/wifisting"
@@ -237,27 +236,27 @@
     ]
   },
   {
-    "name": "Rust",
-    "count": 5,
-    "totalStars": 4,
-    "color": "#DEA584",
-    "topRepositories": [
-      "pipelight/pipelight",
-      "gresil-rs/gresil",
-      "woolster2020/vc",
-      "2529143181/remote-dl",
-      "zaccesss/zacess"
-    ]
-  },
-  {
     "name": "PowerShell",
-    "count": 3,
+    "count": 4,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
+      "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
+    ]
+  },
+  {
+    "name": "Rust",
+    "count": 4,
+    "totalStars": 4,
+    "color": "#DEA584",
+    "topRepositories": [
+      "pipelight/pipelight",
+      "woolster2020/vc",
+      "gresil-rs/gresil",
+      "2529143181/remote-dl"
     ]
   },
   {
@@ -292,12 +291,24 @@
   },
   {
     "name": "Kotlin",
-    "count": 2,
+    "count": 3,
     "totalStars": 2,
     "color": "#A97BFF",
     "topRepositories": [
+      "Bahtiyor/SideEffectsLab",
       "AndrewFeelz/XP5s-Audiobook-App",
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "Jupyter Notebook",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "Dsilverus/EVT3-Camera-Grid-Clustering-Detection-RPi5-Pynq-Z2",
+      "RMPlaysMCYT/Corn-Detection-System",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -312,13 +323,12 @@
     ]
   },
   {
-    "name": "Lua",
-    "count": 2,
+    "name": "templ",
+    "count": 1,
     "totalStars": 1,
-    "color": "#000080",
+    "color": "#64748B",
     "topRepositories": [
-      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp",
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -340,12 +350,12 @@
     ]
   },
   {
-    "name": "Jupyter Notebook",
+    "name": "Lua",
     "count": 1,
     "totalStars": 1,
-    "color": "#64748B",
+    "color": "#000080",
     "topRepositories": [
-      "serpdotai/bark-with-voice-clone"
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -358,21 +368,39 @@
     ]
   },
   {
+    "name": "Gradle",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "Tyt_Kryje4ki_net/Sheepsclick100cps"
+    ]
+  },
+  {
+    "name": "M3U",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "hj2155555/YUAN"
+    ]
+  },
+  {
+    "name": "TSQL",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "vianandaMegaria/source"
+    ]
+  },
+  {
     "name": "Standard ML",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "zcxt-public/controls"
-    ]
-  },
-  {
-    "name": "Zig",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#EC915C",
-    "topRepositories": [
-      "tjira/zinq"
     ]
   },
   {

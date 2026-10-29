@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 16,
-    "totalStars": 693,
+    "totalStars": 694,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -232,11 +232,11 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "jc-denton/OPSEC-OSINT-Tools",
-      "palmcoasty/bunkerweb"
+      "palmcoasty/bunkerweb",
+      "ab-smith/ciso-assistant-community"
     ]
   },
   {
@@ -300,6 +300,18 @@
     ]
   },
   {
+    "name": "docker",
+    "count": 6,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "EvergreenCrypto/docker-finance",
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
     "name": "api",
     "count": 5,
     "totalStars": 69,
@@ -328,9 +340,9 @@
     "count": 5,
     "totalStars": 0,
     "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
       "bensams/671"
     ]
@@ -349,7 +361,7 @@
   {
     "name": "mcp",
     "count": 4,
-    "totalStars": 102,
+    "totalStars": 103,
     "topRepositories": [
       "gitea/gitea-mcp",
       "ab-smith/ciso-assistant-community",
@@ -369,17 +381,6 @@
     ]
   },
   {
-    "name": "docker",
-    "count": 4,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "EvergreenCrypto/docker-finance",
-      "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
-    ]
-  },
-  {
     "name": "privacy",
     "count": 4,
     "totalStars": 45,
@@ -395,9 +396,9 @@
     "count": 4,
     "totalStars": 0,
     "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
@@ -429,6 +430,26 @@
       "Oringo-Client/Oringo-Client-Supporter",
       "Pizza-Client/Pizza-Client-Supporter",
       "FunnyMap-Extras/FunnyMap-Extras"
+    ]
+  },
+  {
+    "name": "react",
+    "count": 3,
+    "totalStars": 43,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/isaacadjei.me",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "python",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -492,23 +513,23 @@
     ]
   },
   {
-    "name": "ethical-hacking",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
     "name": "exploitation",
     "count": 3,
     "totalStars": 1,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "ethical-hacking",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -522,12 +543,31 @@
     ]
   },
   {
+    "name": "rust",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
     "topRepositories": [
       "xorm/xorm",
       "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "postgresql",
+    "count": 2,
+    "totalStars": 409,
+    "topRepositories": [
+      "xorm/xorm",
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -542,7 +582,7 @@
   {
     "name": "git",
     "count": 2,
-    "totalStars": 157,
+    "totalStars": 158,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex"
@@ -585,12 +625,12 @@
     ]
   },
   {
-    "name": "react",
+    "name": "self-hosted",
     "count": 2,
-    "totalStars": 43,
+    "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "ToolAnchor/websitegeek-seo-suite-tools"
+      "zaccesss/melophos"
     ]
   },
   {
@@ -756,21 +796,21 @@
     ]
   },
   {
+    "name": "portfolio",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me",
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "trust-wallet",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
       "TroyDen/Flash-BTC-USDT-ETH-SOL",
       "TroyDen/Multichain-Drainer-Tool"
-    ]
-  },
-  {
-    "name": "python",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
     ]
   },
   {
@@ -859,8 +899,8 @@
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -1035,6 +1075,78 @@
     ]
   },
   {
+    "name": "nextjs",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me",
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "accessibility",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "webassembly",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "esp32",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "kicad",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "open-hardware",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "proof-of-concept",
     "count": 2,
     "totalStars": 0,
@@ -1089,14 +1201,6 @@
   },
   {
     "name": "tidb",
-    "count": 1,
-    "totalStars": 409,
-    "topRepositories": [
-      "xorm/xorm"
-    ]
-  },
-  {
-    "name": "postgresql",
     "count": 1,
     "totalStars": 409,
     "topRepositories": [
@@ -1225,14 +1329,6 @@
   },
   {
     "name": "pwa",
-    "count": 1,
-    "totalStars": 42,
-    "topRepositories": [
-      "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "self-hosted",
     "count": 1,
     "totalStars": 42,
     "topRepositories": [
@@ -1792,6 +1888,46 @@
     ]
   },
   {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1925,38 +2061,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -2936,6 +3040,38 @@
     ]
   },
   {
+    "name": "c2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
     "name": "pinyin",
     "count": 1,
     "totalStars": 1,
@@ -3168,6 +3304,326 @@
     ]
   },
   {
+    "name": "echarts",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "electronics",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "maplibre",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "personal-website",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "portfolio-website",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "recharts",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "tailwindcss",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "threejs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "vercel",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/isaacadjei.me"
+    ]
+  },
+  {
+    "name": "assistive-technology",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "dyslexia",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "low-vision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "ocr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "open-source",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "screen-reader",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "tauri",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "text-to-speech",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "esp32-s3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "guitar",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "led",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "midi",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music-education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "piano",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "platformio",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "timescaledb",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "ws2812b",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "anomaly-detection",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "arduino",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "condition-monitoring",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "embedded-systems",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "industrial-iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "machine-learning",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "predictive-maintenance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "proteus",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "redis",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "stm32",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "accounting",
     "count": 1,
     "totalStars": 0,
@@ -3216,6 +3672,38 @@
     ]
   },
   {
+    "name": "camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "dvr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "cve-2017-8225",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "wifi-camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
     "name": "cve-2017-9841",
     "count": 1,
     "totalStars": 0,
@@ -3248,38 +3736,6 @@
     ]
   },
   {
-    "name": "cve-2017-8225",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "wifi-camera",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "camera",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "dvr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
     "name": "cve-2017-7921",
     "count": 1,
     "totalStars": 0,
@@ -3301,22 +3757,6 @@
     "totalStars": 0,
     "topRepositories": [
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
-    "name": "lean4",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "research-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {

@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 243,
-    "totalStars": 819,
+    "count": 241,
+    "totalStars": 822,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,14 +18,14 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 40,
+    "count": 41,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "cp-api-mirror/wl",
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+      "CyberShell/hostfiles",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
     ]
   },
@@ -33,22 +33,22 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 24,
+    "count": 25,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
-      "nicksudo/enterprise-rag-knowledge-engine",
-      "PublicAffairs/openai-github-copilot"
+      "zaccesss/isaacadjei.me",
+      "zaccesss/phaemos",
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
+    "count": 24,
     "totalStars": 447,
     "iconName": "Terminal",
     "topRepositories": [
@@ -63,8 +63,8 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 21,
-    "totalStars": 83,
+    "count": 24,
+    "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 15,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "zaccesss/melophos"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 9,
+    "count": 11,
     "totalStars": 432,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,15 +123,30 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 9,
+    "count": 10,
+    "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "zaccesss/.profile",
       "reuben-bradley/kitty-sweeper",
       "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
-      "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 7,
+    "totalStars": 416,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -150,21 +165,6 @@
     ]
   },
   {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
-    "totalStars": 416,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
@@ -177,6 +177,21 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 5,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "zaccesss/zacess",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "bensams/671"
     ]
   },
   {
@@ -196,33 +211,24 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 3,
     "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "zaccesss/melophos",
       "paoloronco/OrbitPage"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 2,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "bensams/671"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 0,
+    "count": 1,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": []
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
   }
 ]

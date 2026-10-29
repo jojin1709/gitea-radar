@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 241,
-    "totalStars": 822,
+    "count": 268,
+    "totalStars": 824,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -24,24 +24,9 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "cp-api-mirror/wl",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
-    "totalStars": 447,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "Oringo-Client/Oringo-Client-Supporter"
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
@@ -60,10 +45,25 @@
     ]
   },
   {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 20,
+    "totalStars": 447,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "xorm/reverse"
+    ]
+  },
+  {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 20,
+    "count": 18,
     "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -109,7 +109,7 @@
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
     "count": 8,
-    "totalStars": 432,
+    "totalStars": 434,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -123,15 +123,30 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
+    "count": 7,
     "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "reuben-bradley/kitty-sweeper",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
+      "FlowMagic/redENGINE-FiveM",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 65,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js",
+      "AuberyLis/FillyFill",
+      "hexmos/FreeDevTools",
+      "rubayet123/rea"
     ]
   },
   {
@@ -162,20 +177,6 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
-    ]
-  },
-  {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 4,
-    "totalStars": 65,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "hexmos/FreeDevTools",
-      "gitea/sdk.js",
-      "rubayet123/rea"
     ]
   },
   {

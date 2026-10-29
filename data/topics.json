@@ -232,11 +232,11 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
-      "ab-smith/ciso-assistant-community"
+      "ab-smith/ciso-assistant-community",
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -305,8 +305,8 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "PublicAffairs/openai-github-copilot",
       "gitea/sdk.js",
+      "PublicAffairs/openai-github-copilot",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -318,21 +318,9 @@
     "topRepositories": [
       "goftp/server",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator",
       "its-theo/NukeCord"
-    ]
-  },
-  {
-    "name": "javascript",
-    "count": 5,
-    "totalStars": 6,
-    "topRepositories": [
-      "cereci5049/Shoppers",
-      "reuben-bradley/kitty-sweeper",
-      "thisago/safeWriting",
-      "thisago/gm_api",
-      "caiqing/juice-shop"
     ]
   },
   {
@@ -341,9 +329,9 @@
     "totalStars": 0,
     "topRepositories": [
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
       "bensams/671"
     ]
   },
@@ -381,14 +369,25 @@
     ]
   },
   {
+    "name": "javascript",
+    "count": 4,
+    "totalStars": 6,
+    "topRepositories": [
+      "cereci5049/Shoppers",
+      "thisago/safeWriting",
+      "thisago/gm_api",
+      "caiqing/juice-shop"
+    ]
+  },
+  {
     "name": "poc",
     "count": 4,
     "totalStars": 0,
     "topRepositories": [
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
     ]
   },
   {
@@ -436,8 +435,8 @@
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
-      "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator",
       "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
@@ -502,26 +501,6 @@
     ]
   },
   {
-    "name": "exploitation",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "ethical-hacking",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
     "name": "reverse-engineering",
     "count": 3,
     "totalStars": 1,
@@ -529,6 +508,26 @@
       "grokmeme/gpt4free",
       "Therealgman/pokeemerald",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "ethical-hacking",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "exploitation",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
   {
@@ -543,7 +542,7 @@
   {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 281,
+    "totalStars": 283,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -613,15 +612,6 @@
     ]
   },
   {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
-    ]
-  },
-  {
     "name": "library",
     "count": 2,
     "totalStars": 41,
@@ -664,15 +654,6 @@
     "topRepositories": [
       "nettleweb/nettleweb",
       "ShutUpYouSlut/Inter-Forky"
-    ]
-  },
-  {
-    "name": "html",
-    "count": 2,
-    "totalStars": 6,
-    "topRepositories": [
-      "nettleweb/nettleweb",
-      "reuben-bradley/kitty-sweeper"
     ]
   },
   {
@@ -770,8 +751,8 @@
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
+      "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -844,24 +825,6 @@
     "topRepositories": [
       "galaxy-future/alist",
       "sbwml/alist"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -1027,12 +990,12 @@
     ]
   },
   {
-    "name": "proof-of-concept",
+    "name": "exploits",
     "count": 2,
-    "totalStars": 0,
+    "totalStars": 1,
     "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -1042,6 +1005,15 @@
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky",
       "bensams/671"
+    ]
+  },
+  {
+    "name": "proof-of-concept",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
     ]
   },
   {
@@ -1122,7 +1094,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 272,
+    "totalStars": 274,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1130,7 +1102,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 272,
+    "totalStars": 274,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1237,6 +1209,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1584,6 +1564,14 @@
     ]
   },
   {
+    "name": "html",
+    "count": 1,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb"
+    ]
+  },
+  {
     "name": "html5-games",
     "count": 1,
     "totalStars": 6,
@@ -1893,22 +1881,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3144,115 +3116,19 @@
     ]
   },
   {
-    "name": "installer",
+    "name": "lean4",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {
-    "name": "powershell",
+    "name": "research-project",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "camera",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "dvr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "cve-2017-8225",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "wifi-camera",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "cve-2017-9841",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
-    ]
-  },
-  {
-    "name": "phpunit",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
-    ]
-  },
-  {
-    "name": "rce",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
-    ]
-  },
-  {
-    "name": "remote-code-execution",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
-    ]
-  },
-  {
-    "name": "cve-2017-7921",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
-    "name": "hikvision",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
-    "name": "hikvision-exploit",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
-    "name": "game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "reuben-bradley/kitty-sweeper"
+      "LakshitSinghBishtTM/xLaDe"
     ]
   },
   {
@@ -3325,6 +3201,22 @@
     "totalStars": 0,
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "dvr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -3461,6 +3353,78 @@
     "totalStars": 0,
     "topRepositories": [
       "byt3n33dl3/gxc-BloodHuntr"
+    ]
+  },
+  {
+    "name": "cve-2017-7921",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "hikvision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "hikvision-exploit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "cve-2017-9841",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "phpunit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "rce",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "remote-code-execution",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-9841-EXPLOIT"
+    ]
+  },
+  {
+    "name": "cve-2017-8225",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "wifi-camera",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
     ]
   },
   {

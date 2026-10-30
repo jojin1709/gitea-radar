@@ -1,8 +1,8 @@
 [
   {
     "name": "golang",
-    "count": 18,
-    "totalStars": 529,
+    "count": 17,
+    "totalStars": 528,
     "topRepositories": [
       "xorm/xorm",
       "goftp/server",
@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 16,
-    "totalStars": 693,
+    "totalStars": 694,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -232,10 +232,10 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
+      "K3ysTr0K3R/METIS",
       "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
-      "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
@@ -349,7 +349,7 @@
   {
     "name": "mcp",
     "count": 4,
-    "totalStars": 103,
+    "totalStars": 104,
     "topRepositories": [
       "gitea/gitea-mcp",
       "ab-smith/ciso-assistant-community",
@@ -431,6 +431,26 @@
     ]
   },
   {
+    "name": "nodejs",
+    "count": 3,
+    "totalStars": 44,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "eddiemike1267/Ultraviolet-App",
+      "WebPlay/server"
+    ]
+  },
+  {
+    "name": "openai",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "piexian/astrbot_plugin_gemini_image_generation",
+      "PublicAffairs/openai-github-copilot",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
     "name": "minecraft",
     "count": 3,
     "totalStars": 4,
@@ -438,6 +458,16 @@
       "Griefed/ServerPackCreator",
       "SpeedSlicer/MineXLauncher-Beta",
       "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "eddiemike1267/Ultraviolet-App",
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -501,16 +531,6 @@
     ]
   },
   {
-    "name": "reverse-engineering",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "grokmeme/gpt4free",
-      "Therealgman/pokeemerald",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "ethical-hacking",
     "count": 3,
     "totalStars": 1,
@@ -528,6 +548,16 @@
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
+    "name": "reverse-engineering",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free",
+      "Therealgman/pokeemerald",
+      "rubayet123/rea"
     ]
   },
   {
@@ -551,7 +581,7 @@
   {
     "name": "git",
     "count": 2,
-    "totalStars": 158,
+    "totalStars": 159,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex"
@@ -594,30 +624,12 @@
     ]
   },
   {
-    "name": "nodejs",
-    "count": 2,
-    "totalStars": 44,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "WebPlay/server"
-    ]
-  },
-  {
     "name": "react",
     "count": 2,
     "totalStars": 43,
     "topRepositories": [
       "DuarteSantos/openGym",
       "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -747,30 +759,12 @@
     ]
   },
   {
-    "name": "openai",
-    "count": 2,
-    "totalStars": 4,
-    "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "grokmeme/gpt4free"
-    ]
-  },
-  {
     "name": "java",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -792,57 +786,21 @@
     ]
   },
   {
-    "name": "solidjs",
+    "name": "nginx",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
-      "galaxy-future/alist",
-      "sbwml/alist"
+      "wower/hestiamb",
+      "palmcoasty/bunkerweb"
     ]
   },
   {
-    "name": "webdav",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "galaxy-future/alist",
-      "sbwml/alist"
-    ]
-  },
-  {
-    "name": "gin",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "galaxy-future/alist",
-      "sbwml/alist"
-    ]
-  },
-  {
-    "name": "onedrive",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "galaxy-future/alist",
-      "sbwml/alist"
-    ]
-  },
-  {
-    "name": "file-server",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "galaxy-future/alist",
-      "sbwml/alist"
-    ]
-  },
-  {
-    "name": "scoop",
+    "name": "exploits",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -852,6 +810,15 @@
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky",
       "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "web-server",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb",
+      "rammiah/caddy"
     ]
   },
   {
@@ -1005,15 +972,6 @@
     "topRepositories": [
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
-    ]
-  },
-  {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -1227,6 +1185,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1502,22 +1468,6 @@
     ]
   },
   {
-    "name": "selfhost",
-    "count": 1,
-    "totalStars": 9,
-    "topRepositories": [
-      "6543/pages-server"
-    ]
-  },
-  {
-    "name": "github-pages",
-    "count": 1,
-    "totalStars": 9,
-    "topRepositories": [
-      "6543/pages-server"
-    ]
-  },
-  {
     "name": "federation",
     "count": 1,
     "totalStars": 9,
@@ -1539,6 +1489,22 @@
     "totalStars": 9,
     "topRepositories": [
       "xy/gitea"
+    ]
+  },
+  {
+    "name": "selfhost",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
+    ]
+  },
+  {
+    "name": "github-pages",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
     ]
   },
   {
@@ -1894,19 +1860,35 @@
     ]
   },
   {
-    "name": "scoop-apps",
+    "name": "c2",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
-    "name": "scoop-bucket",
+    "name": "cves",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -2406,6 +2388,126 @@
     ]
   },
   {
+    "name": "solidjs",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "webdav",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "gin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "onedrive",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "file-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "apache2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panels",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dns-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dovecot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "exim",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "linux-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "mail-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "php",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "web-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
     "name": "redengine",
     "count": 1,
     "totalStars": 1,
@@ -2806,14 +2908,6 @@
     ]
   },
   {
-    "name": "nginx",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "palmcoasty/bunkerweb"
-    ]
-  },
-  {
     "name": "security-tuning",
     "count": 1,
     "totalStars": 1,
@@ -2875,38 +2969,6 @@
     "totalStars": 1,
     "topRepositories": [
       "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -3142,19 +3204,315 @@
     ]
   },
   {
-    "name": "installer",
+    "name": "astrbot-plugin",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "piexian/astrbot_plugin_gemini_image_generation"
     ]
   },
   {
-    "name": "powershell",
+    "name": "doubao",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "piexian/astrbot_plugin_gemini_image_generation"
+    ]
+  },
+  {
+    "name": "gemimi",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "piexian/astrbot_plugin_gemini_image_generation"
+    ]
+  },
+  {
+    "name": "grok",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "piexian/astrbot_plugin_gemini_image_generation"
+    ]
+  },
+  {
+    "name": "image-generation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "piexian/astrbot_plugin_gemini_image_generation"
+    ]
+  },
+  {
+    "name": "xai-api",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "piexian/astrbot_plugin_gemini_image_generation"
+    ]
+  },
+  {
+    "name": "browser-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/gta-vice-city-wasm"
+    ]
+  },
+  {
+    "name": "game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/gta-vice-city-wasm"
+    ]
+  },
+  {
+    "name": "wasm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/gta-vice-city-wasm"
+    ]
+  },
+  {
+    "name": "webassembly",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/gta-vice-city-wasm"
+    ]
+  },
+  {
+    "name": "proxy-server",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "eddiemike1267/Ultraviolet-App"
+    ]
+  },
+  {
+    "name": "ultraviolet",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "eddiemike1267/Ultraviolet-App"
+    ]
+  },
+  {
+    "name": "webproxy",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "eddiemike1267/Ultraviolet-App"
+    ]
+  },
+  {
+    "name": "website",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "eddiemike1267/Ultraviolet-App"
+    ]
+  },
+  {
+    "name": "bitcoin-flash",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "bitcoin-flasher",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "bitcoin-flashing-software",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "btc-flashing-software",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "buy-flash-usdt-online",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "crypto-flash",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-bitcoin",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-bitcoin-software",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-bitcoins",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-btc",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-blockchain-architecture",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-enterprise-solution",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-erc20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-hash-log-engine",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-merchant-integration",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-online",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-price",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-bep20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-trc20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "flash-usdt-wallet-stimulator",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "usdt-flash-generator",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "usdt-flash-wallet",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "usdt-flashing-tool",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "what-is-flash-bitcoin",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
+    ]
+  },
+  {
+    "name": "what-is-flash-usdt",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-"
     ]
   },
   {
@@ -3279,14 +3637,6 @@
   },
   {
     "name": "automatic-https",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rammiah/caddy"
-    ]
-  },
-  {
-    "name": "web-server",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

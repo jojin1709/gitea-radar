@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 259,
-    "totalStars": 824,
+    "count": 271,
+    "totalStars": 832,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,37 +18,37 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 42,
+    "count": 40,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "gveonlineface/CyberKotlete",
       "cp-api-mirror/wl",
-      "CyberShell/hostfiles",
-      "dadidang/zinc"
+      "K3ysTr0K3R/METIS",
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 21,
-    "totalStars": 26,
+    "count": 24,
+    "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone",
-      "serpdotai/ChatGPT-Plugins"
+      "piexian/astrbot_plugin_gemini_image_generation",
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
+    "count": 20,
     "totalStars": 446,
     "iconName": "Terminal",
     "topRepositories": [
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 17,
+    "count": 19,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -78,22 +78,22 @@
     "id": "automation",
     "name": "Automation",
     "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
-    "count": 17,
+    "count": 18,
     "totalStars": 28,
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
+      "piexian/astrbot_plugin_gemini_image_generation",
       "Griefed/ServerPackCreator",
       "its-theo/NukeCord",
-      "VernonG/FiveM-External-Cheat",
-      "willylands/FiveM-External-Cheat"
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 15,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -102,6 +102,21 @@
       "gitea/helm-actions",
       "goftp/ftpd",
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
+    "count": 9,
+    "totalStars": 9,
+    "iconName": "Gamepad2",
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "10224530/gta-vice-city-wasm",
+      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc"
     ]
   },
   {
@@ -120,18 +135,33 @@
     ]
   },
   {
-    "id": "games",
-    "name": "Games",
-    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 7,
-    "totalStars": 9,
-    "iconName": "Gamepad2",
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 6,
+    "totalStars": 4,
+    "iconName": "Network",
     "topRepositories": [
-      "nettleweb/nettleweb",
+      "eddiemike1267/Ultraviolet-App",
+      "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM",
-      "grokmeme/gpt4free"
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
+    ]
+  },
+  {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 65,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "AuberyLis/FillyFill",
+      "hexmos/FreeDevTools",
+      "gitea/sdk.js",
+      "rubayet123/rea"
     ]
   },
   {
@@ -150,35 +180,6 @@
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 5,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy",
-      "yslxotwod/wifisting"
-    ]
-  },
-  {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 4,
-    "totalStars": 65,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "hexmos/FreeDevTools",
-      "gitea/sdk.js",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -193,6 +194,18 @@
     ]
   },
   {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 2,
+    "totalStars": 43,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "paoloronco/OrbitPage"
+    ]
+  },
+  {
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
@@ -202,17 +215,6 @@
     "topRepositories": [
       "gitea/awesome-gitea",
       "bensams/671"
-    ]
-  },
-  {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 1,
-    "totalStars": 42,
-    "iconName": "Home",
-    "topRepositories": [
-      "DuarteSantos/openGym"
     ]
   },
   {

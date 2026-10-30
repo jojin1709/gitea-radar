@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 56,
-    "totalStars": 1483,
+    "count": 57,
+    "totalStars": 1485,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 7,
+    "count": 9,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "rithred472/Docum",
-      "Receiverofmemory/Camp"
+      "gagan1211/prompts",
+      "pdf-conversion-service/fillable-pdf-form-templates"
     ]
   },
   {
     "name": "Java",
-    "count": 20,
+    "count": 18,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -40,44 +40,45 @@
   },
   {
     "name": "Go Template",
-    "count": 2,
+    "count": 3,
     "totalStars": 105,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
-      "gitea/helm-actions"
+      "gitea/helm-actions",
+      "mohamed_ali/gitops-argocd"
     ]
   },
   {
     "name": "JavaScript",
-    "count": 28,
-    "totalStars": 91,
+    "count": 29,
+    "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
       "actions/gitea-release-action",
       "xorm/dbweb",
-      "gitea/gitea-docusaurus",
-      "gitea/renovate-config"
+      "gitea/renovate-config",
+      "gitea/gitea-docusaurus"
     ]
   },
   {
     "name": "C++",
-    "count": 7,
-    "totalStars": 56,
+    "count": 10,
+    "totalStars": 58,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
-      "tanwk/apotris",
-      "ar9013/MRTEA",
-      "3625gds67-web/apotris_ds"
+      "kaos/engine",
+      "OlgaR/engine",
+      "ariankordi/mii-to-model"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 18,
-    "totalStars": 54,
+    "count": 22,
+    "totalStars": 56,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -89,28 +90,28 @@
   },
   {
     "name": "C#",
-    "count": 9,
+    "count": 10,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
       "Demtakeniri/Rune-Walkers",
-      "MrDrone-ru/Mahou",
-      "Maksim_Karpov/winPizzaHub"
+      "othertime/gratisforgratis",
+      "MrDrone-ru/Mahou"
     ]
   },
   {
     "name": "HTML",
-    "count": 9,
+    "count": 13,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "firavoyage/blogging",
-      "atsu-lens/lens"
+      "Fusionlegit/the-metroplex-wps",
+      "Mzelda888/about-blank"
     ]
   },
   {
@@ -124,25 +125,26 @@
   },
   {
     "name": "Python",
-    "count": 30,
-    "totalStars": 27,
+    "count": 35,
+    "totalStars": 28,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "david001/zhiyun"
+      "gondora123/knowledge-fetcher"
     ]
   },
   {
     "name": "Dockerfile",
-    "count": 2,
+    "count": 3,
     "totalStars": 27,
     "color": "#64748B",
     "topRepositories": [
       "gitea/runner-images",
-      "lunny/slides"
+      "lunny/slides",
+      "silverwind/runner-images"
     ]
   },
   {
@@ -157,46 +159,51 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
     "name": "Shell",
-    "count": 12,
-    "totalStars": 17,
+    "count": 14,
+    "totalStars": 18,
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "FatjonMileti/gitea-data-docker",
       "CarstenDutch/i915-sriov-unraid",
-      "WS-CatGirl/Arch-Auto-Install"
+      "WS-CatGirl/Arch-Auto-Install",
+      "csimons/dotfiles"
     ]
   },
   {
     "name": "Makefile",
-    "count": 3,
+    "count": 5,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
+      "Venkatasaiee12/db",
+      "K4LCHAKRA/vendor_xiaomi_onyx-miuiapps",
       "gitea/redirects"
     ]
   },
   {
     "name": "CSS",
-    "count": 3,
-    "totalStars": 13,
+    "count": 5,
+    "totalStars": 14,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore"
+      "jefflance/chezmoi",
+      "pooneyy/1Panel-Appstore",
+      "scorpp13/hypr-void"
     ]
   },
   {
@@ -217,7 +224,7 @@
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
-      "gveonlineface/CyberKotlete",
+      "gabordemooij/xoscript",
       "postgis/postgis",
       "yoelrm/CVE-2021-4034",
       "yslxotwod/wifisting"
@@ -234,24 +241,22 @@
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
   },
   {
     "name": "Rust",
-    "count": 3,
+    "count": 2,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "lebron/tentacle",
       "woolster2020/vc"
     ]
   },
@@ -266,13 +271,12 @@
   },
   {
     "name": "Kotlin",
-    "count": 4,
+    "count": 3,
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
-      "Rimpest/LocalTube",
+      "hleb/minimalistlauncher",
       "Griefed/ServerPackCreator",
-      "ar9013/XCam",
       "starclimber/TinyMCServer"
     ]
   },
@@ -299,10 +303,11 @@
   },
   {
     "name": "Lua",
-    "count": 3,
+    "count": 4,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
+      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp",
       "yeildonglol/LamintScripts",
       "your.yumia/kickstart.nvim",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
@@ -320,30 +325,22 @@
     ]
   },
   {
+    "name": "Jupyter Notebook",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "RMPlaysMCYT/Corn-Detection-System",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "Batchfile",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
-    ]
-  },
-  {
-    "name": "templ",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "techknowlogick/tklk-flake"
     ]
   },
   {
@@ -356,15 +353,6 @@
     ]
   },
   {
-    "name": "Jupyter Notebook",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
     "name": "PostScript",
     "count": 1,
     "totalStars": 1,
@@ -374,22 +362,40 @@
     ]
   },
   {
-    "name": "OpenSCAD",
+    "name": "M3U",
     "count": 2,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "MrKrut0y/digital-microscope-eyepiece",
-      "AlexeyKorotkix/digital-microscope-eyepiece"
+      "russellb9/bongda",
+      "lvu062022/hstea"
     ]
   },
   {
-    "name": "M3U",
+    "name": "AsciiDoc",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "lvu062022/hstea"
+      "GravitonForge/Bookmarks"
+    ]
+  },
+  {
+    "name": "PHP",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#4F5D95",
+    "topRepositories": [
+      "pckeeper11/My-Project"
+    ]
+  },
+  {
+    "name": "OpenSCAD",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "MrKrut0y/digital-microscope-eyepiece"
     ]
   },
   {

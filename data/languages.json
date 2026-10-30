@@ -2,7 +2,7 @@
   {
     "name": "Go",
     "count": 56,
-    "totalStars": 1483,
+    "totalStars": 1482,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -27,8 +27,8 @@
   },
   {
     "name": "Java",
-    "count": 26,
-    "totalStars": 181,
+    "count": 23,
+    "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
       "gitnex/GitNex",
@@ -50,7 +50,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 28,
+    "count": 31,
     "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
@@ -63,20 +63,20 @@
   },
   {
     "name": "C++",
-    "count": 6,
+    "count": 8,
     "totalStars": 56,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
-      "tanwk/apotris",
-      "ariankordi/mii-to-model",
-      "fainted09/FiveM-Mod-Menu"
+      "3625gds67-web/apotris_ds",
+      "ar9013/VIO-Course",
+      "tanwk/apotris"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 20,
+    "count": 22,
     "totalStars": 55,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,7 +89,7 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 9,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
@@ -97,20 +97,20 @@
       "Eldesan/wotlk-windows-launcher",
       "Demtakeniri/Rune-Walkers",
       "MrDrone-ru/Mahou",
-      "othertime/gratisforgratis"
+      "Maksim_Karpov/winPizzaHub"
     ]
   },
   {
     "name": "HTML",
-    "count": 8,
+    "count": 9,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "Fusionlegit/the-metroplex-wps",
-      "firavoyage/blogging"
+      "jalanjalantiaphari/rencana-liburan-akhir-pekan",
+      "Fusionlegit/the-metroplex-wps"
     ]
   },
   {
@@ -124,8 +124,8 @@
   },
   {
     "name": "Python",
-    "count": 35,
-    "totalStars": 27,
+    "count": 33,
+    "totalStars": 29,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
@@ -157,25 +157,24 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "Shell",
-    "count": 12,
+    "count": 11,
     "totalStars": 17,
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "FatjonMileti/gitea-data-docker",
       "CarstenDutch/i915-sriov-unraid",
-      "stanlyonhack/commit"
+      "FatjonMileti/gitea-data-docker",
+      "Gtajisan/Action-Recovery-Builder"
     ]
   },
   {
@@ -202,14 +201,13 @@
   },
   {
     "name": "Vue",
-    "count": 4,
-    "totalStars": 12,
+    "count": 3,
+    "totalStars": 11,
     "color": "#41B883",
     "topRepositories": [
       "sapk/explore-webapp",
       "gerazo/eltelive",
-      "WebPlay/client",
-      "qiqius/2077"
+      "WebPlay/client"
     ]
   },
   {
@@ -247,11 +245,12 @@
   },
   {
     "name": "Rust",
-    "count": 2,
+    "count": 3,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
+      "zaccesss/zacess",
       "woolster2020/vc"
     ]
   },
@@ -270,9 +269,9 @@
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
-      "starclimber/TinyMCServer",
-      "hleb/minimalistlauncher",
-      "Griefed/ServerPackCreator"
+      "Griefed/ServerPackCreator",
+      "ar9013/XCam",
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -320,12 +319,13 @@
     ]
   },
   {
-    "name": "Batchfile",
-    "count": 1,
+    "name": "Nix",
+    "count": 2,
     "totalStars": 1,
-    "color": "#64748B",
+    "color": "#7E7EFF",
     "topRepositories": [
-      "andry81/contools"
+      "techknowlogick/tklk-flake",
+      "Weeble/nix-config"
     ]
   },
   {
@@ -335,6 +335,15 @@
     "color": "#64748B",
     "topRepositories": [
       "vquie/act_runner-helm"
+    ]
+  },
+  {
+    "name": "Batchfile",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools"
     ]
   },
   {
@@ -356,16 +365,6 @@
     ]
   },
   {
-    "name": "PHP",
-    "count": 2,
-    "totalStars": 0,
-    "color": "#4F5D95",
-    "topRepositories": [
-      "namuinteractive/conversapage",
-      "teamlead/3davto"
-    ]
-  },
-  {
     "name": "Standard ML",
     "count": 1,
     "totalStars": 0,
@@ -375,12 +374,12 @@
     ]
   },
   {
-    "name": "Nix",
+    "name": "PHP",
     "count": 1,
     "totalStars": 0,
-    "color": "#7E7EFF",
+    "color": "#4F5D95",
     "topRepositories": [
-      "Weeble/nix-config"
+      "namuinteractive/conversapage"
     ]
   },
   {

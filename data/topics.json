@@ -305,8 +305,8 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -321,18 +321,6 @@
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
       "its-theo/NukeCord"
-    ]
-  },
-  {
-    "name": "docker",
-    "count": 5,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "Griefed/ServerPackCreator",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -433,13 +421,13 @@
     ]
   },
   {
-    "name": "react",
+    "name": "docker",
     "count": 3,
-    "totalStars": 43,
+    "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/isaacadjei.me",
-      "ToolAnchor/websitegeek-seo-suite-tools"
+      "Griefed/ServerPackCreator",
+      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -448,18 +436,8 @@
     "totalStars": 4,
     "topRepositories": [
       "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer",
-      "SpeedSlicer/MineXLauncher-Beta"
-    ]
-  },
-  {
-    "name": "python",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "zaccesss/.profile",
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
+      "SpeedSlicer/MineXLauncher-Beta",
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -553,16 +531,6 @@
     ]
   },
   {
-    "name": "rust",
-    "count": 3,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
@@ -572,18 +540,9 @@
     ]
   },
   {
-    "name": "postgresql",
-    "count": 2,
-    "totalStars": 409,
-    "topRepositories": [
-      "xorm/xorm",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 283,
+    "totalStars": 284,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -644,12 +603,21 @@
     ]
   },
   {
-    "name": "self-hosted",
+    "name": "react",
     "count": 2,
-    "totalStars": 42,
+    "totalStars": 43,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos"
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -806,21 +774,21 @@
     ]
   },
   {
-    "name": "portfolio",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me",
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "trust-wallet",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
       "TroyDen/Flash-BTC-USDT-ETH-SOL",
       "TroyDen/Multichain-Drainer-Tool"
+    ]
+  },
+  {
+    "name": "python",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -866,6 +834,15 @@
     "topRepositories": [
       "galaxy-future/alist",
       "sbwml/alist"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -1040,78 +1017,6 @@
     ]
   },
   {
-    "name": "accessibility",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess",
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "webassembly",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess",
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "esp32",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "fastapi",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "kicad",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "open-hardware",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "typescript",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos",
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "nextjs",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos",
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1173,6 +1078,14 @@
     ]
   },
   {
+    "name": "postgresql",
+    "count": 1,
+    "totalStars": 409,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
     "name": "orm",
     "count": 1,
     "totalStars": 409,
@@ -1199,7 +1112,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 274,
+    "totalStars": 275,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1207,7 +1120,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 274,
+    "totalStars": 275,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1293,6 +1206,14 @@
     ]
   },
   {
+    "name": "self-hosted",
+    "count": 1,
+    "totalStars": 42,
+    "topRepositories": [
+      "DuarteSantos/openGym"
+    ]
+  },
+  {
     "name": "webauthn",
     "count": 1,
     "totalStars": 42,
@@ -1306,14 +1227,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -1941,46 +1854,6 @@
     ]
   },
   {
-    "name": "animated",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "ascii-art",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "computer-science",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "electronics-engineering",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "github-profile-readme",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "rest-api",
     "count": 1,
     "totalStars": 2,
@@ -2021,43 +1894,19 @@
     ]
   },
   {
-    "name": "android-app",
+    "name": "scoop-apps",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "starclimber/TinyMCServer"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
-    "name": "jre",
+    "name": "scoop-bucket",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin-android",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "mc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -2490,6 +2339,46 @@
     "totalStars": 1,
     "topRepositories": [
       "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "android-app",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "jre",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin-android",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "mc",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -3253,323 +3142,19 @@
     ]
   },
   {
-    "name": "assistive-technology",
+    "name": "installer",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/zacess"
+      "magicedy/Scoop"
     ]
   },
   {
-    "name": "dyslexia",
+    "name": "powershell",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "education",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "low-vision",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "ocr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "open-source",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "screen-reader",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "tauri",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "text-to-speech",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "esp32-s3",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "guitar",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "led",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "midi",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "music",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "music-education",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "piano",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "platformio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "timescaledb",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "ws2812b",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "anomaly-detection",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "arduino",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "condition-monitoring",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "embedded-systems",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "industrial-iot",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "iot",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "machine-learning",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "predictive-maintenance",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "proteus",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "redis",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "scikit-learn",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "stm32",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "echarts",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "electronics",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "maplibre",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "personal-website",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "portfolio-website",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "recharts",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "tailwindcss",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "threejs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "name": "vercel",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/isaacadjei.me"
+      "magicedy/Scoop"
     ]
   },
   {

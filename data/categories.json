@@ -23,40 +23,25 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "cyberwarn/CyberWarn",
+      "K3ysTr0K3R/METIS",
       "cp-api-mirror/wl",
-      "cyberwarn/VoidSec",
-      "CyberShell/hostfiles"
+      "cyberwarn/CyberWarn",
+      "cyberwarn/VoidSec"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 24,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
       "gresil-rs/gresil",
-      "zaccesss/phaemos",
-      "zaccesss/isaacadjei.me"
-    ]
-  },
-  {
-    "id": "web",
-    "name": "Web",
-    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 23,
-    "totalStars": 81,
-    "iconName": "Globe",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "lunny/tango",
-      "nettleweb/nettleweb",
-      "cereci5049/Shoppers",
-      "WebPlay/client"
+      "piexian/astrbot_plugin_gemini_image_generation",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -72,6 +57,21 @@
       "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client",
       "xorm/reverse"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 19,
+    "totalStars": 81,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "lunny/tango",
+      "nettleweb/nettleweb",
+      "cereci5049/Shoppers",
+      "WebPlay/client"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 16,
+    "count": 15,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
+    "count": 8,
     "totalStars": 435,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,30 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 11,
+    "count": 8,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "10224530/gta-vice-city-wasm",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 7,
-    "totalStars": 416,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "serpdotai/bark-with-voice-clone"
+      "dadidang/zinc",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
@@ -165,6 +150,36 @@
     ]
   },
   {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 65,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "AuberyLis/FillyFill",
+      "gitea/sdk.js",
+      "hexmos/FreeDevTools",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 5,
+    "totalStars": 416,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -180,55 +195,36 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 5,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/melophos",
-      "zaccesss/zacess",
-      "zaccesss/phaemos",
-      "bensams/671"
-    ]
-  },
-  {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 4,
-    "totalStars": 65,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "gitea/sdk.js",
-      "hexmos/FreeDevTools",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
     "count": 2,
-    "totalStars": 42,
+    "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos"
+      "paoloronco/OrbitPage"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 2,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "bensams/671"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

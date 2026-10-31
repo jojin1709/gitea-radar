@@ -2,7 +2,7 @@
   {
     "name": "Go",
     "count": 59,
-    "totalStars": 1484,
+    "totalStars": 1485,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 21,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -52,8 +52,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 30,
-    "totalStars": 92,
+    "count": 31,
+    "totalStars": 93,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -64,22 +64,9 @@
     ]
   },
   {
-    "name": "C++",
-    "count": 9,
-    "totalStars": 58,
-    "color": "#F34B7D",
-    "topRepositories": [
-      "akouzoukos/apotris",
-      "JerryALT/iw3sp_mod",
-      "thomas0465/apotris",
-      "tanwk/apotris",
-      "kaos/engine"
-    ]
-  },
-  {
     "name": "TypeScript",
     "count": 22,
-    "totalStars": 55,
+    "totalStars": 56,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -90,42 +77,42 @@
     ]
   },
   {
-    "name": "C#",
+    "name": "C++",
     "count": 8,
+    "totalStars": 56,
+    "color": "#F34B7D",
+    "topRepositories": [
+      "akouzoukos/apotris",
+      "JerryALT/iw3sp_mod",
+      "thomas0465/apotris",
+      "tanwk/apotris",
+      "ar9013/MRTEA"
+    ]
+  },
+  {
+    "name": "C#",
+    "count": 7,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "MrDrone-ru/Mahou",
       "Maksim_Karpov/winPizzaHub",
-      "Falcon/Falcon.StoredProcedureRunner"
+      "Falcon/Falcon.StoredProcedureRunner",
+      "Lyboslav/Security-API"
     ]
   },
   {
     "name": "HTML",
-    "count": 13,
+    "count": 12,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "chipapexsz/chipapex-dd200s33k2-notes",
-      "lanticy/cAssets"
-    ]
-  },
-  {
-    "name": "Python",
-    "count": 40,
-    "totalStars": 30,
-    "color": "#3572A5",
-    "topRepositories": [
-      "yige/github2gitea",
-      "MyEMS/MyEMS",
-      "vsnits/Phibrajry",
-      "nazdridoy/ngpt",
-      "WAMCoin/wam-coin"
+      "firavoyage/blogging",
+      "chipapexsz/chipapex-dd200s33k2-notes"
     ]
   },
   {
@@ -135,6 +122,19 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
+    ]
+  },
+  {
+    "name": "Python",
+    "count": 36,
+    "totalStars": 28,
+    "color": "#3572A5",
+    "topRepositories": [
+      "yige/github2gitea",
+      "MyEMS/MyEMS",
+      "vsnits/Phibrajry",
+      "nazdridoy/ngpt",
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -160,24 +160,25 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
     "name": "Shell",
-    "count": 13,
-    "totalStars": 18,
+    "count": 12,
+    "totalStars": 19,
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "WS-CatGirl/Arch-Auto-Install",
       "shanawaz/deployment_script",
-      "Han/Han.GJK"
+      "fasheng/magisk-modules"
     ]
   },
   {
@@ -193,14 +194,14 @@
   },
   {
     "name": "CSS",
-    "count": 6,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "curben/blog",
       "pooneyy/1Panel-Appstore",
+      "curben/blog",
       "Yanyang-Technology-Group/Yanyang_WebSite"
     ]
   },
@@ -238,19 +239,6 @@
     ]
   },
   {
-    "name": "Rust",
-    "count": 5,
-    "totalStars": 4,
-    "color": "#DEA584",
-    "topRepositories": [
-      "pipelight/pipelight",
-      "lebron/tentacle",
-      "woolster2020/vc",
-      "gresil-rs/gresil",
-      "zaccesss/zacess"
-    ]
-  },
-  {
     "name": "PowerShell",
     "count": 4,
     "totalStars": 4,
@@ -260,6 +248,18 @@
       "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
+    ]
+  },
+  {
+    "name": "Rust",
+    "count": 4,
+    "totalStars": 4,
+    "color": "#DEA584",
+    "topRepositories": [
+      "pipelight/pipelight",
+      "woolster2020/vc",
+      "lebron/tentacle",
+      "gresil-rs/gresil"
     ]
   },
   {
@@ -329,21 +329,22 @@
     ]
   },
   {
+    "name": "Jupyter Notebook",
+    "count": 2,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "pure-book/note",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "templ",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "techknowlogick/tklk-flake"
     ]
   },
   {
@@ -362,15 +363,6 @@
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
-    ]
-  },
-  {
-    "name": "Jupyter Notebook",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -404,12 +396,21 @@
     ]
   },
   {
-    "name": "AsciiDoc",
+    "name": "CSV",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "GravitonForge/Bookmarks"
+      "abdulhannan-data/us-bank-holidays"
+    ]
+  },
+  {
+    "name": "Standard ML",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "zcxt-public/controls"
     ]
   },
   {

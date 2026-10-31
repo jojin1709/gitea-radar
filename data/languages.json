@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 57,
+    "count": 62,
     "totalStars": 1485,
     "color": "#00ADD8",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 17,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -51,7 +51,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 29,
+    "count": 30,
     "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
@@ -70,14 +70,14 @@
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
-      "kaos/engine",
-      "OlgaR/engine",
-      "ariankordi/mii-to-model"
+      "thomas0465/apotris",
+      "tanwk/apotris",
+      "kaos/engine"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 22,
+    "count": 24,
     "totalStars": 56,
     "color": "#3178C6",
     "topRepositories": [
@@ -90,28 +90,41 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 8,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "Demtakeniri/Rune-Walkers",
-      "othertime/gratisforgratis",
-      "MrDrone-ru/Mahou"
+      "MrDrone-ru/Mahou",
+      "Maksim_Karpov/winPizzaHub",
+      "Falcon/Falcon.StoredProcedureRunner"
     ]
   },
   {
     "name": "HTML",
-    "count": 13,
+    "count": 15,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "Fusionlegit/the-metroplex-wps",
-      "Mzelda888/about-blank"
+      "chipapexsz/chipapex-dd200s33k2-notes",
+      "lanticy/cAssets"
+    ]
+  },
+  {
+    "name": "Python",
+    "count": 37,
+    "totalStars": 30,
+    "color": "#3572A5",
+    "topRepositories": [
+      "yige/github2gitea",
+      "MyEMS/MyEMS",
+      "vsnits/Phibrajry",
+      "nazdridoy/ngpt",
+      "loki-s3c/ctf-casefiles"
     ]
   },
   {
@@ -121,19 +134,6 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
-    ]
-  },
-  {
-    "name": "Python",
-    "count": 35,
-    "totalStars": 28,
-    "color": "#3572A5",
-    "topRepositories": [
-      "yige/github2gitea",
-      "MyEMS/MyEMS",
-      "vsnits/Phibrajry",
-      "nazdridoy/ngpt",
-      "gondora123/knowledge-fetcher"
     ]
   },
   {
@@ -159,37 +159,35 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "Shell",
-    "count": 14,
+    "count": 15,
     "totalStars": 18,
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "CarstenDutch/i915-sriov-unraid",
-      "WS-CatGirl/Arch-Auto-Install",
-      "csimons/dotfiles"
+      "shanawaz/deployment_script",
+      "Han/Han.GJK",
+      "CarstenDutch/i915-sriov-unraid"
     ]
   },
   {
     "name": "Makefile",
-    "count": 5,
+    "count": 4,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
       "Venkatasaiee12/db",
-      "K4LCHAKRA/vendor_xiaomi_onyx-miuiapps",
       "gitea/redirects"
     ]
   },
@@ -201,8 +199,8 @@
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "jefflance/chezmoi",
       "pooneyy/1Panel-Appstore",
+      "jefflance/chezmoi",
       "scorpp13/hypr-void"
     ]
   },
@@ -240,6 +238,18 @@
     ]
   },
   {
+    "name": "Rust",
+    "count": 4,
+    "totalStars": 4,
+    "color": "#DEA584",
+    "topRepositories": [
+      "pipelight/pipelight",
+      "gresil-rs/gresil",
+      "woolster2020/vc",
+      "zaccesss/zacess"
+    ]
+  },
+  {
     "name": "PowerShell",
     "count": 3,
     "totalStars": 4,
@@ -248,16 +258,6 @@
       "naz888z/workflow-playbook",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
-    ]
-  },
-  {
-    "name": "Rust",
-    "count": 2,
-    "totalStars": 4,
-    "color": "#DEA584",
-    "topRepositories": [
-      "pipelight/pipelight",
-      "woolster2020/vc"
     ]
   },
   {
@@ -271,12 +271,13 @@
   },
   {
     "name": "Kotlin",
-    "count": 3,
+    "count": 4,
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
-      "hleb/minimalistlauncher",
+      "dkarapetyan-afk/android-transcoder",
       "Griefed/ServerPackCreator",
+      "hleb/minimalistlauncher",
       "starclimber/TinyMCServer"
     ]
   },
@@ -325,22 +326,12 @@
     ]
   },
   {
-    "name": "Jupyter Notebook",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "RMPlaysMCYT/Corn-Detection-System",
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "name": "Batchfile",
+    "name": "Nix",
     "count": 1,
     "totalStars": 1,
-    "color": "#64748B",
+    "color": "#7E7EFF",
     "topRepositories": [
-      "andry81/contools"
+      "techknowlogick/tklk-flake"
     ]
   },
   {
@@ -353,12 +344,41 @@
     ]
   },
   {
+    "name": "Batchfile",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools"
+    ]
+  },
+  {
+    "name": "Jupyter Notebook",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "PostScript",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "hexmos/FreeDevTools"
+    ]
+  },
+  {
+    "name": "Dart",
+    "count": 3,
+    "totalStars": 0,
+    "color": "#00B4AB",
+    "topRepositories": [
+      "meoweebs/matryoshka",
+      "kwokyzen/matryoshka",
+      "application/coco_clipboard_scanner"
     ]
   },
   {
@@ -381,30 +401,12 @@
     ]
   },
   {
-    "name": "PHP",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#4F5D95",
-    "topRepositories": [
-      "pckeeper11/My-Project"
-    ]
-  },
-  {
     "name": "OpenSCAD",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "MrKrut0y/digital-microscope-eyepiece"
-    ]
-  },
-  {
-    "name": "Dart",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "application/coco_clipboard_scanner"
     ]
   }
 ]

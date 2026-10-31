@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 271,
-    "totalStars": 832,
+    "count": 273,
+    "totalStars": 823,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,52 +18,37 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 40,
+    "count": 41,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "cp-api-mirror/wl",
+      "CyberShell/hostfiles",
       "K3ysTr0K3R/METIS",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "dadidang/zinc"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 24,
+    "count": 26,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "piexian/astrbot_plugin_gemini_image_generation",
-      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
-      "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 20,
-    "totalStars": 446,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "xorm/reverse"
+      "gresil-rs/gresil",
+      "zaccesss/phaemos",
+      "zaccesss/isaacadjei.me"
     ]
   },
   {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 19,
+    "count": 23,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -75,6 +60,21 @@
     ]
   },
   {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 21,
+    "totalStars": 456,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "Oringo-Client/Oringo-Client",
+      "Pizza-Client/Pizza-Client",
+      "Cheeto-Client/Cheeto-Client",
+      "xorm/reverse"
+    ]
+  },
+  {
     "id": "automation",
     "name": "Automation",
     "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
@@ -83,8 +83,8 @@
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "piexian/astrbot_plugin_gemini_image_generation",
       "Griefed/ServerPackCreator",
+      "piexian/astrbot_plugin_gemini_image_generation",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat"
     ]
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 16,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -105,25 +105,10 @@
     ]
   },
   {
-    "id": "games",
-    "name": "Games",
-    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 9,
-    "iconName": "Gamepad2",
-    "topRepositories": [
-      "nettleweb/nettleweb",
-      "10224530/gta-vice-city-wasm",
-      "Kafcasz1/Buy-Crypto-Flash-Software-Trail--CFT-",
-      "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
-    ]
-  },
-  {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 8,
+    "count": 10,
     "totalStars": 435,
     "iconName": "Workflow",
     "topRepositories": [
@@ -135,18 +120,48 @@
     ]
   },
   {
+    "id": "games",
+    "name": "Games",
+    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
+    "count": 9,
+    "totalStars": 11,
+    "iconName": "Gamepad2",
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "zaccesss/.profile",
+      "10224530/gta-vice-city-wasm",
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 7,
+    "totalStars": 416,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
+    "count": 7,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
+      "gresil-rs/gresil",
       "eddiemike1267/Ultraviolet-App",
       "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
+      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -165,65 +180,57 @@
     ]
   },
   {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
-    "totalStars": 416,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
+    "count": 5,
     "totalStars": 58,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
+      "dkarapetyan-afk/android-transcoder",
       "starclimber/TinyMCServer",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]
   },
   {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
-    "totalStars": 43,
-    "iconName": "Home",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "paoloronco/OrbitPage"
-    ]
-  },
-  {
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 2,
+    "count": 5,
     "totalStars": 239,
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos",
       "bensams/671"
+    ]
+  },
+  {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 3,
+    "totalStars": 43,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/melophos",
+      "paoloronco/OrbitPage"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 0,
+    "count": 1,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": []
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
   }
 ]

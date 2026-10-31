@@ -232,10 +232,10 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
       "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
+      "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
@@ -317,8 +317,8 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "PublicAffairs/openai-github-copilot",
       "gitea/sdk.js",
+      "PublicAffairs/openai-github-copilot",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -585,6 +585,16 @@
     ]
   },
   {
+    "name": "reverse-engineering",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free",
+      "Therealgman/pokeemerald",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "name": "ethical-hacking",
     "count": 3,
     "totalStars": 1,
@@ -602,16 +612,6 @@
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
-    ]
-  },
-  {
-    "name": "reverse-engineering",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "grokmeme/gpt4free",
-      "Therealgman/pokeemerald",
-      "rubayet123/rea"
     ]
   },
   {
@@ -685,6 +685,15 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -850,21 +859,21 @@
     ]
   },
   {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
+    ]
+  },
+  {
     "name": "android-app",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
       "dkarapetyan-afk/android-transcoder",
       "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -1036,6 +1045,15 @@
     "topRepositories": [
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
+    ]
+  },
+  {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -1296,14 +1314,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -2011,35 +2021,19 @@
     ]
   },
   {
-    "name": "c2",
+    "name": "scoop-apps",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "K3ysTr0K3R/METIS"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
-    "name": "cves",
+    "name": "scoop-bucket",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3115,6 +3109,38 @@
     ]
   },
   {
+    "name": "c2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
     "name": "pinyin",
     "count": 1,
     "totalStars": 1,
@@ -3344,6 +3370,22 @@
     "totalStars": 1,
     "topRepositories": [
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "installer",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
     ]
   },
   {

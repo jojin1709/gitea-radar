@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 62,
-    "totalStars": 1485,
+    "count": 59,
+    "totalStars": 1484,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 9,
+    "count": 8,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "gagan1211/prompts",
-      "pdf-conversion-service/fillable-pdf-form-templates"
+      "pdf-conversion-service/document-conversion-service-toolkit",
+      "pdf-conversion-service/pdf-conversion-services-samples"
     ]
   },
   {
     "name": "Java",
-    "count": 17,
+    "count": 19,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -40,12 +40,13 @@
   },
   {
     "name": "Go Template",
-    "count": 3,
+    "count": 4,
     "totalStars": 105,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
       "gitea/helm-actions",
+      "jtatum/helm-actions",
       "mohamed_ali/gitops-argocd"
     ]
   },
@@ -64,7 +65,7 @@
   },
   {
     "name": "C++",
-    "count": 10,
+    "count": 9,
     "totalStars": 58,
     "color": "#F34B7D",
     "topRepositories": [
@@ -77,8 +78,8 @@
   },
   {
     "name": "TypeScript",
-    "count": 24,
-    "totalStars": 56,
+    "count": 22,
+    "totalStars": 55,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -103,7 +104,7 @@
   },
   {
     "name": "HTML",
-    "count": 15,
+    "count": 13,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
@@ -116,7 +117,7 @@
   },
   {
     "name": "Python",
-    "count": 37,
+    "count": 40,
     "totalStars": 30,
     "color": "#3572A5",
     "topRepositories": [
@@ -124,7 +125,7 @@
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "loki-s3c/ctf-casefiles"
+      "WAMCoin/wam-coin"
     ]
   },
   {
@@ -168,40 +169,39 @@
   },
   {
     "name": "Shell",
-    "count": 15,
+    "count": 13,
     "totalStars": 18,
     "color": "#89E051",
     "topRepositories": [
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "WS-CatGirl/Arch-Auto-Install",
       "shanawaz/deployment_script",
-      "Han/Han.GJK",
-      "CarstenDutch/i915-sriov-unraid"
+      "Han/Han.GJK"
     ]
   },
   {
     "name": "Makefile",
-    "count": 4,
+    "count": 3,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "Venkatasaiee12/db",
       "gitea/redirects"
     ]
   },
   {
     "name": "CSS",
-    "count": 5,
-    "totalStars": 14,
+    "count": 6,
+    "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
+      "curben/blog",
       "pooneyy/1Panel-Appstore",
-      "jefflance/chezmoi",
-      "scorpp13/hypr-void"
+      "Yanyang-Technology-Group/Yanyang_WebSite"
     ]
   },
   {
@@ -217,15 +217,15 @@
   },
   {
     "name": "C",
-    "count": 6,
+    "count": 7,
     "totalStars": 9,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "gabordemooij/xoscript",
+      "queit_2k/Windows_11",
       "postgis/postgis",
-      "yoelrm/CVE-2021-4034",
-      "yslxotwod/wifisting"
+      "yoelrm/CVE-2021-4034"
     ]
   },
   {
@@ -239,23 +239,25 @@
   },
   {
     "name": "Rust",
-    "count": 4,
+    "count": 5,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "gresil-rs/gresil",
+      "lebron/tentacle",
       "woolster2020/vc",
+      "gresil-rs/gresil",
       "zaccesss/zacess"
     ]
   },
   {
     "name": "PowerShell",
-    "count": 3,
+    "count": 4,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
+      "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -271,13 +273,14 @@
   },
   {
     "name": "Kotlin",
-    "count": 4,
+    "count": 5,
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
+      "hleb/minimalistlauncher",
+      "Yanyang-Technology-Group/ColorfulSign",
       "dkarapetyan-afk/android-transcoder",
       "Griefed/ServerPackCreator",
-      "hleb/minimalistlauncher",
       "starclimber/TinyMCServer"
     ]
   },
@@ -323,6 +326,15 @@
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
+    ]
+  },
+  {
+    "name": "templ",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {

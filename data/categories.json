@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 273,
-    "totalStars": 823,
+    "count": 261,
+    "totalStars": 822,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 41,
+    "count": 42,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "cyberwarn/CyberWarn",
       "cp-api-mirror/wl",
-      "CyberShell/hostfiles",
-      "K3ysTr0K3R/METIS",
-      "dadidang/zinc"
+      "cyberwarn/VoidSec",
+      "CyberShell/hostfiles"
     ]
   },
   {
@@ -63,7 +63,7 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
+    "count": 22,
     "totalStars": 456,
     "iconName": "Terminal",
     "topRepositories": [
@@ -165,21 +165,6 @@
     ]
   },
   {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 5,
-    "totalStars": 65,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "AuberyLis/FillyFill",
-      "hexmos/FreeDevTools",
-      "gitea/sdk.js",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -210,16 +195,29 @@
     ]
   },
   {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 4,
+    "totalStars": 65,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js",
+      "hexmos/FreeDevTools",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 3,
-    "totalStars": 43,
+    "count": 2,
+    "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "paoloronco/OrbitPage"
+      "zaccesss/melophos"
     ]
   },
   {

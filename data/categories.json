@@ -4,7 +4,7 @@
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
     "count": 261,
-    "totalStars": 822,
+    "totalStars": 823,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,13 +18,13 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 42,
+    "count": 41,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "K3ysTr0K3R/METIS",
       "cp-api-mirror/wl",
+      "K3ysTr0K3R/METIS",
       "cyberwarn/CyberWarn",
       "cyberwarn/VoidSec"
     ]
@@ -83,8 +83,8 @@
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "Griefed/ServerPackCreator",
       "piexian/astrbot_plugin_gemini_image_generation",
+      "Griefed/ServerPackCreator",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat"
     ]
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "eddiemike1267/Ultraviolet-App"
     ]
   },
   {
@@ -183,12 +183,11 @@
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 5,
+    "count": 4,
     "totalStars": 58,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
-      "dkarapetyan-afk/android-transcoder",
       "starclimber/TinyMCServer",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
@@ -198,11 +197,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 3,
     "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Woxels/woxie-homelab-kuberneties",
       "paoloronco/OrbitPage"
     ]
   },

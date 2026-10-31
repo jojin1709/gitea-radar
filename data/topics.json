@@ -412,16 +412,6 @@
     ]
   },
   {
-    "name": "android",
-    "count": 3,
-    "totalStars": 57,
-    "topRepositories": [
-      "gitnex/GitNex",
-      "dkarapetyan-afk/android-transcoder",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "full-version",
     "count": 3,
     "totalStars": 49,
@@ -462,16 +452,6 @@
     ]
   },
   {
-    "name": "minecraft",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "SpeedSlicer/MineXLauncher-Beta",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "openai",
     "count": 3,
     "totalStars": 4,
@@ -479,6 +459,16 @@
       "piexian/astrbot_plugin_gemini_image_generation",
       "PublicAffairs/openai-github-copilot",
       "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "minecraft",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta",
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -615,6 +605,15 @@
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js"
+    ]
+  },
+  {
+    "name": "android",
+    "count": 2,
+    "totalStars": 57,
+    "topRepositories": [
+      "gitnex/GitNex",
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -822,15 +821,6 @@
     "topRepositories": [
       "magicedy/scoop-bucket-m",
       "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "android-app",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "dkarapetyan-afk/android-transcoder",
-      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -2362,6 +2352,14 @@
     ]
   },
   {
+    "name": "android-app",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
     "name": "jre",
     "count": 1,
     "totalStars": 1,
@@ -3234,54 +3232,6 @@
     ]
   },
   {
-    "name": "bank-holidays",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "abdulhannan-data/us-bank-holidays"
-    ]
-  },
-  {
-    "name": "csv",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "abdulhannan-data/us-bank-holidays"
-    ]
-  },
-  {
-    "name": "federal-reserve",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "abdulhannan-data/us-bank-holidays"
-    ]
-  },
-  {
-    "name": "open-data",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "abdulhannan-data/us-bank-holidays"
-    ]
-  },
-  {
-    "name": "installer",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "powershell",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
     "name": "embedded-rust",
     "count": 1,
     "totalStars": 0,
@@ -3346,19 +3296,51 @@
     ]
   },
   {
-    "name": "android-application",
+    "name": "bank-holidays",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "dkarapetyan-afk/android-transcoder"
+      "abdulhannan-data/us-bank-holidays"
     ]
   },
   {
-    "name": "transcoding",
+    "name": "csv",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "dkarapetyan-afk/android-transcoder"
+      "abdulhannan-data/us-bank-holidays"
+    ]
+  },
+  {
+    "name": "federal-reserve",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "abdulhannan-data/us-bank-holidays"
+    ]
+  },
+  {
+    "name": "open-data",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "abdulhannan-data/us-bank-holidays"
+    ]
+  },
+  {
+    "name": "installer",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
     ]
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 59,
+    "count": 57,
     "totalStars": 1485,
     "color": "#00ADD8",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 21,
+    "count": 22,
     "totalStars": 180,
     "color": "#B07219",
     "topRepositories": [
@@ -40,19 +40,20 @@
   },
   {
     "name": "Go Template",
-    "count": 4,
+    "count": 5,
     "totalStars": 105,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
       "gitea/helm-actions",
+      "Woxels/woxie-homelab-kuberneties",
       "jtatum/helm-actions",
       "mohamed_ali/gitops-argocd"
     ]
   },
   {
     "name": "JavaScript",
-    "count": 31,
+    "count": 30,
     "totalStars": 93,
     "color": "#F1E05A",
     "topRepositories": [
@@ -65,7 +66,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 22,
+    "count": 21,
     "totalStars": 56,
     "color": "#3178C6",
     "topRepositories": [
@@ -84,35 +85,35 @@
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
+      "ariankordi/mii-to-model",
       "thomas0465/apotris",
-      "tanwk/apotris",
       "ar9013/MRTEA"
     ]
   },
   {
     "name": "C#",
-    "count": 7,
+    "count": 8,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
+      "Demtakeniri/Rune-Walkers",
       "Maksim_Karpov/winPizzaHub",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "Lyboslav/Security-API"
+      "Falcon/Falcon.StoredProcedureRunner"
     ]
   },
   {
     "name": "HTML",
-    "count": 12,
+    "count": 14,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "firavoyage/blogging",
-      "chipapexsz/chipapex-dd200s33k2-notes"
+      "bugarselalu/catatan-membership-gym",
+      "tanyaproperti/simulasi-kpr-catatan"
     ]
   },
   {
@@ -134,7 +135,7 @@
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "K3ysTr0K3R/METIS"
+      "AuberyLis/FillyFill"
     ]
   },
   {
@@ -159,6 +160,19 @@
     ]
   },
   {
+    "name": "Shell",
+    "count": 12,
+    "totalStars": 20,
+    "color": "#89E051",
+    "topRepositories": [
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "WS-CatGirl/Arch-Auto-Install",
+      "mcereda/oam",
+      "fasheng/magisk-modules"
+    ]
+  },
+  {
     "name": "SVG",
     "count": 2,
     "totalStars": 20,
@@ -166,19 +180,6 @@
     "topRepositories": [
       "KudbiOdd/easy-switch-hacking-shise",
       "HafiziRuslan/.profile"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 12,
-    "totalStars": 19,
-    "color": "#89E051",
-    "topRepositories": [
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "WS-CatGirl/Arch-Auto-Install",
-      "shanawaz/deployment_script",
-      "fasheng/magisk-modules"
     ]
   },
   {
@@ -240,11 +241,12 @@
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 5,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
+      "obabu8/pslings",
       "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
@@ -257,9 +259,9 @@
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
+      "gresil-rs/gresil",
       "woolster2020/vc",
-      "lebron/tentacle",
-      "gresil-rs/gresil"
+      "lebron/tentacle"
     ]
   },
   {
@@ -273,13 +275,12 @@
   },
   {
     "name": "Kotlin",
-    "count": 5,
+    "count": 4,
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
       "hleb/minimalistlauncher",
       "Yanyang-Technology-Group/ColorfulSign",
-      "dkarapetyan-afk/android-transcoder",
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer"
     ]
@@ -393,6 +394,15 @@
     "topRepositories": [
       "russellb9/bongda",
       "lvu062022/hstea"
+    ]
+  },
+  {
+    "name": "R",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "gkrotkov/vector_pridge"
     ]
   },
   {

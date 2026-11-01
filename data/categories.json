@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 256,
-    "totalStars": 823,
+    "count": 258,
+    "totalStars": 825,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,9 +23,9 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "K3ysTr0K3R/METIS",
       "cp-api-mirror/wl",
       "CyberShell/hostfiles",
-      "K3ysTr0K3R/METIS",
       "dadidang/zinc"
     ]
   },
@@ -33,37 +33,22 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 25,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
       "zaccesss/phaemos",
-      "zaccesss/isaacadjei.me",
-      "gresil-rs/gresil"
-    ]
-  },
-  {
-    "id": "web",
-    "name": "Web",
-    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 23,
-    "totalStars": 81,
-    "iconName": "Globe",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "lunny/tango",
-      "nettleweb/nettleweb",
-      "cereci5049/Shoppers",
-      "WebPlay/client"
+      "zaccesss/dotfiles",
+      "piexian/astrbot_plugin_gemini_image_generation"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 21,
+    "count": 22,
     "totalStars": 456,
     "iconName": "Terminal",
     "topRepositories": [
@@ -72,6 +57,21 @@
       "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client",
       "xorm/reverse"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 22,
+    "totalStars": 81,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "lunny/tango",
+      "nettleweb/nettleweb",
+      "cereci5049/Shoppers",
+      "WebPlay/client"
     ]
   },
   {
@@ -153,15 +153,15 @@
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 7,
+    "count": 6,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
-      "gresil-rs/gresil",
       "eddiemike1267/Ultraviolet-App",
       "PublicAffairs/openai-github-copilot",
       "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb"
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
     ]
   },
   {
@@ -173,9 +173,9 @@
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "AuberyLis/FillyFill",
-      "hexmos/FreeDevTools",
       "gitea/sdk.js",
+      "zaccesss/dotfiles",
+      "hexmos/FreeDevTools",
       "rubayet123/rea"
     ]
   },
@@ -212,14 +212,13 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 4,
+    "count": 3,
     "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos",
       "paoloronco/OrbitPage",
-      "Woxels/woxie-homelab-kuberneties"
+      "zaccesss/melophos"
     ]
   },
   {

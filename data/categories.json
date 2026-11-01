@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 258,
-    "totalStars": 825,
+    "count": 266,
+    "totalStars": 822,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 41,
+    "count": 40,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "K3ysTr0K3R/METIS",
       "cp-api-mirror/wl",
-      "CyberShell/hostfiles",
-      "dadidang/zinc"
+      "K3ysTr0K3R/METIS",
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
     "count": 22,
-    "totalStars": 456,
+    "totalStars": 457,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 22,
+    "count": 21,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -83,8 +83,8 @@
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "piexian/astrbot_plugin_gemini_image_generation",
       "Griefed/ServerPackCreator",
+      "piexian/astrbot_plugin_gemini_image_generation",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat"
     ]
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 17,
+    "count": 15,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "starclimber/TinyMCServer"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
+    "count": 10,
     "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "Niobium/NiobiumOS",
       "zaccesss/.profile",
       "10224530/gta-vice-city-wasm",
-      "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -150,21 +150,6 @@
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App",
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
-    ]
-  },
-  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
@@ -177,6 +162,21 @@
       "zaccesss/dotfiles",
       "hexmos/FreeDevTools",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 5,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -212,11 +212,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 3,
+    "count": 4,
     "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Niobium/NiobiumOS",
       "paoloronco/OrbitPage",
       "zaccesss/melophos"
     ]

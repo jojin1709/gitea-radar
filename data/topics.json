@@ -2,7 +2,7 @@
   {
     "name": "gitea",
     "count": 17,
-    "totalStars": 704,
+    "totalStars": 705,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -302,7 +302,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 295,
+    "totalStars": 296,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -330,8 +330,8 @@
     "topRepositories": [
       "goftp/server",
       "goftp/ftpd",
-      "starclimber/TinyMCServer",
       "Griefed/ServerPackCreator",
+      "starclimber/TinyMCServer",
       "its-theo/NukeCord"
     ]
   },
@@ -341,9 +341,9 @@
     "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Griefed/ServerPackCreator",
       "zaccesss/melophos",
       "zaccesss/phaemos",
-      "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
     ]
   },
@@ -362,7 +362,7 @@
   {
     "name": "git",
     "count": 4,
-    "totalStars": 169,
+    "totalStars": 170,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -445,22 +445,12 @@
     ]
   },
   {
-    "name": "nodejs",
-    "count": 3,
-    "totalStars": 44,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "eddiemike1267/Ultraviolet-App",
-      "WebPlay/server"
-    ]
-  },
-  {
     "name": "minecraft",
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
-      "starclimber/TinyMCServer",
       "Griefed/ServerPackCreator",
+      "starclimber/TinyMCServer",
       "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
@@ -482,16 +472,6 @@
       "piexian/astrbot_plugin_gemini_image_generation",
       "PublicAffairs/openai-github-copilot",
       "grokmeme/gpt4free"
-    ]
-  },
-  {
-    "name": "proxy",
-    "count": 3,
-    "totalStars": 3,
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App",
-      "PublicAffairs/openai-github-copilot",
-      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -678,6 +658,15 @@
     ]
   },
   {
+    "name": "nodejs",
+    "count": 2,
+    "totalStars": 44,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "WebPlay/server"
+    ]
+  },
+  {
     "name": "react",
     "count": 2,
     "totalStars": 43,
@@ -835,8 +824,17 @@
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator"
+      "Griefed/ServerPackCreator",
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -1825,54 +1823,6 @@
     ]
   },
   {
-    "name": "animated",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "ascii-art",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "computer-science",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "electronics-engineering",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "github-profile-readme",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "portfolio",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1958,6 +1908,54 @@
     "totalStars": 2,
     "topRepositories": [
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
     ]
   },
   {
@@ -3353,6 +3351,62 @@
     ]
   },
   {
+    "name": "32bit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "assembly",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "community",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "mit-license",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "nasm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "osdev",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "osdev-projects",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
     "name": "assistive-technology",
     "count": 1,
     "totalStars": 0,
@@ -3838,38 +3892,6 @@
     "totalStars": 0,
     "topRepositories": [
       "10224530/gta-vice-city-wasm"
-    ]
-  },
-  {
-    "name": "proxy-server",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App"
-    ]
-  },
-  {
-    "name": "ultraviolet",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App"
-    ]
-  },
-  {
-    "name": "webproxy",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App"
-    ]
-  },
-  {
-    "name": "website",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "eddiemike1267/Ultraviolet-App"
     ]
   },
   {

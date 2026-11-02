@@ -2,7 +2,7 @@
   {
     "name": "gitea",
     "count": 17,
-    "totalStars": 705,
+    "totalStars": 707,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -302,7 +302,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 296,
+    "totalStars": 298,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -341,9 +341,9 @@
     "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "Griefed/ServerPackCreator",
       "zaccesss/melophos",
       "zaccesss/phaemos",
+      "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
     ]
   },
@@ -362,7 +362,7 @@
   {
     "name": "git",
     "count": 4,
-    "totalStars": 170,
+    "totalStars": 172,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -445,16 +445,6 @@
     ]
   },
   {
-    "name": "minecraft",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer",
-      "SpeedSlicer/MineXLauncher-Beta"
-    ]
-  },
-  {
     "name": "python",
     "count": 3,
     "totalStars": 4,
@@ -465,13 +455,13 @@
     ]
   },
   {
-    "name": "openai",
+    "name": "minecraft",
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation",
-      "PublicAffairs/openai-github-copilot",
-      "grokmeme/gpt4free"
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta",
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -569,8 +559,8 @@
     "count": 3,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/zacess",
       "zaccesss/melophos",
+      "zaccesss/zacess",
       "zaccesss/dotfiles"
     ]
   },
@@ -579,19 +569,9 @@
     "count": 3,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/zacess",
       "zaccesss/melophos",
-      "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "webassembly",
-    "count": 3,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "10224530/gta-vice-city-wasm"
+      "zaccesss/phaemos",
+      "zaccesss/zacess"
     ]
   },
   {
@@ -820,6 +800,15 @@
     ]
   },
   {
+    "name": "openai",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "PublicAffairs/openai-github-copilot",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
     "name": "java",
     "count": 2,
     "totalStars": 3,
@@ -856,15 +845,6 @@
     ]
   },
   {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
     "name": "bash",
     "count": 2,
     "totalStars": 1,
@@ -880,6 +860,15 @@
     "topRepositories": [
       "zaccesss/dotfiles",
       "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -1087,6 +1076,15 @@
     "topRepositories": [
       "zaccesss/melophos",
       "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "webassembly",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess"
     ]
   },
   {
@@ -1543,6 +1541,22 @@
     ]
   },
   {
+    "name": "docker-compose",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel"
+    ]
+  },
+  {
+    "name": "shell",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel"
+    ]
+  },
+  {
     "name": "bot",
     "count": 1,
     "totalStars": 12,
@@ -1823,6 +1837,54 @@
     ]
   },
   {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1911,54 +1973,6 @@
     ]
   },
   {
-    "name": "animated",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "ascii-art",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "computer-science",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "electronics-engineering",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "github-profile-readme",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "portfolio",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "rest-api",
     "count": 1,
     "totalStars": 2,
@@ -2028,70 +2042,6 @@
     "totalStars": 1,
     "topRepositories": [
       "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "android-app",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "jre",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin-android",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "mc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -2524,6 +2474,46 @@
     "totalStars": 1,
     "topRepositories": [
       "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "android-app",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "jre",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin-android",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "mc",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -3351,134 +3341,6 @@
     ]
   },
   {
-    "name": "32bit",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "assembly",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "community",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "mit-license",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "nasm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "osdev",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "osdev-projects",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Niobium/NiobiumOS"
-    ]
-  },
-  {
-    "name": "assistive-technology",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "dyslexia",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "education",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "low-vision",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "ocr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "open-source",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "screen-reader",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "tauri",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "text-to-speech",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
     "name": "esp32-s3",
     "count": 1,
     "totalStars": 0,
@@ -3671,6 +3533,78 @@
     ]
   },
   {
+    "name": "assistive-technology",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "dyslexia",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "low-vision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "ocr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "open-source",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "screen-reader",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "tauri",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "text-to-speech",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
     "name": "bootstrap",
     "count": 1,
     "totalStars": 0,
@@ -3791,6 +3725,62 @@
     ]
   },
   {
+    "name": "32bit",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "assembly",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "community",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "mit-license",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "nasm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "osdev",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
+    "name": "osdev-projects",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Niobium/NiobiumOS"
+    ]
+  },
+  {
     "name": "bank-holidays",
     "count": 1,
     "totalStars": 0,
@@ -3820,78 +3810,6 @@
     "totalStars": 0,
     "topRepositories": [
       "abdulhannan-data/us-bank-holidays"
-    ]
-  },
-  {
-    "name": "astrbot-plugin",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "doubao",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "gemimi",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "grok",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "image-generation",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "xai-api",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "piexian/astrbot_plugin_gemini_image_generation"
-    ]
-  },
-  {
-    "name": "browser-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/gta-vice-city-wasm"
-    ]
-  },
-  {
-    "name": "game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/gta-vice-city-wasm"
-    ]
-  },
-  {
-    "name": "wasm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/gta-vice-city-wasm"
     ]
   },
   {

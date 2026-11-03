@@ -2,7 +2,7 @@
   {
     "name": "gitea",
     "count": 17,
-    "totalStars": 710,
+    "totalStars": 711,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -302,7 +302,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 300,
+    "totalStars": 301,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -317,8 +317,8 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -406,7 +406,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 175,
+    "totalStars": 176,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -575,7 +575,7 @@
   {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 285,
+    "totalStars": 286,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -633,15 +633,6 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -822,15 +813,6 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -1109,7 +1091,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 276,
+    "totalStars": 277,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1117,7 +1099,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 276,
+    "totalStars": 277,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1216,6 +1198,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1595,14 +1585,6 @@
     ]
   },
   {
-    "name": "slides",
-    "count": 1,
-    "totalStars": 5,
-    "topRepositories": [
-      "lunny/slides"
-    ]
-  },
-  {
     "name": "queue",
     "count": 1,
     "totalStars": 4,
@@ -1896,22 +1878,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3259,6 +3225,38 @@
     ]
   },
   {
+    "name": "github-profile",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "heyq02/simpleicons.dev"
+    ]
+  },
+  {
+    "name": "github-readme",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "heyq02/simpleicons.dev"
+    ]
+  },
+  {
+    "name": "icons",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "heyq02/simpleicons.dev"
+    ]
+  },
+  {
+    "name": "readme-stats",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "heyq02/simpleicons.dev"
+    ]
+  },
+  {
     "name": "lean4",
     "count": 1,
     "totalStars": 0,
@@ -3272,54 +3270,6 @@
     "totalStars": 0,
     "topRepositories": [
       "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "installer",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "powershell",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "amateur-radio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard"
     ]
   },
   {

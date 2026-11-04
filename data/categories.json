@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 262,
-    "totalStars": 837,
+    "count": 257,
+    "totalStars": 831,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,30 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 41,
+    "count": 40,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "cyberwarn/VoidSec",
-      "CyberShell/hostfiles",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
-    ]
-  },
-  {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 25,
-    "totalStars": 27,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "nazdridoy/ngpt",
-      "ayaka-notes/ayakaleaf-pro",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
@@ -49,7 +34,7 @@
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
     "count": 24,
-    "totalStars": 474,
+    "totalStars": 475,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -60,10 +45,25 @@
     ]
   },
   {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 23,
+    "totalStars": 27,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "nazdridoy/ngpt",
+      "ayaka-notes/ayakaleaf-pro",
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 21,
+    "count": 18,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "ayaka-notes/ayakaleaf-pro"
+      "starclimber/TinyMCServer"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 13,
+    "count": 10,
     "totalStars": 450,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,60 +123,45 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
-    "totalStars": 11,
+    "count": 7,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
-    ]
-  },
-  {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 7,
-    "totalStars": 416,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "zaccesss/phaemos",
-      "zaccesss/melophos",
-      "serpdotai/bark-with-voice-clone"
+      "FlowMagic/redENGINE-FiveM",
+      "grokmeme/gpt4free"
     ]
   },
   {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 6,
+    "count": 5,
     "totalStars": 65,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
       "ayaka-notes/ayakaleaf-pro",
-      "zaccesss/dotfiles",
       "hexmos/FreeDevTools",
-      "gitea/sdk.js"
+      "gitea/sdk.js",
+      "rubayet123/rea"
     ]
   },
   {
-    "id": "self-hosted",
-    "name": "Self-hosted",
-    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
     "count": 5,
-    "totalStars": 43,
-    "iconName": "Home",
+    "totalStars": 416,
+    "iconName": "Database",
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "ayaka-notes/ayakaleaf-pro",
-      "Woxels/woxie-homelab-kuberneties",
-      "zaccesss/melophos",
-      "paoloronco/OrbitPage"
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -195,21 +180,6 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 5,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/phaemos",
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "bensams/671"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -224,14 +194,36 @@
     ]
   },
   {
+    "id": "self-hosted",
+    "name": "Self-hosted",
+    "description": "Homelab software, private cloud, home servers, and personal productivity services",
+    "count": 2,
+    "totalStars": 42,
+    "iconName": "Home",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "ayaka-notes/ayakaleaf-pro"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 2,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "bensams/671"
+    ]
+  },
+  {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

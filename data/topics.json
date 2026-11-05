@@ -232,10 +232,10 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
+      "K3ysTr0K3R/METIS",
       "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
-      "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
@@ -523,16 +523,6 @@
     ]
   },
   {
-    "name": "reverse-engineering",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "grokmeme/gpt4free",
-      "Therealgman/pokeemerald",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "ethical-hacking",
     "count": 3,
     "totalStars": 1,
@@ -553,6 +543,16 @@
     ]
   },
   {
+    "name": "reverse-engineering",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "grokmeme/gpt4free",
+      "Therealgman/pokeemerald",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
@@ -564,7 +564,7 @@
   {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 287,
+    "totalStars": 288,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -622,6 +622,15 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "aniruddhaadak/OpenFile"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -805,6 +814,24 @@
     ]
   },
   {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
+    ]
+  },
+  {
     "name": "discord",
     "count": 2,
     "totalStars": 1,
@@ -976,15 +1003,6 @@
     ]
   },
   {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1080,7 +1098,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 278,
+    "totalStars": 279,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1088,7 +1106,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 278,
+    "totalStars": 279,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1187,14 +1205,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -1867,6 +1877,54 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "c2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "scoop-apps",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-bucket",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -2950,38 +3008,6 @@
     ]
   },
   {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
     "name": "pinyin",
     "count": 1,
     "totalStars": 1,
@@ -3214,35 +3240,19 @@
     ]
   },
   {
-    "name": "censorship-circumvention",
+    "name": "installer",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
+      "magicedy/Scoop"
     ]
   },
   {
-    "name": "tor-network",
+    "name": "powershell",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
-    ]
-  },
-  {
-    "name": "lean4",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "research-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
+      "magicedy/Scoop"
     ]
   },
   {

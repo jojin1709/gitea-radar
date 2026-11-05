@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 252,
-    "totalStars": 830,
+    "count": 254,
+    "totalStars": 832,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,12 +18,12 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 40,
+    "count": 39,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
+      "K3ysTr0K3R/METIS",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools",
       "VernonG/FiveM-External-Cheat"
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 18,
+    "count": 19,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -78,22 +78,22 @@
     "id": "automation",
     "name": "Automation",
     "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
-    "count": 18,
+    "count": 17,
     "totalStars": 28,
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "ChesterTsai/pumpkin-bot",
       "Griefed/ServerPackCreator",
       "its-theo/NukeCord",
-      "VernonG/FiveM-External-Cheat"
+      "VernonG/FiveM-External-Cheat",
+      "willylands/FiveM-External-Cheat"
     ]
   },
   {
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 165,
     "iconName": "Server",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "CodigoMinimo/NanoNAS"
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -109,7 +109,7 @@
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
     "count": 9,
-    "totalStars": 451,
+    "totalStars": 452,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -135,21 +135,6 @@
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
-    ]
-  },
-  {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
@@ -162,6 +147,21 @@
       "serpdotai/bark-with-voice-clone",
       "Falcon/Falcon.StoredProcedureRunner",
       "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 5,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -196,12 +196,11 @@
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 3,
+    "count": 2,
     "totalStars": 239,
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
-      "aicodeops/awesome-gitea",
       "bensams/671"
     ]
   },
@@ -209,12 +208,11 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 1,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "Woxels/woxie-homelab-kuberneties"
+      "DuarteSantos/openGym"
     ]
   },
   {

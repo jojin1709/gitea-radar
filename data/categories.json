@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 257,
-    "totalStars": 834,
+    "count": 249,
+    "totalStars": 833,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,22 +18,37 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 40,
+    "count": 39,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "VernonG/FiveM-External-Cheat",
+      "willylands/FiveM-External-Cheat"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 25,
+    "totalStars": 28,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "nazdridoy/ngpt",
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo",
+      "10224530/latest"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
+    "count": 22,
     "totalStars": 478,
     "iconName": "Terminal",
     "topRepositories": [
@@ -45,25 +60,10 @@
     ]
   },
   {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 22,
-    "totalStars": 27,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "nazdridoy/ngpt",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone",
-      "serpdotai/ChatGPT-Plugins"
-    ]
-  },
-  {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 19,
+    "count": 18,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 8,
-    "totalStars": 9,
+    "count": 9,
+    "totalStars": 10,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "10224530/ultimate-car-driving",
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "FlowMagic/redENGINE-FiveM"
+      "dadidang/zinc"
     ]
   },
   {
@@ -147,21 +147,6 @@
       "serpdotai/bark-with-voice-clone",
       "Falcon/Falcon.StoredProcedureRunner",
       "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
-    "id": "mobile",
-    "name": "Mobile",
-    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 5,
-    "totalStars": 58,
-    "iconName": "Smartphone",
-    "topRepositories": [
-      "gitnex/GitNex",
-      "Dabrogost/InfinityPlus-Patches",
-      "starclimber/TinyMCServer",
-      "ab-smith/ciso-assistant-community",
-      "Missou/ciso-assistant-community"
     ]
   },
   {
@@ -188,9 +173,23 @@
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "hexmos/FreeDevTools",
+      "gitea/sdk.js",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile",
+    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
+    "count": 4,
+    "totalStars": 58,
+    "iconName": "Smartphone",
+    "topRepositories": [
+      "gitnex/GitNex",
+      "starclimber/TinyMCServer",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community"
     ]
   },
   {

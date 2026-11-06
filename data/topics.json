@@ -1,5 +1,17 @@
 [
   {
+    "name": "golang",
+    "count": 18,
+    "totalStars": 528,
+    "topRepositories": [
+      "xorm/xorm",
+      "goftp/server",
+      "lunny/tango",
+      "jonasfranz/staletea",
+      "goftp/ftpd"
+    ]
+  },
+  {
     "name": "gitea",
     "count": 17,
     "totalStars": 716,
@@ -9,18 +21,6 @@
       "gitea/helm-gitea",
       "gitea/go-sdk",
       "gitnex/GitNex"
-    ]
-  },
-  {
-    "name": "golang",
-    "count": 17,
-    "totalStars": 528,
-    "topRepositories": [
-      "xorm/xorm",
-      "goftp/server",
-      "lunny/tango",
-      "jonasfranz/staletea",
-      "goftp/ftpd"
     ]
   },
   {
@@ -216,6 +216,18 @@
     ]
   },
   {
+    "name": "go",
+    "count": 8,
+    "totalStars": 20,
+    "topRepositories": [
+      "gitea/gitea-vet",
+      "jolheiser/sip",
+      "xuri/excelize",
+      "10224530/latest",
+      "dadidang/zinc"
+    ]
+  },
+  {
     "name": "security",
     "count": 8,
     "totalStars": 5,
@@ -237,18 +249,6 @@
       "ab-smith/ciso-assistant-community",
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "go",
-    "count": 7,
-    "totalStars": 20,
-    "topRepositories": [
-      "gitea/gitea-vet",
-      "jolheiser/sip",
-      "xuri/excelize",
-      "dadidang/zinc",
-      "rammiah/caddy"
     ]
   },
   {
@@ -317,8 +317,8 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -413,16 +413,6 @@
     ]
   },
   {
-    "name": "android",
-    "count": 3,
-    "totalStars": 57,
-    "topRepositories": [
-      "gitnex/GitNex",
-      "Dabrogost/InfinityPlus-Patches",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "full-version",
     "count": 3,
     "totalStars": 49,
@@ -460,16 +450,6 @@
       "DuarteSantos/openGym",
       "ToolAnchor/websitegeek-seo-suite-tools",
       "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "games",
-    "count": 3,
-    "totalStars": 6,
-    "topRepositories": [
-      "nettleweb/nettleweb",
-      "10224530/ultimate-car-driving",
-      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -573,6 +553,16 @@
     ]
   },
   {
+    "name": "llm",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/latest",
+      "Missou/ciso-assistant-community",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "name": "mysql",
     "count": 2,
     "totalStars": 410,
@@ -609,6 +599,15 @@
     ]
   },
   {
+    "name": "android",
+    "count": 2,
+    "totalStars": 57,
+    "topRepositories": [
+      "gitnex/GitNex",
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
     "name": "oringo-client",
     "count": 2,
     "totalStars": 45,
@@ -633,15 +632,6 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -678,6 +668,15 @@
     "topRepositories": [
       "6543/pages-server",
       "WebPlay/client"
+    ]
+  },
+  {
+    "name": "games",
+    "count": 2,
+    "totalStars": 6,
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -816,12 +815,102 @@
     ]
   },
   {
-    "name": "scoop",
+    "name": "bitcoin-flash",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-bitcoin-software",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-blockchain-architecture",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-enterprise-solution",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-erc20",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-hash-log-engine",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-merchant-integration",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-bep20",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-trc20",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-wallet-simulator",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "usdt-flash-wallet",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
     ]
   },
   {
@@ -1032,15 +1121,6 @@
     ]
   },
   {
-    "name": "llm",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "Missou/ciso-assistant-community",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "ctf",
     "count": 2,
     "totalStars": 0,
@@ -1207,6 +1287,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1882,19 +1970,115 @@
     ]
   },
   {
-    "name": "scoop-apps",
+    "name": "bitcoin-flasher",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
     ]
   },
   {
-    "name": "scoop-bucket",
+    "name": "bitcoin-flashing-software",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "btc-flashing-software",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "buy-flash-usdt-online",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "crypto-flash",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "flash-bitcoin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "flash-bitcoins",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "flash-btc",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "flash-usdt-online",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "flash-usdt-price",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "usdt-flash-generator",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "usdt-flashing-tool",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "what-is-flash-bitcoin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+    ]
+  },
+  {
+    "name": "what-is-flash-usdt",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
     ]
   },
   {
@@ -3242,139 +3426,91 @@
     ]
   },
   {
-    "name": "android-application",
+    "name": "deepseek",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "Dabrogost/InfinityPlus-Patches"
+      "10224530/latest"
     ]
   },
   {
-    "name": "app",
+    "name": "gemma",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "Dabrogost/InfinityPlus-Patches"
+      "10224530/latest"
     ]
   },
   {
-    "name": "patch",
+    "name": "glm",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "Dabrogost/InfinityPlus-Patches"
+      "10224530/latest"
     ]
   },
   {
-    "name": "installer",
+    "name": "gpt-oss",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "10224530/latest"
     ]
   },
   {
-    "name": "powershell",
+    "name": "llama",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "10224530/latest"
     ]
   },
   {
-    "name": "allstarlink",
+    "name": "llms",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "10224530/latest"
     ]
   },
   {
-    "name": "amateur-radio",
+    "name": "minimax",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "10224530/latest"
     ]
   },
   {
-    "name": "aprs",
+    "name": "mistral",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "10224530/latest"
     ]
   },
   {
-    "name": "aprs-beacon",
+    "name": "muse",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "10224530/latest"
     ]
   },
   {
-    "name": "aprs-telemetry",
+    "name": "ollama",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "10224530/latest"
     ]
   },
   {
-    "name": "mmdvm",
+    "name": "qwen",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/ultimate-car-driving"
-    ]
-  },
-  {
-    "name": "html-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/ultimate-car-driving"
-    ]
-  },
-  {
-    "name": "online-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/ultimate-car-driving"
-    ]
-  },
-  {
-    "name": "online-games",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "10224530/ultimate-car-driving"
+      "10224530/latest"
     ]
   },
   {

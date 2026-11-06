@@ -300,6 +300,18 @@
     ]
   },
   {
+    "name": "docker",
+    "count": 6,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "Griefed/ServerPackCreator",
+      "EvergreenCrypto/docker-finance",
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "cli",
     "count": 5,
     "totalStars": 304,
@@ -333,18 +345,6 @@
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
       "its-theo/NukeCord"
-    ]
-  },
-  {
-    "name": "docker",
-    "count": 5,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -466,6 +466,16 @@
     ]
   },
   {
+    "name": "minecraft",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta",
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
     "name": "python",
     "count": 3,
     "totalStars": 4,
@@ -473,16 +483,6 @@
       "zaccesss/.profile",
       "its-theo/NukeCord",
       "grokmeme/gpt4free"
-    ]
-  },
-  {
-    "name": "minecraft",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "SpeedSlicer/MineXLauncher-Beta",
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -543,6 +543,26 @@
       "Griefed/ServerPackCreator",
       "Missou/ciso-assistant-community",
       "zakirkun/guardian-cli"
+    ]
+  },
+  {
+    "name": "bash",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance",
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance",
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
     ]
   },
   {
@@ -732,6 +752,15 @@
     ]
   },
   {
+    "name": "shell",
+    "count": 2,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
     "name": "selfhosting",
     "count": 2,
     "totalStars": 12,
@@ -831,21 +860,21 @@
     ]
   },
   {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
     "name": "java",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -867,21 +896,12 @@
     ]
   },
   {
-    "name": "bash",
+    "name": "php",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
-      "zaccesss/dotfiles",
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "linux",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "zaccesss/dotfiles",
-      "portellam2/lockdown.sh"
+      "EvergreenCrypto/docker-finance",
+      "wower/hestiamb"
     ]
   },
   {
@@ -1572,14 +1592,6 @@
     ]
   },
   {
-    "name": "shell",
-    "count": 1,
-    "totalStars": 12,
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel"
-    ]
-  },
-  {
     "name": "bot",
     "count": 1,
     "totalStars": 12,
@@ -1852,54 +1864,6 @@
     ]
   },
   {
-    "name": "animated",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "ascii-art",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "computer-science",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "electronics-engineering",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "github-profile-readme",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "portfolio",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1985,6 +1949,54 @@
     "totalStars": 2,
     "topRepositories": [
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
     ]
   },
   {
@@ -2621,14 +2633,6 @@
   },
   {
     "name": "mail-server",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "wower/hestiamb"
-    ]
-  },
-  {
-    "name": "php",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
@@ -3353,6 +3357,118 @@
     "totalStars": 1,
     "topRepositories": [
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "allstarlink",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "amateur-radio",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-beacon",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-telemetry",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "mmdvm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "pi-star",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "wpsd",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "lean4",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "research-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/xLaDe"
+    ]
+  },
+  {
+    "name": "accounting",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "cpp20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "dockerfiles",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "finance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
     ]
   },
   {

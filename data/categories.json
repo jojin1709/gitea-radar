@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 266,
-    "totalStars": 832,
+    "count": 265,
+    "totalStars": 831,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 39,
+    "count": 40,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "CyberShell/hostfiles",
       "cyberwarn/CyberWarn",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
@@ -48,7 +48,7 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
+    "count": 24,
     "totalStars": 477,
     "iconName": "Terminal",
     "topRepositories": [
@@ -64,7 +64,7 @@
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
     "count": 23,
-    "totalStars": 81,
+    "totalStars": 82,
     "iconName": "Globe",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -83,8 +83,8 @@
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "ChesterTsai/pumpkin-bot",
       "Griefed/ServerPackCreator",
+      "ChesterTsai/pumpkin-bot",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat"
     ]
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "zaccesss/melophos"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
+    "count": 12,
     "totalStars": 453,
     "iconName": "Workflow",
     "topRepositories": [

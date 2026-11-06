@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 265,
-    "totalStars": 831,
+    "count": 257,
+    "totalStars": 834,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -24,47 +24,47 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "CyberShell/hostfiles",
-      "cyberwarn/CyberWarn",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
-    ]
-  },
-  {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 24,
-    "totalStars": 27,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "PublicAffairs/openai-github-copilot"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 24,
-    "totalStars": 477,
+    "count": 23,
+    "totalStars": 478,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
       "Oringo-Client/Oringo-Client",
       "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client",
-      "gitea/cli"
+      "gitea/cli",
+      "Cheeto-Client/Cheeto-Client"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 22,
+    "totalStars": 27,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "nazdridoy/ngpt",
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone",
+      "serpdotai/ChatGPT-Plugins"
     ]
   },
   {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 23,
-    "totalStars": 82,
+    "count": 19,
+    "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -78,22 +78,22 @@
     "id": "automation",
     "name": "Automation",
     "description": "Bots, task runners, workflow engines, scrapers, and event handlers",
-    "count": 18,
+    "count": 17,
     "totalStars": 28,
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
       "Griefed/ServerPackCreator",
-      "ChesterTsai/pumpkin-bot",
       "its-theo/NukeCord",
-      "VernonG/FiveM-External-Cheat"
+      "VernonG/FiveM-External-Cheat",
+      "willylands/FiveM-External-Cheat"
     ]
   },
   {
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 165,
     "iconName": "Server",
     "topRepositories": [
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 12,
+    "count": 9,
     "totalStars": 453,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,45 +123,45 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 11,
+    "count": 8,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "10224530/ultimate-car-driving",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
+      "dadidang/zinc",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 7,
+    "count": 5,
     "totalStars": 416,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "serpdotai/bark-with-voice-clone"
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "id": "mobile",
+    "name": "Mobile",
+    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
     "count": 5,
-    "totalStars": 65,
-    "iconName": "Wrench",
+    "totalStars": 58,
+    "iconName": "Smartphone",
     "topRepositories": [
-      "gitea/go-sdk",
-      "zaccesss/dotfiles",
-      "hexmos/FreeDevTools",
-      "gitea/sdk.js",
-      "rubayet123/rea"
+      "gitnex/GitNex",
+      "Dabrogost/InfinityPlus-Patches",
+      "starclimber/TinyMCServer",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community"
     ]
   },
   {
@@ -180,55 +180,49 @@
     ]
   },
   {
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 4,
+    "totalStars": 65,
+    "iconName": "Wrench",
+    "topRepositories": [
+      "gitea/go-sdk",
+      "gitea/sdk.js",
+      "hexmos/FreeDevTools",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 5,
+    "count": 2,
     "totalStars": 239,
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
       "bensams/671"
-    ]
-  },
-  {
-    "id": "mobile",
-    "name": "Mobile",
-    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
-    "totalStars": 58,
-    "iconName": "Smartphone",
-    "topRepositories": [
-      "gitnex/GitNex",
-      "starclimber/TinyMCServer",
-      "ab-smith/ciso-assistant-community",
-      "Missou/ciso-assistant-community"
     ]
   },
   {
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 1,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "zaccesss/melophos"
+      "DuarteSantos/openGym"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 52,
+    "count": 56,
     "totalStars": 1501,
     "color": "#00ADD8",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 23,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -50,8 +50,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 29,
-    "totalStars": 93,
+    "count": 30,
+    "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -76,7 +76,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 21,
+    "count": 23,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -109,21 +109,34 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "menchaca-andres/his-cossmil",
-      "maksym-voznyi/mijn-website"
+      "agent-skills/agent-skills",
+      "lanticy/cAssets"
+    ]
+  },
+  {
+    "name": "Python",
+    "count": 32,
+    "totalStars": 31,
+    "color": "#3572A5",
+    "topRepositories": [
+      "yige/github2gitea",
+      "MyEMS/MyEMS",
+      "vsnits/Phibrajry",
+      "nazdridoy/ngpt",
+      "zaccesss/melophos"
     ]
   },
   {
     "name": "Shell",
-    "count": 14,
+    "count": 15,
     "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "chytrex/bash-dotfiles",
-      "greweaver/betterbird-packaging"
+      "muse-node-1794010498/xray-render",
+      "EvergreenCrypto/docker-finance"
     ]
   },
   {
@@ -133,19 +146,6 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
-    ]
-  },
-  {
-    "name": "Python",
-    "count": 33,
-    "totalStars": 29,
-    "color": "#3572A5",
-    "topRepositories": [
-      "yige/github2gitea",
-      "MyEMS/MyEMS",
-      "vsnits/Phibrajry",
-      "nazdridoy/ngpt",
-      "Androw96/ecg-scd-thesis"
     ]
   },
   {
@@ -170,12 +170,11 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
@@ -198,22 +197,22 @@
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "maksym-voznyi/animation-challenge",
       "pooneyy/1Panel-Appstore",
+      "maksym-voznyi/animation-challenge",
       "antuancarpio/memorama"
     ]
   },
   {
     "name": "C",
-    "count": 10,
+    "count": 9,
     "totalStars": 12,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
       "istareatscreens/m2pDHooks",
-      "kamalin/TPWM",
-      "dwelch67/ps2cnc"
+      "dwelch67/ps2cnc",
+      "burhbayr/Football_App_UnaWatch"
     ]
   },
   {
@@ -238,12 +237,13 @@
   },
   {
     "name": "Rust",
-    "count": 4,
+    "count": 5,
     "totalStars": 5,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "woolster2020/vc",
+      "zaccesss/zacess",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
       "funkiestusername/chicken-interpreter"
     ]
@@ -271,12 +271,13 @@
   },
   {
     "name": "Kotlin",
-    "count": 3,
+    "count": 4,
     "totalStars": 3,
     "color": "#A97BFF",
     "topRepositories": [
-      "hleb/minimalistlauncher",
       "Griefed/ServerPackCreator",
+      "Dabrogost/InfinityPlus-Patches",
+      "hleb/minimalistlauncher",
       "starclimber/TinyMCServer"
     ]
   },
@@ -303,10 +304,11 @@
   },
   {
     "name": "F*",
-    "count": 3,
+    "count": 4,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
+      "Alch3myOS/vendor_gms",
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
@@ -314,10 +316,11 @@
   },
   {
     "name": "Lua",
-    "count": 2,
+    "count": 3,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
+      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp",
       "SpicyTea/fedora-dotfiles",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
@@ -371,15 +374,6 @@
     ]
   },
   {
-    "name": "MDX",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "wxiaoguang/gitea-docs"
-    ]
-  },
-  {
     "name": "Standard ML",
     "count": 1,
     "totalStars": 0,
@@ -389,21 +383,30 @@
     ]
   },
   {
-    "name": "Erlang",
+    "name": "Checksums",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "puebo40/highProxy"
+      "Maxmus007/bminer"
     ]
   },
   {
-    "name": "GDScript",
+    "name": "V",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "cino/godota"
+      "diviocity/divifetch"
+    ]
+  },
+  {
+    "name": "MDX",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "wxiaoguang/gitea-docs"
     ]
   },
   {

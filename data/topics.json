@@ -342,8 +342,8 @@
     "topRepositories": [
       "goftp/server",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator",
       "its-theo/NukeCord"
     ]
   },
@@ -431,8 +431,8 @@
     "totalStars": 57,
     "topRepositories": [
       "gitnex/GitNex",
-      "Dabrogost/InfinityPlus-Patches",
-      "starclimber/TinyMCServer"
+      "starclimber/TinyMCServer",
+      "Dabrogost/InfinityPlus-Patches"
     ]
   },
   {
@@ -466,13 +466,23 @@
     ]
   },
   {
+    "name": "windows",
+    "count": 3,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "magicedy/Scoop",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "minecraft",
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
+      "starclimber/TinyMCServer",
       "Griefed/ServerPackCreator",
-      "SpeedSlicer/MineXLauncher-Beta",
-      "starclimber/TinyMCServer"
+      "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
   {
@@ -717,15 +727,6 @@
     ]
   },
   {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "zaccesss/dotfiles"
-    ]
-  },
-  {
     "name": "library",
     "count": 2,
     "totalStars": 41,
@@ -874,8 +875,8 @@
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
+      "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -906,111 +907,21 @@
     ]
   },
   {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
+    ]
+  },
+  {
     "name": "php",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
       "EvergreenCrypto/docker-finance",
       "wower/hestiamb"
-    ]
-  },
-  {
-    "name": "bitcoin-flash",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-bitcoin-software",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-blockchain-architecture",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-enterprise-solution",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-erc20",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-hash-log-engine",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-merchant-integration",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-smart-contracts-bep20",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-smart-contracts-trc20",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-wallet-simulator",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "usdt-flash-wallet",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
     ]
   },
   {
@@ -1191,6 +1102,15 @@
     "topRepositories": [
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -2140,115 +2060,59 @@
     ]
   },
   {
-    "name": "bitcoin-flasher",
+    "name": "scoop-apps",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
-    "name": "bitcoin-flashing-software",
+    "name": "scoop-bucket",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
-    "name": "btc-flashing-software",
+    "name": "android-app",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "starclimber/TinyMCServer"
     ]
   },
   {
-    "name": "buy-flash-usdt-online",
+    "name": "jre",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "starclimber/TinyMCServer"
     ]
   },
   {
-    "name": "crypto-flash",
+    "name": "kotlin",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "starclimber/TinyMCServer"
     ]
   },
   {
-    "name": "flash-bitcoin",
+    "name": "kotlin-android",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "starclimber/TinyMCServer"
     ]
   },
   {
-    "name": "flash-bitcoins",
+    "name": "mc",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "flash-btc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "flash-usdt-online",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "flash-usdt-price",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "usdt-flash-generator",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "usdt-flashing-tool",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "what-is-flash-bitcoin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
-    ]
-  },
-  {
-    "name": "what-is-flash-usdt",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -2681,46 +2545,6 @@
     "totalStars": 1,
     "topRepositories": [
       "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "android-app",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "jre",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin-android",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "mc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -3572,6 +3396,14 @@
     ]
   },
   {
+    "name": "installer",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
     "name": "32bit",
     "count": 1,
     "totalStars": 0,
@@ -3996,14 +3828,6 @@
     ]
   },
   {
-    "name": "powershell",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/dotfiles"
-    ]
-  },
-  {
     "name": "ssh",
     "count": 1,
     "totalStars": 0,
@@ -4049,6 +3873,94 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "bitcoin-flash",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-bitcoin-software",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-blockchain-architecture",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-enterprise-solution",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-erc20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-hash-log-engine",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-merchant-integration",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-bep20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-smart-contracts-trc20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "flash-usdt-wallet-simulator",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+    ]
+  },
+  {
+    "name": "usdt-flash-wallet",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
     ]
   },
   {

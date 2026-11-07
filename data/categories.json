@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 250,
-    "totalStars": 831,
+    "count": 256,
+    "totalStars": 832,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -34,21 +34,21 @@
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
     "count": 27,
-    "totalStars": 28,
+    "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
+      "godot_dater/llm_dating_sim",
       "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE"
+      "zaccesss/dotfiles"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 24,
+    "count": 25,
     "totalStars": 478,
     "iconName": "Terminal",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 11,
-    "totalStars": 12,
+    "count": 10,
+    "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
       "Niobium/NiobiumOS",
       "zaccesss/.profile",
-      "Kafcasz1/GET-FREE-TEST-TRAIL-AND-BUY-CRYPTO-FLASH-SOFTWARE-HERE",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -173,8 +173,8 @@
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
-      "Dabrogost/InfinityPlus-Patches",
       "starclimber/TinyMCServer",
+      "Dabrogost/InfinityPlus-Patches",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]

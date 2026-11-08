@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 58,
+    "count": 57,
     "totalStars": 1504,
     "color": "#00ADD8",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 16,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -50,7 +50,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 30,
+    "count": 31,
     "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
@@ -63,20 +63,20 @@
   },
   {
     "name": "C++",
-    "count": 6,
+    "count": 7,
     "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "LACJE-Labs-New/website",
-      "fainted09/FiveM-Mod-Menu"
+      "lplyusnin/proxy",
+      "LACJE-Labs-New/website"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 23,
+    "count": 20,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,41 +89,41 @@
   },
   {
     "name": "C#",
-    "count": 11,
+    "count": 10,
     "totalStars": 51,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "aHuddini/UniPlaySong",
       "othertime/gratisforgratis",
-      "tokarev_dr/Gridify"
+      "Demtakeniri/Rune-Walkers",
+      "aHuddini/UniPlaySong"
     ]
   },
   {
     "name": "HTML",
-    "count": 17,
+    "count": 16,
     "totalStars": 35,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "chenyuying124/chaiAI",
-      "xinlanliridi/chaiAI"
+      "manixar/Panapal-front",
+      "agent-skills/agent-skills"
     ]
   },
   {
     "name": "Python",
-    "count": 39,
-    "totalStars": 32,
+    "count": 41,
+    "totalStars": 34,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "Androw96/ecg-scd-thesis"
+      "WAMCoin/wam-coin"
     ]
   },
   {
@@ -135,8 +135,8 @@
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "quartzfox417/xray-orkestr",
-      "zaccesss/dotfiles"
+      "muse-node-ef634a/render-xray",
+      "Ghanmidev2012/Apt-package-intaller"
     ]
   },
   {
@@ -171,29 +171,27 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "Makefile",
-    "count": 4,
+    "count": 3,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "Venkatasaiee12/db",
       "gitea/redirects"
     ]
   },
   {
     "name": "CSS",
-    "count": 8,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
@@ -201,20 +199,20 @@
       "cereci5049/Shoppers",
       "pooneyy/1Panel-Appstore",
       "curben/blog",
-      "jefflance/chezmoi"
+      "maksym-voznyi/animation-challenge"
     ]
   },
   {
     "name": "C",
-    "count": 12,
+    "count": 11,
     "totalStars": 12,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
+      "gabordemooij/xoscript",
       "rozhuk.im/liblcb",
-      "burhbayr/Prayer_App_UnaWatch",
-      "burhbayr/Football_App_UnaWatch"
+      "burhbayr/Prayer_App_UnaWatch"
     ]
   },
   {
@@ -252,12 +250,11 @@
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "Jessybell/workflow-playbook",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -303,18 +300,6 @@
     ]
   },
   {
-    "name": "Lua",
-    "count": 4,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "vgoah10/neo",
-      "Luacode/Luacode-editor",
-      "ADEHNadhkaWJS1NDsd2/security-reality-encryption-none-pbk-4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik-headerType-none-fp",
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
     "name": "Jupyter Notebook",
     "count": 3,
     "totalStars": 1,
@@ -326,6 +311,17 @@
     ]
   },
   {
+    "name": "Lua",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "vgoah10/neo",
+      "Luacode/Luacode-editor",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
+    ]
+  },
+  {
     "name": "F*",
     "count": 3,
     "totalStars": 1,
@@ -334,6 +330,15 @@
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
+    ]
+  },
+  {
+    "name": "templ",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -374,15 +379,15 @@
   },
   {
     "name": "PHP",
-    "count": 5,
+    "count": 6,
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
-      "xkd/Dusk",
+      "manixar/Panapay-web-front",
+      "joomla/gitea",
+      "pckeeper11/My-Project",
       "rozhuk.im/ssdpd",
-      "joomla/packages",
-      "joomla/openai",
-      "joomla/gitea"
+      "joomla/packages"
     ]
   },
   {
@@ -396,12 +401,12 @@
     ]
   },
   {
-    "name": "Standard ML",
+    "name": "V",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "zcxt-public/zcxt-updates"
+      "diviocity/divifetch"
     ]
   },
   {
@@ -411,6 +416,24 @@
     "color": "#64748B",
     "topRepositories": [
       "Maxmus007/bminer"
+    ]
+  },
+  {
+    "name": "M3U",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "tangkeyu/tky"
+    ]
+  },
+  {
+    "name": "Standard ML",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "zcxt-public/zcxt-updates"
     ]
   }
 ]

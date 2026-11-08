@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 256,
-    "totalStars": 836,
+    "count": 252,
+    "totalStars": 839,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -33,15 +33,15 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 27,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
+      "coxlong/deepseek-harness",
       "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "zaccesss/melophos"
+      "starclimber/TinyMCServer"
     ]
   },
   {

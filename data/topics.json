@@ -456,16 +456,6 @@
     ]
   },
   {
-    "name": "python",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "zaccesss/.profile",
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
-    ]
-  },
-  {
     "name": "minecraft",
     "count": 3,
     "totalStars": 4,
@@ -473,6 +463,16 @@
       "starclimber/TinyMCServer",
       "SpeedSlicer/MineXLauncher-Beta",
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "python",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -1090,6 +1090,42 @@
     "topRepositories": [
       "loki-s3c/ctf-casefiles",
       "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "ai-agents",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "coxlong/deepseek-harness",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "cordis",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "coxlong/deepseek-harness",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "dsh",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "coxlong/deepseek-harness",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "dsh-plugin",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "coxlong/deepseek-harness",
+      "rubayet123/rea"
     ]
   },
   {
@@ -2075,6 +2111,30 @@
     "totalStars": 1,
     "topRepositories": [
       "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-apps",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-bucket",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -4574,14 +4634,6 @@
     ]
   },
   {
-    "name": "ai-agents",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "binary-analysis",
     "count": 1,
     "totalStars": 0,
@@ -4606,14 +4658,6 @@
     ]
   },
   {
-    "name": "cordis",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "decompiler",
     "count": 1,
     "totalStars": 0,
@@ -4631,22 +4675,6 @@
   },
   {
     "name": "disassembler",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "dsh",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "dsh-plugin",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

@@ -14,7 +14,7 @@
   {
     "name": "golang",
     "count": 17,
-    "totalStars": 529,
+    "totalStars": 530,
     "topRepositories": [
       "xorm/xorm",
       "goftp/server",
@@ -353,9 +353,9 @@
     "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
+      "Griefed/ServerPackCreator",
       "zaccesss/melophos",
       "zaccesss/phaemos",
-      "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
     ]
   },
@@ -456,13 +456,13 @@
     ]
   },
   {
-    "name": "python",
+    "name": "windows",
     "count": 3,
-    "totalStars": 4,
+    "totalStars": 41,
     "topRepositories": [
-      "zaccesss/.profile",
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
+      "BladeMight/Mahou",
+      "magicedy/Scoop",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -470,8 +470,8 @@
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
-      "SpeedSlicer/MineXLauncher-Beta",
       "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta",
       "starclimber/TinyMCServer"
     ]
   },
@@ -608,7 +608,7 @@
   {
     "name": "mysql",
     "count": 2,
-    "totalStars": 411,
+    "totalStars": 412,
     "topRepositories": [
       "xorm/xorm",
       "mmattklaus/go-jwt-demo"
@@ -617,7 +617,7 @@
   {
     "name": "postgresql",
     "count": 2,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm",
       "zaccesss/phaemos"
@@ -693,15 +693,6 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "zaccesss/melophos"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "zaccesss/dotfiles"
     ]
   },
   {
@@ -840,21 +831,21 @@
     ]
   },
   {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
     "name": "java",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -867,12 +858,30 @@
     ]
   },
   {
+    "name": "python",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
     "name": "nginx",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "scoop",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m",
+      "magicedy/Scoop"
     ]
   },
   {
@@ -1074,6 +1083,15 @@
     ]
   },
   {
+    "name": "powershell",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "education",
     "count": 2,
     "totalStars": 0,
@@ -1211,7 +1229,7 @@
   {
     "name": "mssql",
     "count": 1,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm"
     ]
@@ -1219,7 +1237,7 @@
   {
     "name": "tidb",
     "count": 1,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm"
     ]
@@ -1227,7 +1245,7 @@
   {
     "name": "orm",
     "count": 1,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm"
     ]
@@ -1235,7 +1253,7 @@
   {
     "name": "sqlite",
     "count": 1,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm"
     ]
@@ -1243,7 +1261,7 @@
   {
     "name": "postgres",
     "count": 1,
-    "totalStars": 410,
+    "totalStars": 411,
     "topRepositories": [
       "xorm/xorm"
     ]
@@ -1897,54 +1915,6 @@
     ]
   },
   {
-    "name": "animated",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "ascii-art",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "computer-science",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "electronics-engineering",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "github-profile-readme",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
-    "name": "portfolio",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "zaccesss/.profile"
-    ]
-  },
-  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -2070,6 +2040,22 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "scoop-apps",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "scoop-bucket",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3401,6 +3387,38 @@
     ]
   },
   {
+    "name": "installer",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "magicedy/Scoop"
+    ]
+  },
+  {
+    "name": "cryptopals",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "pwn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "writeup",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
     "name": "censorship-circumvention",
     "count": 1,
     "totalStars": 0,
@@ -3430,30 +3448,6 @@
     "totalStars": 0,
     "topRepositories": [
       "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "cryptopals",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "pwn",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "writeup",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
     ]
   },
   {
@@ -3594,14 +3588,6 @@
   },
   {
     "name": "neovim",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/dotfiles"
-    ]
-  },
-  {
-    "name": "powershell",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
@@ -3814,94 +3800,6 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/phaemos"
-    ]
-  },
-  {
-    "name": "bitcoin-flash",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-bitcoin-software",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-blockchain-architecture",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-enterprise-solution",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-erc20",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-hash-log-engine",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-merchant-integration",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-smart-contracts-bep20",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-smart-contracts-trc20",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "flash-usdt-wallet-simulator",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
-    ]
-  },
-  {
-    "name": "usdt-flash-wallet",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Cfttech/Fake-Bitcoin-BTC-Sender-Software-Demo"
     ]
   },
   {

@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 260,
-    "totalStars": 843,
+    "count": 254,
+    "totalStars": 837,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,9 +23,9 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "cyberwarn/VoidSec",
       "loki-s3c/pwn-casefiles",
       "loki-s3c/ctf-casefiles",
-      "CyberShell/hostfiles",
       "dadidang/zinc"
     ]
   },
@@ -48,14 +48,14 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
-    "totalStars": 478,
+    "count": 22,
+    "totalStars": 479,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
       "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
       "gitea/cli",
+      "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client"
     ]
   },
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 20,
+    "count": 19,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -83,8 +83,8 @@
     "iconName": "Bot",
     "topRepositories": [
       "jonasfranz/staletea",
-      "Griefed/ServerPackCreator",
       "usamarketingpros/ai-crawler-access-checker",
+      "Griefed/ServerPackCreator",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat"
     ]
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 165,
     "iconName": "Server",
     "topRepositories": [
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
+    "count": 9,
     "totalStars": 454,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,45 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
+    "count": 8,
     "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "MrTREX/lineage2ts",
       "10224530/Offline-HTML-Games-Pack",
       "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 6,
-    "totalStars": 419,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "MrTREX/lineage2ts",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner"
-    ]
-  },
-  {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "MrTREX/lineage2ts",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
+      "dadidang/zinc",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
@@ -174,9 +144,39 @@
     "topRepositories": [
       "gitea/go-sdk",
       "shastriii/compiler-lab",
-      "gitea/sdk.js",
       "hexmos/FreeDevTools",
+      "gitea/sdk.js",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 5,
+    "totalStars": 419,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 5,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -211,11 +211,11 @@
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
     "count": 2,
-    "totalStars": 42,
+    "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "Woxels/woxie-homelab-kuberneties"
+      "paoloronco/OrbitPage"
     ]
   },
   {

@@ -2,7 +2,7 @@
   {
     "name": "gitea",
     "count": 17,
-    "totalStars": 716,
+    "totalStars": 717,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -300,18 +300,6 @@
     ]
   },
   {
-    "name": "server",
-    "count": 6,
-    "totalStars": 51,
-    "topRepositories": [
-      "goftp/server",
-      "goftp/ftpd",
-      "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator",
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
     "name": "exploit",
     "count": 6,
     "totalStars": 0,
@@ -326,7 +314,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 305,
+    "totalStars": 306,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -341,10 +329,22 @@
     "totalStars": 69,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "server",
+    "count": 5,
+    "totalStars": 51,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
     ]
   },
   {
@@ -395,7 +395,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 181,
+    "totalStars": 182,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -468,18 +468,8 @@
     "totalStars": 4,
     "topRepositories": [
       "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator",
-      "SpeedSlicer/MineXLauncher-Beta"
-    ]
-  },
-  {
-    "name": "proxy",
-    "count": 3,
-    "totalStars": 3,
-    "topRepositories": [
-      "MrTREX/lineage2ts",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
+      "SpeedSlicer/MineXLauncher-Beta",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -612,15 +602,6 @@
     ]
   },
   {
-    "name": "sqlite",
-    "count": 2,
-    "totalStars": 412,
-    "topRepositories": [
-      "xorm/xorm",
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
     "name": "gitea-actions",
     "count": 2,
     "totalStars": 290,
@@ -681,15 +662,6 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 2,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -828,6 +800,15 @@
     ]
   },
   {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
     "name": "trust-wallet",
     "count": 2,
     "totalStars": 2,
@@ -852,15 +833,6 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -1044,15 +1016,6 @@
     ]
   },
   {
-    "name": "typescript",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts",
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
     "name": "chrome-extension",
     "count": 2,
     "totalStars": 0,
@@ -1114,6 +1077,14 @@
   },
   {
     "name": "orm",
+    "count": 1,
+    "totalStars": 412,
+    "topRepositories": [
+      "xorm/xorm"
+    ]
+  },
+  {
+    "name": "sqlite",
     "count": 1,
     "totalStars": 412,
     "topRepositories": [
@@ -1238,6 +1209,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1950,22 +1929,6 @@
     "totalStars": 1,
     "topRepositories": [
       "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3297,222 +3260,6 @@
     ]
   },
   {
-    "name": "installer",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "powershell",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "allstarlink",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "amateur-radio",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-beacon",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-telemetry",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "bdd",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "cucumberjs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "dockerimage",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "emulator",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "gamedevelopment",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "gameserver",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "game-server",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "integrationtesting",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "lineage2severemulator",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "lineage2",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "mitmproxy",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "mmo",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "mmorpg",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "multiplayergame",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "rpg",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
-    "name": "server-emulator",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "MrTREX/lineage2ts"
-    ]
-  },
-  {
     "name": "ai-crawlers",
     "count": 1,
     "totalStars": 0,
@@ -3730,6 +3477,14 @@
   },
   {
     "name": "pdf-tools",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "aniruddhaadak/OpenFile"
+    ]
+  },
+  {
+    "name": "typescript",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

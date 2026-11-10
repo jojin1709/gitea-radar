@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 53,
+    "count": 59,
     "totalStars": 1508,
     "color": "#00ADD8",
     "topRepositories": [
@@ -14,7 +14,7 @@
   },
   {
     "name": "Markdown",
-    "count": 9,
+    "count": 8,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 20,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -50,7 +50,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 32,
+    "count": 30,
     "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
@@ -63,20 +63,20 @@
   },
   {
     "name": "C++",
-    "count": 10,
+    "count": 8,
     "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "rabbitfishy/sdk",
-      "Damieyo/damieyo"
+      "mittorn/rhmd-ci-test",
+      "rabbitfishy/sdk"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 23,
+    "count": 22,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,54 +89,54 @@
   },
   {
     "name": "C#",
-    "count": 9,
+    "count": 11,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "othertime/gratisforgratis",
-      "OpenMedia/OpenMedia",
-      "Maksim_Karpov/winPizzaHub"
+      "Demtakeniri/Rune-Walkers",
+      "Nishank_Tyagii/Hotel_Service",
+      "othertime/gratisforgratis"
     ]
   },
   {
     "name": "HTML",
-    "count": 20,
+    "count": 21,
     "totalStars": 35,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "menchaca-andres/his-cossmil",
-      "agent-skills/agent-skills"
+      "10224530/Offline-HTML-Games-Pack",
+      "firavoyage/blogging"
     ]
   },
   {
     "name": "Python",
-    "count": 42,
-    "totalStars": 30,
+    "count": 39,
+    "totalStars": 31,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "WAMCoin/wam-coin"
+      "eetorre/deudores-review"
     ]
   },
   {
     "name": "Shell",
-    "count": 24,
-    "totalStars": 30,
+    "count": 21,
+    "totalStars": 31,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "Han/Han.GJK",
-      "zhanbolat/piscinego"
+      "mcereda/oam",
+      "Han/Han.GJK"
     ]
   },
   {
@@ -152,7 +152,7 @@
   {
     "name": "Dockerfile",
     "count": 1,
-    "totalStars": 22,
+    "totalStars": 23,
     "color": "#64748B",
     "topRepositories": [
       "gitea/runner-images"
@@ -171,11 +171,12 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
@@ -186,20 +187,21 @@
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "Evolution-X/vendor_xiaomi_miuicamera-marble",
       "Evolution-X/vendor_xiaomi_sm8450-common",
+      "Evolution-X/vendor_xiaomi_miuicamera-marble",
       "Kukucode/Kukucode"
     ]
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
       "pooneyy/1Panel-Appstore",
+      "curben/blog",
       "ionxis/flask-template"
     ]
   },
@@ -244,20 +246,19 @@
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "woolster2020/vc",
       "zaccesss/zacess",
+      "woolster2020/vc",
+      "Goubayu_WuTeng/Turtle-WOW-BENILLA",
       "ultraskid/gobotik"
     ]
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -304,13 +305,12 @@
   },
   {
     "name": "Jupyter Notebook",
-    "count": 4,
+    "count": 3,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
+      "pure-book/note",
       "aleshka52/---python",
-      "RMPlaysMCYT/Corn-Detection-System",
-      "elara_yes/glove",
       "serpdotai/bark-with-voice-clone"
     ]
   },
@@ -336,40 +336,21 @@
     ]
   },
   {
-    "name": "Lua",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "Luacode/Luacode-editor",
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
-    "name": "templ",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "techknowlogick/tklk-flake"
-    ]
-  },
-  {
     "name": "Smarty",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "vquie/act_runner-helm"
+    ]
+  },
+  {
+    "name": "Lua",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -383,13 +364,21 @@
   },
   {
     "name": "PHP",
-    "count": 3,
+    "count": 2,
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
       "rozhuk.im/ssdpd",
-      "joomla/gitea",
       "manixar/Panapay-web-front"
+    ]
+  },
+  {
+    "name": "Pip Requirements",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "hany/flash-usdt-software"
     ]
   },
   {
@@ -408,15 +397,6 @@
     "color": "#64748B",
     "topRepositories": [
       "edleinjoshua/pricing"
-    ]
-  },
-  {
-    "name": "M3U",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "russellb9/bongda"
     ]
   },
   {

@@ -220,11 +220,11 @@
     "count": 9,
     "totalStars": 5,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles",
       "thisago/safeWriting",
       "palmcoasty/bunkerweb",
       "portellam2/lockdown.sh",
-      "ab-smith/ciso-assistant-community"
+      "ab-smith/ciso-assistant-community",
+      "DUR/firewarden"
     ]
   },
   {
@@ -300,15 +300,27 @@
     ]
   },
   {
+    "name": "docker",
+    "count": 6,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "EvergreenCrypto/docker-finance",
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
     "name": "exploit",
     "count": 6,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT",
+      "bensams/671"
     ]
   },
   {
@@ -345,18 +357,6 @@
       "Griefed/ServerPackCreator",
       "starclimber/TinyMCServer",
       "its-theo/NukeCord"
-    ]
-  },
-  {
-    "name": "docker",
-    "count": 5,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "Griefed/ServerPackCreator",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -456,13 +456,23 @@
     ]
   },
   {
-    "name": "windows",
+    "name": "games",
     "count": 3,
-    "totalStars": 41,
+    "totalStars": 6,
     "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop",
-      "zaccesss/dotfiles"
+      "nettleweb/nettleweb",
+      "10224530/Offline-HTML-Games-Pack",
+      "ShutUpYouSlut/Inter-Forky"
+    ]
+  },
+  {
+    "name": "python",
+    "count": 3,
+    "totalStars": 4,
+    "topRepositories": [
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -536,6 +546,26 @@
     ]
   },
   {
+    "name": "bash",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "EvergreenCrypto/docker-finance",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "EvergreenCrypto/docker-finance",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
     "name": "reverse-engineering",
     "count": 3,
     "totalStars": 1,
@@ -566,23 +596,13 @@
     ]
   },
   {
-    "name": "ctf",
-    "count": 3,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles",
-      "caiqing/juice-shop",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "accessibility",
     "count": 3,
     "totalStars": 0,
     "topRepositories": [
+      "zaccesss/zacess",
       "zaccesss/melophos",
-      "zaccesss/dotfiles",
-      "zaccesss/zacess"
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -590,8 +610,8 @@
     "count": 3,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/melophos",
       "zaccesss/zacess",
+      "zaccesss/melophos",
       "zaccesss/phaemos"
     ]
   },
@@ -600,9 +620,29 @@
     "count": 3,
     "totalStars": 0,
     "topRepositories": [
-      "zaccesss/melophos",
       "zaccesss/zacess",
+      "zaccesss/melophos",
       "aniruddhaadak/OpenFile"
+    ]
+  },
+  {
+    "name": "unblocker",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack",
+      "ShutUpYouSlut/Inter-Forky",
+      "bensams/671"
+    ]
+  },
+  {
+    "name": "ctf",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles",
+      "caiqing/juice-shop",
+      "rubayet123/rea"
     ]
   },
   {
@@ -696,6 +736,15 @@
     ]
   },
   {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "library",
     "count": 2,
     "totalStars": 41,
@@ -723,21 +772,21 @@
     ]
   },
   {
+    "name": "shell",
+    "count": 2,
+    "totalStars": 12,
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
     "name": "selfhosting",
     "count": 2,
     "totalStars": 12,
     "topRepositories": [
       "6543/pages-server",
       "WebPlay/client"
-    ]
-  },
-  {
-    "name": "games",
-    "count": 2,
-    "totalStars": 6,
-    "topRepositories": [
-      "nettleweb/nettleweb",
-      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
@@ -858,15 +907,6 @@
     ]
   },
   {
-    "name": "python",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
-    ]
-  },
-  {
     "name": "nginx",
     "count": 2,
     "totalStars": 2,
@@ -876,30 +916,12 @@
     ]
   },
   {
-    "name": "scoop",
+    "name": "php",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
-    ]
-  },
-  {
-    "name": "bash",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "zaccesss/dotfiles",
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "linux",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "zaccesss/dotfiles",
-      "portellam2/lockdown.sh"
+      "EvergreenCrypto/docker-finance",
+      "wower/hestiamb"
     ]
   },
   {
@@ -1083,21 +1105,21 @@
     ]
   },
   {
-    "name": "powershell",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "magicedy/Scoop",
-      "zaccesss/dotfiles"
-    ]
-  },
-  {
     "name": "education",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles",
-      "zaccesss/zacess"
+      "zaccesss/zacess",
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "open-source",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "aniruddhaadak/OpenFile"
     ]
   },
   {
@@ -1146,15 +1168,6 @@
     ]
   },
   {
-    "name": "open-source",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess",
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
     "name": "ai-agents",
     "count": 2,
     "totalStars": 0,
@@ -1188,15 +1201,6 @@
     "topRepositories": [
       "coxlong/deepseek-harness",
       "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "unblocker",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "bensams/671"
     ]
   },
   {
@@ -1635,14 +1639,6 @@
     ]
   },
   {
-    "name": "shell",
-    "count": 1,
-    "totalStars": 12,
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel"
-    ]
-  },
-  {
     "name": "bot",
     "count": 1,
     "totalStars": 12,
@@ -1915,6 +1911,54 @@
     ]
   },
   {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -2040,22 +2084,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -2652,14 +2680,6 @@
   },
   {
     "name": "mail-server",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "wower/hestiamb"
-    ]
-  },
-  {
-    "name": "php",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
@@ -3387,67 +3407,59 @@
     ]
   },
   {
-    "name": "installer",
+    "name": "assistive-technology",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "cryptopals",
+    "name": "dyslexia",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "pwn",
+    "name": "low-vision",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "writeup",
+    "name": "ocr",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "censorship-circumvention",
+    "name": "screen-reader",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "tor-network",
+    "name": "tauri",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
+      "zaccesss/zacess"
     ]
   },
   {
-    "name": "lean4",
+    "name": "text-to-speech",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "research-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/xLaDe"
+      "zaccesss/zacess"
     ]
   },
   {
@@ -3595,6 +3607,14 @@
     ]
   },
   {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "ssh",
     "count": 1,
     "totalStars": 0,
@@ -3640,62 +3660,6 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/dotfiles"
-    ]
-  },
-  {
-    "name": "assistive-technology",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "dyslexia",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "low-vision",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "ocr",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "screen-reader",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "tauri",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
-    ]
-  },
-  {
-    "name": "text-to-speech",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zaccesss/zacess"
     ]
   },
   {
@@ -3800,6 +3764,118 @@
     "totalStars": 0,
     "topRepositories": [
       "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "accounting",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "cpp20",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "dockerfiles",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "finance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "EvergreenCrypto/docker-finance"
+    ]
+  },
+  {
+    "name": "flash-games",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "html-games",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "offline",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "offline-first",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "offline-games",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "single-file",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "unblock",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "unblocker-for-school",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "unity-games",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
+    ]
+  },
+  {
+    "name": "web-games",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "10224530/Offline-HTML-Games-Pack"
     ]
   },
   {
@@ -4112,6 +4188,30 @@
     "totalStars": 0,
     "topRepositories": [
       "bensams/671"
+    ]
+  },
+  {
+    "name": "cryptopals",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "pwn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "writeup",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
     ]
   },
   {

@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 56,
-    "totalStars": 1506,
+    "count": 55,
+    "totalStars": 1508,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 6,
+    "count": 8,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "zoekelly6799/notes",
-      "kingn550/notes"
+      "burt-handsome/bh-dev",
+      "howardzhow/Veliki_Zavorushennya"
     ]
   },
   {
     "name": "Java",
-    "count": 15,
+    "count": 18,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -50,8 +50,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 28,
-    "totalStars": 91,
+    "count": 36,
+    "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -102,28 +102,41 @@
   },
   {
     "name": "HTML",
-    "count": 13,
+    "count": 11,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "gxdong_work/way_mark_tag",
-      "targetlulusnotes20261101/targetlulus-study-notes-20261111"
+      "Nerbelis/miperfilingenieria",
+      "gxdong_work/way_mark_tag"
     ]
   },
   {
     "name": "Python",
-    "count": 50,
-    "totalStars": 31,
+    "count": 51,
+    "totalStars": 32,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "loewer/bongda"
+      "WAMCoin/wam-coin"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 16,
+    "totalStars": 30,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "EvergreenCrypto/dfi-docs",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -133,19 +146,6 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 11,
-    "totalStars": 29,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "maghlubwalshad/maghlurkh",
-      "fasheng/magisk-modules"
     ]
   },
   {
@@ -170,11 +170,13 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 3,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "GitOnOut/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
@@ -191,15 +193,15 @@
   },
   {
     "name": "C",
-    "count": 9,
+    "count": 8,
     "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
       "gioroin02/pax",
-      "gabordemooij/xoscript",
-      "nmcli/UEFITool"
+      "nmcli/UEFITool",
+      "yoelrm/CVE-2021-4034"
     ]
   },
   {
@@ -236,15 +238,15 @@
   },
   {
     "name": "Rust",
-    "count": 5,
+    "count": 7,
     "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "funkiestusername/chicken-interpreter",
+      "zaccesss/zacess",
       "woolster2020/vc",
-      "chizunoyama/hrmny",
-      "idkidocode/ferrite-vr"
+      "CodigoMinimo/Nano-Server",
+      "funkiestusername/chicken-interpreter"
     ]
   },
   {
@@ -279,16 +281,6 @@
     ]
   },
   {
-    "name": "Kotlin",
-    "count": 2,
-    "totalStars": 3,
-    "color": "#A97BFF",
-    "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "Nim",
     "count": 2,
     "totalStars": 3,
@@ -296,6 +288,15 @@
     "topRepositories": [
       "thisago/safeWriting",
       "thisago/gm_api"
+    ]
+  },
+  {
+    "name": "Kotlin",
+    "count": 1,
+    "totalStars": 2,
+    "color": "#A97BFF",
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -307,25 +308,6 @@
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
-    ]
-  },
-  {
-    "name": "Jupyter Notebook",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "RMPlaysMCYT/Corn-Detection-System",
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "name": "templ",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -356,12 +338,30 @@
     ]
   },
   {
+    "name": "Jupyter Notebook",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "PostScript",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "hexmos/FreeDevTools"
+    ]
+  },
+  {
+    "name": "Objective-C",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "Kukucode/Kukucode"
     ]
   },
   {

@@ -2,7 +2,7 @@
   {
     "name": "gitea",
     "count": 17,
-    "totalStars": 718,
+    "totalStars": 720,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -314,7 +314,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 306,
+    "totalStars": 307,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -336,38 +336,59 @@
     ]
   },
   {
-    "name": "server",
-    "count": 5,
-    "totalStars": 51,
-    "topRepositories": [
-      "goftp/server",
-      "goftp/ftpd",
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer",
-      "its-theo/NukeCord"
-    ]
-  },
-  {
-    "name": "privacy",
+    "name": "docker",
     "count": 5,
     "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "aniruddhaadak/OpenFile",
-      "thisago/safeWriting",
-      "ab-smith/ciso-assistant-community",
-      "rammiah/caddy"
+      "zaccesss/phaemos",
+      "zaccesss/melophos",
+      "Griefed/ServerPackCreator",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "git",
+    "count": 4,
+    "totalStars": 185,
+    "topRepositories": [
+      "gitea/gitea-mcp",
+      "gitnex/GitNex",
+      "gitea/cli",
+      "zaccesss/dotfiles"
     ]
   },
   {
     "name": "mcp",
     "count": 4,
-    "totalStars": 107,
+    "totalStars": 108,
     "topRepositories": [
       "gitea/gitea-mcp",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "server",
+    "count": 4,
+    "totalStars": 50,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "privacy",
+    "count": 4,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "thisago/safeWriting",
+      "ab-smith/ciso-assistant-community",
+      "rammiah/caddy"
     ]
   },
   {
@@ -382,6 +403,17 @@
     ]
   },
   {
+    "name": "chinese-language",
+    "count": 4,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo",
+      "tiyinet/geobaping",
+      "tiyinet/mcboss",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
     "name": "poc",
     "count": 4,
     "totalStars": 0,
@@ -390,16 +422,6 @@
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-9841-EXPLOIT",
       "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "git",
-    "count": 3,
-    "totalStars": 183,
-    "topRepositories": [
-      "gitea/gitea-mcp",
-      "gitnex/GitNex",
-      "gitea/cli"
     ]
   },
   {
@@ -433,33 +455,23 @@
     ]
   },
   {
-    "name": "docker",
+    "name": "windows",
     "count": 3,
-    "totalStars": 45,
+    "totalStars": 41,
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
+      "BladeMight/Mahou",
+      "zaccesss/dotfiles",
+      "tiyinet/mcleyuan"
     ]
   },
   {
-    "name": "react",
-    "count": 3,
-    "totalStars": 43,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "ToolAnchor/websitegeek-seo-suite-tools",
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "minecraft",
+    "name": "python",
     "count": 3,
     "totalStars": 4,
     "topRepositories": [
-      "SpeedSlicer/MineXLauncher-Beta",
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -553,6 +565,26 @@
     ]
   },
   {
+    "name": "rust",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos",
+      "zaccesss/melophos",
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "accessibility",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "ctf",
     "count": 3,
     "totalStars": 0,
@@ -563,12 +595,31 @@
     ]
   },
   {
+    "name": "llm",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping",
+      "Missou/ciso-assistant-community",
+      "rubayet123/rea"
+    ]
+  },
+  {
     "name": "mysql",
     "count": 2,
     "totalStars": 413,
     "topRepositories": [
       "xorm/xorm",
       "mmattklaus/go-jwt-demo"
+    ]
+  },
+  {
+    "name": "postgresql",
+    "count": 2,
+    "totalStars": 412,
+    "topRepositories": [
+      "xorm/xorm",
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -599,15 +650,6 @@
     ]
   },
   {
-    "name": "android",
-    "count": 2,
-    "totalStars": 57,
-    "topRepositories": [
-      "gitnex/GitNex",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "oringo-client",
     "count": 2,
     "totalStars": 45,
@@ -626,12 +668,21 @@
     ]
   },
   {
-    "name": "pwa",
+    "name": "react",
+    "count": 2,
+    "totalStars": 43,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "self-hosted",
     "count": 2,
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "aniruddhaadak/OpenFile"
+      "zaccesss/melophos"
     ]
   },
   {
@@ -779,12 +830,12 @@
     ]
   },
   {
-    "name": "java",
+    "name": "minecraft",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "starclimber/TinyMCServer"
+      "SpeedSlicer/MineXLauncher-Beta",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -797,12 +848,75 @@
     ]
   },
   {
-    "name": "python",
+    "name": "nginx",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
+      "wower/hestiamb",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "bash",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "dsh",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ZymJason_DSH/DSH_Git_Workbench",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "dsh-plugin",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ZymJason_DSH/DSH_Git_Workbench",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "seo",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "tiyinet/geobaping",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "seo-tools",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "tiyinet/geobaping",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "saas",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "tiyinet/mcboss",
+      "ToolAnchor/websitegeek-seo-suite-tools"
     ]
   },
   {
@@ -812,6 +926,15 @@
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky",
       "its-theo/NukeCord"
+    ]
+  },
+  {
+    "name": "web-server",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb",
+      "rammiah/caddy"
     ]
   },
   {
@@ -977,39 +1100,183 @@
     ]
   },
   {
-    "name": "amateur-radio",
+    "name": "esp32",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
+      "zaccesss/phaemos",
+      "zaccesss/melophos"
     ]
   },
   {
-    "name": "mmdvm",
+    "name": "fastapi",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
+      "zaccesss/phaemos",
+      "zaccesss/melophos"
     ]
   },
   {
-    "name": "pi-star",
+    "name": "kicad",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
+      "zaccesss/phaemos",
+      "zaccesss/melophos"
     ]
   },
   {
-    "name": "wpsd",
+    "name": "open-hardware",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
+      "zaccesss/phaemos",
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "webassembly",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "education",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "ai-agents",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "claude-code",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia",
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "cute",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "desktop-companion",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "desktop-pet",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "game",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "indie-game",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "pet",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "pet-simulator",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "tamagotchi",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "virtual-pet",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz",
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "booking",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo",
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "management-system",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo",
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "generative-ai",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping",
+      "zakirkun/guardian-cli"
     ]
   },
   {
@@ -1040,15 +1307,6 @@
     ]
   },
   {
-    "name": "llm",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "Missou/ciso-assistant-community",
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "mssql",
     "count": 1,
     "totalStars": 412,
@@ -1058,14 +1316,6 @@
   },
   {
     "name": "tidb",
-    "count": 1,
-    "totalStars": 412,
-    "topRepositories": [
-      "xorm/xorm"
-    ]
-  },
-  {
-    "name": "postgresql",
     "count": 1,
     "totalStars": 412,
     "topRepositories": [
@@ -1118,6 +1368,14 @@
     "totalStars": 88,
     "topRepositories": [
       "gitea/helm-gitea"
+    ]
+  },
+  {
+    "name": "android",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
     ]
   },
   {
@@ -1185,7 +1443,7 @@
     ]
   },
   {
-    "name": "self-hosted",
+    "name": "pwa",
     "count": 1,
     "totalStars": 42,
     "topRepositories": [
@@ -1206,14 +1464,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -1769,6 +2019,54 @@
     ]
   },
   {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1818,6 +2116,14 @@
   },
   {
     "name": "jar",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "java",
     "count": 1,
     "totalStars": 2,
     "topRepositories": [
@@ -1897,27 +2203,11 @@
     ]
   },
   {
-    "name": "scoop",
+    "name": "deepseek-harness",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
+      "ZymJason_DSH/DSH_Git_Workbench"
     ]
   },
   {
@@ -2329,70 +2619,6 @@
     ]
   },
   {
-    "name": "saas",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "seo",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "seo-tools",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "android-app",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "jre",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin-android",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "mc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "discord-bot",
     "count": 1,
     "totalStars": 1,
@@ -2454,6 +2680,86 @@
     "totalStars": 1,
     "topRepositories": [
       "galaxy-future/alist"
+    ]
+  },
+  {
+    "name": "apache2",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "control-panels",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dns-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "dovecot",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "exim",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "linux-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "mail-server",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "php",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
+    ]
+  },
+  {
+    "name": "web-panel",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "wower/hestiamb"
     ]
   },
   {
@@ -2857,14 +3163,6 @@
     ]
   },
   {
-    "name": "nginx",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "palmcoasty/bunkerweb"
-    ]
-  },
-  {
     "name": "security-tuning",
     "count": 1,
     "totalStars": 1,
@@ -2902,22 +3200,6 @@
     "totalStars": 1,
     "topRepositories": [
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "bash",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "linux",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
     ]
   },
   {
@@ -3193,15 +3475,415 @@
     ]
   },
   {
-    "name": "cryptopals",
+    "name": "anomaly-detection",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/phaemos"
     ]
   },
   {
-    "name": "education",
+    "name": "arduino",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "condition-monitoring",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "embedded-systems",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "industrial-iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "machine-learning",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "nextjs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "predictive-maintenance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "proteus",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "redis",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "stm32",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "esp32-s3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "guitar",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "led",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "midi",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music-education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "piano",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "platformio",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "timescaledb",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "ws2812b",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "assistive-technology",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "dyslexia",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "low-vision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "ocr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "open-source",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "screen-reader",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "tauri",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "text-to-speech",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "bootstrap",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "development-environment",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "dotfiles",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "eclipse",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "high-contrast",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "jetbrains",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "macos",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "neovim",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "ssh",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "terminal",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "tmux",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "vscode",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "wsl2",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "zsh",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "backlog",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia"
+    ]
+  },
+  {
+    "name": "code-review",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia"
+    ]
+  },
+  {
+    "name": "markdown",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia"
+    ]
+  },
+  {
+    "name": "multi-agent",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "jimcollier/panoplia"
+    ]
+  },
+  {
+    "name": "cryptopals",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
@@ -3225,6 +3907,550 @@
     ]
   },
   {
+    "name": "2d-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "bullet-heaven",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "casual-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "cat-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "free-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "gaming",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "idle-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "offline-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "roguelite",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "single-player",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "windows-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/MengChongcz"
+    ]
+  },
+  {
+    "name": "channel-manager",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "front-desk",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hospitality",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hotel",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hotel-booking",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hotel-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hotel-pms",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "hotel-software",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "housekeeping",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "ota",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "pms",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "property-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "resort",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "revenue-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "travel",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "travel-tech",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "vacation-rental",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/yaduo"
+    ]
+  },
+  {
+    "name": "ai-search",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "ai-seo",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "answer-engine-optimization",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "baidu",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "content-generation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "content-marketing",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "digital-marketing",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "generative-engine-optimization",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "keyword-research",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "marketing",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "marketing-tools",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "search-engine-optimization",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "sem",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "seo-optimization",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "serp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/geobaping"
+    ]
+  },
+  {
+    "name": "appointment-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "crm",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "digital-transformation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "erp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "inventory-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "pet-care",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "pet-grooming",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "pet-shop",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "pet-store",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "point-of-sale",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "pos-system",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "retail",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "small-business",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "store-management",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "veterinary",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "wechat-miniprogram",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcboss"
+    ]
+  },
+  {
+    "name": "ai",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "ai-pet",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "animation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "desktop-mascot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "digital-pet",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "life-simulation",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "pet-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "pixel-art",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
+    "name": "virtual-pet-game",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "tiyinet/mcleyuan"
+    ]
+  },
+  {
     "name": "lean4",
     "count": 1,
     "totalStars": 0,
@@ -3238,38 +4464,6 @@
     "totalStars": 0,
     "topRepositories": [
       "LakshitSinghBishtTM/xLaDe"
-    ]
-  },
-  {
-    "name": "allstarlink",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-beacon",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-telemetry",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
@@ -3353,46 +4547,6 @@
     ]
   },
   {
-    "name": "file-converter",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "open-source",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "pdf-tools",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "typescript",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
-    "name": "webassembly",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "aniruddhaadak/OpenFile"
-    ]
-  },
-  {
     "name": "debbuild",
     "count": 1,
     "totalStars": 0,
@@ -3426,14 +4580,6 @@
   },
   {
     "name": "automatic-https",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rammiah/caddy"
-    ]
-  },
-  {
-    "name": "web-server",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
@@ -3705,14 +4851,6 @@
     ]
   },
   {
-    "name": "generative-ai",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zakirkun/guardian-cli"
-    ]
-  },
-  {
     "name": "pentest-tool",
     "count": 1,
     "totalStars": 0,
@@ -3961,23 +5099,7 @@
     ]
   },
   {
-    "name": "ai-agents",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
     "name": "binary-analysis",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "claude-code",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
@@ -4018,22 +5140,6 @@
   },
   {
     "name": "disassembler",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "dsh",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "dsh-plugin",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

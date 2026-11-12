@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 58,
+    "count": 56,
     "totalStars": 1506,
     "color": "#00ADD8",
     "topRepositories": [
@@ -21,8 +21,8 @@
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "Receiverofmemory/Camp",
-      "howardzhow/Veliki_Zavorushennya"
+      "zoekelly6799/notes",
+      "kingn550/notes"
     ]
   },
   {
@@ -50,8 +50,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 37,
-    "totalStars": 93,
+    "count": 28,
+    "totalStars": 91,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -63,21 +63,21 @@
   },
   {
     "name": "C++",
-    "count": 5,
-    "totalStars": 63,
+    "count": 6,
+    "totalStars": 64,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "fainted09/FiveM-Mod-Menu",
-      "calmdown/SkriptGG"
+      "truffle/apotris",
+      "fainted09/FiveM-Mod-Menu"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 19,
-    "totalStars": 59,
+    "count": 23,
+    "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -89,15 +89,15 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 8,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
       "Demtakeniri/Rune-Walkers",
-      "zakrewskkii/hr-docflow",
-      "Helmia-via/PR8_Dav_Kuz"
+      "Maksim_Karpov/winPizzaHub",
+      "Falcon/Falcon.StoredProcedureRunner"
     ]
   },
   {
@@ -109,34 +109,21 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "jms/stardew-valley-wiki",
-      "jms/pagina-pessoal"
+      "gxdong_work/way_mark_tag",
+      "targetlulusnotes20261101/targetlulus-study-notes-20261111"
     ]
   },
   {
     "name": "Python",
-    "count": 43,
-    "totalStars": 32,
+    "count": 50,
+    "totalStars": 31,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "vallu/quark"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 19,
-    "totalStars": 30,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "zaccesss/dotfiles",
-      "fsjghse2u/ggm"
+      "loewer/bongda"
     ]
   },
   {
@@ -146,6 +133,19 @@
     "color": "#64748B",
     "topRepositories": [
       "gitea/blog"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 11,
+    "totalStars": 29,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "maghlubwalshad/maghlurkh",
+      "fasheng/magisk-modules"
     ]
   },
   {
@@ -170,51 +170,48 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "Makefile",
-    "count": 5,
+    "count": 4,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "rozhuk.im/freebsd-ports",
       "gitea/actions-proto-def",
-      "Kukucode/Kukucode",
       "skenakun/android_vendor_xiaomi_alioth-miuicamera",
       "gitea/redirects"
     ]
   },
   {
     "name": "C",
-    "count": 8,
+    "count": 9,
     "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
+      "gioroin02/pax",
       "gabordemooij/xoscript",
-      "shastriii/compiler-lab",
-      "yoelrm/CVE-2021-4034"
+      "nmcli/UEFITool"
     ]
   },
   {
     "name": "CSS",
-    "count": 7,
+    "count": 4,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "jefflance/chezmoi",
-      "DAEMON-404/daemon-sec-lotl",
-      "pooneyy/1Panel-Appstore"
+      "pooneyy/1Panel-Appstore",
+      "my-sample-org/ej2-showcase-js-expensetracker"
     ]
   },
   {
@@ -239,25 +236,24 @@
   },
   {
     "name": "Rust",
-    "count": 6,
-    "totalStars": 5,
+    "count": 5,
+    "totalStars": 4,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "zaccesss/zacess",
+      "funkiestusername/chicken-interpreter",
       "woolster2020/vc",
-      "fm-elpac/pm-bin"
+      "chizunoyama/hrmny",
+      "idkidocode/ferrite-vr"
     ]
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "DAEMON-404/daemon-sec-cheatsheet",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -319,17 +315,17 @@
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "shivishbrahma/courses",
+      "RMPlaysMCYT/Corn-Detection-System",
       "serpdotai/bark-with-voice-clone"
     ]
   },
   {
-    "name": "Nix",
+    "name": "templ",
     "count": 1,
     "totalStars": 1,
-    "color": "#7E7EFF",
+    "color": "#64748B",
     "topRepositories": [
-      "techknowlogick/tklk-flake"
+      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -369,12 +365,12 @@
     ]
   },
   {
-    "name": "TSQL",
+    "name": "Standard ML",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "vianandaMegaria/source"
+      "zcxt-public/zcxt-updates"
     ]
   },
   {
@@ -384,6 +380,24 @@
     "color": "#64748B",
     "topRepositories": [
       "AL1S233/cloud-als-portfolio"
+    ]
+  },
+  {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "rxf/.infra"
+    ]
+  },
+  {
+    "name": "Erlang",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "puebo40/highProxy"
     ]
   },
   {

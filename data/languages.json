@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 55,
-    "totalStars": 1508,
+    "count": 53,
+    "totalStars": 1509,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,15 +14,15 @@
   },
   {
     "name": "Markdown",
-    "count": 8,
+    "count": 7,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "burt-handsome/bh-dev",
-      "howardzhow/Veliki_Zavorushennya"
+      "howardzhow/Veliki_Zavorushennya",
+      "zoekelly6799/notes"
     ]
   },
   {
@@ -50,7 +50,7 @@
   },
   {
     "name": "JavaScript",
-    "count": 36,
+    "count": 41,
     "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
@@ -64,19 +64,19 @@
   {
     "name": "C++",
     "count": 6,
-    "totalStars": 64,
+    "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "truffle/apotris",
+      "nmcli/phantomat",
       "fainted09/FiveM-Mod-Menu"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 23,
+    "count": 22,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -109,34 +109,34 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "Nerbelis/miperfilingenieria",
-      "gxdong_work/way_mark_tag"
+      "firavoyage/blogging",
+      "weidi731731/AV18_346556635"
     ]
   },
   {
     "name": "Python",
-    "count": 51,
-    "totalStars": 32,
+    "count": 55,
+    "totalStars": 33,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "WAMCoin/wam-coin"
+      "Insoulum/Lucario-Morph-Server"
     ]
   },
   {
     "name": "Shell",
     "count": 16,
-    "totalStars": 30,
+    "totalStars": 31,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "EvergreenCrypto/dfi-docs",
-      "zaccesss/dotfiles"
+      "mcereda/oam",
+      "EvergreenCrypto/dfi-docs"
     ]
   },
   {
@@ -193,25 +193,26 @@
   },
   {
     "name": "C",
-    "count": 8,
+    "count": 7,
     "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "gioroin02/pax",
       "nmcli/UEFITool",
-      "yoelrm/CVE-2021-4034"
+      "yoelrm/CVE-2021-4034",
+      "mittorn/CVE-2023-33107"
     ]
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 5,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
+      "curben/blog",
       "pooneyy/1Panel-Appstore",
       "my-sample-org/ej2-showcase-js-expensetracker"
     ]
@@ -228,25 +229,25 @@
     ]
   },
   {
+    "name": "Rust",
+    "count": 9,
+    "totalStars": 6,
+    "color": "#DEA584",
+    "topRepositories": [
+      "pipelight/pipelight",
+      "w3nder/lineage-rust",
+      "slycat555/lumenos",
+      "slycat555/lumen",
+      "Goubayu_WuTeng/Turtle-WOW-BENILLA"
+    ]
+  },
+  {
     "name": "Scilab",
     "count": 1,
     "totalStars": 6,
     "color": "#64748B",
     "topRepositories": [
       "mc36/freeRtr"
-    ]
-  },
-  {
-    "name": "Rust",
-    "count": 7,
-    "totalStars": 4,
-    "color": "#DEA584",
-    "topRepositories": [
-      "pipelight/pipelight",
-      "zaccesss/zacess",
-      "woolster2020/vc",
-      "CodigoMinimo/Nano-Server",
-      "funkiestusername/chicken-interpreter"
     ]
   },
   {
@@ -281,6 +282,16 @@
     ]
   },
   {
+    "name": "Kotlin",
+    "count": 2,
+    "totalStars": 3,
+    "color": "#A97BFF",
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
     "name": "Nim",
     "count": 2,
     "totalStars": 3,
@@ -288,15 +299,6 @@
     "topRepositories": [
       "thisago/safeWriting",
       "thisago/gm_api"
-    ]
-  },
-  {
-    "name": "Kotlin",
-    "count": 1,
-    "totalStars": 2,
-    "color": "#A97BFF",
-    "topRepositories": [
-      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -311,21 +313,30 @@
     ]
   },
   {
-    "name": "Smarty",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "vquie/act_runner-helm"
-    ]
-  },
-  {
     "name": "Batchfile",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "andry81/contools"
+    ]
+  },
+  {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "techknowlogick/tklk-flake"
+    ]
+  },
+  {
+    "name": "Smarty",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "vquie/act_runner-helm"
     ]
   },
   {
@@ -356,48 +367,21 @@
     ]
   },
   {
+    "name": "AsciiDoc",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "GravitonForge/Bookmarks"
+    ]
+  },
+  {
     "name": "Objective-C",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "Kukucode/Kukucode"
-    ]
-  },
-  {
-    "name": "Standard ML",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "zcxt-public/zcxt-updates"
-    ]
-  },
-  {
-    "name": "Jinja",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "AL1S233/cloud-als-portfolio"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "rxf/.infra"
-    ]
-  },
-  {
-    "name": "Erlang",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "puebo40/highProxy"
     ]
   },
   {

@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 258,
-    "totalStars": 842,
+    "count": 252,
+    "totalStars": 845,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,32 +23,17 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "K3ysTr0K3R/METIS",
       "loki-s3c/ctf-casefiles",
       "CyberShell/hostfiles",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
-    ]
-  },
-  {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 29,
-    "totalStars": 27,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "developergpt1/synology-helper-api"
+      "dadidang/zinc"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 29,
+    "count": 32,
     "totalStars": 480,
     "iconName": "Terminal",
     "topRepositories": [
@@ -57,6 +42,21 @@
       "gitea/cli",
       "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 28,
+    "totalStars": 27,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "nazdridoy/ngpt",
+      "hillm922/img-resize",
+      "verdelehornora3/collective-agent-integration",
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 13,
+    "count": 12,
     "totalStars": 455,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,22 +123,22 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 12,
+    "count": 9,
     "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
       "zaccesss/.profile",
-      "tiyinet/geobaping",
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc",
+      "pckiller2016/ponytail"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 8,
+    "count": 7,
     "totalStars": 419,
     "iconName": "Database",
     "topRepositories": [
@@ -146,7 +146,22 @@
       "cereci5049/Shoppers",
       "zaccesss/phaemos",
       "zaccesss/melophos",
-      "tiyinet/mcboss"
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 7,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "Dabrogost/Chroma-Ad-Blocker",
+      "LakshitSinghBishtTM/snowflake",
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -180,31 +195,15 @@
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 5,
+    "count": 4,
     "totalStars": 57,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
       "hleb/minimalistlauncher",
-      "oubaapp/ouba",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]

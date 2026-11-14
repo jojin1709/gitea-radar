@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 57,
+    "count": 58,
     "totalStars": 1507,
     "color": "#00ADD8",
     "topRepositories": [
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 11,
+    "count": 9,
     "totalStars": 258,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "thisisdj/awesome-gitea",
-      "matte4482/Home-Lab-001"
+      "Receiverofmemory/Camp",
+      "howardzhow/Veliki_Zavorushennya"
     ]
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 17,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -51,8 +51,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 37,
-    "totalStars": 93,
+    "count": 35,
+    "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -64,15 +64,15 @@
   },
   {
     "name": "C++",
-    "count": 6,
+    "count": 7,
     "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "nmcli/phantomat",
-      "fainted09/FiveM-Mod-Menu"
+      "Izzun/iw3sp_mod",
+      "nmcli/phantomat"
     ]
   },
   {
@@ -90,15 +90,15 @@
   },
   {
     "name": "C#",
-    "count": 9,
-    "totalStars": 49,
+    "count": 14,
+    "totalStars": 52,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
       "Demtakeniri/Rune-Walkers",
-      "ZjzMisaka/PowerThreadPool",
-      "Maksim_Karpov/winPizzaHub"
+      "zxcjumpai123/TheFirstOne",
+      "tokarev_dr/Gridify"
     ]
   },
   {
@@ -110,8 +110,8 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "CIoudz67/tungtungmath",
-      "Qiu_Xiao/Command_Center"
+      "firavoyage/blogging",
+      "CIoudz67/tungtungmath"
     ]
   },
   {
@@ -124,30 +124,29 @@
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "loki-s3c/ctf-casefiles"
+      "localhomie/trade-os"
     ]
   },
   {
     "name": "Shell",
-    "count": 19,
-    "totalStars": 31,
+    "count": 21,
+    "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "LakshitSinghBishtTM/snowflake",
-      "Han/Han.GJK"
+      "fsjghse2u/ggm",
+      "maghlubwalshad/maghlurkh"
     ]
   },
   {
     "name": "Astro",
-    "count": 2,
+    "count": 1,
     "totalStars": 30,
     "color": "#64748B",
     "topRepositories": [
-      "gitea/blog",
-      "honeok/hlog"
+      "gitea/blog"
     ]
   },
   {
@@ -172,13 +171,25 @@
   },
   {
     "name": "SVG",
-    "count": 3,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
       "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile",
       "GitOnOut/easy-switch-hacking-shise"
+    ]
+  },
+  {
+    "name": "C",
+    "count": 9,
+    "totalStars": 15,
+    "color": "#555555",
+    "topRepositories": [
+      "rozhuk.im/freebsd",
+      "SeeTheWall/shader-desk",
+      "postgis/postgis",
+      "BMDFM/BMDFM_x86-64_Linux_64",
+      "BMDFM/BMDFM"
     ]
   },
   {
@@ -193,19 +204,6 @@
     ]
   },
   {
-    "name": "C",
-    "count": 9,
-    "totalStars": 13,
-    "color": "#555555",
-    "topRepositories": [
-      "rozhuk.im/freebsd",
-      "SeeTheWall/shader-desk",
-      "BMDFM/BMDFM_x86-64_Linux_64",
-      "BMDFM/BMDFM",
-      "istareatscreens/m2pDHooks"
-    ]
-  },
-  {
     "name": "CSS",
     "count": 5,
     "totalStars": 13,
@@ -214,7 +212,7 @@
       "goftp/ftpd",
       "cereci5049/Shoppers",
       "pooneyy/1Panel-Appstore",
-      "Vdev/gruvbox-dots",
+      "xkd/Dusk",
       "anmaribaphomet/MEMORAMA"
     ]
   },
@@ -231,7 +229,7 @@
   },
   {
     "name": "Rust",
-    "count": 8,
+    "count": 6,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
@@ -304,10 +302,11 @@
   },
   {
     "name": "Lua",
-    "count": 3,
+    "count": 4,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
+      "MandavkarPranjal/environment",
       "ipqiyeh_is2me/BuilderX-Library-Project",
       "ipqiyeh_is2me/Xi_LibraryUi",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
@@ -363,24 +362,32 @@
   },
   {
     "name": "PHP",
-    "count": 5,
+    "count": 3,
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
       "betbetter/yii2-novig",
-      "xkd/Dusk",
       "betbetter/novig-plugin",
-      "18718531483/hula",
-      "joomla/super-powers"
+      "18718531483/hula"
     ]
   },
   {
     "name": "Nix",
-    "count": 1,
+    "count": 2,
     "totalStars": 0,
     "color": "#7E7EFF",
     "topRepositories": [
+      "rxf/.infra",
       "Weeble/nix-config"
+    ]
+  },
+  {
+    "name": "XML",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "firec19986/a06"
     ]
   },
   {
@@ -408,15 +415,6 @@
     "color": "#F05138",
     "topRepositories": [
       "infocollector/info-collector-ios"
-    ]
-  },
-  {
-    "name": "Zig",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#EC915C",
-    "topRepositories": [
-      "tjira/zinq"
     ]
   },
   {

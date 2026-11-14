@@ -232,10 +232,10 @@
     "count": 8,
     "totalStars": 4,
     "topRepositories": [
+      "K3ysTr0K3R/METIS",
       "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
-      "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
@@ -336,15 +336,15 @@
     ]
   },
   {
-    "name": "git",
+    "name": "mcp",
     "count": 5,
-    "totalStars": 185,
+    "totalStars": 108,
     "topRepositories": [
       "gitea/gitea-mcp",
-      "gitnex/GitNex",
-      "gitea/cli",
-      "zaccesss/dotfiles",
-      "Mark-Waite/git-plugin"
+      "verdelehornora3/collective-agent-integration",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community",
+      "rubayet123/rea"
     ]
   },
   {
@@ -360,14 +360,14 @@
     ]
   },
   {
-    "name": "mcp",
+    "name": "git",
     "count": 4,
-    "totalStars": 108,
+    "totalStars": 185,
     "topRepositories": [
       "gitea/gitea-mcp",
-      "ab-smith/ciso-assistant-community",
-      "Missou/ciso-assistant-community",
-      "rubayet123/rea"
+      "gitnex/GitNex",
+      "gitea/cli",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -401,28 +401,6 @@
       "thisago/safeWriting",
       "thisago/gm_api",
       "caiqing/juice-shop"
-    ]
-  },
-  {
-    "name": "chinese-language",
-    "count": 4,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo",
-      "tiyinet/geobaping",
-      "tiyinet/mcboss",
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "llm",
-    "count": 4,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping",
-      "pckiller2016/ponytail",
-      "Missou/ciso-assistant-community",
-      "rubayet123/rea"
     ]
   },
   {
@@ -467,16 +445,6 @@
     ]
   },
   {
-    "name": "windows",
-    "count": 3,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou",
-      "zaccesss/dotfiles",
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
     "name": "python",
     "count": 3,
     "totalStars": 4,
@@ -484,6 +452,16 @@
       "zaccesss/.profile",
       "its-theo/NukeCord",
       "grokmeme/gpt4free"
+    ]
+  },
+  {
+    "name": "proxy",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "Dabrogost/Chroma-Ad-Blocker",
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -547,6 +525,26 @@
     ]
   },
   {
+    "name": "ethical-hacking",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
+    ]
+  },
+  {
+    "name": "exploitation",
+    "count": 3,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
+      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+    ]
+  },
+  {
     "name": "bash",
     "count": 3,
     "totalStars": 1,
@@ -577,23 +575,13 @@
     ]
   },
   {
-    "name": "ethical-hacking",
+    "name": "ai-agents",
     "count": 3,
-    "totalStars": 1,
+    "totalStars": 0,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-8225-EXPLOIT"
-    ]
-  },
-  {
-    "name": "exploitation",
-    "count": 3,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT",
-      "K3ysTr0K3R/CVE-2017-7921-EXPLOIT"
+      "verdelehornora3/collective-agent-integration",
+      "pckiller2016/ponytail",
+      "rubayet123/rea"
     ]
   },
   {
@@ -624,6 +612,16 @@
       "zaccesss/zacess",
       "zaccesss/melophos",
       "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "llm",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "pckiller2016/ponytail",
+      "Missou/ciso-assistant-community",
+      "rubayet123/rea"
     ]
   },
   {
@@ -714,6 +712,15 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -852,15 +859,6 @@
     ]
   },
   {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
     "name": "dotnet",
     "count": 2,
     "totalStars": 2,
@@ -888,57 +886,21 @@
     ]
   },
   {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
     "name": "php",
     "count": 2,
     "totalStars": 1,
     "topRepositories": [
       "EvergreenCrypto/docker-finance",
       "wower/hestiamb"
-    ]
-  },
-  {
-    "name": "seo",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "tiyinet/geobaping",
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "seo-tools",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "tiyinet/geobaping",
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "saas",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "tiyinet/mcboss",
-      "ToolAnchor/websitegeek-seo-suite-tools"
-    ]
-  },
-  {
-    "name": "dsh",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "ZymJason_DSH/DSH_Git_Workbench",
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "dsh-plugin",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "ZymJason_DSH/DSH_Git_Workbench",
-      "rubayet123/rea"
     ]
   },
   {
@@ -1113,12 +1075,12 @@
     ]
   },
   {
-    "name": "exploits",
+    "name": "model-context-protocol",
     "count": 2,
-    "totalStars": 1,
+    "totalStars": 0,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+      "verdelehornora3/collective-agent-integration",
+      "rubayet123/rea"
     ]
   },
   {
@@ -1176,114 +1138,6 @@
     ]
   },
   {
-    "name": "booking",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo",
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "management-system",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo",
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "generative-ai",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping",
-      "zakirkun/guardian-cli"
-    ]
-  },
-  {
-    "name": "cute",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "desktop-companion",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "desktop-pet",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "game",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "indie-game",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "pet",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "pet-simulator",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "tamagotchi",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "virtual-pet",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan",
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1294,15 +1148,6 @@
   },
   {
     "name": "agent-skills",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "pckiller2016/ponytail",
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "ai-agents",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
@@ -2211,11 +2056,35 @@
     ]
   },
   {
-    "name": "deepseek-harness",
+    "name": "c2",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "ZymJason_DSH/DSH_Git_Workbench"
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -2636,6 +2505,30 @@
   },
   {
     "name": "google-search-console",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "saas",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "seo",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "seo-tools",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
@@ -3227,38 +3120,6 @@
     ]
   },
   {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
     "name": "pinyin",
     "count": 1,
     "totalStars": 1,
@@ -3488,6 +3349,46 @@
     "totalStars": 1,
     "topRepositories": [
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "agent-forum",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "verdelehornora3/collective-agent-integration"
+    ]
+  },
+  {
+    "name": "openclaw",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "verdelehornora3/collective-agent-integration"
+    ]
+  },
+  {
+    "name": "opencode",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "verdelehornora3/collective-agent-integration"
+    ]
+  },
+  {
+    "name": "ad-blocker",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Dabrogost/Chroma-Ad-Blocker"
+    ]
+  },
+  {
+    "name": "chrome-extension",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Dabrogost/Chroma-Ad-Blocker"
     ]
   },
   {
@@ -3971,22 +3872,6 @@
     ]
   },
   {
-    "name": "jenkins",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Mark-Waite/git-plugin"
-    ]
-  },
-  {
-    "name": "plugin",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Mark-Waite/git-plugin"
-    ]
-  },
-  {
     "name": "async",
     "count": 1,
     "totalStars": 0,
@@ -4096,550 +3981,6 @@
     "totalStars": 0,
     "topRepositories": [
       "nmcli/phantomat"
-    ]
-  },
-  {
-    "name": "channel-manager",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "front-desk",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hospitality",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hotel",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hotel-booking",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hotel-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hotel-pms",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "hotel-software",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "housekeeping",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "ota",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "pms",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "property-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "resort",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "revenue-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "travel",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "travel-tech",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "vacation-rental",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/yaduo"
-    ]
-  },
-  {
-    "name": "ai-search",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "ai-seo",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "answer-engine-optimization",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "baidu",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "content-generation",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "content-marketing",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "digital-marketing",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "generative-engine-optimization",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "keyword-research",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "marketing",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "marketing-tools",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "search-engine-optimization",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "sem",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "seo-optimization",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "serp",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/geobaping"
-    ]
-  },
-  {
-    "name": "appointment-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "crm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "digital-transformation",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "erp",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "inventory-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "pet-care",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "pet-grooming",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "pet-shop",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "pet-store",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "point-of-sale",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "pos-system",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "retail",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "small-business",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "store-management",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "veterinary",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "wechat-miniprogram",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcboss"
-    ]
-  },
-  {
-    "name": "ai",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "ai-pet",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "animation",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "desktop-mascot",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "digital-pet",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "life-simulation",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "pet-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "pixel-art",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "virtual-pet-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/mcleyuan"
-    ]
-  },
-  {
-    "name": "2d-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "bullet-heaven",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "casual-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "cat-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "free-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "gaming",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "idle-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "offline-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "roguelite",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "single-player",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
-    ]
-  },
-  {
-    "name": "windows-game",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "tiyinet/MengChongcz"
     ]
   },
   {
@@ -5059,6 +4400,14 @@
     ]
   },
   {
+    "name": "generative-ai",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
     "name": "pentest-tool",
     "count": 1,
     "totalStars": 0,
@@ -5339,6 +4688,22 @@
     ]
   },
   {
+    "name": "dsh",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "name": "dsh-plugin",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "rubayet123/rea"
+    ]
+  },
+  {
     "name": "ghidra",
     "count": 1,
     "totalStars": 0,
@@ -5348,14 +4713,6 @@
   },
   {
     "name": "hopper",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "model-context-protocol",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [

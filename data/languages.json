@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 58,
-    "totalStars": 1507,
+    "count": 57,
+    "totalStars": 1506,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -15,7 +15,7 @@
   {
     "name": "Markdown",
     "count": 9,
-    "totalStars": 258,
+    "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 17,
+    "count": 18,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,19 +40,20 @@
   },
   {
     "name": "Go Template",
-    "count": 3,
+    "count": 4,
     "totalStars": 106,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
       "gitea/helm-actions",
+      "mcereda/dotfiles",
       "Nidhal/helm-gitea"
     ]
   },
   {
     "name": "JavaScript",
-    "count": 35,
-    "totalStars": 92,
+    "count": 33,
+    "totalStars": 94,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -103,41 +104,41 @@
   },
   {
     "name": "HTML",
-    "count": 8,
+    "count": 9,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "firavoyage/blogging",
-      "CIoudz67/tungtungmath"
+      "pongpipat0051/Open-radio",
+      "firavoyage/blogging"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 19,
+    "totalStars": 31,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "Marsofts/testring",
+      "mcereda/oam"
     ]
   },
   {
     "name": "Python",
     "count": 58,
-    "totalStars": 32,
+    "totalStars": 30,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "localhomie/trade-os"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 21,
-    "totalStars": 30,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "fsjghse2u/ggm",
-      "maghlubwalshad/maghlurkh"
+      "HanshenQ01/Civwalk"
     ]
   },
   {
@@ -176,20 +177,20 @@
     "color": "#64748B",
     "topRepositories": [
       "KudbiOdd/easy-switch-hacking-shise",
-      "GitOnOut/easy-switch-hacking-shise"
+      "HafiziRuslan/.profile"
     ]
   },
   {
     "name": "C",
-    "count": 9,
+    "count": 11,
     "totalStars": 15,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "postgis/postgis",
-      "BMDFM/BMDFM_x86-64_Linux_64",
-      "BMDFM/BMDFM"
+      "theweathervane/a3mx",
+      "akaOS/akaOS-Classic",
+      "postgis/postgis"
     ]
   },
   {
@@ -229,15 +230,15 @@
   },
   {
     "name": "Rust",
-    "count": 6,
+    "count": 5,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
+      "chizunoyama/ttbox",
       "woolster2020/vc",
-      "slycat555/lumen",
-      "zaccesss/zacess"
+      "w3nder/lineage-rust"
     ]
   },
   {
@@ -292,11 +293,10 @@
   },
   {
     "name": "Kotlin",
-    "count": 2,
+    "count": 1,
     "totalStars": 2,
     "color": "#A97BFF",
     "topRepositories": [
-      "hleb/minimalistlauncher",
       "Griefed/ServerPackCreator"
     ]
   },
@@ -306,8 +306,8 @@
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
-      "MandavkarPranjal/environment",
       "ipqiyeh_is2me/BuilderX-Library-Project",
+      "MandavkarPranjal/environment",
       "ipqiyeh_is2me/Xi_LibraryUi",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
@@ -325,11 +325,10 @@
   },
   {
     "name": "Batchfile",
-    "count": 2,
+    "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "zcxt-public/zcxt-updates",
       "andry81/contools"
     ]
   },
@@ -373,21 +372,11 @@
   },
   {
     "name": "Nix",
-    "count": 2,
+    "count": 1,
     "totalStars": 0,
     "color": "#7E7EFF",
     "topRepositories": [
-      "rxf/.infra",
-      "Weeble/nix-config"
-    ]
-  },
-  {
-    "name": "XML",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "firec19986/a06"
+      "rxf/.infra"
     ]
   },
   {
@@ -397,6 +386,15 @@
     "color": "#64748B",
     "topRepositories": [
       "GravitonForge/Bookmarks"
+    ]
+  },
+  {
+    "name": "XML",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "firec19986/a06"
     ]
   },
   {
@@ -415,15 +413,6 @@
     "color": "#F05138",
     "topRepositories": [
       "infocollector/info-collector-ios"
-    ]
-  },
-  {
-    "name": "GDScript",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "gveonlineface/gve-client"
     ]
   },
   {

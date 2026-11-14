@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 255,
-    "totalStars": 846,
+    "count": 258,
+    "totalStars": 842,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 41,
+    "count": 42,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "loki-s3c/ctf-casefiles",
+      "CyberShell/hostfiles",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
@@ -48,7 +48,7 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 28,
+    "count": 29,
     "totalStars": 480,
     "iconName": "Terminal",
     "topRepositories": [
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 12,
+    "count": 13,
     "totalStars": 455,
     "iconName": "Workflow",
     "topRepositories": [
@@ -150,6 +150,21 @@
     ]
   },
   {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 7,
+    "totalStars": 239,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
+      "thisisdj/awesome-gitea",
+      "zaccesss/phaemos",
+      "zaccesss/zacess"
+    ]
+  },
+  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
@@ -158,51 +173,37 @@
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "zaccesss/dotfiles",
       "gitea/sdk.js",
+      "zaccesss/dotfiles",
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 6,
-    "totalStars": 239,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "loki-s3c/ctf-casefiles",
-      "zaccesss/phaemos",
-      "zaccesss/zacess",
-      "zaccesss/melophos"
     ]
   },
   {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 5,
+    "count": 6,
     "totalStars": 4,
     "iconName": "Network",
     "topRepositories": [
+      "LakshitSinghBishtTM/snowflake",
       "ShutUpYouSlut/Inter-Forky",
       "PublicAffairs/openai-github-copilot",
       "palmcoasty/bunkerweb",
-      "rammiah/caddy",
-      "yslxotwod/wifisting"
+      "rammiah/caddy"
     ]
   },
   {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
+    "count": 5,
     "totalStars": 57,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
+      "hleb/minimalistlauncher",
       "oubaapp/ouba",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"

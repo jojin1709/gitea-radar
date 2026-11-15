@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 16,
-    "totalStars": 720,
+    "totalStars": 693,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -341,8 +341,8 @@
     "totalStars": 70,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -679,15 +679,6 @@
     ]
   },
   {
-    "name": "nim",
-    "count": 2,
-    "totalStars": 5,
-    "topRepositories": [
-      "cereci5049/Shoppers",
-      "thisago/safeWriting"
-    ]
-  },
-  {
     "name": "webplay",
     "count": 2,
     "totalStars": 5,
@@ -703,6 +694,33 @@
     "topRepositories": [
       "WebPlay/client",
       "WebPlay/server"
+    ]
+  },
+  {
+    "name": "nim",
+    "count": 2,
+    "totalStars": 5,
+    "topRepositories": [
+      "cereci5049/Shoppers",
+      "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "elasticsearch",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
+    ]
+  },
+  {
+    "name": "search",
+    "count": 2,
+    "totalStars": 4,
+    "topRepositories": [
+      "sapk/explore",
+      "dadidang/zinc"
     ]
   },
   {
@@ -755,8 +773,8 @@
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "SpeedSlicer/MineXLauncher-Beta",
-      "Griefed/ServerPackCreator"
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
   {
@@ -1470,6 +1488,14 @@
     ]
   },
   {
+    "name": "bot",
+    "count": 1,
+    "totalStars": 12,
+    "topRepositories": [
+      "jonasfranz/staletea"
+    ]
+  },
+  {
     "name": "docker-compose",
     "count": 1,
     "totalStars": 12,
@@ -1486,35 +1512,11 @@
     ]
   },
   {
-    "name": "bot",
-    "count": 1,
-    "totalStars": 12,
-    "topRepositories": [
-      "jonasfranz/staletea"
-    ]
-  },
-  {
     "name": "ftpd",
     "count": 1,
     "totalStars": 10,
     "topRepositories": [
       "goftp/ftpd"
-    ]
-  },
-  {
-    "name": "selfhost",
-    "count": 1,
-    "totalStars": 9,
-    "topRepositories": [
-      "6543/pages-server"
-    ]
-  },
-  {
-    "name": "github-pages",
-    "count": 1,
-    "totalStars": 9,
-    "topRepositories": [
-      "6543/pages-server"
     ]
   },
   {
@@ -1563,6 +1565,22 @@
     "totalStars": 9,
     "topRepositories": [
       "xy/gitea"
+    ]
+  },
+  {
+    "name": "selfhost",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
+    ]
+  },
+  {
+    "name": "github-pages",
+    "count": 1,
+    "totalStars": 9,
+    "topRepositories": [
+      "6543/pages-server"
     ]
   },
   {
@@ -1675,6 +1693,14 @@
     "totalStars": 4,
     "topRepositories": [
       "xuri/excelize"
+    ]
+  },
+  {
+    "name": "index",
+    "count": 1,
+    "totalStars": 3,
+    "topRepositories": [
+      "sapk/explore"
     ]
   },
   {
@@ -1911,22 +1937,6 @@
   },
   {
     "name": "modern",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "name": "search",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "name": "elasticsearch",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [

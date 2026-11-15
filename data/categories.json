@@ -3,30 +3,30 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 253,
-    "totalStars": 841,
+    "count": 267,
+    "totalStars": 822,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
       "akouzoukos/apotris",
       "BladeMight/Mahou",
       "gitea/act",
-      "gitea/blog"
+      "gitea/changelog"
     ]
   },
   {
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 42,
+    "count": 41,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "loki-s3c/ctf-casefiles",
-      "CyberShell/hostfiles",
       "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
@@ -70,8 +70,8 @@
       "DuarteSantos/openGym",
       "lunny/tango",
       "nettleweb/nettleweb",
-      "cereci5049/Shoppers",
-      "WebPlay/client"
+      "WebPlay/client",
+      "cereci5049/Shoppers"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 13,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -101,7 +101,7 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "SolarisPKN/SolarisPKN-Labs"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -143,9 +143,9 @@
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail",
+      "gitea/sdk.js",
       "rubayet123/rea"
     ]
   },
@@ -180,20 +180,6 @@
     ]
   },
   {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 4,
-    "totalStars": 240,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "loki-s3c/ctf-casefiles",
-      "thisisdj/awesome-gitea",
-      "bensams/671"
-    ]
-  },
-  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
@@ -204,6 +190,19 @@
       "gitnex/GitNex",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 3,
+    "totalStars": 240,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
+      "bensams/671"
     ]
   },
   {

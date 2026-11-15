@@ -3,7 +3,7 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 259,
+    "count": 253,
     "totalStars": 841,
     "iconName": "Folder",
     "topRepositories": [
@@ -23,8 +23,8 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "loki-s3c/ctf-casefiles",
       "CyberShell/hostfiles",
-      "K3ysTr0K3R/METIS",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools"
     ]
@@ -33,8 +33,8 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 31,
-    "totalStars": 480,
+    "count": 32,
+    "totalStars": 481,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -48,14 +48,14 @@
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 28,
+    "count": 26,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles",
+      "hillm922/todo-cli",
+      "hillm922/img-resize",
       "verdelehornora3/collective-agent-integration"
     ]
   },
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 20,
+    "count": 17,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
+    "count": 14,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -108,8 +108,8 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
-    "totalStars": 455,
+    "count": 9,
+    "totalStars": 457,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -123,60 +123,45 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 11,
+    "count": 8,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "pckiller2016/ponytail"
-    ]
-  },
-  {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 7,
-    "totalStars": 419,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 7,
-    "totalStars": 240,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/zacess",
-      "zaccesss/melophos",
-      "zaccesss/phaemos",
-      "thisisdj/awesome-gitea"
+      "pckiller2016/ponytail",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 6,
+    "count": 5,
     "totalStars": 66,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "zaccesss/dotfiles",
+      "gitea/sdk.js",
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail",
-      "gitea/sdk.js"
+      "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 5,
+    "totalStars": 419,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "cereci5049/Shoppers",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -192,6 +177,20 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 4,
+    "totalStars": 240,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
+      "thisisdj/awesome-gitea",
+      "bensams/671"
     ]
   },
   {
@@ -216,18 +215,16 @@
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos"
+      "Woxels/woxie-homelab-kuberneties"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

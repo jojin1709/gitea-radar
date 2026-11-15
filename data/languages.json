@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 57,
-    "totalStars": 1506,
+    "count": 52,
+    "totalStars": 1510,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 9,
+    "count": 11,
     "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "Receiverofmemory/Camp",
-      "howardzhow/Veliki_Zavorushennya"
+      "howardzhow/Veliki_Zavorushennya",
+      "rogersc382/notes"
     ]
   },
   {
     "name": "Java",
-    "count": 20,
+    "count": 19,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -46,14 +46,14 @@
     "topRepositories": [
       "gitea/helm-gitea",
       "gitea/helm-actions",
-      "mcereda/dotfiles",
+      "Woxels/woxie-homelab-kuberneties",
       "Nidhal/helm-gitea"
     ]
   },
   {
     "name": "JavaScript",
-    "count": 31,
-    "totalStars": 92,
+    "count": 29,
+    "totalStars": 90,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -78,7 +78,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 17,
+    "count": 16,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -91,34 +91,47 @@
   },
   {
     "name": "C#",
-    "count": 12,
+    "count": 13,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
+      "Rando/RegexBuilder-master",
       "Demtakeniri/Rune-Walkers",
-      "zxcjumpai123/TheFirstOne",
-      "Anh-gh/DawnlightCore"
+      "Dmiotriy_08/COPY_GITHUB"
     ]
   },
   {
     "name": "HTML",
-    "count": 10,
+    "count": 11,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "lanticy/cAssets",
-      "pongpipat0051/Open-radio"
+      "pongpipat0051/Open-radio",
+      "firavoyage/blogging"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 16,
+    "totalStars": 31,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "Marsofts/testring",
+      "vsnits/redo"
     ]
   },
   {
     "name": "Python",
-    "count": 60,
-    "totalStars": 31,
+    "count": 65,
+    "totalStars": 30,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
@@ -126,19 +139,6 @@
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
       "HanshenQ01/Civwalk"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 20,
-    "totalStars": 31,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "zaccesss/dotfiles",
-      "Marsofts/testring"
     ]
   },
   {
@@ -173,48 +173,47 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "C",
-    "count": 11,
+    "count": 10,
     "totalStars": 15,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "postgis/postgis",
       "theweathervane/a3mx",
-      "akaOS/akaOS-Classic"
+      "gabordemooij/xoscript",
+      "postgis/postgis"
     ]
   },
   {
     "name": "Makefile",
-    "count": 3,
+    "count": 4,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "rozhuk.im/freebsd-ports",
       "gitea/actions-proto-def",
+      "Venkatasaiee12/db",
       "gitea/redirects"
     ]
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 3,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore",
-      "anmaribaphomet/MEMORAMA"
+      "pooneyy/1Panel-Appstore"
     ]
   },
   {
@@ -230,15 +229,14 @@
   },
   {
     "name": "Rust",
-    "count": 6,
+    "count": 4,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
       "woolster2020/vc",
-      "zaccesss/zacess",
-      "chizunoyama/ttbox"
+      "cpb8010/shadow-ledger"
     ]
   },
   {
@@ -301,34 +299,34 @@
     ]
   },
   {
+    "name": "Lua",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "ipqiyeh_is2me/Kenyx",
+      "ipqiyeh_is2me/BuilderX-Library-Project",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
+    ]
+  },
+  {
     "name": "F*",
-    "count": 4,
+    "count": 3,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "Alch3myOS/vendor_gms",
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
     ]
   },
   {
-    "name": "Lua",
-    "count": 3,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "MandavkarPranjal/environment",
-      "ipqiyeh_is2me/Xi_LibraryUi",
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
     "name": "Batchfile",
-    "count": 1,
+    "count": 2,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
+      "wuku/Litecord",
       "andry81/contools"
     ]
   },
@@ -380,39 +378,12 @@
     ]
   },
   {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "rxf/.infra"
-    ]
-  },
-  {
-    "name": "AsciiDoc",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "GravitonForge/Bookmarks"
-    ]
-  },
-  {
     "name": "XML",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "firec19986/a06"
-    ]
-  },
-  {
-    "name": "R",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "betbetter/odds-margin-r"
     ]
   },
   {

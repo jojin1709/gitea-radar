@@ -27,7 +27,7 @@
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 20,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -52,8 +52,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 33,
-    "totalStars": 94,
+    "count": 31,
+    "totalStars": 92,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -65,7 +65,7 @@
   },
   {
     "name": "C++",
-    "count": 7,
+    "count": 6,
     "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
@@ -73,12 +73,12 @@
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
       "Izzun/iw3sp_mod",
-      "nmcli/phantomat"
+      "fainted09/FiveM-Mod-Menu"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 16,
+    "count": 17,
     "totalStars": 58,
     "color": "#3178C6",
     "topRepositories": [
@@ -91,47 +91,34 @@
   },
   {
     "name": "C#",
-    "count": 14,
-    "totalStars": 52,
+    "count": 12,
+    "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
       "Demtakeniri/Rune-Walkers",
       "zxcjumpai123/TheFirstOne",
-      "tokarev_dr/Gridify"
+      "Anh-gh/DawnlightCore"
     ]
   },
   {
     "name": "HTML",
-    "count": 9,
+    "count": 10,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "pongpipat0051/Open-radio",
-      "firavoyage/blogging"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 19,
-    "totalStars": 31,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "Marsofts/testring",
-      "mcereda/oam"
+      "lanticy/cAssets",
+      "pongpipat0051/Open-radio"
     ]
   },
   {
     "name": "Python",
-    "count": 58,
-    "totalStars": 30,
+    "count": 60,
+    "totalStars": 31,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
@@ -142,12 +129,26 @@
     ]
   },
   {
+    "name": "Shell",
+    "count": 20,
+    "totalStars": 31,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "zaccesss/dotfiles",
+      "Marsofts/testring"
+    ]
+  },
+  {
     "name": "Astro",
-    "count": 1,
+    "count": 2,
     "totalStars": 30,
     "color": "#64748B",
     "topRepositories": [
-      "gitea/blog"
+      "gitea/blog",
+      "SolarisPKN/SolarisPKN-Labs"
     ]
   },
   {
@@ -188,9 +189,9 @@
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
+      "postgis/postgis",
       "theweathervane/a3mx",
-      "akaOS/akaOS-Classic",
-      "postgis/postgis"
+      "akaOS/akaOS-Classic"
     ]
   },
   {
@@ -206,14 +207,13 @@
   },
   {
     "name": "CSS",
-    "count": 5,
+    "count": 4,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
       "pooneyy/1Panel-Appstore",
-      "xkd/Dusk",
       "anmaribaphomet/MEMORAMA"
     ]
   },
@@ -230,15 +230,15 @@
   },
   {
     "name": "Rust",
-    "count": 5,
+    "count": 6,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "chizunoyama/ttbox",
       "woolster2020/vc",
-      "w3nder/lineage-rust"
+      "zaccesss/zacess",
+      "chizunoyama/ttbox"
     ]
   },
   {
@@ -301,26 +301,26 @@
     ]
   },
   {
-    "name": "Lua",
-    "count": 4,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "ipqiyeh_is2me/BuilderX-Library-Project",
-      "MandavkarPranjal/environment",
-      "ipqiyeh_is2me/Xi_LibraryUi",
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
     "name": "F*",
-    "count": 3,
+    "count": 4,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
+      "Alch3myOS/vendor_gms",
       "clarencelol/android_vendor_gms",
       "clarencelol/vendor_gms",
       "Project-Awaken/android_vendor_gms"
+    ]
+  },
+  {
+    "name": "Lua",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#000080",
+    "topRepositories": [
+      "MandavkarPranjal/environment",
+      "ipqiyeh_is2me/Xi_LibraryUi",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -365,9 +365,18 @@
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
+      "18718531483/hula",
       "betbetter/yii2-novig",
-      "betbetter/novig-plugin",
-      "18718531483/hula"
+      "betbetter/novig-plugin"
+    ]
+  },
+  {
+    "name": "Swift",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#F05138",
+    "topRepositories": [
+      "infocollector/info-collector-ios"
     ]
   },
   {
@@ -404,15 +413,6 @@
     "color": "#64748B",
     "topRepositories": [
       "betbetter/odds-margin-r"
-    ]
-  },
-  {
-    "name": "Swift",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#F05138",
-    "topRepositories": [
-      "infocollector/info-collector-ios"
     ]
   },
   {

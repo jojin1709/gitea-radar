@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 56,
-    "totalStars": 1517,
+    "count": 55,
+    "totalStars": 1515,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Markdown",
-    "count": 10,
+    "count": 11,
     "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
@@ -22,7 +22,7 @@
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
       "Mojtaba20/ai-workflow",
-      "howardzhow/Veliki_Zavorushennya"
+      "abcjasdb/test"
     ]
   },
   {
@@ -50,34 +50,34 @@
   },
   {
     "name": "JavaScript",
-    "count": 35,
-    "totalStars": 91,
+    "count": 30,
+    "totalStars": 103,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "WEP-56/HGhub-Plugin",
       "actions/gitea-release-action",
       "xorm/dbweb",
-      "gitea/renovate-config",
       "gitea/gitea-docusaurus"
     ]
   },
   {
     "name": "C++",
-    "count": 6,
+    "count": 5,
     "totalStars": 63,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "Izzun/iw3sp_mod",
-      "fainted09/FiveM-Mod-Menu"
+      "fainted09/FiveM-Mod-Menu",
+      "calmdown/SkriptGG"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 20,
-    "totalStars": 58,
+    "count": 18,
+    "totalStars": 59,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -89,54 +89,54 @@
   },
   {
     "name": "C#",
-    "count": 12,
+    "count": 9,
     "totalStars": 51,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "othertime/gratisforgratis",
+      "aHuddini/UniPlaySong",
       "Demtakeniri/Rune-Walkers",
-      "aHuddini/UniPlaySong"
+      "Maksim_Karpov/winPizzaHub"
     ]
   },
   {
     "name": "HTML",
-    "count": 11,
-    "totalStars": 35,
+    "count": 6,
+    "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "dtkien-dev/agent-skills",
-      "rostyslav/cv"
+      "rostyslav/cv",
+      "dorirri/cyberease"
     ]
   },
   {
     "name": "Python",
-    "count": 68,
-    "totalStars": 34,
+    "count": 49,
+    "totalStars": 30,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "Tlipoca1777/Study-online.v2"
+      "XiWenrui/LINGUAE"
     ]
   },
   {
     "name": "Shell",
-    "count": 13,
-    "totalStars": 31,
+    "count": 12,
+    "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "zaccesss/dotfiles",
-      "mcereda/oam"
+      "maghlubwalshad/maghlurkh",
+      "fasheng/magisk-modules"
     ]
   },
   {
@@ -151,11 +151,12 @@
   },
   {
     "name": "Ruby",
-    "count": 2,
+    "count": 3,
     "totalStars": 21,
     "color": "#701516",
     "topRepositories": [
       "gitea/homebrew-gitea",
+      "HomebrewUpdateBot/brew",
       "xy/aptools"
     ]
   },
@@ -170,15 +171,15 @@
   },
   {
     "name": "C",
-    "count": 12,
-    "totalStars": 18,
+    "count": 8,
+    "totalStars": 15,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "IceThorn/SimpleTerminal",
-      "Jeffrey-Sardina/systemd",
-      "theweathervane/a3mx"
+      "gioroin02/pax",
+      "postgis/postgis",
+      "yoelrm/CVE-2021-4034"
     ]
   },
   {
@@ -189,19 +190,18 @@
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "Alch3myOS/vendor_google_camera",
+      "sorumstylXjava/proprietary_vendor_xiaomi_rosemary",
       "gitea/redirects"
     ]
   },
   {
     "name": "CSS",
-    "count": 3,
+    "count": 2,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
-      "cereci5049/Shoppers",
-      "C4-training-develop/jierss-ui"
+      "cereci5049/Shoppers"
     ]
   },
   {
@@ -217,15 +217,12 @@
   },
   {
     "name": "Rust",
-    "count": 5,
+    "count": 2,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
-      "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "woolster2020/vc",
-      "zaccesss/zacess",
-      "cpb8010/shadow-ledger"
+      "Goubayu_WuTeng/Turtle-WOW-BENILLA"
     ]
   },
   {
@@ -304,27 +301,8 @@
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
-      "MandavkarPranjal/environment",
+      "ipqiyeh_is2me/Kenyx",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
-    "name": "Batchfile",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "wuku/Litecord",
-      "andry81/contools"
-    ]
-  },
-  {
-    "name": "Nix",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "techknowlogick/tklk-flake"
     ]
   },
   {
@@ -334,6 +312,15 @@
     "color": "#64748B",
     "topRepositories": [
       "vquie/act_runner-helm"
+    ]
+  },
+  {
+    "name": "Batchfile",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools"
     ]
   },
   {
@@ -355,22 +342,39 @@
     ]
   },
   {
-    "name": "Apex",
-    "count": 2,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "Alch3myOS/vendor_gms",
-      "nisel11/dew_dump"
-    ]
-  },
-  {
-    "name": "JSON5",
+    "name": "Standard ML",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "rule/gkd"
+      "zcxt-public/controls"
+    ]
+  },
+  {
+    "name": "TSQL",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "vianandaMegaria/source"
+    ]
+  },
+  {
+    "name": "Zig",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#EC915C",
+    "topRepositories": [
+      "ya0z0ng/ceryndral"
+    ]
+  },
+  {
+    "name": "Jinja",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "AL1S233/cloud-als-portfolio"
     ]
   },
   {
@@ -389,33 +393,6 @@
     "color": "#64748B",
     "topRepositories": [
       "zdehnke/DVDodge"
-    ]
-  },
-  {
-    "name": "MDX",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "bircni/docs"
-    ]
-  },
-  {
-    "name": "PLpgSQL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "flrsoff/spbpu-bbd"
-    ]
-  },
-  {
-    "name": "XML",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "firec19986/a06"
     ]
   },
   {

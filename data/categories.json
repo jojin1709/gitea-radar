@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 268,
-    "totalStars": 838,
+    "count": 265,
+    "totalStars": 844,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 43,
+    "count": 45,
     "totalStars": 55,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "cp-api-mirror/wl",
       "loki-s3c/ctf-casefiles",
-      "florentin/ghidra",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "ai-workspace-services/accounts",
+      "florentin/ghidra"
     ]
   },
   {
@@ -39,16 +39,16 @@
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "jimcollier/panoplia"
+      "campbellm881/dotfiles",
+      "ai-desktop-lab/dsh-ollama-cloud-provider",
+      "ai-workspace-lab/dsh-ollama-cloud-provider"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 23,
+    "count": 28,
     "totalStars": 482,
     "iconName": "Terminal",
     "topRepositories": [
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 22,
+    "count": 17,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 16,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -101,15 +101,30 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "zaccesss/melophos"
+      "haitaopanhq/modern-it-infrastructure-evolution"
+    ]
+  },
+  {
+    "id": "games",
+    "name": "Games",
+    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
+    "count": 10,
+    "totalStars": 9,
+    "iconName": "Gamepad2",
+    "topRepositories": [
+      "nettleweb/nettleweb",
+      "kaan38/NexoraMenu",
+      "florentin/ghidra",
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
-    "totalStars": 457,
+    "count": 9,
+    "totalStars": 458,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -120,63 +135,33 @@
     ]
   },
   {
-    "id": "games",
-    "name": "Games",
-    "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 10,
-    "totalStars": 11,
-    "iconName": "Gamepad2",
+    "id": "developer-tools",
+    "name": "Developer Tools",
+    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
+    "count": 5,
+    "totalStars": 66,
+    "iconName": "Wrench",
     "topRepositories": [
-      "nettleweb/nettleweb",
-      "zaccesss/.profile",
-      "florentin/ghidra",
-      "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc"
+      "gitea/go-sdk",
+      "hexmos/FreeDevTools",
+      "pckiller2016/ponytail",
+      "gitea/sdk.js",
+      "rubayet123/rea"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 8,
-    "totalStars": 419,
+    "count": 5,
+    "totalStars": 420,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "zaccesss/phaemos",
-      "zaccesss/melophos",
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "id": "developer-tools",
-    "name": "Developer Tools",
-    "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 7,
-    "totalStars": 66,
-    "iconName": "Wrench",
-    "topRepositories": [
-      "gitea/go-sdk",
-      "gitea/sdk.js",
-      "zaccesss/dotfiles",
-      "AuberyLis/FillyFill",
-      "hexmos/FreeDevTools"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 7,
-    "totalStars": 240,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "loki-s3c/ctf-casefiles",
-      "zaccesss/phaemos",
-      "zaccesss/zacess",
-      "zaccesss/melophos"
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -192,6 +177,21 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 5,
+    "totalStars": 240,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
+      "ai-workspace-lab/awesome-dsh-plugin",
+      "kshvakov/awesome-gitea",
+      "bensams/671"
     ]
   },
   {
@@ -211,23 +211,20 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 1,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "zaccesss/melophos"
+      "DuarteSantos/openGym"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

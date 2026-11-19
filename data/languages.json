@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 14,
-    "totalStars": 260,
+    "count": 13,
+    "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
       "howardzhow/Veliki_Zavorushennya",
-      "damengzhu/Pheasant-website"
+      "nickb7530/notes"
     ]
   },
   {
     "name": "Java",
-    "count": 18,
+    "count": 19,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,8 +40,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 31,
-    "totalStars": 109,
+    "count": 29,
+    "totalStars": 108,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -76,7 +76,7 @@
   },
   {
     "name": "TypeScript",
-    "count": 27,
+    "count": 28,
     "totalStars": 59,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,15 +89,15 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 11,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "Demtakeniri/Rune-Walkers",
+      "Rando/RegexBuilder-master",
       "kaan38/NexoraMenu",
-      "othertime/gratisforgratis"
+      "qornwh/ProjectP_API"
     ]
   },
   {
@@ -109,34 +109,34 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "torappinfo/uweb",
-      "thesuperplumber/Mike-Hustle"
-    ]
-  },
-  {
-    "name": "Shell",
-    "count": 20,
-    "totalStars": 32,
-    "color": "#89E051",
-    "topRepositories": [
-      "QYG2297248353/appstore-1panel",
-      "gitea/test-openldap",
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "slash/schplaf-gentoo-overlay",
-      "maghlubwalshad/maghlurkh"
+      "bydrisilva/PCDF",
+      "firavoyage/blogging"
     ]
   },
   {
     "name": "Python",
-    "count": 55,
-    "totalStars": 30,
+    "count": 62,
+    "totalStars": 32,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "lingyicute/secureblue-watchdog"
+      "XiWenrui/LINGUAE"
+    ]
+  },
+  {
+    "name": "Shell",
+    "count": 23,
+    "totalStars": 32,
+    "color": "#89E051",
+    "topRepositories": [
+      "QYG2297248353/appstore-1panel",
+      "gitea/test-openldap",
+      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
+      "Nufantim/xcode-deploy",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -161,11 +161,12 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
@@ -182,7 +183,7 @@
   },
   {
     "name": "C",
-    "count": 10,
+    "count": 9,
     "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
@@ -201,8 +202,8 @@
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "NEXA_STUDYING-ZONE/NEXA",
-      "pooneyy/1Panel-Appstore"
+      "pooneyy/1Panel-Appstore",
+      "NEXA_STUDYING-ZONE/NEXA"
     ]
   },
   {
@@ -224,8 +225,8 @@
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
+      "zaccesss/zacess",
       "woolster2020/vc",
-      "Louranicas/deep-diff-forge",
       "ai-workspace-xstream/fluxgate"
     ]
   },
@@ -293,15 +294,26 @@
   },
   {
     "name": "Lua",
-    "count": 7,
+    "count": 5,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
+      "lebron/BigWigs",
       "texasroyaltybrokers/royalty-calc-lua",
-      "ipqiyeh_is2me/AbyssGen2",
       "lebron/SuperCleveRoidMacros",
       "lebron/Rinse",
-      "lebron/BigWigs"
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
+    ]
+  },
+  {
+    "name": "Batchfile",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools--recent-lists",
+      "andry81/contools",
+      "ONYX247/Mugen_Crazy_Fighter"
     ]
   },
   {
@@ -323,16 +335,6 @@
     "topRepositories": [
       "RMPlaysMCYT/Corn-Detection-System",
       "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "name": "Batchfile",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "ONYX247/Mugen_Crazy_Fighter",
-      "andry81/contools"
     ]
   },
   {
@@ -373,6 +375,51 @@
     ]
   },
   {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "Unverified/nix-config"
+    ]
+  },
+  {
+    "name": "AsciiDoc",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "GravitonForge/Bookmarks"
+    ]
+  },
+  {
+    "name": "VHDL",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "Marencia/IP-cores-para-algoritmos-de-ordenamiennto-en-FPGA"
+    ]
+  },
+  {
+    "name": "TSQL",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "vianandaMegaria/source"
+    ]
+  },
+  {
+    "name": "Jinja",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "AL1S233/cloud-als-portfolio"
+    ]
+  },
+  {
     "name": "Swift",
     "count": 1,
     "totalStars": 0,
@@ -406,15 +453,6 @@
     "color": "#64748B",
     "topRepositories": [
       "oeswd/R-Skripte"
-    ]
-  },
-  {
-    "name": "TSQL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "vianandaMegaria/source"
     ]
   },
   {

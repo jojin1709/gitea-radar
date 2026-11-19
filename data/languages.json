@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 64,
-    "totalStars": 1522,
+    "count": 56,
+    "totalStars": 1516,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Markdown",
-    "count": 13,
+    "count": 9,
     "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
@@ -22,12 +22,12 @@
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
       "howardzhow/Veliki_Zavorushennya",
-      "nickb7530/notes"
+      "thall7856/notes"
     ]
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 15,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,15 +40,15 @@
   },
   {
     "name": "JavaScript",
-    "count": 29,
-    "totalStars": 108,
+    "count": 27,
+    "totalStars": 110,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
       "WEP-56/HGhub-Plugin",
       "actions/gitea-release-action",
       "xorm/dbweb",
-      "gitea/gitea-docusaurus"
+      "gitea/renovate-config"
     ]
   },
   {
@@ -63,21 +63,21 @@
   },
   {
     "name": "C++",
-    "count": 6,
+    "count": 9,
     "totalStars": 64,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "ai-desktop-lab/XDock",
-      "fainted09/FiveM-Mod-Menu"
+      "tanwk/apotris",
+      "idkidocode/GamsLauncherV5"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 28,
-    "totalStars": 59,
+    "count": 22,
+    "totalStars": 61,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -89,34 +89,34 @@
   },
   {
     "name": "C#",
-    "count": 11,
+    "count": 10,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "Rando/RegexBuilder-master",
+      "Demtakeniri/Rune-Walkers",
       "kaan38/NexoraMenu",
-      "qornwh/ProjectP_API"
+      "Thiermes/Mahou"
     ]
   },
   {
     "name": "HTML",
-    "count": 11,
+    "count": 10,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "bydrisilva/PCDF",
-      "firavoyage/blogging"
+      "Nerbelis/miperfilingenieria",
+      "togayab777/assignment07"
     ]
   },
   {
     "name": "Python",
-    "count": 62,
-    "totalStars": 32,
+    "count": 63,
+    "totalStars": 33,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
@@ -128,15 +128,15 @@
   },
   {
     "name": "Shell",
-    "count": 23,
-    "totalStars": 32,
+    "count": 13,
+    "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "Nufantim/xcode-deploy",
-      "zaccesss/dotfiles"
+      "maghlubwalshad/maghlurkh",
+      "actions/rust-toolchain"
     ]
   },
   {
@@ -161,49 +161,45 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
     "name": "Makefile",
-    "count": 4,
+    "count": 3,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "haitaopanhq/documents",
       "gitea/redirects"
     ]
   },
   {
     "name": "C",
-    "count": 9,
+    "count": 6,
     "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "gioroin02/pax",
-      "IceThorn/SimpleTerminal",
-      "ai-workspace-xstream/haproxy"
+      "yoelrm/CVE-2021-4034",
+      "mittorn/CVE-2023-33107",
+      "yslxotwod/wifisting"
     ]
   },
   {
     "name": "CSS",
-    "count": 4,
+    "count": 2,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
-      "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore",
-      "NEXA_STUDYING-ZONE/NEXA"
+      "cereci5049/Shoppers"
     ]
   },
   {
@@ -219,15 +215,14 @@
   },
   {
     "name": "Rust",
-    "count": 5,
+    "count": 4,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "zaccesss/zacess",
       "woolster2020/vc",
-      "ai-workspace-xstream/fluxgate"
+      "funkiestusername/chicken-interpreter"
     ]
   },
   {
@@ -246,8 +241,8 @@
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "magicedy/Scoop",
-      "rvz00/test",
+      "vashistadheeraj9/IRT",
+      "rvz00/IRT",
       "egootrt/zapret",
       "anhtn512/burp-burp"
     ]
@@ -294,26 +289,13 @@
   },
   {
     "name": "Lua",
-    "count": 5,
+    "count": 3,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
-      "lebron/BigWigs",
+      "AD75/Admin-command-",
       "texasroyaltybrokers/royalty-calc-lua",
-      "lebron/SuperCleveRoidMacros",
-      "lebron/Rinse",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
-    ]
-  },
-  {
-    "name": "Batchfile",
-    "count": 3,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "andry81/contools--recent-lists",
-      "andry81/contools",
-      "ONYX247/Mugen_Crazy_Fighter"
     ]
   },
   {
@@ -338,21 +320,21 @@
     ]
   },
   {
-    "name": "templ",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
     "name": "Smarty",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
       "vquie/act_runner-helm"
+    ]
+  },
+  {
+    "name": "Batchfile",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools"
     ]
   },
   {
@@ -365,49 +347,21 @@
     ]
   },
   {
-    "name": "Dart",
-    "count": 2,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "ai-workspace-xstream/xconnect-app",
-      "application/coco_clipboard_scanner"
-    ]
-  },
-  {
-    "name": "Nix",
+    "name": "Zig",
     "count": 1,
     "totalStars": 0,
-    "color": "#7E7EFF",
+    "color": "#EC915C",
     "topRepositories": [
-      "Unverified/nix-config"
+      "tjira/zinq"
     ]
   },
   {
-    "name": "AsciiDoc",
+    "name": "R",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "GravitonForge/Bookmarks"
-    ]
-  },
-  {
-    "name": "VHDL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "Marencia/IP-cores-para-algoritmos-de-ordenamiennto-en-FPGA"
-    ]
-  },
-  {
-    "name": "TSQL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "vianandaMegaria/source"
+      "oeswd/R-Skripte"
     ]
   },
   {
@@ -417,6 +371,33 @@
     "color": "#64748B",
     "topRepositories": [
       "AL1S233/cloud-als-portfolio"
+    ]
+  },
+  {
+    "name": "Svelte",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "consideratedigital/carbonclicks"
+    ]
+  },
+  {
+    "name": "Racket",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "carcheckhq/uk-plate-age-racket"
+    ]
+  },
+  {
+    "name": "VHDL",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "Marencia/IP-cores-para-algoritmos-de-ordenamiennto-en-FPGA"
     ]
   },
   {
@@ -438,30 +419,12 @@
     ]
   },
   {
-    "name": "Standard ML",
+    "name": "Dart",
     "count": 1,
     "totalStars": 0,
-    "color": "#64748B",
+    "color": "#00B4AB",
     "topRepositories": [
-      "zcxt-public/controls"
-    ]
-  },
-  {
-    "name": "R",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "oeswd/R-Skripte"
-    ]
-  },
-  {
-    "name": "Rich Text Format",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "faradjev/nanotechnology"
+      "application/coco_clipboard_scanner"
     ]
   }
 ]

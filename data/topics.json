@@ -1,7 +1,7 @@
 [
   {
     "name": "golang",
-    "count": 17,
+    "count": 18,
     "totalStars": 532,
     "topRepositories": [
       "xorm/xorm",
@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 15,
-    "totalStars": 692,
+    "totalStars": 693,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -348,9 +348,32 @@
     ]
   },
   {
+    "name": "docker",
+    "count": 5,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/melophos",
+      "zaccesss/phaemos",
+      "Griefed/ServerPackCreator",
+      "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "git",
+    "count": 4,
+    "totalStars": 190,
+    "topRepositories": [
+      "gitea/gitea-mcp",
+      "gitnex/GitNex",
+      "gitea/cli",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
     "name": "mcp",
     "count": 4,
-    "totalStars": 109,
+    "totalStars": 110,
     "topRepositories": [
       "gitea/gitea-mcp",
       "ab-smith/ciso-assistant-community",
@@ -403,16 +426,6 @@
     ]
   },
   {
-    "name": "git",
-    "count": 3,
-    "totalStars": 189,
-    "topRepositories": [
-      "gitea/gitea-mcp",
-      "gitnex/GitNex",
-      "gitea/cli"
-    ]
-  },
-  {
     "name": "kubernetes",
     "count": 3,
     "totalStars": 107,
@@ -443,13 +456,13 @@
     ]
   },
   {
-    "name": "docker",
+    "name": "python",
     "count": 3,
-    "totalStars": 45,
+    "totalStars": 4,
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
+      "zaccesss/.profile",
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -460,16 +473,6 @@
       "starclimber/TinyMCServer",
       "Griefed/ServerPackCreator",
       "SpeedSlicer/MineXLauncher-Beta"
-    ]
-  },
-  {
-    "name": "proxy",
-    "count": 3,
-    "totalStars": 3,
-    "topRepositories": [
-      "Dabrogost/Chroma-Ad-Blocker",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
     ]
   },
   {
@@ -553,6 +556,26 @@
     ]
   },
   {
+    "name": "accessibility",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "rust",
+    "count": 3,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "ctf",
     "count": 3,
     "totalStars": 0,
@@ -582,9 +605,18 @@
     ]
   },
   {
+    "name": "postgresql",
+    "count": 2,
+    "totalStars": 413,
+    "topRepositories": [
+      "xorm/xorm",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 294,
+    "totalStars": 295,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -642,6 +674,24 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "self-hosted",
+    "count": 2,
+    "totalStars": 42,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 2,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou",
+      "zaccesss/dotfiles"
     ]
   },
   {
@@ -771,21 +821,30 @@
     ]
   },
   {
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "name": "dotnet",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "kaan38/NexoraMenu",
+      "Falcon/Falcon.StoredProcedureRunner"
+    ]
+  },
+  {
     "name": "trust-wallet",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
       "TroyDen/Flash-BTC-USDT-ETH-SOL",
       "TroyDen/Multichain-Drainer-Tool"
-    ]
-  },
-  {
-    "name": "python",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
     ]
   },
   {
@@ -804,6 +863,24 @@
     "topRepositories": [
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+    ]
+  },
+  {
+    "name": "bash",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
+    ]
+  },
+  {
+    "name": "linux",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "zaccesss/dotfiles",
+      "portellam2/lockdown.sh"
     ]
   },
   {
@@ -996,6 +1073,60 @@
     ]
   },
   {
+    "name": "esp32",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "kicad",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "open-hardware",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "webassembly",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos",
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "education",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess",
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1084,14 +1215,6 @@
     ]
   },
   {
-    "name": "postgresql",
-    "count": 1,
-    "totalStars": 413,
-    "topRepositories": [
-      "xorm/xorm"
-    ]
-  },
-  {
     "name": "orm",
     "count": 1,
     "totalStars": 413,
@@ -1118,7 +1241,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 285,
+    "totalStars": 286,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1126,7 +1249,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 285,
+    "totalStars": 286,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1212,14 +1335,6 @@
     ]
   },
   {
-    "name": "self-hosted",
-    "count": 1,
-    "totalStars": 42,
-    "topRepositories": [
-      "DuarteSantos/openGym"
-    ]
-  },
-  {
     "name": "webauthn",
     "count": 1,
     "totalStars": 42,
@@ -1233,14 +1348,6 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "windows",
-    "count": 1,
-    "totalStars": 41,
-    "topRepositories": [
-      "BladeMight/Mahou"
     ]
   },
   {
@@ -1788,6 +1895,54 @@
     ]
   },
   {
+    "name": "animated",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "ascii-art",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "computer-science",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "electronics-engineering",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "github-profile-readme",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
+    "name": "portfolio",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "zaccesss/.profile"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1892,14 +2047,6 @@
     ]
   },
   {
-    "name": "dotnet",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "Falcon/Falcon.StoredProcedureRunner"
-    ]
-  },
-  {
     "name": "sqlserver",
     "count": 1,
     "totalStars": 2,
@@ -1948,6 +2095,14 @@
     ]
   },
   {
+    "name": "config",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "lingyicute/.profile"
+    ]
+  },
+  {
     "name": "android-app",
     "count": 1,
     "totalStars": 1,
@@ -1985,22 +2140,6 @@
     "totalStars": 1,
     "topRepositories": [
       "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "config",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "lingyicute/.profile"
-    ]
-  },
-  {
-    "name": "github-config",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "lingyicute/.profile"
     ]
   },
   {
@@ -3020,22 +3159,6 @@
     ]
   },
   {
-    "name": "bash",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
-    "name": "linux",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "portellam2/lockdown.sh"
-    ]
-  },
-  {
     "name": "script",
     "count": 1,
     "totalStars": 1,
@@ -3276,15 +3399,495 @@
     ]
   },
   {
-    "name": "cryptopals",
+    "name": "esp32-s3",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/melophos"
     ]
   },
   {
-    "name": "education",
+    "name": "guitar",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "led",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "midi",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "music-education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "piano",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "platformio",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "timescaledb",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "ws2812b",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/melophos"
+    ]
+  },
+  {
+    "name": "assistive-technology",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "dyslexia",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "low-vision",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "ocr",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "open-source",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "screen-reader",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "tauri",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "text-to-speech",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/zacess"
+    ]
+  },
+  {
+    "name": "anomaly-detection",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "arduino",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "condition-monitoring",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "embedded-systems",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "industrial-iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "iot",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "machine-learning",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "nextjs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "predictive-maintenance",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "proteus",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "redis",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "stm32",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
+  },
+  {
+    "name": "bootstrap",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "development-environment",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "dotfiles",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "eclipse",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "high-contrast",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "jetbrains",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "macos",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "neovim",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "powershell",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "ssh",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "terminal",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "tmux",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "vscode",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "wsl2",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "zsh",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zaccesss/dotfiles"
+    ]
+  },
+  {
+    "name": "among-us",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "among-us-mod",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "among-us-mod-menu",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "among-us-mods",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "amongus",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "anticheat",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "bepinex",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "csharp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "game-mod",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "gplv3",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "harmony",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "il2cpp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "mod-menu",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "unity",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kaan38/NexoraMenu"
+    ]
+  },
+  {
+    "name": "cryptopals",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
@@ -3305,22 +3908,6 @@
     "totalStars": 0,
     "topRepositories": [
       "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "ad-blocker",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Dabrogost/Chroma-Ad-Blocker"
-    ]
-  },
-  {
-    "name": "chrome-extension",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Dabrogost/Chroma-Ad-Blocker"
     ]
   },
   {

@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 61,
-    "totalStars": 1522,
+    "count": 59,
+    "totalStars": 1521,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 11,
+    "count": 12,
     "totalStars": 259,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "willturner0007/notes",
-      "shenderson5033/notes"
+      "howardzhow/Veliki_Zavorushennya",
+      "willturner0007/notes"
     ]
   },
   {
     "name": "Java",
-    "count": 16,
+    "count": 18,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,8 +40,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 33,
-    "totalStars": 116,
+    "count": 30,
+    "totalStars": 113,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -53,30 +53,31 @@
   },
   {
     "name": "Go Template",
-    "count": 2,
+    "count": 3,
     "totalStars": 106,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
-      "gitea/helm-actions"
+      "gitea/helm-actions",
+      "kkloud-argocd/gitops-argocd"
     ]
   },
   {
     "name": "C++",
-    "count": 6,
-    "totalStars": 64,
+    "count": 10,
+    "totalStars": 65,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "idkidocode/GamsLauncherV5",
-      "fainted09/FiveM-Mod-Menu"
+      "DarlingEclipse/TF04-Exodus",
+      "DarlingEclipse/DarlingEclipseCommon"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 16,
+    "count": 18,
     "totalStars": 60,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,54 +90,54 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 11,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "Demtakeniri/Rune-Walkers",
       "othertime/gratisforgratis",
-      "LALAGAY/RecordResearchRRR"
+      "kaan38/NexoraMenu",
+      "Demtakeniri/Rune-Walkers"
     ]
   },
   {
     "name": "HTML",
-    "count": 7,
+    "count": 9,
     "totalStars": 35,
     "color": "#E34C26",
     "topRepositories": [
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "agent-skills/agent-skills",
+      "Insoulum/Insoulum-Web",
       "Howardly_Dog/THS-Wiki"
     ]
   },
   {
     "name": "Python",
-    "count": 49,
-    "totalStars": 31,
+    "count": 53,
+    "totalStars": 32,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "loewer/bongda"
+      "vallu/viper"
     ]
   },
   {
     "name": "Shell",
-    "count": 14,
+    "count": 15,
     "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "maghlubwalshad/maghlurkh",
-      "Han/Han.GJK"
+      "zaccesss/dotfiles",
+      "maghlubwalshad/maghlurkh"
     ]
   },
   {
@@ -161,11 +162,12 @@
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
     ]
   },
   {
@@ -181,25 +183,26 @@
   },
   {
     "name": "C",
-    "count": 9,
-    "totalStars": 13,
+    "count": 12,
+    "totalStars": 14,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "theweathervane/a3mx",
-      "yno/azenor",
-      "IceThorn/OpenGame"
+      "haekalsaputra/XyDesk-Remote",
+      "burhbayr/Prayer_App_UnaWatch",
+      "theweathervane/a3mx"
     ]
   },
   {
     "name": "CSS",
-    "count": 2,
+    "count": 3,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
-      "cereci5049/Shoppers"
+      "cereci5049/Shoppers",
+      "qikp/website"
     ]
   },
   {
@@ -215,13 +218,14 @@
   },
   {
     "name": "Rust",
-    "count": 4,
+    "count": 6,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
-      "lebron/tentacle",
+      "zaccesss/zacess",
+      "haekalsaputra/XyDesk",
       "woolster2020/vc"
     ]
   },
@@ -253,9 +257,9 @@
     "totalStars": 4,
     "color": "#A97BFF",
     "topRepositories": [
+      "lingyicute/repoPackage",
       "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator",
-      "lingyicute/repoPackage"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -330,6 +334,15 @@
     ]
   },
   {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "techknowlogick/tklk-flake"
+    ]
+  },
+  {
     "name": "Smarty",
     "count": 1,
     "totalStars": 1,
@@ -348,12 +361,23 @@
     ]
   },
   {
-    "name": "Swift",
-    "count": 1,
+    "name": "Dart",
+    "count": 2,
     "totalStars": 0,
-    "color": "#F05138",
+    "color": "#00B4AB",
     "topRepositories": [
-      "infocollector/info-collector-ios"
+      "doors/multi_memo",
+      "application/coco_clipboard_scanner"
+    ]
+  },
+  {
+    "name": "CSV",
+    "count": 2,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "vardagsspararen/matbudget-mall",
+      "tiagocorreiatv/tv-internet-estabilidade"
     ]
   },
   {
@@ -366,6 +390,24 @@
     ]
   },
   {
+    "name": "Assembly",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "TomatoOS/Tomato-os"
+    ]
+  },
+  {
+    "name": "Swift",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#F05138",
+    "topRepositories": [
+      "infocollector/info-collector-ios"
+    ]
+  },
+  {
     "name": "TSQL",
     "count": 1,
     "totalStars": 0,
@@ -375,48 +417,12 @@
     ]
   },
   {
-    "name": "AIDL",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "sm8650-devs/android_vendor_xiaomi_zorn"
-    ]
-  },
-  {
     "name": "Checksums",
     "count": 1,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
       "Yushiro_Yukina/yukina-manga-reader"
-    ]
-  },
-  {
-    "name": "CSV",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "tiagocorreiatv/tv-internet-estabilidade"
-    ]
-  },
-  {
-    "name": "Racket",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "carcheckhq/uk-plate-age-racket"
-    ]
-  },
-  {
-    "name": "Dart",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "application/coco_clipboard_scanner"
     ]
   }
 ]

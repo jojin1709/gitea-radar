@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-29T12:32:51.722Z",
-  "totalTracked": 347,
+  "timestamp": "2026-11-20T15:05:26.474Z",
+  "totalTracked": 369,
   "repositories": {
     "35": {
       "id": 35,
@@ -9,8 +9,8 @@
       "forks": 4,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2023-04-14T02:33:59Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-05T19:37:35Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "39": {
       "id": 39,
@@ -20,17 +20,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2019-07-12T12:54:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "42": {
       "id": 42,
       "fullName": "gitea/migrator",
       "stars": 8,
       "forks": 4,
-      "watchers": 53,
+      "watchers": 54,
       "openIssues": 3,
       "updatedAt": "2024-06-05T18:14:52Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "290": {
       "id": 290,
@@ -40,17 +40,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2019-03-21T10:58:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "336": {
       "id": 336,
       "fullName": "gitea/log",
       "stars": 4,
       "forks": 7,
-      "watchers": 51,
+      "watchers": 52,
       "openIssues": 5,
       "updatedAt": "2025-05-15T20:24:16Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "404": {
       "id": 404,
@@ -60,7 +60,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2021-07-01T02:29:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "477": {
       "id": 477,
@@ -70,7 +70,7 @@
       "watchers": 10,
       "openIssues": 1,
       "updatedAt": "2023-04-16T07:12:43Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "548": {
       "id": 548,
@@ -80,17 +80,17 @@
       "watchers": 7,
       "openIssues": 6,
       "updatedAt": "2025-03-09T07:41:16Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "550": {
       "id": 550,
       "fullName": "gitea/tea",
-      "stars": 280,
+      "stars": 279,
       "forks": 152,
       "watchers": 76,
-      "openIssues": 84,
-      "updatedAt": "2026-10-28T18:09:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "openIssues": 0,
+      "updatedAt": "2026-10-29T21:06:27Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "594": {
       "id": 594,
@@ -100,17 +100,17 @@
       "watchers": 15,
       "openIssues": 61,
       "updatedAt": "2020-06-04T13:56:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "602": {
       "id": 602,
       "fullName": "gitea/git",
       "stars": 7,
       "forks": 2,
-      "watchers": 51,
+      "watchers": 52,
       "openIssues": 0,
       "updatedAt": "2025-05-16T10:12:48Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "603": {
       "id": 603,
@@ -120,17 +120,7 @@
       "watchers": 6,
       "openIssues": 7,
       "updatedAt": "2020-04-18T14:49:22Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "606": {
-      "id": 606,
-      "fullName": "appleboy/tea",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T07:22:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "607": {
       "id": 607,
@@ -140,17 +130,17 @@
       "watchers": 13,
       "openIssues": 31,
       "updatedAt": "2020-04-27T01:45:49Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "611": {
       "id": 611,
       "fullName": "gitea/go-sdk",
-      "stars": 62,
-      "forks": 113,
-      "watchers": 51,
-      "openIssues": 14,
-      "updatedAt": "2026-10-27T20:48:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 63,
+      "forks": 114,
+      "watchers": 52,
+      "openIssues": 16,
+      "updatedAt": "2026-11-18T06:43:26Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "656": {
       "id": 656,
@@ -160,17 +150,17 @@
       "watchers": 14,
       "openIssues": 9,
       "updatedAt": "2026-04-28T21:58:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "686": {
       "id": 686,
       "fullName": "gitea/changelog",
       "stars": 25,
       "forks": 14,
-      "watchers": 51,
+      "watchers": 52,
       "openIssues": 11,
       "updatedAt": "2026-05-26T04:26:49Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "718": {
       "id": 718,
@@ -180,7 +170,7 @@
       "watchers": 12,
       "openIssues": 5,
       "updatedAt": "2020-01-19T09:06:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "829": {
       "id": 829,
@@ -188,9 +178,9 @@
       "stars": 11,
       "forks": 0,
       "watchers": 47,
-      "openIssues": 8,
+      "openIssues": 7,
       "updatedAt": "2020-10-27T15:18:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "838": {
       "id": 838,
@@ -200,7 +190,7 @@
       "watchers": 5,
       "openIssues": 1,
       "updatedAt": "2023-05-09T06:36:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "859": {
       "id": 859,
@@ -208,69 +198,59 @@
       "stars": 37,
       "forks": 33,
       "watchers": 13,
-      "openIssues": 14,
+      "openIssues": 15,
       "updatedAt": "2026-04-19T01:50:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "862": {
-      "id": 862,
-      "fullName": "gitea/blog",
-      "stars": 30,
-      "forks": 40,
-      "watchers": 52,
-      "openIssues": 1,
-      "updatedAt": "2026-10-26T16:11:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "865": {
       "id": 865,
       "fullName": "gitea/theme",
       "stars": 15,
       "forks": 13,
-      "watchers": 52,
+      "watchers": 53,
       "openIssues": 2,
       "updatedAt": "2023-05-12T02:38:32Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "866": {
       "id": 866,
       "fullName": "gitea/website",
       "stars": 15,
       "forks": 18,
-      "watchers": 50,
+      "watchers": 51,
       "openIssues": 1,
       "updatedAt": "2023-05-27T07:54:50Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "868": {
       "id": 868,
       "fullName": "gitea/redirects",
       "stars": 3,
       "forks": 4,
-      "watchers": 47,
+      "watchers": 48,
       "openIssues": 0,
       "updatedAt": "2023-04-19T14:55:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "873": {
       "id": 873,
       "fullName": "gitea/homebrew-gitea",
       "stars": 20,
       "forks": 23,
-      "watchers": 53,
+      "watchers": 54,
       "openIssues": 2,
-      "updatedAt": "2026-10-25T04:22:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-10-31T06:22:27Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "878": {
       "id": 878,
       "fullName": "gitea/test-openldap",
       "stars": 7,
       "forks": 1,
-      "watchers": 57,
+      "watchers": 58,
       "openIssues": 0,
       "updatedAt": "2019-07-14T04:00:13Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "945": {
       "id": 945,
@@ -280,17 +260,17 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2020-06-04T13:52:32Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "1285": {
       "id": 1285,
       "fullName": "gitea/awesome-gitea",
-      "stars": 239,
-      "forks": 129,
-      "watchers": 67,
+      "stars": 240,
+      "forks": 133,
+      "watchers": 68,
       "openIssues": 0,
-      "updatedAt": "2026-10-24T17:19:48Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-18T05:08:32Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "1544": {
       "id": 1544,
@@ -300,7 +280,7 @@
       "watchers": 2,
       "openIssues": 12,
       "updatedAt": "2023-02-01T20:35:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "1545": {
       "id": 1545,
@@ -310,7 +290,7 @@
       "watchers": 2,
       "openIssues": 12,
       "updatedAt": "2023-02-08T11:09:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "1951": {
       "id": 1951,
@@ -320,17 +300,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2019-10-04T09:19:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "2038": {
       "id": 2038,
       "fullName": "xorm/xorm",
-      "stars": 409,
+      "stars": 413,
       "forks": 245,
       "watchers": 67,
-      "openIssues": 399,
-      "updatedAt": "2026-10-28T04:50:31Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "openIssues": 398,
+      "updatedAt": "2026-11-06T04:50:18Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "2080": {
       "id": 2080,
@@ -340,27 +320,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2021-05-06T08:11:32Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "2204": {
-      "id": 2204,
-      "fullName": "postgis/postgis",
-      "stars": 2,
-      "forks": 4,
-      "watchers": 3,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T11:15:58Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "2366": {
-      "id": 2366,
-      "fullName": "sapk/explore",
-      "stars": 3,
-      "forks": 0,
-      "watchers": 2,
-      "openIssues": 0,
-      "updatedAt": "2019-11-07T22:02:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "2367": {
       "id": 2367,
@@ -370,7 +330,7 @@
       "watchers": 3,
       "openIssues": 0,
       "updatedAt": "2019-11-07T20:59:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "2488": {
       "id": 2488,
@@ -380,7 +340,7 @@
       "watchers": 14,
       "openIssues": 0,
       "updatedAt": "2022-04-14T01:42:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "2954": {
       "id": 2954,
@@ -390,7 +350,7 @@
       "watchers": 14,
       "openIssues": 13,
       "updatedAt": "2025-04-10T12:25:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "3395": {
       "id": 3395,
@@ -400,7 +360,7 @@
       "watchers": 3,
       "openIssues": 5,
       "updatedAt": "2020-09-21T19:30:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "3853": {
       "id": 3853,
@@ -410,27 +370,27 @@
       "watchers": 5,
       "openIssues": 1,
       "updatedAt": "2021-07-19T11:53:57Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "3942": {
       "id": 3942,
       "fullName": "gitea/gitea-vet",
       "stars": 7,
       "forks": 10,
-      "watchers": 49,
+      "watchers": 50,
       "openIssues": 5,
       "updatedAt": "2024-01-23T02:37:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "4445": {
       "id": 4445,
       "fullName": "gitea/graceful",
       "stars": 4,
       "forks": 1,
-      "watchers": 54,
+      "watchers": 55,
       "openIssues": 0,
       "updatedAt": "2020-04-30T06:52:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "4518": {
       "id": 4518,
@@ -440,7 +400,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2020-05-05T12:05:53Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "4958": {
       "id": 4958,
@@ -450,17 +410,17 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2024-09-21T16:33:14Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "15815": {
       "id": 15815,
       "fullName": "gitea/helm-gitea",
       "stars": 88,
-      "forks": 188,
+      "forks": 189,
       "watchers": 62,
-      "openIssues": 57,
-      "updatedAt": "2026-10-29T00:05:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "openIssues": 58,
+      "updatedAt": "2026-11-16T00:08:38Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "16091": {
       "id": 16091,
@@ -470,7 +430,7 @@
       "watchers": 2,
       "openIssues": 2,
       "updatedAt": "2020-11-10T03:38:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "16251": {
       "id": 16251,
@@ -480,7 +440,7 @@
       "watchers": 1,
       "openIssues": 2,
       "updatedAt": "2021-02-22T02:01:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "16972": {
       "id": 16972,
@@ -490,7 +450,7 @@
       "watchers": 23,
       "openIssues": 1,
       "updatedAt": "2020-10-27T05:22:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "17343": {
       "id": 17343,
@@ -500,7 +460,7 @@
       "watchers": 8,
       "openIssues": 1,
       "updatedAt": "2026-07-08T01:13:35Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "17360": {
       "id": 17360,
@@ -510,17 +470,17 @@
       "watchers": 8,
       "openIssues": 0,
       "updatedAt": "2026-08-19T12:26:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "17446": {
       "id": 17446,
       "fullName": "gitea/terraform-provider-gitea",
       "stars": 20,
-      "forks": 43,
+      "forks": 44,
       "watchers": 15,
-      "openIssues": 17,
+      "openIssues": 19,
       "updatedAt": "2026-10-28T16:17:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "17531": {
       "id": 17531,
@@ -530,7 +490,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2022-09-15T23:12:32Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "17631": {
       "id": 17631,
@@ -540,7 +500,7 @@
       "watchers": 8,
       "openIssues": 3,
       "updatedAt": "2024-12-27T15:36:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "18563": {
       "id": 18563,
@@ -550,7 +510,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2021-08-21T13:53:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "18849": {
       "id": 18849,
@@ -559,8 +519,8 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-07-06T16:15:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-15T04:34:41Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "18912": {
       "id": 18912,
@@ -570,7 +530,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2022-01-10T06:44:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "19001": {
       "id": 19001,
@@ -580,7 +540,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2021-08-05T13:38:35Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "19034": {
       "id": 19034,
@@ -590,7 +550,7 @@
       "watchers": 1,
       "openIssues": 2,
       "updatedAt": "2021-08-05T13:40:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "20770": {
       "id": 20770,
@@ -599,8 +559,8 @@
       "forks": 4,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:12:53Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T13:26:14Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "20778": {
       "id": 20778,
@@ -610,7 +570,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2022-02-10T12:44:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "21421": {
       "id": 21421,
@@ -620,7 +580,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2022-03-23T09:10:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "21469": {
       "id": 21469,
@@ -630,7 +590,7 @@
       "watchers": 15,
       "openIssues": 5,
       "updatedAt": "2024-02-20T19:47:41Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "21669": {
       "id": 21669,
@@ -640,7 +600,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-08-19T23:03:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "21859": {
       "id": 21859,
@@ -650,7 +610,7 @@
       "watchers": 17,
       "openIssues": 1,
       "updatedAt": "2022-04-25T23:56:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "21878": {
       "id": 21878,
@@ -660,7 +620,7 @@
       "watchers": 2,
       "openIssues": 7,
       "updatedAt": "2022-11-28T00:16:45Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "22324": {
       "id": 22324,
@@ -670,7 +630,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2022-05-22T11:31:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "22433": {
       "id": 22433,
@@ -680,7 +640,7 @@
       "watchers": 9,
       "openIssues": 0,
       "updatedAt": "2026-10-17T12:01:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "22489": {
       "id": 22489,
@@ -689,8 +649,8 @@
       "forks": 1,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T00:52:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T13:50:33Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "22490": {
       "id": 22490,
@@ -699,8 +659,8 @@
       "forks": 0,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T00:52:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T13:42:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "25776": {
       "id": 25776,
@@ -710,47 +670,47 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2022-08-17T04:37:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "34975": {
       "id": 34975,
       "fullName": "gitea/actions-proto-def",
       "stars": 6,
-      "forks": 7,
-      "watchers": 46,
+      "forks": 8,
+      "watchers": 47,
       "openIssues": 1,
       "updatedAt": "2026-10-21T05:08:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "34977": {
       "id": 34977,
       "fullName": "gitea/actionslib",
       "stars": 5,
       "forks": 5,
-      "watchers": 53,
+      "watchers": 54,
       "openIssues": 1,
-      "updatedAt": "2026-10-26T07:19:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-13T06:43:17Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "34989": {
       "id": 34989,
       "fullName": "gitea/act",
       "stars": 34,
       "forks": 55,
-      "watchers": 51,
+      "watchers": 52,
       "openIssues": 14,
       "updatedAt": "2026-04-20T21:27:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "35024": {
       "id": 35024,
       "fullName": "gitea/runner",
-      "stars": 272,
-      "forks": 171,
-      "watchers": 111,
-      "openIssues": 24,
-      "updatedAt": "2026-10-28T06:34:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 285,
+      "forks": 178,
+      "watchers": 118,
+      "openIssues": 16,
+      "updatedAt": "2026-11-20T08:31:54Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "35406": {
       "id": 35406,
@@ -760,7 +720,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2025-01-01T22:01:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "35551": {
       "id": 35551,
@@ -770,7 +730,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-01-17T14:26:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "35681": {
       "id": 35681,
@@ -780,7 +740,7 @@
       "watchers": 22,
       "openIssues": 7,
       "updatedAt": "2024-06-14T09:58:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "36407": {
       "id": 36407,
@@ -790,7 +750,7 @@
       "watchers": 3,
       "openIssues": 0,
       "updatedAt": "2026-08-31T17:53:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "36412": {
       "id": 36412,
@@ -800,7 +760,7 @@
       "watchers": 7,
       "openIssues": 2,
       "updatedAt": "2024-06-14T09:26:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "37148": {
       "id": 37148,
@@ -809,8 +769,8 @@
       "forks": 1,
       "watchers": 6,
       "openIssues": 0,
-      "updatedAt": "2026-04-15T00:02:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-18T00:06:53Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "37234": {
       "id": 37234,
@@ -820,7 +780,7 @@
       "watchers": 6,
       "openIssues": 5,
       "updatedAt": "2025-09-18T01:31:44Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "37462": {
       "id": 37462,
@@ -830,7 +790,7 @@
       "watchers": 1,
       "openIssues": 1,
       "updatedAt": "2023-10-09T15:41:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "37502": {
       "id": 37502,
@@ -840,7 +800,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-05-04T12:18:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "37505": {
       "id": 37505,
@@ -850,27 +810,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-05-04T12:23:51Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "38302": {
-      "id": 38302,
-      "fullName": "magicedy/scoop-bucket-m",
-      "stars": 1,
-      "forks": 0,
-      "watchers": 2,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:56:22Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "39355": {
       "id": 39355,
       "fullName": "gitea/runner-images",
-      "stars": 21,
-      "forks": 12,
-      "watchers": 24,
-      "openIssues": 4,
-      "updatedAt": "2026-10-26T11:17:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 24,
+      "forks": 13,
+      "watchers": 25,
+      "openIssues": 12,
+      "updatedAt": "2026-11-19T15:30:05Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "39955": {
       "id": 39955,
@@ -880,7 +830,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-08-15T04:07:04Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "39984": {
       "id": 39984,
@@ -890,27 +840,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-08-15T10:17:45Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "41540": {
       "id": 41540,
       "fullName": "BladeMight/Mahou",
       "stars": 41,
-      "forks": 7,
+      "forks": 9,
       "watchers": 9,
-      "openIssues": 9,
-      "updatedAt": "2026-10-28T22:59:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "openIssues": 10,
+      "updatedAt": "2026-10-30T19:10:47Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "41588": {
       "id": 41588,
       "fullName": "gitea/renovate-config",
       "stars": 7,
       "forks": 8,
-      "watchers": 22,
-      "openIssues": 2,
-      "updatedAt": "2026-10-26T00:25:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "watchers": 21,
+      "openIssues": 1,
+      "updatedAt": "2026-11-16T15:20:14Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "41667": {
       "id": 41667,
@@ -920,7 +870,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-09-01T06:54:30Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "42014": {
       "id": 42014,
@@ -930,7 +880,7 @@
       "watchers": 2,
       "openIssues": 1,
       "updatedAt": "2023-09-04T14:56:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "42032": {
       "id": 42032,
@@ -940,7 +890,7 @@
       "watchers": 1,
       "openIssues": 2,
       "updatedAt": "2024-12-17T04:10:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "42253": {
       "id": 42253,
@@ -950,47 +900,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-12-17T04:13:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "42575": {
       "id": 42575,
       "fullName": "ChromeCrusher/Texploit-Guide",
       "stars": 1,
-      "forks": 0,
+      "forks": 1,
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-09-11T18:39:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "44312": {
-      "id": 44312,
-      "fullName": "oeswd/R-Skripte",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T10:29:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "44872": {
       "id": 44872,
       "fullName": "akouzoukos/apotris",
-      "stars": 46,
-      "forks": 33,
+      "stars": 48,
+      "forks": 35,
       "watchers": 8,
-      "openIssues": 18,
+      "openIssues": 20,
       "updatedAt": "2026-10-20T13:04:59Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "45044": {
-      "id": 45044,
-      "fullName": "magicedy/Scoop",
-      "stars": 0,
-      "forks": 1,
-      "watchers": 2,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:55:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "45883": {
       "id": 45883,
@@ -1000,7 +930,7 @@
       "watchers": 0,
       "openIssues": 0,
       "updatedAt": "2024-05-08T11:59:40Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "46595": {
       "id": 46595,
@@ -1010,7 +940,7 @@
       "watchers": 6,
       "openIssues": 1,
       "updatedAt": "2026-08-10T05:48:14Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "46687": {
       "id": 46687,
@@ -1020,7 +950,7 @@
       "watchers": 4,
       "openIssues": 0,
       "updatedAt": "2023-12-12T19:50:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "46941": {
       "id": 46941,
@@ -1030,7 +960,7 @@
       "watchers": 3,
       "openIssues": 0,
       "updatedAt": "2026-09-15T06:24:13Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "47602": {
       "id": 47602,
@@ -1040,7 +970,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-12-23T01:39:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "48200": {
       "id": 48200,
@@ -1050,27 +980,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2023-12-29T14:49:40Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "48204": {
-      "id": 48204,
-      "fullName": "teamlead/3davto",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T11:20:57Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "49552": {
-      "id": 49552,
-      "fullName": "tanwk/apotris",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T06:56:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "50465": {
       "id": 50465,
@@ -1080,7 +990,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-06-22T21:33:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "50794": {
       "id": 50794,
@@ -1090,7 +1000,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-02-09T23:07:04Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "50806": {
       "id": 50806,
@@ -1100,7 +1010,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-10-17T03:10:44Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "50820": {
       "id": 50820,
@@ -1110,7 +1020,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-02-11T07:44:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "51093": {
       "id": 51093,
@@ -1119,18 +1029,18 @@
       "forks": 1,
       "watchers": 0,
       "openIssues": 1,
-      "updatedAt": "2026-10-25T09:50:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-16T19:11:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "52462": {
       "id": 52462,
       "fullName": "JerryALT/iw3sp_mod",
       "stars": 8,
-      "forks": 8,
+      "forks": 9,
       "watchers": 4,
       "openIssues": 5,
       "updatedAt": "2026-06-21T14:24:51Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "52571": {
       "id": 52571,
@@ -1140,7 +1050,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-07-13T13:18:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "53241": {
+      "id": 53241,
+      "fullName": "gitea/deployment",
+      "stars": 2,
+      "forks": 5,
+      "watchers": 14,
+      "openIssues": 1,
+      "updatedAt": "2026-11-20T09:19:18Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "54820": {
       "id": 54820,
@@ -1150,7 +1070,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-04-08T21:20:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "56782": {
       "id": 56782,
@@ -1159,28 +1079,18 @@
       "forks": 11,
       "watchers": 17,
       "openIssues": 0,
-      "updatedAt": "2026-10-02T00:03:53Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "58288": {
-      "id": 58288,
-      "fullName": "KarlMarx/Test1",
-      "stars": 0,
-      "forks": 4,
-      "watchers": 0,
-      "openIssues": 0,
-      "updatedAt": "2024-05-30T13:04:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:07:21Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "58755": {
       "id": 58755,
       "fullName": "gitea/docs",
-      "stars": 19,
-      "forks": 140,
-      "watchers": 52,
+      "stars": 23,
+      "forks": 141,
+      "watchers": 53,
       "openIssues": 3,
-      "updatedAt": "2026-10-29T02:19:32Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-18T01:48:28Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "58883": {
       "id": 58883,
@@ -1190,7 +1100,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-06-08T11:22:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "58898": {
       "id": 58898,
@@ -1200,7 +1110,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-06-09T15:58:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "60223": {
       "id": 60223,
@@ -1209,18 +1119,18 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:03:12Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T06:32:41Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "65138": {
-      "id": 65138,
-      "fullName": "projectInfinity-x/packages_apps_Launcher3",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 3,
+    "61567": {
+      "id": 61567,
+      "fullName": "QYG2297248353/appstore-1panel",
+      "stars": 12,
+      "forks": 2,
+      "watchers": 4,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:07:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2025-12-07T15:43:34Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "67540": {
       "id": 67540,
@@ -1230,7 +1140,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-09-12T07:31:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "67595": {
+      "id": 67595,
+      "fullName": "MiKueYu/SPT-LiveFleaPriceDB",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 2,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:37:40Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "68243": {
       "id": 68243,
@@ -1240,7 +1160,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-07-15T18:59:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "69637": {
       "id": 69637,
@@ -1250,17 +1170,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2024-10-13T20:36:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "69698": {
-      "id": 69698,
-      "fullName": "dabu/duelmasters-cockatrice",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 2,
-      "openIssues": 4,
-      "updatedAt": "2026-10-29T09:55:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "69883": {
       "id": 69883,
@@ -1270,7 +1180,7 @@
       "watchers": 1,
       "openIssues": 1,
       "updatedAt": "2025-05-14T03:34:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "71423": {
       "id": 71423,
@@ -1280,7 +1190,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2024-11-05T00:15:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "71482": {
       "id": 71482,
@@ -1290,7 +1200,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-11-15T06:24:50Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "76436": {
       "id": 76436,
@@ -1299,8 +1209,8 @@
       "forks": 10,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:09:54Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:33:12Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "77222": {
       "id": 77222,
@@ -1310,7 +1220,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-12-09T13:57:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "81298": {
       "id": 81298,
@@ -1320,7 +1230,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2024-12-19T15:00:29Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "85569": {
       "id": 85569,
@@ -1329,8 +1239,18 @@
       "forks": 3,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-27T06:44:58Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T06:19:44Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "87906": {
+      "id": 87906,
+      "fullName": "sasko.usinov/orbitiny-desktop",
+      "stars": 6,
+      "forks": 2,
+      "watchers": 2,
+      "openIssues": 1,
+      "updatedAt": "2026-11-07T08:08:29Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "88559": {
       "id": 88559,
@@ -1340,7 +1260,7 @@
       "watchers": 6,
       "openIssues": 9,
       "updatedAt": "2025-09-05T08:01:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "88870": {
       "id": 88870,
@@ -1350,7 +1270,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-07-20T00:08:31Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "90141": {
       "id": 90141,
@@ -1360,7 +1280,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-02-23T20:12:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "90212": {
       "id": 90212,
@@ -1369,8 +1289,8 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:12:14Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:45:18Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "90875": {
       "id": 90875,
@@ -1380,27 +1300,27 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2025-03-03T04:21:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "91044": {
       "id": 91044,
       "fullName": "gitea/helm-actions",
-      "stars": 17,
-      "forks": 21,
-      "watchers": 54,
-      "openIssues": 5,
-      "updatedAt": "2026-10-27T21:19:30Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 18,
+      "forks": 22,
+      "watchers": 55,
+      "openIssues": 4,
+      "updatedAt": "2026-11-18T12:06:41Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "94258": {
       "id": 94258,
       "fullName": "gitea/gitea-mcp",
-      "stars": 102,
-      "forks": 79,
-      "watchers": 69,
-      "openIssues": 17,
-      "updatedAt": "2026-10-26T07:17:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 108,
+      "forks": 80,
+      "watchers": 76,
+      "openIssues": 18,
+      "updatedAt": "2026-11-16T15:37:34Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "94880": {
       "id": 94880,
@@ -1410,7 +1330,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-03-27T23:49:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "95545": {
       "id": 95545,
@@ -1420,7 +1340,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2025-04-03T07:17:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "96046": {
       "id": 96046,
@@ -1430,7 +1350,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-05-15T22:31:35Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "96101": {
       "id": 96101,
@@ -1440,17 +1360,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-04-08T10:27:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "96115": {
-      "id": 96115,
-      "fullName": "sbwml/alist",
-      "stars": 1,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2025-04-08T12:23:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "96883": {
       "id": 96883,
@@ -1460,7 +1370,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-04-20T03:32:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "97592": {
       "id": 97592,
@@ -1470,7 +1380,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-04-29T07:17:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "98065": {
       "id": 98065,
@@ -1480,7 +1390,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-03-24T17:56:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "99117": {
+      "id": 99117,
+      "fullName": "Demtakeniri/Rune-Walkers",
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T14:48:09Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "99281": {
+      "id": 99281,
+      "fullName": "mayx/mayx",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T09:52:54Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "99305": {
       "id": 99305,
@@ -1490,7 +1420,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-05-21T18:56:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "102186": {
       "id": 102186,
@@ -1500,27 +1430,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-06-27T09:15:40Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "102770": {
-      "id": 102770,
-      "fullName": "firavoyage/blogging",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 430,
-      "updatedAt": "2026-10-29T10:15:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "104689": {
       "id": 104689,
       "fullName": "KudbiOdd/easy-switch-hacking-shise",
       "stars": 20,
-      "forks": 3,
+      "forks": 4,
       "watchers": 3,
       "openIssues": 1,
       "updatedAt": "2026-03-28T11:09:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "105217": {
+      "id": 105217,
+      "fullName": "evgeniy-antonyuk/DocSpace-buildtools",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-03-10T12:08:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "105895": {
       "id": 105895,
@@ -1530,7 +1460,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-08-12T01:57:31Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "107234": {
       "id": 107234,
@@ -1540,7 +1470,7 @@
       "watchers": 0,
       "openIssues": 0,
       "updatedAt": "2025-08-27T07:25:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "107323": {
       "id": 107323,
@@ -1550,7 +1480,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-08-28T08:23:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "107468": {
       "id": 107468,
@@ -1560,7 +1490,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-09-01T09:30:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "107820": {
       "id": 107820,
@@ -1570,7 +1500,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-09-07T19:57:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "109100": {
       "id": 109100,
@@ -1580,17 +1510,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-01T03:16:40Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "109558": {
       "id": 109558,
       "fullName": "FlashUSDT/FlashUSDTSender",
-      "stars": 2,
+      "stars": 3,
       "forks": 22,
-      "watchers": 6,
+      "watchers": 7,
       "openIssues": 5,
       "updatedAt": "2025-09-26T16:40:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "109683": {
       "id": 109683,
@@ -1600,7 +1530,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-09-28T15:09:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "109698": {
+      "id": 109698,
+      "fullName": "SeeTheWall/shader-desk",
+      "stars": 6,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-08-12T03:33:20Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110600": {
       "id": 110600,
@@ -1610,17 +1550,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-11T23:06:31Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110612": {
       "id": 110612,
       "fullName": "gitea/sdk.js",
       "stars": 2,
       "forks": 0,
-      "watchers": 13,
+      "watchers": 11,
       "openIssues": 2,
-      "updatedAt": "2026-10-28T06:08:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T00:13:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110797": {
       "id": 110797,
@@ -1630,7 +1570,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:03:22Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110798": {
       "id": 110798,
@@ -1640,7 +1580,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:04:16Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110799": {
       "id": 110799,
@@ -1650,7 +1590,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:04:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110800": {
       "id": 110800,
@@ -1660,7 +1600,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:05:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110801": {
       "id": 110801,
@@ -1670,7 +1610,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:08:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110802": {
       "id": 110802,
@@ -1680,7 +1620,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-10-14T09:07:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110881": {
       "id": 110881,
@@ -1690,7 +1630,7 @@
       "watchers": 4,
       "openIssues": 0,
       "updatedAt": "2026-07-18T18:01:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "110998": {
       "id": 110998,
@@ -1700,7 +1640,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-11-10T18:34:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "112018": {
       "id": 112018,
@@ -1710,7 +1650,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2025-12-24T06:45:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "112135": {
       "id": 112135,
@@ -1720,7 +1660,7 @@
       "watchers": 5,
       "openIssues": 0,
       "updatedAt": "2026-01-01T08:48:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "112430": {
       "id": 112430,
@@ -1730,7 +1670,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-11-01T19:12:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "113013": {
       "id": 113013,
@@ -1740,7 +1680,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-11-05T08:16:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "114202": {
       "id": 114202,
@@ -1750,17 +1690,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-11-18T10:23:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "115441": {
       "id": 115441,
       "fullName": "gitea/importer",
       "stars": 5,
       "forks": 0,
-      "watchers": 18,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T03:10:22Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "watchers": 17,
+      "openIssues": 1,
+      "updatedAt": "2026-10-31T23:44:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "115989": {
       "id": 115989,
@@ -1770,7 +1710,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-04-04T16:00:10Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "116087": {
       "id": 116087,
@@ -1780,7 +1720,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2025-12-07T23:40:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "117650": {
       "id": 117650,
@@ -1790,7 +1730,17 @@
       "watchers": 1,
       "openIssues": 1,
       "updatedAt": "2025-12-26T08:28:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "119825": {
+      "id": 119825,
+      "fullName": "wower/hestiamb",
+      "stars": 1,
+      "forks": 1,
+      "watchers": 2,
+      "openIssues": 0,
+      "updatedAt": "2026-01-17T23:34:24Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "122993": {
       "id": 122993,
@@ -1799,8 +1749,8 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T07:56:12Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:51:17Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "123082": {
       "id": 123082,
@@ -1810,7 +1760,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-02-16T17:47:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "123141": {
       "id": 123141,
@@ -1819,8 +1769,8 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-27T23:03:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-16T10:31:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "123283": {
       "id": 123283,
@@ -1829,8 +1779,8 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T06:01:15Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T08:44:52Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "123624": {
       "id": 123624,
@@ -1840,7 +1790,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-02-23T15:38:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "124095": {
+      "id": 124095,
+      "fullName": "vianandaMegaria/source",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:36:08Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "124522": {
       "id": 124522,
@@ -1850,17 +1810,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-03-06T08:37:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "124579": {
-      "id": 124579,
-      "fullName": "pooneyy/1Panel-Appstore",
+    "124610": {
+      "id": 124610,
+      "fullName": "tjira/zinq",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:37:39Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T13:52:46Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "124704": {
+      "id": 124704,
+      "fullName": "Han/Han.GJK",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:21:52Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "125059": {
       "id": 125059,
@@ -1870,7 +1840,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-03-12T14:46:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "125848": {
       "id": 125848,
@@ -1880,7 +1850,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-03-21T05:53:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "127049": {
       "id": 127049,
@@ -1890,7 +1860,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-04-03T12:41:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "128632": {
       "id": 128632,
@@ -1900,17 +1870,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-04-18T17:03:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "129474": {
-      "id": 129474,
-      "fullName": "fredscl/OPS-Hotel",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T11:33:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "130059": {
       "id": 130059,
@@ -1920,7 +1880,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-01T21:38:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "130062": {
       "id": 130062,
@@ -1930,7 +1890,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-01T22:01:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "130146": {
       "id": 130146,
@@ -1940,7 +1900,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-03T08:56:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "130322": {
       "id": 130322,
@@ -1950,7 +1910,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-04T22:05:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "130491": {
       "id": 130491,
@@ -1960,17 +1920,17 @@
       "watchers": 15,
       "openIssues": 1,
       "updatedAt": "2026-05-27T22:47:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "131327": {
       "id": 131327,
       "fullName": "igareck/vpn-configs-for-russia",
       "stars": 14,
-      "forks": 7,
+      "forks": 9,
       "watchers": 2,
       "openIssues": 1,
-      "updatedAt": "2026-10-29T12:29:06Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:58:27Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "131411": {
       "id": 131411,
@@ -1980,7 +1940,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-14T08:30:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "131782": {
       "id": 131782,
@@ -1990,7 +1950,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-18T15:03:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "132388": {
       "id": 132388,
@@ -2000,7 +1960,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-05-24T06:44:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "132936": {
+      "id": 132936,
+      "fullName": "sm8650-devs/android_vendor_xiaomi_zorn",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T09:56:47Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "133666": {
       "id": 133666,
@@ -2010,7 +1980,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-06-04T05:21:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "134297": {
       "id": 134297,
@@ -2020,17 +1990,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-06-20T18:30:41Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "134640": {
-      "id": 134640,
-      "fullName": "bslfyi89/shell-go",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T09:17:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "134733": {
       "id": 134733,
@@ -2040,7 +2000,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-06-16T07:12:51Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "134755": {
       "id": 134755,
@@ -2050,17 +2010,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-06-16T08:53:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "134768": {
-      "id": 134768,
-      "fullName": "gabordemooij/xoscript",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T06:15:31Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "134788": {
       "id": 134788,
@@ -2069,8 +2019,8 @@
       "forks": 0,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:15:58Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:55:07Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "135595": {
       "id": 135595,
@@ -2080,7 +2030,7 @@
       "watchers": 3,
       "openIssues": 0,
       "updatedAt": "2026-09-21T17:53:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "136066": {
       "id": 136066,
@@ -2089,8 +2039,18 @@
       "forks": 15,
       "watchers": 4,
       "openIssues": 0,
-      "updatedAt": "2026-10-22T21:37:06Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-15T20:50:48Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "136360": {
+      "id": 136360,
+      "fullName": "dtapps/certflow",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:03:24Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "136526": {
       "id": 136526,
@@ -2100,7 +2060,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-07-05T17:37:13Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "136716": {
+      "id": 136716,
+      "fullName": "RMPlaysMCYT/Corn-Detection-System",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T14:04:35Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "137141": {
+      "id": 137141,
+      "fullName": "IceThorn/OpenGame",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T09:32:10Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "137286": {
       "id": 137286,
@@ -2110,7 +2090,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-07-13T22:24:44Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "137454": {
       "id": 137454,
@@ -2120,27 +2100,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-07-15T10:35:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "137479": {
-      "id": 137479,
-      "fullName": "eclipsia/nuvio-plugin",
+    "137760": {
+      "id": 137760,
+      "fullName": "Alch3myOS/frameworks_base",
       "stars": 0,
-      "forks": 0,
-      "watchers": 1,
+      "forks": 1,
+      "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:20:14Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:05:51Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "137620": {
-      "id": 137620,
-      "fullName": "ToolAnchor/websitegeek-tools",
-      "stars": 1,
-      "forks": 0,
+    "137796": {
+      "id": 137796,
+      "fullName": "thebenmeadows/tbm",
+      "stars": 0,
+      "forks": 1,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-08-08T01:41:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:12:33Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "138596": {
       "id": 138596,
@@ -2149,8 +2129,8 @@
       "forks": 0,
       "watchers": 9,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T09:39:54Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T10:21:53Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "138641": {
       "id": 138641,
@@ -2160,7 +2140,17 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-07-30T10:32:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "138803": {
+      "id": 138803,
+      "fullName": "gitea/gitea-codespace",
+      "stars": 2,
+      "forks": 1,
+      "watchers": 10,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:50:36Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139029": {
       "id": 139029,
@@ -2170,7 +2160,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-08-04T10:35:50Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139032": {
       "id": 139032,
@@ -2180,7 +2170,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-08-04T10:39:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139034": {
       "id": 139034,
@@ -2190,27 +2180,7 @@
       "watchers": 2,
       "openIssues": 0,
       "updatedAt": "2026-08-04T11:38:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "139241": {
-      "id": 139241,
-      "fullName": "ar9013/MRTEA",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T06:56:43Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "139242": {
-      "id": 139242,
-      "fullName": "ar9013/SLog2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T06:55:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139304": {
       "id": 139304,
@@ -2220,7 +2190,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-07T03:19:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139410": {
       "id": 139410,
@@ -2230,27 +2200,27 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-08-08T01:42:04Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "139970": {
+      "id": 139970,
+      "fullName": "dtapps/kai",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:02:14Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "139995": {
       "id": 139995,
-      "fullName": "conf-protocol/dev-phase-1",
+      "fullName": "confident/dev-phase-1",
       "stars": 0,
       "forks": 5,
       "watchers": 0,
       "openIssues": 0,
       "updatedAt": "2026-08-13T09:31:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "140148": {
-      "id": 140148,
-      "fullName": "cp-api-mirror/wl",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 1,
-      "updatedAt": "2026-10-29T08:47:22Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "140679": {
       "id": 140679,
@@ -2260,37 +2230,17 @@
       "watchers": 5,
       "openIssues": 9,
       "updatedAt": "2026-10-12T11:03:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "140985": {
       "id": 140985,
       "fullName": "gitea/gitea-vscode",
-      "stars": 10,
+      "stars": 12,
       "forks": 1,
       "watchers": 1,
-      "openIssues": 3,
+      "openIssues": 4,
       "updatedAt": "2026-10-16T19:24:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "141727": {
-      "id": 141727,
-      "fullName": "mike202020/Test__1",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T12:20:52Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "141729": {
-      "id": 141729,
-      "fullName": "mike202020/Test__2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T12:05:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "142261": {
       "id": 142261,
@@ -2300,7 +2250,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-01T15:55:04Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "142262": {
       "id": 142262,
@@ -2310,7 +2260,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-01T15:48:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "143116": {
       "id": 143116,
@@ -2320,47 +2270,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-09T14:33:57Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "143587": {
-      "id": 143587,
-      "fullName": "MollyMillion/ScannerDarkly",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 0,
-      "openIssues": 0,
-      "updatedAt": "2026-10-05T11:04:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "143998": {
-      "id": 143998,
-      "fullName": "qiup/gbb-web",
-      "stars": 0,
-      "forks": 1,
-      "watchers": 1,
-      "openIssues": 7,
-      "updatedAt": "2026-10-29T07:20:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "144035": {
-      "id": 144035,
-      "fullName": "ar9013/XCam",
+    "143856": {
+      "id": 143856,
+      "fullName": "tcc08/wink",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T07:03:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "144171": {
-      "id": 144171,
-      "fullName": "consideratedigital/cartegic",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T09:52:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:02:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "144238": {
       "id": 144238,
@@ -2370,7 +2290,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-19T06:37:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "144641": {
+      "id": 144641,
+      "fullName": "pckiller2016/ponytail",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-09-23T06:42:46Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "145191": {
       "id": 145191,
@@ -2379,8 +2309,8 @@
       "forks": 0,
       "watchers": 0,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T07:01:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:36:48Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "145234": {
       "id": 145234,
@@ -2390,17 +2320,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-09-29T12:35:10Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "145353": {
-      "id": 145353,
-      "fullName": "david001/zhiyun",
+    "145390": {
+      "id": 145390,
+      "fullName": "woolster2020/vc",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
-      "openIssues": 8,
-      "updatedAt": "2026-10-29T12:09:49Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "openIssues": 1,
+      "updatedAt": "2026-11-20T11:08:35Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "145690": {
       "id": 145690,
@@ -2410,47 +2340,47 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-02T14:12:15Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "146534": {
-      "id": 146534,
-      "fullName": "qiqius/2077",
-      "stars": 1,
+    "146584": {
+      "id": 146584,
+      "fullName": "lebron/tentacle",
+      "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:21:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:15:53Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "146613": {
       "id": 146613,
       "fullName": "naz888z/workflow-playbook",
       "stars": 4,
-      "forks": 0,
+      "forks": 1,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:05:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-10-30T08:35:12Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "147109": {
-      "id": 147109,
-      "fullName": "tuanloc1105/lgtm",
+    "147212": {
+      "id": 147212,
+      "fullName": "Dabrogost/Chroma-Ad-Blocker",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T07:02:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T08:27:44Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "147274": {
       "id": 147274,
       "fullName": "K3ysTr0K3R/METIS",
-      "stars": 1,
+      "stars": 2,
       "forks": 0,
       "watchers": 2,
       "openIssues": 0,
-      "updatedAt": "2026-10-28T15:22:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-14T10:59:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "147364": {
       "id": 147364,
@@ -2460,17 +2390,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-13T12:46:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "147432": {
-      "id": 147432,
-      "fullName": "dika-putra/34",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T08:08:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "147469": {
       "id": 147469,
@@ -2480,17 +2400,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-19T01:59:59Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "147831": {
-      "id": 147831,
-      "fullName": "KenenZhu/runner",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T07:40:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "147874": {
       "id": 147874,
@@ -2500,27 +2410,17 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-17T13:39:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "148011": {
       "id": 148011,
       "fullName": "gitea/cli",
-      "stars": 7,
-      "forks": 2,
-      "watchers": 12,
-      "openIssues": 3,
-      "updatedAt": "2026-10-29T11:53:50Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "148364": {
-      "id": 148364,
-      "fullName": "LunarSocks/watchlist_tracker",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T11:26:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "stars": 25,
+      "forks": 9,
+      "watchers": 61,
+      "openIssues": 6,
+      "updatedAt": "2026-11-19T23:57:05Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "148429": {
       "id": 148429,
@@ -2530,7 +2430,7 @@
       "watchers": 1,
       "openIssues": 1,
       "updatedAt": "2026-10-22T02:47:39Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "148578": {
       "id": 148578,
@@ -2539,8 +2439,8 @@
       "forks": 1,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T05:19:23Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:26:19Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "148586": {
       "id": 148586,
@@ -2549,118 +2449,28 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:35:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:58:00Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "148610": {
-      "id": 148610,
-      "fullName": "Mithuna/c1",
+    "148683": {
+      "id": 148683,
+      "fullName": "RareEvo-Tech-Hub/Altrix",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T09:43:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T10:19:44Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "148717": {
-      "id": 148717,
-      "fullName": "CarstenDutch/i915-sriov-unraid",
+    "148920": {
+      "id": 148920,
+      "fullName": "russellb9/bongda",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:45:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "148848": {
-      "id": 148848,
-      "fullName": "Tlipoca1777/Study-online.v2",
-      "stars": 1,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T10:14:53Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149094": {
-      "id": 149094,
-      "fullName": "ajie-17/work6web",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T07:21:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149158": {
-      "id": 149158,
-      "fullName": "tubidymobile/tubidy-audio-tools-guide",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-26T15:11:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149214": {
-      "id": 149214,
-      "fullName": "ianjiteshan/CapstoneProject",
-      "stars": 1,
-      "forks": 1,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T11:49:04Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149360": {
-      "id": 149360,
-      "fullName": "WS-CatGirl/Arch-Auto-Install",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:34:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149475": {
-      "id": 149475,
-      "fullName": "loki-s3c/Fox-notes---",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T11:17:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149485": {
-      "id": 149485,
-      "fullName": "qrexgr/askerdway",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T13:31:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149486": {
-      "id": 149486,
-      "fullName": "youshouldgetajob/svpass3",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T12:48:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149489": {
-      "id": 149489,
-      "fullName": "reuben-bradley/kitty-sweeper",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:25:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T09:36:55Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "149490": {
       "id": 149490,
@@ -2670,17 +2480,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-28T14:33:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149491": {
-      "id": 149491,
-      "fullName": "inboxcabin/inboxcabin",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T14:16:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "149492": {
       "id": 149492,
@@ -2690,7 +2490,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-28T14:40:10Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "149495": {
       "id": 149495,
@@ -2700,7 +2500,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-28T14:38:39Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "149496": {
       "id": 149496,
@@ -2710,367 +2510,7 @@
       "watchers": 1,
       "openIssues": 0,
       "updatedAt": "2026-10-28T14:36:39Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149497": {
-      "id": 149497,
-      "fullName": "JanithDisanayake/tea",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T14:31:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149504": {
-      "id": 149504,
-      "fullName": "sirz66/f3-2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:22:12Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149507": {
-      "id": 149507,
-      "fullName": "recofa/vdf6",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T16:24:33Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149508": {
-      "id": 149508,
-      "fullName": "Umam-khan/CapstoneProject",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T16:29:06Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149511": {
-      "id": 149511,
-      "fullName": "MVS-KOUSHIK/team5-frontend",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T16:48:15Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149513": {
-      "id": 149513,
-      "fullName": "Umam-khan/f-m-s",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T17:02:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149515": {
-      "id": 149515,
-      "fullName": "nexdevix/nexdevix",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T16:58:28Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149521": {
-      "id": 149521,
-      "fullName": "Umam-khan/final_fms",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T17:16:17Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149524": {
-      "id": 149524,
-      "fullName": "stanlyonhack/commit",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T17:48:50Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149526": {
-      "id": 149526,
-      "fullName": "MD-SOHAIL-AKHTAR-19DEL034/Sohail",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:06:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149527": {
-      "id": 149527,
-      "fullName": "Zheleznova/GIT_PR06_Zheleznova",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T20:03:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149529": {
-      "id": 149529,
-      "fullName": "hleb/minimalistlauncher",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:15:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149530": {
-      "id": 149530,
-      "fullName": "gondora123/obsidian_ai_context",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:23:10Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149532": {
-      "id": 149532,
-      "fullName": "gondora123/knowledge-fetcher",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T18:41:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149534": {
-      "id": 149534,
-      "fullName": "MVS-KOUSHIK/team5-backend",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:39:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149549": {
-      "id": 149549,
-      "fullName": "arasmm55555-web/Flash-USDT-Software-TRC20-BEP20",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T22:33:44Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149555": {
-      "id": 149555,
-      "fullName": "ariankordi/mii-to-model",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-28T23:13:57Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149568": {
-      "id": 149568,
-      "fullName": "mailpixel/email-tracking-pixel",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T02:51:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149569": {
-      "id": 149569,
-      "fullName": "ingbyr/orca-test-react",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:55:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149573": {
-      "id": 149573,
-      "fullName": "Ankita.L.Hosamani/clone3",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:33:09Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149577": {
-      "id": 149577,
-      "fullName": "Pannagh-G-Gondkar/clone4",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T03:55:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149578": {
-      "id": 149578,
-      "fullName": "divyav/clone-3",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:36:26Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149579": {
-      "id": 149579,
-      "fullName": "laksha/clone4",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T03:52:44Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149582": {
-      "id": 149582,
-      "fullName": "ashwin_g/clone1",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:00:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149584": {
-      "id": 149584,
-      "fullName": "Manasvi-NP/clone2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:03:18Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149586": {
-      "id": 149586,
-      "fullName": "Ganesh-Yl/clone1",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:11:00Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149587": {
-      "id": 149587,
-      "fullName": "Lakshmi-R/clone3",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:11:41Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149588": {
-      "id": 149588,
-      "fullName": "Krupa-K-R/clone2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T05:11:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149589": {
-      "id": 149589,
-      "fullName": "Ankita.L.Hosamani/clone4",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:14:46Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149593": {
-      "id": 149593,
-      "fullName": "aishashifana/clone2",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:28:08Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149594": {
-      "id": 149594,
-      "fullName": "laksha/clone5",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:46:02Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149595": {
-      "id": 149595,
-      "fullName": "Ankita.L.Hosamani/clone5",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:36:06Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149596": {
-      "id": 149596,
-      "fullName": "MVS-KOUSHIK/team5-backend-new",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:40:23Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149597": {
-      "id": 149597,
-      "fullName": "divyavittal/clone4",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:48:11Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149599": {
-      "id": 149599,
-      "fullName": "divyavittal/clone5",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T04:54:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
-    },
-    "149600": {
-      "id": 149600,
-      "fullName": "Shivansh-Chaurasia/Fault-Management-System",
-      "stars": 0,
-      "forks": 0,
-      "watchers": 1,
-      "openIssues": 0,
-      "updatedAt": "2026-10-29T08:56:01Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
     "149601": {
       "id": 149601,
@@ -3079,398 +2519,1178 @@
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T05:33:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:18:29Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149603": {
-      "id": 149603,
-      "fullName": "ashwin_g/clone2",
+    "150063": {
+      "id": 150063,
+      "fullName": "mittorn/CVE-2023-33107",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T05:21:56Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-01T16:20:34Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149605": {
-      "id": 149605,
-      "fullName": "Ganesh-Yl/clone2",
+    "150569": {
+      "id": 150569,
+      "fullName": "zzx19/web---",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T05:14:03Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T13:12:51Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149607": {
-      "id": 149607,
-      "fullName": "chipapexsz/chipapex-stgap1str-notes",
+    "150786": {
+      "id": 150786,
+      "fullName": "Goubayu_WuTeng/Turtle-WOW-BENILLA",
+      "stars": 3,
+      "forks": 0,
+      "watchers": 3,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:19:27Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151286": {
+      "id": 151286,
+      "fullName": "michaelliuyuan/timstool",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T05:38:39Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T09:34:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149608": {
-      "id": 149608,
-      "fullName": "gagan1211/prompts",
+    "151326": {
+      "id": 151326,
+      "fullName": "NYXdev/Minecraft-Server",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-12T10:24:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151340": {
+      "id": 151340,
+      "fullName": "dtapps/ip_vibe",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T08:27:03Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151349": {
+      "id": 151349,
+      "fullName": "threecir-rpl/government-security-qualifications",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:08:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-11T04:45:02Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149612": {
-      "id": 149612,
-      "fullName": "Apc_cross5/Team-5-backend1",
+    "151360": {
+      "id": 151360,
+      "fullName": "dtapps/fnmusic-sync",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T08:13:50Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151395": {
+      "id": 151395,
+      "fullName": "maghlubwalshad/maghlurkh",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T06:27:16Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:43:53Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149615": {
-      "id": 149615,
-      "fullName": "mini-pos/mini-pos-api",
+    "151410": {
+      "id": 151410,
+      "fullName": "loewer/bongda",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:43:49Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:27:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149616": {
-      "id": 149616,
-      "fullName": "mini-pos/mini-pos-portal",
+    "151412": {
+      "id": 151412,
+      "fullName": "lds-sdl/mir",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T07:58:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151415": {
+      "id": 151415,
+      "fullName": "sweisz/advent-calendar-2026",
+      "stars": 0,
+      "forks": 1,
+      "watchers": 1,
+      "openIssues": 7,
+      "updatedAt": "2026-11-20T13:50:37Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "151456": {
+      "id": 151456,
+      "fullName": "bartolinibuba1/Texploit-Guide",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:00:10Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-11T20:53:13Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149617": {
-      "id": 149617,
-      "fullName": "buzy/compliance",
+    "151567": {
+      "id": 151567,
+      "fullName": "Cc-max798/chuangjian-platform",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T07:16:19Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T10:32:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149618": {
-      "id": 149618,
-      "fullName": "QAKarolina/QATest",
+    "151666": {
+      "id": 151666,
+      "fullName": "infocollector/info-collector-ios",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T08:41:21Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:57:35Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149623": {
-      "id": 149623,
-      "fullName": "qwapfy/horizon-offline-setup",
+    "151728": {
+      "id": 151728,
+      "fullName": "xiaohei2027/black-wallet",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T08:14:45Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:02:48Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149627": {
-      "id": 149627,
-      "fullName": "youziduanju/youziduanju-article-hub",
+    "151889": {
+      "id": 151889,
+      "fullName": "theweathervane/a3mx",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T08:50:53Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T14:31:52Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149638": {
-      "id": 149638,
-      "fullName": "4AI25CS098-Srivan-M-shet/srisai",
+    "152055": {
+      "id": 152055,
+      "fullName": "WEP-56/HGhub-Plugin",
+      "stars": 23,
+      "forks": 8,
+      "watchers": 2,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T03:26:51Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152182": {
+      "id": 152182,
+      "fullName": "phishdestroy/TgWitness",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:09:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-16T14:47:32Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149640": {
-      "id": 149640,
-      "fullName": "Dhanyasri-Savalagi/Clone1",
+    "152187": {
+      "id": 152187,
+      "fullName": "LALAGAY/RecordResearchRRR",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:03:07Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T11:59:15Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149641": {
-      "id": 149641,
-      "fullName": "Tejashwini/clone1",
+    "152379": {
+      "id": 152379,
+      "fullName": "florentin/ghidra",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:13:48Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-17T17:23:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149642": {
-      "id": 149642,
-      "fullName": "Maitri/T1",
+    "152414": {
+      "id": 152414,
+      "fullName": "yno/azenor",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:13:36Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-20T12:57:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149643": {
-      "id": 149643,
-      "fullName": "Noothana/clone1",
+    "152524": {
+      "id": 152524,
+      "fullName": "rvz00/test",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 0,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T14:41:40Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152663": {
+      "id": 152663,
+      "fullName": "mcepl/cli",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:13:40Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T23:16:16Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149644": {
-      "id": 149644,
-      "fullName": "4AI25CS093-Sinchana-M-S/smsclone",
+    "152664": {
+      "id": 152664,
+      "fullName": "IPTVInfoZone/usa-iptv-reviews",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:13:35Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T10:57:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149645": {
-      "id": 149645,
-      "fullName": "4AI25CS107-Varshan-gowda/varsss",
+    "152665": {
+      "id": 152665,
+      "fullName": "togayab777/assignment07finished",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:15:38Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T10:54:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149646": {
-      "id": 149646,
-      "fullName": "4AI25CS082-Sandya-K-B/kbsclone",
+    "152667": {
+      "id": 152667,
+      "fullName": "IPTVInfoZone/IPTV-Provider",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:14:54Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T11:22:19Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149648": {
-      "id": 149648,
-      "fullName": "Sharada/sharadaclone",
+    "152669": {
+      "id": 152669,
+      "fullName": "IPTVInfoZone/iptv-channels",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:20:35Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T11:27:22Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149649": {
-      "id": 149649,
-      "fullName": "sinchana/clone1",
+    "152672": {
+      "id": 152672,
+      "fullName": "ok1mind/tarot-cards",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:21:34Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T11:51:19Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149650": {
-      "id": 149650,
-      "fullName": "Tejashwini/clone2",
+    "152673": {
+      "id": 152673,
+      "fullName": "carcheckhq/uk-plate-age-racket",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:03:14Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:18:10Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149651": {
-      "id": 149651,
-      "fullName": "Noothana/clone2",
+    "152674": {
+      "id": 152674,
+      "fullName": "findmyreviews/why-review-recency-matters-more-than-review-count",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:24:52Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:22:23Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149652": {
-      "id": 149652,
-      "fullName": "4AI25CS093-Sinchana-M-S/cl1",
+    "152675": {
+      "id": 152675,
+      "fullName": "iptv-smarters-downloader-code/Best-IPTV-Providers",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:25:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:39:31Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149653": {
-      "id": 149653,
-      "fullName": "4AI25CSO89-Shravan-Gowda/Shrav",
+    "152676": {
+      "id": 152676,
+      "fullName": "iptv-smarters-downloader-code/best-iptv-providers-in-usa",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:26:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:42:38Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149655": {
-      "id": 149655,
-      "fullName": "4AI25CS082-Sandya-K-B/clone1",
+    "152677": {
+      "id": 152677,
+      "fullName": "public-iptv-playlist/best-iptv-subscription-service",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:31:20Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:47:49Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149656": {
-      "id": 149656,
-      "fullName": "A-V-NAVEEN-KUMAR/Naveen",
+    "152678": {
+      "id": 152678,
+      "fullName": "public-iptv-playlist/best-iptv-subscription",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:37:51Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:50:02Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149657": {
-      "id": 149657,
-      "fullName": "Rahul-B/market",
+    "152679": {
+      "id": 152679,
+      "fullName": "public-iptv-playlist/iptv-reseller-panel",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:32:45Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T12:56:26Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149659": {
-      "id": 149659,
-      "fullName": "attendanceai/biometric-attendance-workforce-management",
+    "152680": {
+      "id": 152680,
+      "fullName": "public-iptv-playlist/iptv-portal",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:41:24Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:02:42Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149662": {
-      "id": 149662,
-      "fullName": "nithya-11/Clone1",
+    "152681": {
+      "id": 152681,
+      "fullName": "lingyicute/Cloudflared-Helper-Desktop",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T12:58:49Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152684": {
+      "id": 152684,
+      "fullName": "lingyicute/repoPackage",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:22:39Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152687": {
+      "id": 152687,
+      "fullName": "public-iptv-playlist/iptv-portal-url",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:46:25Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:06:37Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149663": {
-      "id": 149663,
-      "fullName": "WebFX/the-best-iptv-2026",
+    "152689": {
+      "id": 152689,
+      "fullName": "iptv-smarters-code/best-iptv",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T10:58:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:19:26Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149666": {
-      "id": 149666,
-      "fullName": "WebFX/best-iptv-2026",
+    "152690": {
+      "id": 152690,
+      "fullName": "iptv-smarters-code/best-iptv-encoder",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:06:55Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:14:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149667": {
-      "id": 149667,
-      "fullName": "Noothana/clone",
+    "152691": {
+      "id": 152691,
+      "fullName": "iptv-smarters-code/the-best-iptv-2026",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:08:47Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:18:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149668": {
-      "id": 149668,
-      "fullName": "WebFX/best-iptv-2026-usa",
+    "152692": {
+      "id": 152692,
+      "fullName": "aalbagarcia/github-client",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:18:42Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T15:55:17Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149670": {
-      "id": 149670,
-      "fullName": "WebFX/best-iptv-2026-xtreme-hd",
+    "152693": {
+      "id": 152693,
+      "fullName": "pribera-Vunkers/github-client",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:26:37Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T15:05:13Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149671": {
-      "id": 149671,
-      "fullName": "WebFX/iptv-smarters",
+    "152694": {
+      "id": 152694,
+      "fullName": "rbogado/github-client",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T11:32:58Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T15:47:00Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149677": {
-      "id": 149677,
-      "fullName": "geetha/inclusive",
+    "152697": {
+      "id": 152697,
+      "fullName": "cguochen/github-client",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:04:13Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T15:29:15Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149678": {
-      "id": 149678,
-      "fullName": "sathishep1434/solar-system-gitea",
+    "152698": {
+      "id": 152698,
+      "fullName": "easypdf/pdf-upload-caps",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:04:27Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T13:31:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     },
-    "149681": {
-      "id": 149681,
-      "fullName": "VertixHUBs/MurderMystery2",
+    "152700": {
+      "id": 152700,
+      "fullName": "idkidocode/GamsLauncherV5",
       "stars": 0,
       "forks": 0,
       "watchers": 1,
       "openIssues": 0,
-      "updatedAt": "2026-10-29T12:17:58Z",
-      "timestamp": "2026-10-29T12:32:51.722Z"
+      "updatedAt": "2026-11-19T14:12:39Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152706": {
+      "id": 152706,
+      "fullName": "lingyicute/.profile",
+      "stars": 1,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:35:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152723": {
+      "id": 152723,
+      "fullName": "stealix2/Deep-Learning",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T16:22:25Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152731": {
+      "id": 152731,
+      "fullName": "lds-sdl/cstate",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T18:54:20Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152732": {
+      "id": 152732,
+      "fullName": "disorganizedhivemind/ModHelper",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T00:00:05Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152736": {
+      "id": 152736,
+      "fullName": "KingdomStudios101/Zyranova",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T20:07:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152738": {
+      "id": 152738,
+      "fullName": "KingdomStudios101/Zyranova-demo",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T20:10:37Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152739": {
+      "id": 152739,
+      "fullName": "Howardly_Dog/THS-Wiki",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:17:45Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152740": {
+      "id": 152740,
+      "fullName": "Verateca/Verateca-mcp",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T20:47:38Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152744": {
+      "id": 152744,
+      "fullName": "tiagocorreiatv/tv-internet-estabilidade",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T21:05:23Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152745": {
+      "id": 152745,
+      "fullName": "momencen/momencen",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-19T21:12:30Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152748": {
+      "id": 152748,
+      "fullName": "Athallahra1234/Bot-Moderator",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:37:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152764": {
+      "id": 152764,
+      "fullName": "momencen/test",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T00:08:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152765": {
+      "id": 152765,
+      "fullName": "lotslipnotes/cloak-rail-stills-notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T00:20:15Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152768": {
+      "id": 152768,
+      "fullName": "ariankordi/mii-body-tools",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T01:44:45Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152771": {
+      "id": 152771,
+      "fullName": "Moler1995/runner",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T02:34:32Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152772": {
+      "id": 152772,
+      "fullName": "deployvera20110935/deployvera-xray",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T03:19:16Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152776": {
+      "id": 152776,
+      "fullName": "lhb/Knob_ESP32S3",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T11:33:08Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152777": {
+      "id": 152777,
+      "fullName": "Yushiro_Yukina/yukina-manga-reader",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:53:09Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152778": {
+      "id": 152778,
+      "fullName": "rk9vipcom/rk9vipcom",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T04:30:32Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152781": {
+      "id": 152781,
+      "fullName": "Yushiro_Yukina/custom-tier-list-maker",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T04:53:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152782": {
+      "id": 152782,
+      "fullName": "Yushiro_Yukina/aniferry",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:00:48Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152783": {
+      "id": 152783,
+      "fullName": "Yushiro_Yukina/panqing",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:01:29Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152784": {
+      "id": 152784,
+      "fullName": "Yushiro_Yukina/codex-usage-dashboard",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:02:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152786": {
+      "id": 152786,
+      "fullName": "boxiaolanya2008/niugu-skill",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T05:34:21Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152797": {
+      "id": 152797,
+      "fullName": "aabc3464/amd",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T07:44:07Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152798": {
+      "id": 152798,
+      "fullName": "liugaoweigaojinjing-hash/test",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T09:22:16Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152804": {
+      "id": 152804,
+      "fullName": "adambennett6917/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:30Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152805": {
+      "id": 152805,
+      "fullName": "bakerw699/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:32Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152806": {
+      "id": 152806,
+      "fullName": "carlhoward5246/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:33Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152807": {
+      "id": 152807,
+      "fullName": "caseymurphy6515/todo-cli",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:35Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152808": {
+      "id": 152808,
+      "fullName": "danabell8131/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:37Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152809": {
+      "id": 152809,
+      "fullName": "diazl825/dotfiles",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:38Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152810": {
+      "id": 152810,
+      "fullName": "hprice8387/img-resize",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:39Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152811": {
+      "id": 152811,
+      "fullName": "ivywalker6269/img-resize",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:41Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152812": {
+      "id": 152812,
+      "fullName": "jackhill3845/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:43Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152813": {
+      "id": 152813,
+      "fullName": "jhall8494/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:46Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152814": {
+      "id": 152814,
+      "fullName": "lewisc225/dotfiles",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:49Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152815": {
+      "id": 152815,
+      "fullName": "lucasr7335/img-resize",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:50Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152816": {
+      "id": 152816,
+      "fullName": "masonh6225/csv-tidy",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:52Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152817": {
+      "id": 152817,
+      "fullName": "mcampbell1523/csv-tidy",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:53Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152818": {
+      "id": 152818,
+      "fullName": "nickb7530/todo-cli",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:54Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152819": {
+      "id": 152819,
+      "fullName": "ninahoward9044/img-resize",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152820": {
+      "id": 152820,
+      "fullName": "paulm3692/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:57Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152821": {
+      "id": 152821,
+      "fullName": "robinc2919/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:09:58Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152822": {
+      "id": 152822,
+      "fullName": "samh5777/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:00Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152823": {
+      "id": 152823,
+      "fullName": "saracox6313/todo-cli",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:01Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152824": {
+      "id": 152824,
+      "fullName": "shenderson5033/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:02Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152825": {
+      "id": 152825,
+      "fullName": "viccole5574/dotfiles",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:04Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152826": {
+      "id": 152826,
+      "fullName": "willturner0007/notes",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:05Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152827": {
+      "id": 152827,
+      "fullName": "wlong3129/csv-tidy",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:06Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152828": {
+      "id": 152828,
+      "fullName": "wrightj645/port-check",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:10:08Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152829": {
+      "id": 152829,
+      "fullName": "iptv-smarters-code/best-iptv-player-for-windows",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:21:54Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152830": {
+      "id": 152830,
+      "fullName": "iptv-smarters-code/iptv-on-firestick",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:25:56Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152831": {
+      "id": 152831,
+      "fullName": "iptv-us/premium-iptv-service",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:31:09Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152832": {
+      "id": 152832,
+      "fullName": "iptv-us/iptv-subscribe",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:39:34Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152836": {
+      "id": 152836,
+      "fullName": "iptv-us/iptv-fire-stick",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:50:40Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152837": {
+      "id": 152837,
+      "fullName": "iptv-us/iptv-subscriptions",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:53:26Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152838": {
+      "id": 152838,
+      "fullName": "iptv-us/public-iptv-playlist",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T11:04:02Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152840": {
+      "id": 152840,
+      "fullName": "esc00043/CSCU9M5",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T10:58:33Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152841": {
+      "id": 152841,
+      "fullName": "best-iptv-service-provider/best-iptv-channels",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T11:15:50Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152843": {
+      "id": 152843,
+      "fullName": "best-iptv-service-provider/iptv-smarters-downloader-code",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T11:18:11Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152844": {
+      "id": 152844,
+      "fullName": "best-iptv-service-provider/buy-iptv-subscription",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T11:21:07Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152852": {
+      "id": 152852,
+      "fullName": "iptvPlatform/public-iptv-playlist",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T12:54:08Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152855": {
+      "id": 152855,
+      "fullName": "iptvPlatform/best-iptv-channels",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:03:23Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152858": {
+      "id": 152858,
+      "fullName": "iptvPlatform/iptv-smarters-downloader-code",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:22:24Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152859": {
+      "id": 152859,
+      "fullName": "RobloxR6/RobloxR6",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T14:35:09Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152862": {
+      "id": 152862,
+      "fullName": "iptvPlatform/buy-iptv-subscription",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:29:40Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
+    },
+    "152863": {
+      "id": 152863,
+      "fullName": "iptvPlatform/best-iptv-subscription-service",
+      "stars": 0,
+      "forks": 0,
+      "watchers": 1,
+      "openIssues": 0,
+      "updatedAt": "2026-11-20T13:36:10Z",
+      "timestamp": "2026-11-20T15:05:26.474Z"
     }
   }
 }

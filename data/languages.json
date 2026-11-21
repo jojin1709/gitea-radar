@@ -2,7 +2,7 @@
   {
     "name": "Go",
     "count": 61,
-    "totalStars": 1521,
+    "totalStars": 1524,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -21,13 +21,13 @@
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "howardzhow/Veliki_Zavorushennya",
-      "willturner0007/notes"
+      "Mojtaba20/ai-workflow",
+      "howardzhow/Veliki_Zavorushennya"
     ]
   },
   {
     "name": "Java",
-    "count": 19,
+    "count": 15,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,8 +40,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 31,
-    "totalStars": 113,
+    "count": 25,
+    "totalStars": 114,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -64,20 +64,20 @@
   },
   {
     "name": "C++",
-    "count": 10,
-    "totalStars": 65,
+    "count": 8,
+    "totalStars": 64,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "DarlingEclipse/TF04-Exodus",
-      "DarlingEclipse/DarlingEclipseCommon"
+      "snowbelll/ShotDayTimer",
+      "snowbelll/FitnessMath"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 16,
+    "count": 15,
     "totalStars": 59,
     "color": "#3178C6",
     "topRepositories": [
@@ -90,15 +90,15 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 11,
     "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
+      "Demtakeniri/Rune-Walkers",
       "othertime/gratisforgratis",
-      "kaan38/NexoraMenu",
-      "Demtakeniri/Rune-Walkers"
+      "kaan38/NexoraMenu"
     ]
   },
   {
@@ -110,34 +110,34 @@
       "gitea/website",
       "gitea/theme",
       "xorm/website2",
-      "Insoulum/Insoulum-Web",
-      "lanticy/cAssets"
+      "firavoyage/blogging",
+      "App4you/rustpress-theme-default"
     ]
   },
   {
     "name": "Python",
-    "count": 54,
-    "totalStars": 32,
+    "count": 45,
+    "totalStars": 31,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "witherzuo/NewsPhoto"
+      "russellb9/bongda"
     ]
   },
   {
     "name": "Shell",
-    "count": 17,
+    "count": 15,
     "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "Nufantim/xcode-deploy",
-      "csimons/dotfiles"
+      "musenode1/container-hello",
+      "8ygiwu1mwnkf/deployvera-xray"
     ]
   },
   {
@@ -172,13 +172,12 @@
   },
   {
     "name": "Makefile",
-    "count": 4,
+    "count": 3,
     "totalStars": 15,
     "color": "#64748B",
     "topRepositories": [
       "gitea/actions-proto-def",
       "rozhuk.im/freebsd-ports",
-      "Mnskkyy/proprietary_vendor_xiaomi_rosemary",
       "gitea/redirects"
     ]
   },
@@ -190,22 +189,20 @@
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "istareatscreens/m2pDHooks",
-      "haekalsaputra/XyDesk-Remote",
-      "burhbayr/Prayer_App_UnaWatch"
+      "gioroin02/pax",
+      "rozhuk.im/liblcb",
+      "theweathervane/a3mx"
     ]
   },
   {
     "name": "CSS",
-    "count": 6,
+    "count": 3,
     "totalStars": 13,
     "color": "#563D7C",
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
-      "pooneyy/1Panel-Appstore",
-      "DAEMON-404/daemon-sec-lotl",
-      "curben/blog"
+      "pooneyy/1Panel-Appstore"
     ]
   },
   {
@@ -221,14 +218,14 @@
   },
   {
     "name": "Rust",
-    "count": 8,
+    "count": 6,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
+      "woolster2020/vc",
       "fm-elpac/pm-sysd-w",
-      "lebron/tentacle",
       "carloscage/twow"
     ]
   },
@@ -243,13 +240,11 @@
   },
   {
     "name": "PowerShell",
-    "count": 5,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "DAEMON-404/daemon-sec-cheatsheet",
-      "boxiaolanya2008/niugu-skill",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -261,17 +256,6 @@
     "color": "#64748B",
     "topRepositories": [
       "tabzlock/0tube"
-    ]
-  },
-  {
-    "name": "Kotlin",
-    "count": 3,
-    "totalStars": 3,
-    "color": "#A97BFF",
-    "topRepositories": [
-      "lingyicute/repoPackage",
-      "Eupp/Wt",
-      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -296,14 +280,13 @@
     ]
   },
   {
-    "name": "Jupyter Notebook",
-    "count": 3,
-    "totalStars": 1,
-    "color": "#64748B",
+    "name": "Kotlin",
+    "count": 2,
+    "totalStars": 2,
+    "color": "#A97BFF",
     "topRepositories": [
-      "pure-book/note",
-      "RMPlaysMCYT/Corn-Detection-System",
-      "serpdotai/bark-with-voice-clone"
+      "Eupp/Wt",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -318,32 +301,12 @@
     ]
   },
   {
-    "name": "Nix",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#7E7EFF",
-    "topRepositories": [
-      "Weeble/nix-config",
-      "techknowlogick/tklk-flake"
-    ]
-  },
-  {
-    "name": "Batchfile",
-    "count": 2,
-    "totalStars": 1,
-    "color": "#64748B",
-    "topRepositories": [
-      "lhb/Knob_ESP32S3",
-      "andry81/contools"
-    ]
-  },
-  {
     "name": "Lua",
     "count": 2,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
-      "disorganizedhivemind/ModHelper",
+      "matt456/df",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
@@ -357,6 +320,24 @@
     ]
   },
   {
+    "name": "Batchfile",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "andry81/contools"
+    ]
+  },
+  {
+    "name": "Jupyter Notebook",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "PostScript",
     "count": 1,
     "totalStars": 1,
@@ -366,32 +347,32 @@
     ]
   },
   {
-    "name": "Dart",
-    "count": 2,
-    "totalStars": 0,
-    "color": "#00B4AB",
-    "topRepositories": [
-      "doors/multi_memo",
-      "application/coco_clipboard_scanner"
-    ]
-  },
-  {
     "name": "CSV",
     "count": 2,
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "vardagsspararen/matbudget-mall",
-      "tiagocorreiatv/tv-internet-estabilidade"
+      "storcentredk/danske-storcentre",
+      "vardagsspararen/matbudget-mall"
     ]
   },
   {
-    "name": "TSQL",
+    "name": "Swift",
+    "count": 2,
+    "totalStars": 0,
+    "color": "#F05138",
+    "topRepositories": [
+      "snowbelll/InjectionSiteRotation",
+      "snowbelll/NutritionMath"
+    ]
+  },
+  {
+    "name": "Nix",
     "count": 1,
     "totalStars": 0,
-    "color": "#64748B",
+    "color": "#7E7EFF",
     "topRepositories": [
-      "vianandaMegaria/source"
+      "Weeble/nix-config"
     ]
   },
   {
@@ -400,16 +381,25 @@
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
-      "pckeeper11/My-Project"
+      "teamlead/3davto"
     ]
   },
   {
-    "name": "Zig",
+    "name": "TeX",
     "count": 1,
     "totalStars": 0,
-    "color": "#EC915C",
+    "color": "#64748B",
     "topRepositories": [
-      "tjira/zinq"
+      "xtyner2/NetOrientations"
+    ]
+  },
+  {
+    "name": "Erlang",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "puebo40/highProxy"
     ]
   },
   {
@@ -422,21 +412,12 @@
     ]
   },
   {
-    "name": "Swift",
+    "name": "Dart",
     "count": 1,
     "totalStars": 0,
-    "color": "#F05138",
+    "color": "#00B4AB",
     "topRepositories": [
-      "infocollector/info-collector-ios"
-    ]
-  },
-  {
-    "name": "Checksums",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "Yushiro_Yukina/yukina-manga-reader"
+      "application/coco_clipboard_scanner"
     ]
   }
 ]

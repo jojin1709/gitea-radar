@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 269,
-    "totalStars": 844,
+    "count": 278,
+    "totalStars": 843,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,15 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 43,
+    "count": 45,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "CyberShell/hostfiles",
       "loki-s3c/ctf-casefiles",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "loki-s3c/pwn-casefiles",
+      "dadidang/zinc"
     ]
   },
   {
@@ -48,7 +48,7 @@
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 26,
+    "count": 27,
     "totalStars": 483,
     "iconName": "Terminal",
     "topRepositories": [
@@ -93,22 +93,22 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
-    "totalStars": 165,
+    "count": 14,
+    "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
       "gitea/helm-gitea",
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "zaccesss/melophos"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
+    "count": 12,
     "totalStars": 459,
     "iconName": "Workflow",
     "topRepositories": [
@@ -173,10 +173,10 @@
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
       "zaccesss/melophos",
       "zaccesss/zacess",
-      "zaccesss/phaemos",
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -198,12 +198,11 @@
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
-    "totalStars": 58,
+    "count": 3,
+    "totalStars": 57,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
-      "starclimber/TinyMCServer",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]
@@ -212,13 +211,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 3,
-    "totalStars": 43,
+    "count": 2,
+    "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos",
-      "paoloronco/OrbitPage"
+      "zaccesss/melophos"
     ]
   },
   {

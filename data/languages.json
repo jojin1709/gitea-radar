@@ -1,8 +1,8 @@
 [
   {
     "name": "Go",
-    "count": 58,
-    "totalStars": 1527,
+    "count": 55,
+    "totalStars": 1525,
     "color": "#00ADD8",
     "topRepositories": [
       "xorm/xorm",
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 8,
-    "totalStars": 259,
+    "count": 7,
+    "totalStars": 260,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "Mojtaba20/ai-workflow",
-      "howardzhow/Veliki_Zavorushennya"
+      "howardzhow/Veliki_Zavorushennya",
+      "robiny4783/notes"
     ]
   },
   {
     "name": "Java",
-    "count": 15,
+    "count": 16,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,8 +40,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 31,
-    "totalStars": 114,
+    "count": 34,
+    "totalStars": 117,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -53,33 +53,32 @@
   },
   {
     "name": "Go Template",
-    "count": 4,
+    "count": 3,
     "totalStars": 106,
     "color": "#64748B",
     "topRepositories": [
       "gitea/helm-gitea",
       "gitea/helm-actions",
-      "mcereda/dotfiles",
       "kkloud-argocd/gitops-argocd"
     ]
   },
   {
     "name": "C++",
-    "count": 8,
+    "count": 9,
     "totalStars": 64,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "snowbelll/ShotDayTimer",
-      "snowbelll/FitnessMath"
+      "eson57/harbour-sailtoilet",
+      "snowbelll/ShotDayTimer"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 17,
-    "totalStars": 60,
+    "count": 15,
+    "totalStars": 59,
     "color": "#3178C6",
     "topRepositories": [
       "gitea/docs",
@@ -91,20 +90,20 @@
   },
   {
     "name": "C#",
-    "count": 10,
+    "count": 13,
     "totalStars": 51,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "aHuddini/UniPlaySong",
-      "othertime/gratisforgratis",
+      "kaan38/NexoraMenu",
+      "qornwh/ProjectP_Client",
       "Demtakeniri/Rune-Walkers"
     ]
   },
   {
     "name": "HTML",
-    "count": 10,
+    "count": 9,
     "totalStars": 34,
     "color": "#E34C26",
     "topRepositories": [
@@ -117,21 +116,21 @@
   },
   {
     "name": "Python",
-    "count": 43,
-    "totalStars": 33,
+    "count": 50,
+    "totalStars": 32,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "WAMCoin/wam-coin"
+      "loewer/bongda"
     ]
   },
   {
     "name": "Shell",
-    "count": 18,
-    "totalStars": 31,
+    "count": 16,
+    "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
@@ -163,12 +162,11 @@
   },
   {
     "name": "SVG",
-    "count": 2,
+    "count": 1,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise",
-      "HafiziRuslan/.profile"
+      "KudbiOdd/easy-switch-hacking-shise"
     ]
   },
   {
@@ -184,15 +182,15 @@
   },
   {
     "name": "C",
-    "count": 13,
-    "totalStars": 14,
+    "count": 10,
+    "totalStars": 13,
     "color": "#555555",
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "rozhuk.im/liblcb",
       "gabordemooij/xoscript",
-      "theweathervane/a3mx"
+      "theweathervane/a3mx",
+      "haekalsaputra/XyDesk-Remote"
     ]
   },
   {
@@ -203,33 +201,34 @@
     "topRepositories": [
       "goftp/ftpd",
       "cereci5049/Shoppers",
+      "MAGINSTER/GTA-VI-Theme-Discord",
       "pooneyy/1Panel-Appstore",
-      "fadisuleiman1991/task-manager-frontend",
-      "curben/blog"
+      "fadisuleiman1991/task-manager-frontend"
     ]
   },
   {
     "name": "Vue",
-    "count": 3,
+    "count": 4,
     "totalStars": 11,
     "color": "#41B883",
     "topRepositories": [
       "gerazo/eltelive",
       "sapk/explore-webapp",
-      "WebPlay/client"
+      "WebPlay/client",
+      "TuWeijian/yudao-practice"
     ]
   },
   {
     "name": "Rust",
-    "count": 7,
+    "count": 8,
     "totalStars": 7,
     "color": "#DEA584",
     "topRepositories": [
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
+      "Louranicas/deep-diff-forge",
       "woolster2020/vc",
-      "zaccesss/zacess",
-      "fm-elpac/pm-sysd-w"
+      "lebron/tentacle"
     ]
   },
   {
@@ -243,11 +242,12 @@
   },
   {
     "name": "PowerShell",
-    "count": 3,
+    "count": 4,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
+      "magicedy/Scoop",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -294,6 +294,17 @@
     ]
   },
   {
+    "name": "Jupyter Notebook",
+    "count": 3,
+    "totalStars": 1,
+    "color": "#64748B",
+    "topRepositories": [
+      "pure-book/note",
+      "RMPlaysMCYT/Corn-Detection-System",
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
     "name": "F*",
     "count": 3,
     "totalStars": 1,
@@ -305,32 +316,41 @@
     ]
   },
   {
-    "name": "Jupyter Notebook",
+    "name": "Batchfile",
     "count": 2,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "RMPlaysMCYT/Corn-Detection-System",
-      "serpdotai/bark-with-voice-clone"
+      "zcxt-public/zcxt-updates",
+      "andry81/contools"
     ]
   },
   {
-    "name": "Nix",
+    "name": "Lua",
     "count": 2,
     "totalStars": 1,
-    "color": "#7E7EFF",
+    "color": "#000080",
     "topRepositories": [
-      "techknowlogick/tklk-flake",
-      "Weeble/nix-config"
+      "lebron/BigWigs",
+      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
-    "name": "Batchfile",
+    "name": "templ",
     "count": 1,
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "andry81/contools"
+      "magicedy/scoop-bucket-m"
+    ]
+  },
+  {
+    "name": "Nix",
+    "count": 1,
+    "totalStars": 1,
+    "color": "#7E7EFF",
+    "topRepositories": [
+      "techknowlogick/tklk-flake"
     ]
   },
   {
@@ -340,15 +360,6 @@
     "color": "#64748B",
     "topRepositories": [
       "vquie/act_runner-helm"
-    ]
-  },
-  {
-    "name": "Lua",
-    "count": 1,
-    "totalStars": 1,
-    "color": "#000080",
-    "topRepositories": [
-      "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
   {
@@ -362,12 +373,24 @@
   },
   {
     "name": "PHP",
-    "count": 2,
+    "count": 3,
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
-      "rozhuk.im/ssdpd",
-      "teamlead/3davto"
+      "GrimsGramS/cookrs",
+      "pckeeper11/My-Project",
+      "rozhuk.im/ssdpd"
+    ]
+  },
+  {
+    "name": "Swift",
+    "count": 3,
+    "totalStars": 0,
+    "color": "#F05138",
+    "topRepositories": [
+      "infocollector/info-collector-ios",
+      "snowbelll/InjectionSiteRotation",
+      "snowbelll/NutritionMath"
     ]
   },
   {
@@ -381,13 +404,21 @@
     ]
   },
   {
-    "name": "Swift",
-    "count": 2,
+    "name": "TSQL",
+    "count": 1,
     "totalStars": 0,
-    "color": "#F05138",
+    "color": "#64748B",
     "topRepositories": [
-      "snowbelll/InjectionSiteRotation",
-      "snowbelll/NutritionMath"
+      "vianandaMegaria/source"
+    ]
+  },
+  {
+    "name": "mcfunction",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "wifi-left/Map-MiniGames"
     ]
   },
   {

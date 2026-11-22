@@ -3,75 +3,45 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 282,
-    "totalStars": 850,
+    "count": 151,
+    "totalStars": 573,
     "iconName": "Folder",
     "topRepositories": [
-      "gitea/gitea-mcp",
-      "akouzoukos/apotris",
-      "BladeMight/Mahou",
-      "gitea/act",
-      "gitea/changelog"
+      "accountsexpert/budget-vs-actual-variance-workbook",
+      "accountsexpert/bank-reconciliation-template",
+      "muse-xray-deploy/xray-render",
+      "lotslipnotes/export-shelf-notes",
+      "GaimingkaProjectsA/Lucky-Block-Omega-Tab"
     ]
   },
   {
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 45,
+    "count": 43,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "cp-api-mirror/wl",
-      "loki-s3c/ctf-casefiles",
-      "cyberwarn/CyberWarn",
-      "CyberShell/hostfiles"
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat",
+      "willylands/FiveM-External-Cheat"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 25,
-    "totalStars": 27,
+    "count": 23,
+    "totalStars": 18,
     "iconName": "Sparkles",
     "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "nazdridoy/ngpt",
       "supertj/aicheckerhumanizer-mcp",
       "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone"
-    ]
-  },
-  {
-    "id": "cli",
-    "name": "CLI",
-    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 24,
-    "totalStars": 485,
-    "iconName": "Terminal",
-    "topRepositories": [
-      "gitea/tea",
-      "Oringo-Client/Oringo-Client",
-      "gitea/cli",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client"
-    ]
-  },
-  {
-    "id": "web",
-    "name": "Web",
-    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 17,
-    "totalStars": 81,
-    "iconName": "Globe",
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "lunny/tango",
-      "nettleweb/nettleweb",
-      "WebPlay/client",
-      "cereci5049/Shoppers"
+      "serpdotai/bark-with-voice-clone",
+      "serpdotai/ChatGPT-Plugins",
+      "pckiller2016/ponytail"
     ]
   },
   {
@@ -82,8 +52,8 @@
     "totalStars": 28,
     "iconName": "Bot",
     "topRepositories": [
-      "jonasfranz/staletea",
       "Griefed/ServerPackCreator",
+      "jonasfranz/staletea",
       "its-theo/NukeCord",
       "VernonG/FiveM-External-Cheat",
       "willylands/FiveM-External-Cheat"
@@ -97,41 +67,71 @@
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
+      "supertj/aicheckerhumanizer-mcp",
       "gitea/helm-gitea",
       "goftp/server",
       "gitea/helm-actions",
-      "goftp/ftpd",
-      "supertj/aicheckerhumanizer-mcp"
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "id": "web",
+    "name": "Web",
+    "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
+    "count": 14,
+    "totalStars": 69,
+    "iconName": "Globe",
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "ShutUpYouSlut/Inter-Forky",
+      "lunny/tango",
+      "dadidang/zinc",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "id": "cli",
+    "name": "CLI",
+    "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
+    "count": 12,
+    "totalStars": 342,
+    "iconName": "Terminal",
+    "topRepositories": [
+      "gitea/tea",
+      "xorm/reverse",
+      "gitea/cli",
+      "xorm/cmd",
+      "gitea/migrator"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 11,
-    "totalStars": 460,
+    "count": 9,
+    "totalStars": 448,
     "iconName": "Workflow",
     "topRepositories": [
-      "gitea/runner",
+      "AshrafByte/apb-regblock-uvm",
       "gitea/helm-gitea",
+      "gitea/runner",
       "DuarteSantos/openGym",
-      "gitea/helm-actions",
-      "QYG2297248353/appstore-1panel"
+      "gitea/helm-actions"
     ]
   },
   {
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 10,
-    "totalStars": 9,
+    "count": 8,
+    "totalStars": 3,
     "iconName": "Gamepad2",
     "topRepositories": [
-      "nettleweb/nettleweb",
-      "kaan38/NexoraMenu",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "pckiller2016/ponytail"
+      "pckiller2016/ponytail",
+      "FlowMagic/redENGINE-FiveM",
+      "grokmeme/gpt4free"
     ]
   },
   {
@@ -150,21 +150,6 @@
     ]
   },
   {
-    "id": "databases",
-    "name": "Databases",
-    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
-    "totalStars": 420,
-    "iconName": "Database",
-    "topRepositories": [
-      "xorm/xorm",
-      "cereci5049/Shoppers",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
     "id": "networking",
     "name": "Networking",
     "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
@@ -177,6 +162,20 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
+    ]
+  },
+  {
+    "id": "databases",
+    "name": "Databases",
+    "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
+    "count": 4,
+    "totalStars": 417,
+    "iconName": "Database",
+    "topRepositories": [
+      "xorm/xorm",
+      "serpdotai/bark-with-voice-clone",
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -201,20 +200,19 @@
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
-      "loki-s3c/ctf-casefiles",
-      "bensams/671"
+      "bensams/671",
+      "loki-s3c/ctf-casefiles"
     ]
   },
   {
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
+    "count": 1,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
-      "DuarteSantos/openGym",
-      "rozhuk.im/ssdpd"
+      "DuarteSantos/openGym"
     ]
   },
   {

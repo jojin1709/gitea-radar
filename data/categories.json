@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 281,
-    "totalStars": 846,
+    "count": 270,
+    "totalStars": 848,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,32 +23,32 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "cyberwarn/CyberWarn",
-      "CyberShell/hostfiles",
       "loki-s3c/ctf-casefiles",
-      "dadidang/zinc"
+      "zc4414194/id-card-redact",
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 27,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "zaccesss/dotfiles",
       "zaccesss/phaemos",
-      "PublicAffairs/openai-github-copilot"
+      "zaccesss/dotfiles",
+      "lyl20021213-debug/chatgpt-chinese-skill"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 24,
+    "count": 27,
     "totalStars": 485,
     "iconName": "Terminal",
     "topRepositories": [
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 21,
+    "count": 24,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
+    "count": 15,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -108,7 +108,7 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 13,
+    "count": 12,
     "totalStars": 460,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,22 +123,22 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 10,
+    "count": 12,
     "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
       "zaccesss/.profile",
-      "ShutUpYouSlut/Inter-Forky",
-      "dadidang/zinc",
-      "pckiller2016/ponytail"
+      "MrTREX/lineage2ts",
+      "kaan38/NexoraMenu",
+      "ShutUpYouSlut/Inter-Forky"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 8,
+    "count": 9,
     "totalStars": 420,
     "iconName": "Database",
     "topRepositories": [
@@ -146,7 +146,7 @@
       "cereci5049/Shoppers",
       "zaccesss/phaemos",
       "zaccesss/melophos",
-      "undefinedx96/mernix"
+      "MrTREX/lineage2ts"
     ]
   },
   {
@@ -159,9 +159,24 @@
     "topRepositories": [
       "gitea/go-sdk",
       "zaccesss/dotfiles",
+      "gitea/sdk.js",
       "hexmos/FreeDevTools",
-      "pckiller2016/ponytail",
-      "gitea/sdk.js"
+      "pckiller2016/ponytail"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 6,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "MrTREX/lineage2ts",
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
     ]
   },
   {
@@ -173,25 +188,10 @@
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
-      "loki-s3c/ctf-casefiles",
-      "zaccesss/zacess",
       "zaccesss/phaemos",
-      "zaccesss/melophos"
-    ]
-  },
-  {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 5,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy",
-      "yslxotwod/wifisting"
+      "zaccesss/melophos",
+      "zaccesss/zacess",
+      "loki-s3c/ctf-casefiles"
     ]
   },
   {

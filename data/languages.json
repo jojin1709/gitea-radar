@@ -1,7 +1,7 @@
 [
   {
     "name": "Go",
-    "count": 55,
+    "count": 57,
     "totalStars": 1524,
     "color": "#00ADD8",
     "topRepositories": [
@@ -14,20 +14,20 @@
   },
   {
     "name": "Markdown",
-    "count": 10,
+    "count": 7,
     "totalStars": 260,
     "color": "#64748B",
     "topRepositories": [
       "gitea/awesome-gitea",
       "xorm/manual-zh-CN",
       "gitea/gitea-tea-skill",
-      "excel-experts/excel-inventory-reorder-planner",
-      "excel-experts/excel-sales-pipeline-tracker"
+      "howardzhow/Veliki_Zavorushennya",
+      "naz888z/bds-screener"
     ]
   },
   {
     "name": "Java",
-    "count": 21,
+    "count": 17,
     "totalStars": 181,
     "color": "#B07219",
     "topRepositories": [
@@ -40,8 +40,8 @@
   },
   {
     "name": "JavaScript",
-    "count": 32,
-    "totalStars": 115,
+    "count": 29,
+    "totalStars": 116,
     "color": "#F1E05A",
     "topRepositories": [
       "DuarteSantos/openGym",
@@ -63,20 +63,20 @@
   },
   {
     "name": "C++",
-    "count": 11,
+    "count": 8,
     "totalStars": 66,
     "color": "#F34B7D",
     "topRepositories": [
       "akouzoukos/apotris",
       "JerryALT/iw3sp_mod",
       "sasko.usinov/orbitiny-desktop",
-      "tanwk/apotris",
-      "truffle/apotris"
+      "bnagaj/morel",
+      "bnagaj/basil"
     ]
   },
   {
     "name": "TypeScript",
-    "count": 19,
+    "count": 21,
     "totalStars": 60,
     "color": "#3178C6",
     "topRepositories": [
@@ -89,54 +89,54 @@
   },
   {
     "name": "C#",
-    "count": 9,
-    "totalStars": 51,
+    "count": 12,
+    "totalStars": 49,
     "color": "#64748B",
     "topRepositories": [
       "BladeMight/Mahou",
       "Eldesan/wotlk-windows-launcher",
-      "aHuddini/UniPlaySong",
-      "Demtakeniri/Rune-Walkers",
-      "Maksim_Karpov/winPizzaHub"
-    ]
-  },
-  {
-    "name": "HTML",
-    "count": 12,
-    "totalStars": 35,
-    "color": "#E34C26",
-    "topRepositories": [
-      "gitea/website",
-      "gitea/theme",
-      "xorm/website2",
-      "agent-skills/agent-skills",
-      "firavoyage/blogging"
+      "MrDrone-ru/Mahou_ney",
+      "kaan38/NexoraMenu-Android",
+      "kaan38/NexoraMenu"
     ]
   },
   {
     "name": "Python",
-    "count": 50,
-    "totalStars": 32,
+    "count": 57,
+    "totalStars": 34,
     "color": "#3572A5",
     "topRepositories": [
       "yige/github2gitea",
       "MyEMS/MyEMS",
       "vsnits/Phibrajry",
       "nazdridoy/ngpt",
-      "cyberwarn/CyberWarn"
+      "talonpanel/perfectpanel-client"
+    ]
+  },
+  {
+    "name": "HTML",
+    "count": 11,
+    "totalStars": 34,
+    "color": "#E34C26",
+    "topRepositories": [
+      "gitea/website",
+      "gitea/theme",
+      "xorm/website2",
+      "thebenmeadows/tbm",
+      "firavoyage/blogging"
     ]
   },
   {
     "name": "Shell",
-    "count": 19,
+    "count": 17,
     "totalStars": 30,
     "color": "#89E051",
     "topRepositories": [
       "QYG2297248353/appstore-1panel",
       "gitea/test-openldap",
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
-      "Nufantim/xcode-deploy",
-      "zaccesss/dotfiles"
+      "zaccesss/dotfiles",
+      "csimons/dotfiles"
     ]
   },
   {
@@ -151,21 +151,37 @@
   },
   {
     "name": "Ruby",
-    "count": 2,
+    "count": 4,
     "totalStars": 21,
     "color": "#701516",
     "topRepositories": [
       "gitea/homebrew-gitea",
+      "HomebrewUpdateBot/brew",
+      "cryptoesim/redmine_crypto_address",
       "xy/aptools"
     ]
   },
   {
     "name": "SVG",
-    "count": 1,
+    "count": 2,
     "totalStars": 20,
     "color": "#64748B",
     "topRepositories": [
-      "KudbiOdd/easy-switch-hacking-shise"
+      "KudbiOdd/easy-switch-hacking-shise",
+      "HafiziRuslan/.profile"
+    ]
+  },
+  {
+    "name": "CSS",
+    "count": 7,
+    "totalStars": 15,
+    "color": "#563D7C",
+    "topRepositories": [
+      "goftp/ftpd",
+      "cereci5049/Shoppers",
+      "bnagaj/lima",
+      "scorpp13/hypr-void",
+      "pooneyy/1Panel-Appstore"
     ]
   },
   {
@@ -187,22 +203,9 @@
     "topRepositories": [
       "rozhuk.im/freebsd",
       "SeeTheWall/shader-desk",
-      "gabordemooij/xoscript",
-      "burhbayr/Prayer_App_UnaWatch",
+      "theweathervane/a3mx",
+      "Furina/DataStructureEX",
       "Oddler/IceDog-Browser"
-    ]
-  },
-  {
-    "name": "CSS",
-    "count": 6,
-    "totalStars": 13,
-    "color": "#563D7C",
-    "topRepositories": [
-      "goftp/ftpd",
-      "cereci5049/Shoppers",
-      "curben/blog",
-      "pooneyy/1Panel-Appstore",
-      "MAGINSTER/GTA-VI-Theme-Discord"
     ]
   },
   {
@@ -226,8 +229,8 @@
       "pipelight/pipelight",
       "Goubayu_WuTeng/Turtle-WOW-BENILLA",
       "Louranicas/deep-diff-forge",
-      "RemedyDev/Gmod-Theme-Engine",
-      "zaccesss/zacess"
+      "zaccesss/zacess",
+      "woolster2020/vc"
     ]
   },
   {
@@ -241,12 +244,11 @@
   },
   {
     "name": "PowerShell",
-    "count": 4,
+    "count": 3,
     "totalStars": 4,
     "color": "#64748B",
     "topRepositories": [
       "naz888z/workflow-playbook",
-      "vashistadheeraj9/IRT",
       "anhtn512/burp-burp",
       "mureeb/burp-pro"
     ]
@@ -261,6 +263,17 @@
     ]
   },
   {
+    "name": "Kotlin",
+    "count": 3,
+    "totalStars": 3,
+    "color": "#A97BFF",
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "lingyicute/repoPackage",
+      "Rimpest/LocalTube"
+    ]
+  },
+  {
     "name": "HCL",
     "count": 3,
     "totalStars": 3,
@@ -269,16 +282,6 @@
       "sean.akers/proxmox-packer-ubuntu_server_24_04_docker",
       "sean.akers/proxmox-packer-ubuntu_server_24_04_gitea_runner",
       "sean.akers/proxmox-packer-ubuntu_server_24_04_podman"
-    ]
-  },
-  {
-    "name": "Kotlin",
-    "count": 2,
-    "totalStars": 3,
-    "color": "#A97BFF",
-    "topRepositories": [
-      "lingyicute/repoPackage",
-      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -293,12 +296,14 @@
   },
   {
     "name": "Lua",
-    "count": 3,
+    "count": 5,
     "totalStars": 1,
     "color": "#000080",
     "topRepositories": [
-      "carcheckhq/plate-year-quiz",
+      "cryptoesim/which-network",
+      "676767/UiInfo",
       "vesido6339/Zeno-ui-library",
+      "carcheckhq/plate-year-quiz",
       "YCaTGameRT/CaT_VoxeLibre_Tools"
     ]
   },
@@ -319,7 +324,7 @@
     "totalStars": 1,
     "color": "#64748B",
     "topRepositories": [
-      "RMPlaysMCYT/Corn-Detection-System",
+      "coworkingview-data/coworkingview-price-index",
       "serpdotai/bark-with-voice-clone"
     ]
   },
@@ -351,34 +356,43 @@
     ]
   },
   {
-    "name": "PHP",
+    "name": "templ",
     "count": 3,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "templ-icons/templ-lucide",
+      "templ-icons/templ-octicons",
+      "templ-icons/templ-heroicons"
+    ]
+  },
+  {
+    "name": "Prolog",
+    "count": 2,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "cryptoesim/usdt-network",
+      "cryptoesim/sms_otp_parse"
+    ]
+  },
+  {
+    "name": "PHP",
+    "count": 2,
     "totalStars": 0,
     "color": "#4F5D95",
     "topRepositories": [
-      "danburrall/Hollis-Kitchen",
-      "GrimsGramS/cookrs",
-      "teamlead/3davto"
+      "camillia/vem",
+      "GrimsGramS/cookrs"
     ]
   },
   {
-    "name": "Dart",
-    "count": 2,
+    "name": "R",
+    "count": 1,
     "totalStars": 0,
-    "color": "#00B4AB",
+    "color": "#64748B",
     "topRepositories": [
-      "doors/multi_memo",
-      "application/coco_clipboard_scanner"
-    ]
-  },
-  {
-    "name": "Swift",
-    "count": 2,
-    "totalStars": 0,
-    "color": "#F05138",
-    "topRepositories": [
-      "snowbelll/InjectionSiteRotation",
-      "snowbelll/NutritionMath"
+      "Oddler/Glorium"
     ]
   },
   {
@@ -391,21 +405,12 @@
     ]
   },
   {
-    "name": "Zig",
+    "name": "Nix",
     "count": 1,
     "totalStars": 0,
-    "color": "#EC915C",
+    "color": "#7E7EFF",
     "topRepositories": [
-      "tjira/zinq"
-    ]
-  },
-  {
-    "name": "Checksums",
-    "count": 1,
-    "totalStars": 0,
-    "color": "#64748B",
-    "topRepositories": [
-      "Maxmus007/bminer"
+      "Unverified/nix-config"
     ]
   },
   {
@@ -414,7 +419,25 @@
     "totalStars": 0,
     "color": "#64748B",
     "topRepositories": [
-      "storcentredk/danske-storcentre"
+      "vardagsspararen/matbudget-mall"
+    ]
+  },
+  {
+    "name": "Gradle",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#64748B",
+    "topRepositories": [
+      "21212112/Kidnapmod"
+    ]
+  },
+  {
+    "name": "Dart",
+    "count": 1,
+    "totalStars": 0,
+    "color": "#00B4AB",
+    "topRepositories": [
+      "application/coco_clipboard_scanner"
     ]
   }
 ]

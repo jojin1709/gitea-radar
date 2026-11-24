@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 270,
-    "totalStars": 848,
+    "count": 268,
+    "totalStars": 855,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,12 +18,12 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 44,
+    "count": 45,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "loki-s3c/ctf-casefiles",
+      "CyberShell/hostfiles",
       "zc4414194/id-card-redact",
       "dadidang/zinc",
       "jc-denton/OPSEC-OSINT-Tools"
@@ -49,12 +49,12 @@
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
     "count": 27,
-    "totalStars": 485,
+    "totalStars": 487,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
-      "Oringo-Client/Oringo-Client",
       "gitea/cli",
+      "Oringo-Client/Oringo-Client",
       "Pizza-Client/Pizza-Client",
       "Cheeto-Client/Cheeto-Client"
     ]
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 24,
+    "count": 25,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 12,
+    "count": 11,
     "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
       "zaccesss/.profile",
       "MrTREX/lineage2ts",
-      "kaan38/NexoraMenu",
-      "ShutUpYouSlut/Inter-Forky"
+      "ShutUpYouSlut/Inter-Forky",
+      "dadidang/zinc"
     ]
   },
   {
@@ -144,9 +144,9 @@
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "zaccesss/phaemos",
+      "undefinedx96/mernix",
       "zaccesss/melophos",
-      "MrTREX/lineage2ts"
+      "zaccesss/phaemos"
     ]
   },
   {
@@ -188,10 +188,10 @@
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
-      "zaccesss/phaemos",
       "zaccesss/melophos",
       "zaccesss/zacess",
-      "loki-s3c/ctf-casefiles"
+      "zaccesss/phaemos",
+      "bensams/671"
     ]
   },
   {

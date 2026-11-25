@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 15,
-    "totalStars": 698,
+    "totalStars": 699,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -232,8 +232,8 @@
     "count": 8,
     "totalStars": 5,
     "topRepositories": [
-      "jc-denton/OPSEC-OSINT-Tools",
       "K3ysTr0K3R/METIS",
+      "jc-denton/OPSEC-OSINT-Tools",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
       "byt3n33dl3/gxc-BloodHuntr"
@@ -300,18 +300,6 @@
     ]
   },
   {
-    "name": "privacy",
-    "count": 6,
-    "totalStars": 45,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor",
-      "thisago/safeWriting",
-      "ab-smith/ciso-assistant-community"
-    ]
-  },
-  {
     "name": "exploit",
     "count": 6,
     "totalStars": 0,
@@ -326,7 +314,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 314,
+    "totalStars": 315,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -341,10 +329,22 @@
     "totalStars": 70,
     "topRepositories": [
       "gitea/go-sdk",
-      "gitea/sdk.js",
       "PublicAffairs/openai-github-copilot",
+      "gitea/sdk.js",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
+    ]
+  },
+  {
+    "name": "privacy",
+    "count": 5,
+    "totalStars": 45,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "thisago/safeWriting",
+      "ab-smith/ciso-assistant-community",
+      "zc4414194/id-card-redact",
+      "rammiah/caddy"
     ]
   },
   {
@@ -405,7 +405,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 194,
+    "totalStars": 195,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -450,16 +450,6 @@
       "DuarteSantos/openGym",
       "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "react",
-    "count": 3,
-    "totalStars": 43,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "undefinedx96/mernix",
-      "ToolAnchor/websitegeek-seo-suite-tools"
     ]
   },
   {
@@ -513,26 +503,6 @@
     ]
   },
   {
-    "name": "python",
-    "count": 3,
-    "totalStars": 2,
-    "topRepositories": [
-      "talonpanel/perfectpanel-client",
-      "its-theo/NukeCord",
-      "grokmeme/gpt4free"
-    ]
-  },
-  {
-    "name": "automation",
-    "count": 3,
-    "totalStars": 2,
-    "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "Missou/ciso-assistant-community",
-      "zakirkun/guardian-cli"
-    ]
-  },
-  {
     "name": "ethical-hacking",
     "count": 3,
     "totalStars": 2,
@@ -553,13 +523,13 @@
     ]
   },
   {
-    "name": "client-side",
+    "name": "automation",
     "count": 3,
-    "totalStars": 1,
+    "totalStars": 2,
     "topRepositories": [
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor",
-      "ToolAnchor/websitegeek-seo-suite-tools"
+      "Griefed/ServerPackCreator",
+      "Missou/ciso-assistant-community",
+      "zakirkun/guardian-cli"
     ]
   },
   {
@@ -570,16 +540,6 @@
       "loki-s3c/ctf-casefiles",
       "caiqing/juice-shop",
       "rubayet123/rea"
-    ]
-  },
-  {
-    "name": "image-processing",
-    "count": 3,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor",
-      "zc4414194/global-passport-photo-specs"
     ]
   },
   {
@@ -647,12 +607,12 @@
     ]
   },
   {
-    "name": "windows",
+    "name": "react",
     "count": 2,
-    "totalStars": 41,
+    "totalStars": 43,
     "topRepositories": [
-      "BladeMight/Mahou",
-      "magicedy/Scoop"
+      "DuarteSantos/openGym",
+      "ToolAnchor/websitegeek-seo-suite-tools"
     ]
   },
   {
@@ -791,21 +751,12 @@
     ]
   },
   {
-    "name": "rest-api",
+    "name": "exploits",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
-      "undefinedx96/mernix",
-      "WebPlay/server"
-    ]
-  },
-  {
-    "name": "dotnet",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "kaan38/NexoraMenu",
-      "Falcon/Falcon.StoredProcedureRunner"
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -818,30 +769,21 @@
     ]
   },
   {
+    "name": "python",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "its-theo/NukeCord",
+      "grokmeme/gpt4free"
+    ]
+  },
+  {
     "name": "nginx",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "exploits",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "scoop",
-    "count": 2,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m",
-      "magicedy/Scoop"
     ]
   },
   {
@@ -869,6 +811,15 @@
     "topRepositories": [
       "jc-denton/OPSEC-OSINT-Tools",
       "phishdestroy/TgWitness"
+    ]
+  },
+  {
+    "name": "client-side",
+    "count": 2,
+    "totalStars": 1,
+    "topRepositories": [
+      "ToolAnchor/websitegeek-seo-suite-tools",
+      "zc4414194/id-card-redact"
     ]
   },
   {
@@ -1034,30 +985,39 @@
     ]
   },
   {
-    "name": "html5-canvas",
+    "name": "amateur-radio",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor"
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
-    "name": "web-tool",
+    "name": "mmdvm",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor"
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
-    "name": "zero-upload",
+    "name": "pi-star",
     "count": 2,
     "totalStars": 0,
     "topRepositories": [
-      "zc4414194/id-card-redact",
-      "zc4414194/paper-signature-extractor"
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "wpsd",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
@@ -1306,6 +1266,14 @@
     "totalStars": 42,
     "topRepositories": [
       "DuarteSantos/openGym"
+    ]
+  },
+  {
+    "name": "windows",
+    "count": 1,
+    "totalStars": 41,
+    "topRepositories": [
+      "BladeMight/Mahou"
     ]
   },
   {
@@ -1853,6 +1821,38 @@
     ]
   },
   {
+    "name": "c2",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
     "name": "fabric",
     "count": 1,
     "totalStars": 2,
@@ -1949,11 +1949,27 @@
     ]
   },
   {
+    "name": "rest-api",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "WebPlay/server"
+    ]
+  },
+  {
     "name": "backend",
     "count": 1,
     "totalStars": 2,
     "topRepositories": [
       "WebPlay/server"
+    ]
+  },
+  {
+    "name": "dotnet",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Falcon/Falcon.StoredProcedureRunner"
     ]
   },
   {
@@ -1970,54 +1986,6 @@
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
-    ]
-  },
-  {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "scoop-apps",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
-    ]
-  },
-  {
-    "name": "scoop-bucket",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "magicedy/scoop-bucket-m"
     ]
   },
   {
@@ -3285,166 +3253,6 @@
     ]
   },
   {
-    "name": "crud-application",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "express",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "mern-project",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "mongodb",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "typescript",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "video-player",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "undefinedx96/mernix"
-    ]
-  },
-  {
-    "name": "among-us",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "among-us-mod",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "among-us-mod-menu",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "among-us-mods",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "amongus",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "anticheat",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "bepinex",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "csharp",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "game-mod",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "gplv3",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "harmony",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "il2cpp",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "mod-menu",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
-    "name": "unity",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "kaan38/NexoraMenu"
-    ]
-  },
-  {
     "name": "cryptopals",
     "count": 1,
     "totalStars": 0,
@@ -3477,19 +3285,35 @@
     ]
   },
   {
-    "name": "installer",
+    "name": "allstarlink",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
-    "name": "powershell",
+    "name": "aprs",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "magicedy/Scoop"
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-beacon",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-telemetry",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
     ]
   },
   {
@@ -3514,174 +3338,6 @@
     "totalStars": 0,
     "topRepositories": [
       "Oddler/Glorium"
-    ]
-  },
-  {
-    "name": "api-client",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "talonpanel/perfectpanel-client"
-    ]
-  },
-  {
-    "name": "httpx",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "talonpanel/perfectpanel-client"
-    ]
-  },
-  {
-    "name": "perfect-panel",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "talonpanel/perfectpanel-client"
-    ]
-  },
-  {
-    "name": "smm",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "talonpanel/perfectpanel-client"
-    ]
-  },
-  {
-    "name": "id-card",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/id-card-redact"
-    ]
-  },
-  {
-    "name": "redaction",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/id-card-redact"
-    ]
-  },
-  {
-    "name": "security-tool",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/id-card-redact"
-    ]
-  },
-  {
-    "name": "watermark",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/id-card-redact"
-    ]
-  },
-  {
-    "name": "e-signature",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/paper-signature-extractor"
-    ]
-  },
-  {
-    "name": "pdf-signature",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/paper-signature-extractor"
-    ]
-  },
-  {
-    "name": "signature",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/paper-signature-extractor"
-    ]
-  },
-  {
-    "name": "transparent-png",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/paper-signature-extractor"
-    ]
-  },
-  {
-    "name": "biometrics",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "dataset",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "icao",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "id-photo",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "json-dataset",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "open-data",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "passport-photo",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "photography",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
-    ]
-  },
-  {
-    "name": "visa-photo",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "zc4414194/global-passport-photo-specs"
     ]
   },
   {
@@ -3794,6 +3450,70 @@
     "totalStars": 0,
     "topRepositories": [
       "pckiller2016/ponytail"
+    ]
+  },
+  {
+    "name": "html5-canvas",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "id-card",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "image-processing",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "redaction",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "security-tool",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "watermark",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "web-tool",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
+    ]
+  },
+  {
+    "name": "zero-upload",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "zc4414194/id-card-redact"
     ]
   },
   {

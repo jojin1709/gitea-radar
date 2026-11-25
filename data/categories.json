@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 268,
-    "totalStars": 854,
+    "count": 245,
+    "totalStars": 848,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,38 +18,38 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 44,
+    "count": 45,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "loki-s3c/ctf-casefiles",
-      "zc4414194/id-card-redact",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools"
+      "K3ysTr0K3R/METIS",
+      "CyberShell/hostfiles",
+      "dadidang/zinc"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 26,
+    "count": 25,
     "totalStars": 27,
     "iconName": "Sparkles",
     "topRepositories": [
       "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
       "Habibrayeq/ai-agent-workflow-builder",
-      "lyl20021213-debug/chatgpt-chinese-skill",
-      "PublicAffairs/openai-github-copilot"
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
     "id": "cli",
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
-    "count": 26,
-    "totalStars": 487,
+    "count": 23,
+    "totalStars": 488,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 21,
+    "count": 19,
     "totalStars": 81,
     "iconName": "Globe",
     "topRepositories": [
@@ -123,45 +123,45 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 10,
+    "count": 9,
     "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "kaan38/NexoraMenu",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "pckiller2016/ponytail"
+      "pckiller2016/ponytail",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 6,
+    "count": 5,
     "totalStars": 66,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
-      "AuberyLis/FillyFill",
-      "gitea/sdk.js",
       "hexmos/FreeDevTools",
-      "pckiller2016/ponytail"
+      "pckiller2016/ponytail",
+      "gitea/sdk.js",
+      "rubayet123/rea"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 6,
+    "count": 5,
     "totalStars": 420,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
       "cereci5049/Shoppers",
-      "undefinedx96/mernix",
       "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner"
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -209,11 +209,12 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 1,
+    "count": 2,
     "totalStars": 42,
     "iconName": "Home",
     "topRepositories": [
-      "DuarteSantos/openGym"
+      "DuarteSantos/openGym",
+      "Woxels/woxie-homelab-kuberneties"
     ]
   },
   {

@@ -3,45 +3,45 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 245,
-    "totalStars": 848,
+    "count": 272,
+    "totalStars": 851,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
       "akouzoukos/apotris",
       "BladeMight/Mahou",
       "gitea/act",
-      "gitea/changelog"
+      "WEP-56/HGhub-Plugin"
     ]
   },
   {
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 45,
+    "count": 44,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
       "loki-s3c/ctf-casefiles",
-      "K3ysTr0K3R/METIS",
-      "CyberShell/hostfiles",
-      "dadidang/zinc"
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 25,
-    "totalStars": 27,
+    "count": 24,
+    "totalStars": 23,
     "iconName": "Sparkles",
     "topRepositories": [
-      "Eldesan/Azerothcore-llm-nvidia-amd-linux-Universal",
       "nazdridoy/ngpt",
-      "Habibrayeq/ai-agent-workflow-builder",
+      "AICS/AICS",
       "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone"
+      "serpdotai/bark-with-voice-clone",
+      "serpdotai/ChatGPT-Plugins"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
     "count": 23,
-    "totalStars": 488,
+    "totalStars": 489,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,15 +63,15 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 19,
-    "totalStars": 81,
+    "count": 18,
+    "totalStars": 78,
     "iconName": "Globe",
     "topRepositories": [
       "DuarteSantos/openGym",
       "lunny/tango",
       "nettleweb/nettleweb",
       "WebPlay/client",
-      "cereci5049/Shoppers"
+      "undefinedx96/mernix"
     ]
   },
   {
@@ -108,8 +108,8 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
-    "totalStars": 460,
+    "count": 9,
+    "totalStars": 461,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -135,17 +135,32 @@
     ]
   },
   {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 6,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "LakshitSinghBishtTM/snowflake",
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy"
+    ]
+  },
+  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
     "count": 5,
-    "totalStars": 66,
+    "totalStars": 67,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
+      "gitea/sdk.js",
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail",
-      "gitea/sdk.js",
       "rubayet123/rea"
     ]
   },
@@ -154,29 +169,14 @@
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
     "count": 5,
-    "totalStars": 420,
+    "totalStars": 417,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
-      "cereci5049/Shoppers",
+      "undefinedx96/mernix",
       "serpdotai/bark-with-voice-clone",
       "Falcon/Falcon.StoredProcedureRunner",
       "mmattklaus/go-jwt-demo"
-    ]
-  },
-  {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 5,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy",
-      "yslxotwod/wifisting"
     ]
   },
   {

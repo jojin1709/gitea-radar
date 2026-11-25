@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 15,
-    "totalStars": 699,
+    "totalStars": 701,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -232,8 +232,8 @@
     "count": 8,
     "totalStars": 5,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
       "jc-denton/OPSEC-OSINT-Tools",
+      "K3ysTr0K3R/METIS",
       "palmcoasty/bunkerweb",
       "ab-smith/ciso-assistant-community",
       "byt3n33dl3/gxc-BloodHuntr"
@@ -314,7 +314,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 315,
+    "totalStars": 316,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -326,11 +326,11 @@
   {
     "name": "api",
     "count": 5,
-    "totalStars": 70,
+    "totalStars": 71,
     "topRepositories": [
       "gitea/go-sdk",
-      "PublicAffairs/openai-github-copilot",
       "gitea/sdk.js",
+      "PublicAffairs/openai-github-copilot",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
     ]
@@ -370,17 +370,6 @@
     ]
   },
   {
-    "name": "javascript",
-    "count": 4,
-    "totalStars": 6,
-    "topRepositories": [
-      "cereci5049/Shoppers",
-      "thisago/safeWriting",
-      "thisago/gm_api",
-      "caiqing/juice-shop"
-    ]
-  },
-  {
     "name": "reverse-engineering",
     "count": 4,
     "totalStars": 1,
@@ -405,7 +394,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 195,
+    "totalStars": 196,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -450,6 +439,16 @@
       "DuarteSantos/openGym",
       "Griefed/ServerPackCreator",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "react",
+    "count": 3,
+    "totalStars": 43,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "undefinedx96/mernix",
+      "ToolAnchor/websitegeek-seo-suite-tools"
     ]
   },
   {
@@ -503,6 +502,26 @@
     ]
   },
   {
+    "name": "javascript",
+    "count": 3,
+    "totalStars": 3,
+    "topRepositories": [
+      "thisago/safeWriting",
+      "thisago/gm_api",
+      "caiqing/juice-shop"
+    ]
+  },
+  {
+    "name": "automation",
+    "count": 3,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator",
+      "Missou/ciso-assistant-community",
+      "zakirkun/guardian-cli"
+    ]
+  },
+  {
     "name": "ethical-hacking",
     "count": 3,
     "totalStars": 2,
@@ -520,16 +539,6 @@
       "K3ysTr0K3R/METIS",
       "K3ysTr0K3R/CVE-2017-7921-EXPLOIT",
       "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
-    ]
-  },
-  {
-    "name": "automation",
-    "count": 3,
-    "totalStars": 2,
-    "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "Missou/ciso-assistant-community",
-      "zakirkun/guardian-cli"
     ]
   },
   {
@@ -564,7 +573,7 @@
   {
     "name": "gitea-actions",
     "count": 2,
-    "totalStars": 296,
+    "totalStars": 297,
     "topRepositories": [
       "gitea/runner",
       "actions/release-action"
@@ -573,7 +582,7 @@
   {
     "name": "sdk",
     "count": 2,
-    "totalStars": 65,
+    "totalStars": 66,
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js"
@@ -582,7 +591,7 @@
   {
     "name": "rest",
     "count": 2,
-    "totalStars": 65,
+    "totalStars": 66,
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js"
@@ -604,15 +613,6 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "WebPlay/server"
-    ]
-  },
-  {
-    "name": "react",
-    "count": 2,
-    "totalStars": 43,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "ToolAnchor/websitegeek-seo-suite-tools"
     ]
   },
   {
@@ -638,8 +638,8 @@
     "count": 2,
     "totalStars": 30,
     "topRepositories": [
-      "gitea/website",
-      "gitea/theme"
+      "gitea/theme",
+      "gitea/website"
     ]
   },
   {
@@ -688,15 +688,6 @@
     ]
   },
   {
-    "name": "nim",
-    "count": 2,
-    "totalStars": 5,
-    "topRepositories": [
-      "cereci5049/Shoppers",
-      "thisago/safeWriting"
-    ]
-  },
-  {
     "name": "vuejs",
     "count": 2,
     "totalStars": 4,
@@ -733,15 +724,6 @@
     ]
   },
   {
-    "name": "proxy",
-    "count": 2,
-    "totalStars": 3,
-    "topRepositories": [
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
     "name": "minecraft",
     "count": 2,
     "totalStars": 3,
@@ -751,12 +733,21 @@
     ]
   },
   {
-    "name": "exploits",
+    "name": "proxy",
+    "count": 2,
+    "totalStars": 3,
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot"
+    ]
+  },
+  {
+    "name": "rest-api",
     "count": 2,
     "totalStars": 2,
     "topRepositories": [
-      "K3ysTr0K3R/METIS",
-      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
+      "undefinedx96/mernix",
+      "WebPlay/server"
     ]
   },
   {
@@ -784,6 +775,15 @@
     "topRepositories": [
       "wower/hestiamb",
       "palmcoasty/bunkerweb"
+    ]
+  },
+  {
+    "name": "exploits",
+    "count": 2,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS",
+      "K3ysTr0K3R/CVE-2018-9995-EXPLOIT"
     ]
   },
   {
@@ -985,42 +985,6 @@
     ]
   },
   {
-    "name": "amateur-radio",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1143,7 +1107,7 @@
   {
     "name": "github-actions",
     "count": 1,
-    "totalStars": 287,
+    "totalStars": 288,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1151,7 +1115,7 @@
   {
     "name": "runner",
     "count": 1,
-    "totalStars": 287,
+    "totalStars": 288,
     "topRepositories": [
       "gitea/runner"
     ]
@@ -1741,38 +1705,6 @@
     ]
   },
   {
-    "name": "css",
-    "count": 1,
-    "totalStars": 3,
-    "topRepositories": [
-      "cereci5049/Shoppers"
-    ]
-  },
-  {
-    "name": "htmx",
-    "count": 1,
-    "totalStars": 3,
-    "topRepositories": [
-      "cereci5049/Shoppers"
-    ]
-  },
-  {
-    "name": "scss",
-    "count": 1,
-    "totalStars": 3,
-    "topRepositories": [
-      "cereci5049/Shoppers"
-    ]
-  },
-  {
-    "name": "sqlite3",
-    "count": 1,
-    "totalStars": 3,
-    "topRepositories": [
-      "cereci5049/Shoppers"
-    ]
-  },
-  {
     "name": "bloxd",
     "count": 1,
     "totalStars": 3,
@@ -1818,38 +1750,6 @@
     "totalStars": 3,
     "topRepositories": [
       "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
-    "name": "c2",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "cves",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "exploit-framework",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "metis",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "K3ysTr0K3R/METIS"
     ]
   },
   {
@@ -1949,14 +1849,6 @@
     ]
   },
   {
-    "name": "rest-api",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "WebPlay/server"
-    ]
-  },
-  {
     "name": "backend",
     "count": 1,
     "totalStars": 2,
@@ -1981,11 +1873,59 @@
     ]
   },
   {
+    "name": "nim",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "thisago/safeWriting"
+    ]
+  },
+  {
     "name": "userscript",
     "count": 1,
     "totalStars": 2,
     "topRepositories": [
       "thisago/safeWriting"
+    ]
+  },
+  {
+    "name": "c2",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "cves",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "exploit-framework",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "metis",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "K3ysTr0K3R/METIS"
+    ]
+  },
+  {
+    "name": "config",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "lingyicute/.profile"
     ]
   },
   {
@@ -3253,6 +3193,54 @@
     ]
   },
   {
+    "name": "crud-application",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
+    "name": "express",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
+    "name": "mern-project",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
+    "name": "mongodb",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
+    "name": "typescript",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
+    "name": "video-player",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "undefinedx96/mernix"
+    ]
+  },
+  {
     "name": "cryptopals",
     "count": 1,
     "totalStars": 0,
@@ -3285,59 +3273,19 @@
     ]
   },
   {
-    "name": "allstarlink",
+    "name": "censorship-circumvention",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
+      "LakshitSinghBishtTM/snowflake"
     ]
   },
   {
-    "name": "aprs",
+    "name": "tor-network",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-beacon",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-telemetry",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "web",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Oddler/Glorium"
-    ]
-  },
-  {
-    "name": "webapp",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Oddler/Glorium"
-    ]
-  },
-  {
-    "name": "website",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "Oddler/Glorium"
+      "LakshitSinghBishtTM/snowflake"
     ]
   },
   {

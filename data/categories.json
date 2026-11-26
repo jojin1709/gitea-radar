@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 272,
-    "totalStars": 851,
+    "count": 248,
+    "totalStars": 847,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,30 +18,30 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 44,
+    "count": 45,
     "totalStars": 56,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "CyberShell/hostfiles",
+      "cyberwarn/CyberWarn",
       "loki-s3c/ctf-casefiles",
-      "dadidang/zinc",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "VernonG/FiveM-External-Cheat"
+      "dadidang/zinc"
     ]
   },
   {
     "id": "ai",
     "name": "AI",
     "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 24,
-    "totalStars": 23,
+    "count": 23,
+    "totalStars": 22,
     "iconName": "Sparkles",
     "topRepositories": [
       "nazdridoy/ngpt",
-      "AICS/AICS",
       "PublicAffairs/openai-github-copilot",
       "serpdotai/bark-with-voice-clone",
-      "serpdotai/ChatGPT-Plugins"
+      "serpdotai/ChatGPT-Plugins",
+      "pckiller2016/ponytail"
     ]
   },
   {
@@ -71,7 +71,7 @@
       "lunny/tango",
       "nettleweb/nettleweb",
       "WebPlay/client",
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
     ]
   },
   {
@@ -93,22 +93,22 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 13,
-    "totalStars": 164,
+    "count": 14,
+    "totalStars": 165,
     "iconName": "Server",
     "topRepositories": [
       "gitea/helm-gitea",
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "starclimber/TinyMCServer"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 9,
+    "count": 10,
     "totalStars": 461,
     "iconName": "Workflow",
     "topRepositories": [
@@ -168,12 +168,11 @@
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
+    "count": 4,
     "totalStars": 417,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
-      "undefinedx96/mernix",
       "serpdotai/bark-with-voice-clone",
       "Falcon/Falcon.StoredProcedureRunner",
       "mmattklaus/go-jwt-demo"
@@ -183,11 +182,12 @@
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 3,
-    "totalStars": 57,
+    "count": 4,
+    "totalStars": 58,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
+      "starclimber/TinyMCServer",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]
@@ -214,7 +214,7 @@
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "Woxels/woxie-homelab-kuberneties"
+      "mavenwright/embroidery-converter"
     ]
   },
   {

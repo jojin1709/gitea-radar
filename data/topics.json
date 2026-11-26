@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 15,
-    "totalStars": 701,
+    "totalStars": 702,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -336,6 +336,18 @@
     ]
   },
   {
+    "name": "server",
+    "count": 5,
+    "totalStars": 51,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
     "name": "privacy",
     "count": 5,
     "totalStars": 45,
@@ -350,7 +362,7 @@
   {
     "name": "mcp",
     "count": 4,
-    "totalStars": 111,
+    "totalStars": 112,
     "topRepositories": [
       "gitea/gitea-mcp",
       "ab-smith/ciso-assistant-community",
@@ -359,14 +371,14 @@
     ]
   },
   {
-    "name": "server",
+    "name": "docker",
     "count": 4,
-    "totalStars": 50,
+    "totalStars": 45,
     "topRepositories": [
-      "goftp/server",
-      "goftp/ftpd",
+      "DuarteSantos/openGym",
+      "mavenwright/embroidery-converter",
       "Griefed/ServerPackCreator",
-      "its-theo/NukeCord"
+      "palmcoasty/bunkerweb"
     ]
   },
   {
@@ -394,7 +406,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 196,
+    "totalStars": 197,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -432,23 +444,13 @@
     ]
   },
   {
-    "name": "docker",
+    "name": "minecraft",
     "count": 3,
-    "totalStars": 45,
+    "totalStars": 4,
     "topRepositories": [
-      "DuarteSantos/openGym",
+      "starclimber/TinyMCServer",
       "Griefed/ServerPackCreator",
-      "palmcoasty/bunkerweb"
-    ]
-  },
-  {
-    "name": "react",
-    "count": 3,
-    "totalStars": 43,
-    "topRepositories": [
-      "DuarteSantos/openGym",
-      "undefinedx96/mernix",
-      "ToolAnchor/websitegeek-seo-suite-tools"
+      "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
   {
@@ -598,6 +600,15 @@
     ]
   },
   {
+    "name": "android",
+    "count": 2,
+    "totalStars": 57,
+    "topRepositories": [
+      "gitnex/GitNex",
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
     "name": "oringo-client",
     "count": 2,
     "totalStars": 45,
@@ -613,6 +624,24 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "WebPlay/server"
+    ]
+  },
+  {
+    "name": "react",
+    "count": 2,
+    "totalStars": 43,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "ToolAnchor/websitegeek-seo-suite-tools"
+    ]
+  },
+  {
+    "name": "self-hosted",
+    "count": 2,
+    "totalStars": 42,
+    "topRepositories": [
+      "DuarteSantos/openGym",
+      "mavenwright/embroidery-converter"
     ]
   },
   {
@@ -724,12 +753,12 @@
     ]
   },
   {
-    "name": "minecraft",
+    "name": "java",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "Griefed/ServerPackCreator",
-      "SpeedSlicer/MineXLauncher-Beta"
+      "starclimber/TinyMCServer",
+      "Griefed/ServerPackCreator"
     ]
   },
   {
@@ -739,15 +768,6 @@
     "topRepositories": [
       "ShutUpYouSlut/Inter-Forky",
       "PublicAffairs/openai-github-copilot"
-    ]
-  },
-  {
-    "name": "rest-api",
-    "count": 2,
-    "totalStars": 2,
-    "topRepositories": [
-      "undefinedx96/mernix",
-      "WebPlay/server"
     ]
   },
   {
@@ -985,6 +1005,42 @@
     ]
   },
   {
+    "name": "amateur-radio",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "mmdvm",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "pi-star",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "wpsd",
+    "count": 2,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/MMDVM-LastHeard",
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1129,14 +1185,6 @@
     ]
   },
   {
-    "name": "android",
-    "count": 1,
-    "totalStars": 56,
-    "topRepositories": [
-      "gitnex/GitNex"
-    ]
-  },
-  {
     "name": "gitnex",
     "count": 1,
     "totalStars": 56,
@@ -1202,14 +1250,6 @@
   },
   {
     "name": "pwa",
-    "count": 1,
-    "totalStars": 42,
-    "topRepositories": [
-      "DuarteSantos/openGym"
-    ]
-  },
-  {
-    "name": "self-hosted",
     "count": 1,
     "totalStars": 42,
     "topRepositories": [
@@ -1809,14 +1849,6 @@
     ]
   },
   {
-    "name": "java",
-    "count": 1,
-    "totalStars": 2,
-    "topRepositories": [
-      "Griefed/ServerPackCreator"
-    ]
-  },
-  {
     "name": "minecraft-modpack",
     "count": 1,
     "totalStars": 2,
@@ -1846,6 +1878,14 @@
     "totalStars": 2,
     "topRepositories": [
       "Griefed/ServerPackCreator"
+    ]
+  },
+  {
+    "name": "rest-api",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "WebPlay/server"
     ]
   },
   {
@@ -1921,11 +1961,43 @@
     ]
   },
   {
-    "name": "config",
+    "name": "android-app",
     "count": 1,
     "totalStars": 1,
     "topRepositories": [
-      "lingyicute/.profile"
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "jre",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "kotlin-android",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
+    ]
+  },
+  {
+    "name": "mc",
+    "count": 1,
+    "totalStars": 1,
+    "topRepositories": [
+      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -3193,35 +3265,51 @@
     ]
   },
   {
-    "name": "crud-application",
+    "name": "dst",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
     ]
   },
   {
-    "name": "express",
+    "name": "embroidery",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
     ]
   },
   {
-    "name": "mern-project",
+    "name": "file-converter",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
     ]
   },
   {
-    "name": "mongodb",
+    "name": "jef",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
+    ]
+  },
+  {
+    "name": "machine-embroidery",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "mavenwright/embroidery-converter"
+    ]
+  },
+  {
+    "name": "pes",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "mavenwright/embroidery-converter"
     ]
   },
   {
@@ -3229,15 +3317,63 @@
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
     ]
   },
   {
-    "name": "video-player",
+    "name": "vp3",
     "count": 1,
     "totalStars": 0,
     "topRepositories": [
-      "undefinedx96/mernix"
+      "mavenwright/embroidery-converter"
+    ]
+  },
+  {
+    "name": "allstarlink",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-beacon",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "aprs-telemetry",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "HafiziRuslan/RasPiAPRS"
+    ]
+  },
+  {
+    "name": "censorship-circumvention",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/snowflake"
+    ]
+  },
+  {
+    "name": "tor-network",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "LakshitSinghBishtTM/snowflake"
     ]
   },
   {
@@ -3270,22 +3406,6 @@
     "totalStars": 0,
     "topRepositories": [
       "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "censorship-circumvention",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
-    ]
-  },
-  {
-    "name": "tor-network",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
     ]
   },
   {

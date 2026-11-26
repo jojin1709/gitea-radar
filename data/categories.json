@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 248,
-    "totalStars": 847,
+    "count": 276,
+    "totalStars": 854,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -23,10 +23,10 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
-      "cyberwarn/CyberWarn",
       "loki-s3c/ctf-casefiles",
-      "dadidang/zinc"
+      "kamalin/HCTR2",
+      "dadidang/zinc",
+      "jc-denton/OPSEC-OSINT-Tools"
     ]
   },
   {
@@ -49,7 +49,7 @@
     "name": "CLI",
     "description": "Command-line tools, terminal utilities, shell scripts, and TUI apps",
     "count": 23,
-    "totalStars": 489,
+    "totalStars": 490,
     "iconName": "Terminal",
     "topRepositories": [
       "gitea/tea",
@@ -63,7 +63,7 @@
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 18,
+    "count": 19,
     "totalStars": 78,
     "iconName": "Globe",
     "topRepositories": [
@@ -71,7 +71,7 @@
       "lunny/tango",
       "nettleweb/nettleweb",
       "WebPlay/client",
-      "mavenwright/embroidery-converter"
+      "Oddler/Glorium"
     ]
   },
   {
@@ -93,22 +93,22 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 14,
-    "totalStars": 165,
+    "count": 13,
+    "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
       "gitea/helm-gitea",
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "starclimber/TinyMCServer"
+      "Griefed/ServerPackCreator"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
+    "count": 11,
     "totalStars": 461,
     "iconName": "Workflow",
     "topRepositories": [
@@ -135,21 +135,6 @@
     ]
   },
   {
-    "id": "networking",
-    "name": "Networking",
-    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
-    "count": 6,
-    "totalStars": 4,
-    "iconName": "Network",
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake",
-      "ShutUpYouSlut/Inter-Forky",
-      "PublicAffairs/openai-github-copilot",
-      "palmcoasty/bunkerweb",
-      "rammiah/caddy"
-    ]
-  },
-  {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
@@ -162,6 +147,21 @@
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail",
       "rubayet123/rea"
+    ]
+  },
+  {
+    "id": "networking",
+    "name": "Networking",
+    "description": "Proxies, VPN, WireGuard, P2P protocols, HTTP proxies, and socket servers",
+    "count": 5,
+    "totalStars": 4,
+    "iconName": "Network",
+    "topRepositories": [
+      "ShutUpYouSlut/Inter-Forky",
+      "PublicAffairs/openai-github-copilot",
+      "palmcoasty/bunkerweb",
+      "rammiah/caddy",
+      "yslxotwod/wifisting"
     ]
   },
   {
@@ -179,41 +179,42 @@
     ]
   },
   {
-    "id": "mobile",
-    "name": "Mobile",
-    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
-    "totalStars": 58,
-    "iconName": "Smartphone",
-    "topRepositories": [
-      "gitnex/GitNex",
-      "starclimber/TinyMCServer",
-      "ab-smith/ciso-assistant-community",
-      "Missou/ciso-assistant-community"
-    ]
-  },
-  {
     "id": "education",
     "name": "Education",
     "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 3,
+    "count": 4,
     "totalStars": 241,
     "iconName": "GraduationCap",
     "topRepositories": [
       "gitea/awesome-gitea",
       "loki-s3c/ctf-casefiles",
+      "kamalin/HCTR2",
       "bensams/671"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "Mobile",
+    "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
+    "count": 3,
+    "totalStars": 57,
+    "iconName": "Smartphone",
+    "topRepositories": [
+      "gitnex/GitNex",
+      "ab-smith/ciso-assistant-community",
+      "Missou/ciso-assistant-community"
     ]
   },
   {
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 2,
-    "totalStars": 42,
+    "count": 3,
+    "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "paoloronco/OrbitPage",
       "mavenwright/embroidery-converter"
     ]
   },

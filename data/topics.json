@@ -14,7 +14,7 @@
   {
     "name": "gitea",
     "count": 15,
-    "totalStars": 702,
+    "totalStars": 703,
     "topRepositories": [
       "gitea/tea",
       "gitea/gitea-mcp",
@@ -314,7 +314,7 @@
   {
     "name": "cli",
     "count": 5,
-    "totalStars": 316,
+    "totalStars": 317,
     "topRepositories": [
       "gitea/tea",
       "gitea/cli",
@@ -333,18 +333,6 @@
       "PublicAffairs/openai-github-copilot",
       "mmattklaus/go-jwt-demo",
       "jolheiser/pwn"
-    ]
-  },
-  {
-    "name": "server",
-    "count": 5,
-    "totalStars": 51,
-    "topRepositories": [
-      "goftp/server",
-      "goftp/ftpd",
-      "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator",
-      "its-theo/NukeCord"
     ]
   },
   {
@@ -371,13 +359,24 @@
     ]
   },
   {
+    "name": "server",
+    "count": 4,
+    "totalStars": 50,
+    "topRepositories": [
+      "goftp/server",
+      "goftp/ftpd",
+      "Griefed/ServerPackCreator",
+      "its-theo/NukeCord"
+    ]
+  },
+  {
     "name": "docker",
     "count": 4,
     "totalStars": 45,
     "topRepositories": [
       "DuarteSantos/openGym",
-      "mavenwright/embroidery-converter",
       "Griefed/ServerPackCreator",
+      "mavenwright/embroidery-converter",
       "palmcoasty/bunkerweb"
     ]
   },
@@ -406,7 +405,7 @@
   {
     "name": "git",
     "count": 3,
-    "totalStars": 197,
+    "totalStars": 198,
     "topRepositories": [
       "gitea/gitea-mcp",
       "gitnex/GitNex",
@@ -441,16 +440,6 @@
       "Oringo-Client/Oringo-Client-Supporter",
       "Pizza-Client/Pizza-Client-Supporter",
       "FunnyMap-Extras/FunnyMap-Extras"
-    ]
-  },
-  {
-    "name": "minecraft",
-    "count": 3,
-    "totalStars": 4,
-    "topRepositories": [
-      "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator",
-      "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
   {
@@ -600,15 +589,6 @@
     ]
   },
   {
-    "name": "android",
-    "count": 2,
-    "totalStars": 57,
-    "topRepositories": [
-      "gitnex/GitNex",
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
     "name": "oringo-client",
     "count": 2,
     "totalStars": 45,
@@ -753,12 +733,12 @@
     ]
   },
   {
-    "name": "java",
+    "name": "minecraft",
     "count": 2,
     "totalStars": 3,
     "topRepositories": [
-      "starclimber/TinyMCServer",
-      "Griefed/ServerPackCreator"
+      "Griefed/ServerPackCreator",
+      "SpeedSlicer/MineXLauncher-Beta"
     ]
   },
   {
@@ -1005,42 +985,6 @@
     ]
   },
   {
-    "name": "amateur-radio",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "mmdvm",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "pi-star",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "wpsd",
-    "count": 2,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/MMDVM-LastHeard",
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
     "name": "unblocker",
     "count": 2,
     "totalStars": 0,
@@ -1182,6 +1126,14 @@
     "totalStars": 88,
     "topRepositories": [
       "gitea/helm-gitea"
+    ]
+  },
+  {
+    "name": "android",
+    "count": 1,
+    "totalStars": 56,
+    "topRepositories": [
+      "gitnex/GitNex"
     ]
   },
   {
@@ -1849,6 +1801,14 @@
     ]
   },
   {
+    "name": "java",
+    "count": 1,
+    "totalStars": 2,
+    "topRepositories": [
+      "Griefed/ServerPackCreator"
+    ]
+  },
+  {
     "name": "minecraft-modpack",
     "count": 1,
     "totalStars": 2,
@@ -1958,46 +1918,6 @@
     "totalStars": 2,
     "topRepositories": [
       "K3ysTr0K3R/METIS"
-    ]
-  },
-  {
-    "name": "android-app",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "jre",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "kotlin-android",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
-    ]
-  },
-  {
-    "name": "mc",
-    "count": 1,
-    "totalStars": 1,
-    "topRepositories": [
-      "starclimber/TinyMCServer"
     ]
   },
   {
@@ -3265,6 +3185,78 @@
     ]
   },
   {
+    "name": "web",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Oddler/Glorium"
+    ]
+  },
+  {
+    "name": "webapp",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Oddler/Glorium"
+    ]
+  },
+  {
+    "name": "website",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "Oddler/Glorium"
+    ]
+  },
+  {
+    "name": "cryptopals",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "education",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "pwn",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "writeup",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
+    "name": "accordion",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kamalin/HCTR2"
+    ]
+  },
+  {
+    "name": "cryptography-algorithms",
+    "count": 1,
+    "totalStars": 0,
+    "topRepositories": [
+      "kamalin/HCTR2"
+    ]
+  },
+  {
     "name": "dst",
     "count": 1,
     "totalStars": 0,
@@ -3326,86 +3318,6 @@
     "totalStars": 0,
     "topRepositories": [
       "mavenwright/embroidery-converter"
-    ]
-  },
-  {
-    "name": "allstarlink",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-beacon",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "aprs-telemetry",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "HafiziRuslan/RasPiAPRS"
-    ]
-  },
-  {
-    "name": "censorship-circumvention",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
-    ]
-  },
-  {
-    "name": "tor-network",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "LakshitSinghBishtTM/snowflake"
-    ]
-  },
-  {
-    "name": "cryptopals",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "education",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "pwn",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
-    ]
-  },
-  {
-    "name": "writeup",
-    "count": 1,
-    "totalStars": 0,
-    "topRepositories": [
-      "loki-s3c/ctf-casefiles"
     ]
   },
   {

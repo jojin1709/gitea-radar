@@ -3,7 +3,7 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 271,
+    "count": 268,
     "totalStars": 859,
     "iconName": "Folder",
     "topRepositories": [
@@ -23,25 +23,10 @@
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "CyberShell/hostfiles",
-      "loki-s3c/ctf-casefiles",
+      "kamalin/HCTR2",
       "jc-denton/OPSEC-OSINT-Tools",
-      "dadidang/zinc"
-    ]
-  },
-  {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 25,
-    "totalStars": 22,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "nazdridoy/ngpt",
-      "zaccesss/phaemos",
-      "zaccesss/dotfiles",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone"
+      "dadidang/zinc",
+      "VernonG/FiveM-External-Cheat"
     ]
   },
   {
@@ -55,15 +40,30 @@
       "gitea/tea",
       "gitea/cli",
       "Oringo-Client/Oringo-Client",
-      "Pizza-Client/Pizza-Client",
-      "Cheeto-Client/Cheeto-Client"
+      "Cheeto-Client/Cheeto-Client",
+      "Pizza-Client/Pizza-Client"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 23,
+    "totalStars": 22,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "nazdridoy/ngpt",
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone",
+      "serpdotai/ChatGPT-Plugins",
+      "pckiller2016/ponytail"
     ]
   },
   {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 22,
+    "count": 21,
     "totalStars": 78,
     "iconName": "Globe",
     "topRepositories": [
@@ -71,7 +71,7 @@
       "lunny/tango",
       "nettleweb/nettleweb",
       "WebPlay/client",
-      "zaccesss/zacess"
+      "undefinedx96/mernix"
     ]
   },
   {
@@ -93,8 +93,8 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 15,
-    "totalStars": 165,
+    "count": 13,
+    "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
       "gitea/helm-gitea",
@@ -108,8 +108,8 @@
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 12,
-    "totalStars": 461,
+    "count": 10,
+    "totalStars": 462,
     "iconName": "Workflow",
     "topRepositories": [
       "gitea/runner",
@@ -123,15 +123,15 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 10,
-    "totalStars": 11,
+    "count": 9,
+    "totalStars": 9,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
-      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "pckiller2016/ponytail"
+      "pckiller2016/ponytail",
+      "FlowMagic/redENGINE-FiveM"
     ]
   },
   {
@@ -144,7 +144,7 @@
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js",
-      "zaccesss/dotfiles",
+      "gitea/go-org",
       "hexmos/FreeDevTools",
       "pckiller2016/ponytail"
     ]
@@ -153,30 +153,15 @@
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 6,
+    "count": 5,
     "totalStars": 417,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
-      "zaccesss/phaemos",
-      "zaccesss/melophos",
+      "undefinedx96/mernix",
       "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 6,
-    "totalStars": 241,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "zaccesss/zacess",
-      "zaccesss/phaemos",
-      "zaccesss/melophos",
-      "loki-s3c/ctf-casefiles"
+      "Falcon/Falcon.StoredProcedureRunner",
+      "mmattklaus/go-jwt-demo"
     ]
   },
   {
@@ -195,15 +180,28 @@
     ]
   },
   {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 4,
+    "totalStars": 242,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "kamalin/HCTR2",
+      "bensams/671",
+      "loki-s3c/ctf-casefiles"
+    ]
+  },
+  {
     "id": "mobile",
     "name": "Mobile",
     "description": "iOS, Android, React Native, Flutter, and cross-platform mobile apps",
-    "count": 4,
-    "totalStars": 58,
+    "count": 3,
+    "totalStars": 57,
     "iconName": "Smartphone",
     "topRepositories": [
       "gitnex/GitNex",
-      "starclimber/TinyMCServer",
       "ab-smith/ciso-assistant-community",
       "Missou/ciso-assistant-community"
     ]
@@ -212,12 +210,11 @@
     "id": "self-hosted",
     "name": "Self-hosted",
     "description": "Homelab software, private cloud, home servers, and personal productivity services",
-    "count": 4,
+    "count": 3,
     "totalStars": 43,
     "iconName": "Home",
     "topRepositories": [
       "DuarteSantos/openGym",
-      "zaccesss/melophos",
       "paoloronco/OrbitPage",
       "mavenwright/embroidery-converter"
     ]
@@ -226,11 +223,9 @@
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 1,
+    "count": 0,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": [
-      "zaccesss/phaemos"
-    ]
+    "topRepositories": []
   }
 ]

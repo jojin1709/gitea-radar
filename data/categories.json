@@ -3,8 +3,8 @@
     "id": "other",
     "name": "Other",
     "description": "Uncategorized and emerging open-source software",
-    "count": 268,
-    "totalStars": 859,
+    "count": 256,
+    "totalStars": 855,
     "iconName": "Folder",
     "topRepositories": [
       "gitea/gitea-mcp",
@@ -18,15 +18,30 @@
     "id": "cybersecurity",
     "name": "Cybersecurity",
     "description": "Security testing, exploit tools, cryptography, threat analysis, and pentesting",
-    "count": 45,
+    "count": 46,
     "totalStars": 57,
     "iconName": "Shield",
     "topRepositories": [
       "DuarteSantos/openGym",
+      "loki-s3c/ctf-casefiles",
+      "CyberShell/hostfiles",
       "kamalin/HCTR2",
-      "jc-denton/OPSEC-OSINT-Tools",
-      "dadidang/zinc",
-      "VernonG/FiveM-External-Cheat"
+      "jc-denton/OPSEC-OSINT-Tools"
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "AI",
+    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
+    "count": 25,
+    "totalStars": 22,
+    "iconName": "Sparkles",
+    "topRepositories": [
+      "nazdridoy/ngpt",
+      "zaccesss/dotfiles",
+      "zaccesss/phaemos",
+      "PublicAffairs/openai-github-copilot",
+      "serpdotai/bark-with-voice-clone"
     ]
   },
   {
@@ -45,25 +60,10 @@
     ]
   },
   {
-    "id": "ai",
-    "name": "AI",
-    "description": "Artificial intelligence, LLMs, neural networks, and generative models",
-    "count": 23,
-    "totalStars": 22,
-    "iconName": "Sparkles",
-    "topRepositories": [
-      "nazdridoy/ngpt",
-      "PublicAffairs/openai-github-copilot",
-      "serpdotai/bark-with-voice-clone",
-      "serpdotai/ChatGPT-Plugins",
-      "pckiller2016/ponytail"
-    ]
-  },
-  {
     "id": "web",
     "name": "Web",
     "description": "Frontend frameworks, fullstack web apps, web components, and WASM",
-    "count": 21,
+    "count": 23,
     "totalStars": 78,
     "iconName": "Globe",
     "topRepositories": [
@@ -71,7 +71,7 @@
       "lunny/tango",
       "nettleweb/nettleweb",
       "WebPlay/client",
-      "undefinedx96/mernix"
+      "Oddler/Glorium"
     ]
   },
   {
@@ -93,7 +93,7 @@
     "id": "infrastructure",
     "name": "Infrastructure",
     "description": "Cloud systems, orchestration, distributed systems, servers, and clustering",
-    "count": 13,
+    "count": 14,
     "totalStars": 164,
     "iconName": "Server",
     "topRepositories": [
@@ -101,14 +101,14 @@
       "goftp/server",
       "gitea/helm-actions",
       "goftp/ftpd",
-      "Griefed/ServerPackCreator"
+      "zaccesss/melophos"
     ]
   },
   {
     "id": "devops",
     "name": "DevOps",
     "description": "Continuous integration, delivery pipelines, monitoring, and container tooling",
-    "count": 10,
+    "count": 11,
     "totalStars": 462,
     "iconName": "Workflow",
     "topRepositories": [
@@ -123,45 +123,60 @@
     "id": "games",
     "name": "Games",
     "description": "Game development, game engines, graphics, shaders, and interactive entertainment",
-    "count": 9,
-    "totalStars": 9,
+    "count": 10,
+    "totalStars": 11,
     "iconName": "Gamepad2",
     "topRepositories": [
       "nettleweb/nettleweb",
+      "zaccesss/.profile",
       "ShutUpYouSlut/Inter-Forky",
       "dadidang/zinc",
-      "pckiller2016/ponytail",
-      "FlowMagic/redENGINE-FiveM"
+      "pckiller2016/ponytail"
     ]
   },
   {
     "id": "developer-tools",
     "name": "Developer Tools",
     "description": "Compilers, linters, debuggers, SDKs, formatters, and IDE utilities",
-    "count": 6,
+    "count": 7,
     "totalStars": 67,
     "iconName": "Wrench",
     "topRepositories": [
       "gitea/go-sdk",
       "gitea/sdk.js",
       "gitea/go-org",
-      "hexmos/FreeDevTools",
-      "pckiller2016/ponytail"
+      "zaccesss/dotfiles",
+      "hexmos/FreeDevTools"
     ]
   },
   {
     "id": "databases",
     "name": "Databases",
     "description": "Relational databases, NoSQL, ORM, key-value stores, and caching layers",
-    "count": 5,
+    "count": 7,
     "totalStars": 417,
     "iconName": "Database",
     "topRepositories": [
       "xorm/xorm",
+      "zaccesss/phaemos",
+      "zaccesss/melophos",
       "undefinedx96/mernix",
-      "serpdotai/bark-with-voice-clone",
-      "Falcon/Falcon.StoredProcedureRunner",
-      "mmattklaus/go-jwt-demo"
+      "serpdotai/bark-with-voice-clone"
+    ]
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
+    "count": 7,
+    "totalStars": 242,
+    "iconName": "GraduationCap",
+    "topRepositories": [
+      "gitea/awesome-gitea",
+      "loki-s3c/ctf-casefiles",
+      "zaccesss/zacess",
+      "zaccesss/phaemos",
+      "zaccesss/melophos"
     ]
   },
   {
@@ -177,20 +192,6 @@
       "palmcoasty/bunkerweb",
       "rammiah/caddy",
       "yslxotwod/wifisting"
-    ]
-  },
-  {
-    "id": "education",
-    "name": "Education",
-    "description": "Learning materials, cheat sheets, tutorials, book examples, and roadmaps",
-    "count": 4,
-    "totalStars": 242,
-    "iconName": "GraduationCap",
-    "topRepositories": [
-      "gitea/awesome-gitea",
-      "kamalin/HCTR2",
-      "bensams/671",
-      "loki-s3c/ctf-casefiles"
     ]
   },
   {
@@ -216,16 +217,18 @@
     "topRepositories": [
       "DuarteSantos/openGym",
       "paoloronco/OrbitPage",
-      "mavenwright/embroidery-converter"
+      "zaccesss/melophos"
     ]
   },
   {
     "id": "machine-learning",
     "name": "Machine Learning",
     "description": "Statistical learning, data science, training pipelines, and inference engines",
-    "count": 0,
+    "count": 1,
     "totalStars": 0,
     "iconName": "Cpu",
-    "topRepositories": []
+    "topRepositories": [
+      "zaccesss/phaemos"
+    ]
   }
 ]
